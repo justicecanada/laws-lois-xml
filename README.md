@@ -1,2 +1,4 @@
 # laws-lois-xml
-The content of the consolidated federal laws in an xml format.
+The consolidated Acts and regulations of Canada.
+
+Des lois et règlements codifiés du Canada
