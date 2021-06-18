@@ -68,7 +68,8 @@
           )
 	),
 	RelatedProvision*,
-	ExplanatoryNote?)
+	ExplanatoryNote?,
+	RecentAmendments?)
 >
 
 <!ATTLIST Regulation
@@ -101,6 +102,10 @@
 	hasPreviousVersion CDATA #IMPLIED
 	>
 
+<!ELEMENT RecentAmendments (Amendment+)>
+<!ELEMENT Amendment (AmendmentCitation, AmendmentDate)>
+<!ELEMENT AmendmentCitation (#PCDATA)>
+<!ELEMENT AmendmentDate (#PCDATA)>
 
 <!ELEMENT LimsAuthority (Alpha, AuthorityTitle)>
 
