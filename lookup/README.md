@@ -1,2 +1,2 @@
-# laws-lois-xml
-These files contain the metadata only for the laws.  The lookupfull.xml includes repealed laws.
+# lookup
+These files contain only the metadata for the laws.  The lookupfull.xml includes repealed laws.
