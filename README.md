@@ -1,4 +1,4 @@
-# laws-lois-xml - [Aller en français](https://github.com/justicecanada/laws-lois-xml/edit/main/README.md#laws-lois-xml-fran%C3%A7ais)
+# laws-lois-xml - [Aller en français](https://github.com/justicecanada/laws-lois-xml?tab=readme-ov-file#laws-lois-xml---fran%C3%A7ais)
 The consolidated Acts and regulations of Canada.
 
 For information describing some of the XML elements, visit "[Data Dictionary](https://laws-lois.justice.gc.ca/eng/XML/index.html)".
