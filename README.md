@@ -4,7 +4,17 @@ The consolidated Acts and regulations of Canada.
 For information describing some of the XML elements, visit "[Data Dictionary](https://laws-lois.justice.gc.ca/eng/XML/index.html)".
 
 ## Structure of Elements
-The following will outline examples of the XML structure for Acts and Regulations. 
+The following will outline examples of the XML structure for Acts and Regulations.
+
+> [!NOTE]
+> The XML content displayed here are only examples and should not be used as a full reference.
+>
+> The full and updated XML should be referenced within the repository. For more information on laws, visit the [Justice Laws Website](https://laws-lois.justice.gc.ca/)
+
+> [!WARNING]
+> In the examples shown, if  a "..." is seen. This mean that the content had to be cut due to it's length or complexity.
+> 
+> All tables are not shown due to this reason.
 
 ### Acts
 Generally, an Act will have the following structure:
@@ -356,14 +366,41 @@ Generally, a Regulation will have the following structure:
     </Identification>
     <Order lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441580" lims:id="1441580">
         <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441581" lims:id="1441581" format-ref="indent-0-0" language-align="yes" list-item="no">
-            <Text>Her Excellency the Governor General in Council... <XRefExternal reference-type="act" link="P-33.01">Public Service Employment Act</XRefExternal> <FootnoteRef idref="fn_81000-2-4385_hq_28367">a</FootnoteRef>, approves</Text>
+            <Text>Her Excellency the Governor General in Council... <XRefExternal reference-type="act" link="P-33.01">Public Service Employment Act</XRefExternal>
+                <FootnoteRef idref="fn_81000-2-4385_hq_28367">a</FootnoteRef>, approves
+            </Text>
             <Footnote id="fn_81000-2-4385_hq_28367" placement="page" status="official">
                 <Label>a</Label>
                 <Text>S.C. 2003, c. 22, ss. 12 and 13</Text>
             </Footnote>
             <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441582" lims:id="1441582" format-ref="indent-1-1" language-align="no" list-item="no">
                 <Label>(a)</Label>
-                <Text>the re-application by the Public Service Commission...</Text>
+                <Text>the re-application by the Public Service Commission of the provisions of that Act to the positions...</Text>
+            </Provision>
+            <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441583" lims:id="1441583" format-ref="indent-1-1" language-align="no" list-item="no">
+                <Label>(b)</Label>
+                <Text>the exclusion by the Public Service Commission from the application of the Act of a person...</Text>
+            </Provision>
+        </Provision>
+        <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441584" lims:id="1441584" format-ref="indent-0-0" language-align="yes" list-item="no">
+            <Text>Whereas the Public Service Commission has decided...<XRefExternal reference-type="act" link="P-33.01">Public Service Employment Act</XRefExternal><FootnoteRef idref="fn_81000-2-4385_hq_28367">a</FootnoteRef>, that it is neither practicable nor in the best interests of the public...</Text>
+        </Provision>
+        <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441585" lims:id="1441585" format-ref="indent-0-0" language-align="yes" list-item="no">
+            <Text>And whereas, under subsection 20(2) of that Act, the Public Service Commission has consulted with the employer;</Text>
+        </Provision>
+        <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441586" lims:id="1441586" format-ref="indent-0-0" language-align="yes" list-item="no">
+            <Text>Therefore, the Public Service Commission, under subsections 20(1) and (3) of the <XRefExternal reference-type="act" link="P-33.01">Public Service Employment Act</XRefExternal><FootnoteRef idref="fn_81000-2-4385_hq_28367">a</FootnoteRef>,</Text>
+            <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441587" lims:id="1441587" format-ref="indent-1-1" language-align="no" list-item="no">
+                <Label>(a)</Label>
+                <Text>re-applies the provisions of that Act to the positions excluded under Order in Council P.C. 1967-444 of March 10, 1967 and to the persons occupying them; and</Text>
+            </Provision>
+            <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441588" lims:id="1441588" format-ref="indent-1-1" language-align="no" list-item="no">
+                <Label>(b)</Label>
+                <Text>excludes from the application of that Act a person who is appointed and employed outside...</Text>
+            </Provision>
+        </Provision>
+        <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441589" lims:id="1441589" format-ref="indent-0-0" language-align="yes" list-item="no">
+            <Text>Gatineau, November 21, 2023</Text>
         </Provision>
         <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441590" lims:id="1441590" format-ref="indent-0-0" language-align="yes" list-item="no" topmarginspacing="12">
             <TableGroup lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441591" lims:id="1441591" bilingual="yes" orientation="portrait" pointsize="11pt" rowbreak="no" spanlanguages="no" spanmarginalnotecol="no" topmarginspacing="50pt">
@@ -381,6 +418,16 @@ Pour d'informations décrivant les éléments XML, visitez "[Dictionnaire des do
 
 ## Structure des éléments
 Ce qui suit présente des exemples de structure XML pour les lois et les règlements.
+
+> [!NOTE]
+> Le contenu XML affiché ici n'est que des exemples et ne doit pas être utilisé comme référence complète.
+>
+> Le XML complet et mis à jour doit être référencé dans le référentiel. Pour plus d’informations sur les lois, visitez le [Site Web de la législation (Justice)](https://laws-lois.justice.gc.ca/)
+
+> [!WARNING]
+> Dans les exemples présentés, si un "..." est vu. Cela signifiait que le contenu devait être coupé en raison de sa longueur ou de sa complexité.
+> 
+> Tous les tableaux ne sont pas affichés pour cette raison.
 
 ### Lois
 Généralement, une loi aura la structure suivante:
@@ -584,9 +631,9 @@ Généralement, un règlement aura la structure suivante:
 #### [Lignes directrices fédérales sur les pensions alimentaires pour enfants (DORS/97-175)](https://laws-lois.justice.gc.ca/fra/reglements/DORS-97-175/index.html)
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
-<Regulation lims:pit-date="2024-02-01" hasPreviousVersion="true" lims:lastAmendedDate="2024-02-01" lims:current-date="2024-02-06" lims:inforce-start-date="2006-03-22" lims:fid="1004143" lims:id="1004143" regulation-type="SOR" xml:lang="en" xmlns:lims="http://justice.gc.ca/lims">
-    <Identification lims:inforce-start-date="2006-03-22" lims:fid="1004144" lims:id="1004144">
-        <InstrumentNumber>SOR/97-175</InstrumentNumber>
+<Regulation lims:pit-date="2024-02-01" hasPreviousVersion="true" lims:lastAmendedDate="2024-02-01" lims:current-date="2024-02-06" lims:inforce-start-date="2006-03-22" lims:fid="992366" lims:id="992366" regulation-type="SOR" xml:lang="fr" xmlns:lims="http://justice.gc.ca/lims">
+    <Identification lims:inforce-start-date="2006-03-22" lims:fid="992367" lims:id="992367">
+        <InstrumentNumber>DORS/97-175</InstrumentNumber>
         <RegistrationDate>
             <Date>
                 <YYYY>1997</YYYY>
@@ -601,12 +648,12 @@ Généralement, un règlement aura la structure suivante:
                 <DD>7</DD>
             </Date>
         </ConsolidationDate>
-        <EnablingAuthority lims:inforce-start-date="2006-03-22" lims:fid="1004146" lims:id="1004146">
-            <XRefExternal reference-type="act" link="D-3.4">DIVORCE ACT</XRefExternal>
+        <EnablingAuthority lims:inforce-start-date="2006-03-22" lims:fid="992369" lims:id="992369">
+            <XRefExternal reference-type="act" link="D-3.4">LOI SUR LE DIVORCE</XRefExternal>
         </EnablingAuthority>
-        <LongTitle lims:inforce-start-date="2006-03-22" lims:fid="1004147" lims:id="1004147">Federal Child Support Guidelines</LongTitle>
+        <LongTitle lims:inforce-start-date="2006-03-22" lims:fid="992370" lims:id="992370">Lignes directrices fédérales sur les pensions alimentaires pour enfants</LongTitle>
         <RegulationMakerOrder>
-            <RegulationMaker>P.C.</RegulationMaker>
+            <RegulationMaker>C.P.</RegulationMaker>
             <OrderNumber>1997-469</OrderNumber>
             <Date>
                 <YYYY>1997</YYYY>
@@ -615,81 +662,83 @@ Généralement, un règlement aura la structure suivante:
             </Date>
         </RegulationMakerOrder>
     </Identification>
-    <Order lims:inforce-start-date="2006-03-22" lims:fid="1004148" lims:id="1004148">
-        <Provision lims:inforce-start-date="2006-03-22" lims:fid="1004149" lims:id="1004149" format-ref="indent-0-0" language-align="yes" list-item="no">
-            <Text>His Excellency the Governor General in Council...
-                <FootnoteRef idref="footnotea_e">a</FootnoteRef> of the
-                <XRefExternal reference-type="act" link="D-3.4">Divorce Act</XRefExternal>
-                <FootnoteRef idref="footnoteb_e">b</FootnoteRef>, hereby establishes the annexed
-                <XRefExternal reference-type="regulation" link="SOR-97-175">Federal Child Support Guidelines</XRefExternal>.
+    <Order lims:inforce-start-date="2006-03-22" lims:fid="992371" lims:id="992371">
+        <Provision lims:inforce-start-date="2006-03-22" lims:fid="992372" lims:id="992372" format-ref="indent-0-0" language-align="yes" list-item="no">
+            <Text>Sur recommandation du ministre de la Justice et en vertu de l’article 26.1
+                <FootnoteRef idref="footnotea_f">a</FootnoteRef> de la
+                <XRefExternal reference-type="act" link="D-3.4">Loi sur le divorce</XRefExternal>
+                <FootnoteRef idref="footnoteb_f">b</FootnoteRef>, Son Excellence le Gouverneur général en conseil établit les
+                <XRefExternal reference-type="regulation" link="DORS-97-175">Lignes directrices fédérales sur les pensions alimentaires pour enfants</XRefExternal>, ci-après.
             </Text>
-            <Footnote id="footnotea_e" placement="page" status="official">
+            <Footnote id="footnotea_f" placement="page" status="official">
                 <Label>a</Label>
-                <Text>S.C. 1997, c. 1, s. 11</Text>
+                <Text>L.C. 1997, ch. 1, art. 11</Text>
             </Footnote>
-            <Footnote id="footnoteb_e" placement="page" status="official">
+            <Footnote id="footnoteb_f" placement="page" status="official">
                 <Label>b</Label>
-                <Text>R.S., c. 3 (2nd Supp.)</Text>
+                <Text>L.R., ch. 3 (2
+                    <Sup>e</Sup> suppl.)
+                </Text>
             </Footnote>
         </Provision>
     </Order>
-    <Body lims:inforce-start-date="2006-03-22" lims:fid="1004150" lims:id="1004150">
-        <Heading lims:inforce-start-date="2006-03-22" lims:fid="1004151" lims:id="1004151" level="1">
-            <TitleText>Objectives</TitleText>
+    <Body lims:inforce-start-date="2006-03-22" lims:fid="992373" lims:id="992373">
+        <Heading lims:inforce-start-date="2006-03-22" lims:fid="992374" lims:id="992374" level="1">
+            <TitleText>Objectifs</TitleText>
         </Heading>
-        <Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="1004152" lims:id="1004152">
-            <MarginalNote lims:inforce-start-date="2006-03-22" lims:fid="1004153" lims:id="1004153">Objectives</MarginalNote>
+        <Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="992375" lims:id="992375">
+            <MarginalNote lims:inforce-start-date="2006-03-22" lims:fid="992376" lims:id="992376">Objectifs</MarginalNote>
             <Label>1</Label>
-            <Text>The objectives of these Guidelines are</Text>
-            <Paragraph lims:inforce-start-date="2006-03-22" lims:fid="1004154" lims:id="1004154">
-                <Label>(a)</Label>
-                <Text>to establish a fair standard of support for children that...</Text>
+            <Text>Les présentes lignes directrices visent à :</Text>
+            <Paragraph lims:inforce-start-date="2006-03-22" lims:fid="992377" lims:id="992377">
+                <Label>a)</Label>
+                <Text>établir des normes équitables en matière de soutien alimentaire des enfants afin de leur...</Text>
             </Paragraph>
-            <Paragraph lims:inforce-start-date="2006-03-22" lims:fid="1004155" lims:id="1004155">
-                <Label>(b)</Label>
-                <Text>to reduce conflict and tension between spouses by making...</Text>
+            <Paragraph lims:inforce-start-date="2006-03-22" lims:fid="992378" lims:id="992378">
+                <Label>b)</Label>
+                <Text>réduire les conflits et les tensions entre époux en rendant le calcul du montant des ordonnances alimentaires plus objectif;</Text>
             </Paragraph>
         </Section>
     </Body>
-    <Schedule lims:inforce-start-date="2009-06-11" lims:lastAmendedDate="2009-06-11" lims:fid="1004937" lims:id="1004937" bilingual="no" spanlanguages="no">
-        <ScheduleFormHeading lims:inforce-start-date="2009-06-11" lims:fid="1004938" lims:id="1004938">
-            <Label>SCHEDULE III</Label>
-            <OriginatingRef>(Section 16)</OriginatingRef>
-            <TitleText>Adjustments to Income</TitleText>
+    <Schedule lims:inforce-start-date="2009-06-11" lims:lastAmendedDate="2009-06-11" lims:fid="993183" lims:id="993183" spanlanguages="no" bilingual="no">
+        <ScheduleFormHeading lims:inforce-start-date="2009-06-11" lims:fid="993184" lims:id="993184">
+            <Label>ANNEXE III</Label>
+            <OriginatingRef>(article 16)</OriginatingRef>
+            <TitleText>Rajustements du revenu</TitleText>
         </ScheduleFormHeading>
-        <RegulationPiece lims:inforce-start-date="2009-06-11" lims:fid="1004939" lims:id="1004939">
-            <Section lims:inforce-start-date="2009-06-11" lims:lastAmendedDate="2009-06-11" lims:fid="1004940" lims:id="1004940">
-                <MarginalNote lims:inforce-start-date="2009-06-11" lims:fid="1004941" lims:id="1004941">Employment expenses</MarginalNote>
+        <RegulationPiece lims:inforce-start-date="2009-06-11" lims:fid="993185" lims:id="993185">
+            <Section lims:inforce-start-date="2009-06-11" lims:lastAmendedDate="2009-06-11" lims:fid="993186" lims:id="993186">
+                <MarginalNote lims:inforce-start-date="2009-06-11" lims:fid="993187" lims:id="993187">Dépenses d’emploi</MarginalNote>
                 <Label>1</Label>
-                <Text>Where the spouse is an employee, the spouse’s applicable employment expenses described in the following provisions of the <XRefExternal reference-type="act" link="I-3.3">Income Tax Act</XRefExternal> are deducted:</Text>
-                <Paragraph lims:inforce-start-date="2009-06-11" lims:fid="1004942" lims:id="1004942">
-                    <Label>(a)</Label>
+                <Text>Dans le cas où l’époux est un employé... <XRefExternal reference-type="act" link="I-3.3">Loi de l’impôt sur le revenu</XRefExternal>:</Text>
+                <Paragraph lims:inforce-start-date="2009-06-11" lims:fid="993188" lims:id="993188">
+                    <Label>a)</Label>
                     <Text>
-                        <Repealed>[Repealed, SOR/2000-337, s. 8]</Repealed>
+                        <Repealed>[Abrogé, DORS/2000-337, art. 8]</Repealed>
                     </Text>
                 </Paragraph>
-                <Paragraph lims:inforce-start-date="2009-06-11" lims:fid="1004943" lims:id="1004943">
-                    <Label>(b)</Label>
-                    <Text>paragraph 8(1)(d) concerning expenses of teacher’s exchange fund contribution;</Text>
+                <Paragraph lims:inforce-start-date="2009-06-11" lims:fid="993189" lims:id="993189">
+                    <Label>b)</Label>
+                    <Text>l’alinéa 8(1)d) concernant la cotisation à une caisse d’enseignants;</Text>
                 </Paragraph>
             </Section>
-            <Section lims:inforce-start-date="2009-06-11" lims:lastAmendedDate="2009-06-11" lims:fid="1004956" lims:id="1004956">
-                <MarginalNote lims:inforce-start-date="2009-06-11" lims:fid="1004957" lims:id="1004957">Child support</MarginalNote>
+            <Section lims:inforce-start-date="2009-06-11" lims:lastAmendedDate="2009-06-11" lims:fid="993202" lims:id="993202">
+                <MarginalNote lims:inforce-start-date="2009-06-11" lims:fid="993203" lims:id="993203">Pension alimentaire pour enfants</MarginalNote>
                 <Label>2</Label>
-                <Text>Deduct any child support received that is included...</Text>
+                <Text>Déduire tout montant de pension alimentaire pour enfants reçu qui est inclus...</Text>
             </Section>
         </RegulationPiece>
         <HistoricalNote>
-            <HistoricalNoteSubItem lims:inforce-start-date="2009-06-11" lims:fid="1004992" lims:id="1004992">SOR/97-563, ss. 12 to 14; SOR/2000-337</HistoricalNoteSubItem>
+            <HistoricalNoteSubItem lims:inforce-start-date="2009-06-11" lims:fid="993238" lims:id="993238">DORS/97-563, art. 12 à 14; DORS/2000-337</HistoricalNoteSubItem>
         </HistoricalNote>
     </Schedule>
     <RecentAmendments>
         <Amendment>
-            <AmendmentCitation>SOR/2020-247</AmendmentCitation>
+            <AmendmentCitation>DORS/2020-247</AmendmentCitation>
             <AmendmentDate>2024-02-01</AmendmentDate>
         </Amendment>
         <Amendment>
-            <AmendmentCitation>SOR/2020-247</AmendmentCitation>
+            <AmendmentCitation>DORS/2020-247</AmendmentCitation>
             <AmendmentDate>2021-03-01</AmendmentDate>
         </Amendment>
     </RecentAmendments>
@@ -698,9 +747,9 @@ Généralement, un règlement aura la structure suivante:
 #### [Décret agréant l’exemption du personnel embauché sur place (TR/2024-7)](https://laws-lois.justice.gc.ca/fra/reglements/TR-2024-7/)
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
-<Regulation lims:pit-date="2024-02-02" lims:lastAmendedDate="2024-02-02" lims:current-date="2024-02-06" lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441576" lims:id="1441576" gazette-part="II" regulation-type="SI" xml:lang="en" xmlns:lims="http://justice.gc.ca/lims">
-    <Identification lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441577" lims:id="1441577">
-        <InstrumentNumber>SI/2024-7</InstrumentNumber>
+<Regulation lims:pit-date="2024-02-02" lims:lastAmendedDate="2024-02-02" lims:current-date="2024-02-06" lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429904" lims:id="1429904" gazette-part="II" regulation-type="SI" xml:lang="fr" xmlns:lims="http://justice.gc.ca/lims">
+    <Identification lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429905" lims:id="1429905">
+        <InstrumentNumber>TR/2024-7</InstrumentNumber>
         <RegistrationDate>
             <Date>
                 <YYYY>2024</YYYY>
@@ -715,12 +764,12 @@ Généralement, un règlement aura la structure suivante:
                 <DD>7</DD>
             </Date>
         </ConsolidationDate>
-        <EnablingAuthority lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441578" lims:id="1441578">
-            <XRefExternal reference-type="act" link="P-33.01">PUBLIC SERVICE EMPLOYMENT ACT</XRefExternal>
+        <EnablingAuthority lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429906" lims:id="1429906">
+            <XRefExternal reference-type="act" link="P-33.01">LOI SUR L’EMPLOI DANS LA FONCTION PUBLIQUE</XRefExternal>
         </EnablingAuthority>
-        <LongTitle lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441579" lims:id="1441579">Locally Engaged Staff Exclusion Approval Order</LongTitle>
+        <LongTitle lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429907" lims:id="1429907">Décret agréant l’exemption du personnel embauché sur place</LongTitle>
         <RegulationMakerOrder>
-            <RegulationMaker>P.C.</RegulationMaker>
+            <RegulationMaker>C.P.</RegulationMaker>
             <OrderNumber>2024-86</OrderNumber>
             <Date>
                 <YYYY>2024</YYYY>
@@ -729,20 +778,45 @@ Généralement, un règlement aura la structure suivante:
             </Date>
         </RegulationMakerOrder>
     </Identification>
-    <Order lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441580" lims:id="1441580">
-        <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441581" lims:id="1441581" format-ref="indent-0-0" language-align="yes" list-item="no">
-            <Text>Her Excellency the Governor General in Council... <XRefExternal reference-type="act" link="P-33.01">Public Service Employment Act</XRefExternal> <FootnoteRef idref="fn_81000-2-4385_hq_28367">a</FootnoteRef>, approves</Text>
-            <Footnote id="fn_81000-2-4385_hq_28367" placement="page" status="official">
+    <Order lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429908" lims:id="1429908">
+        <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429909" lims:id="1429909" format-ref="indent-0-0" language-align="yes" list-item="no">
+            <Text>Sur recommandation du président du Conseil... <XRefExternal reference-type="act" link="P-33.01">Loi sur l’emploi dans la fonction publique</XRefExternal><FootnoteRef idref="nbp_81000-2-4385_hq_27276">a</FootnoteRef>, Son Excellence la Gouverneure générale en conseil agrée :</Text>
+            <Footnote id="nbp_81000-2-4385_hq_27276" placement="page" status="official">
                 <Label>a</Label>
-                <Text>S.C. 2003, c. 22, ss. 12 and 13</Text>
+                <Text>L.C. 2003, ch. 22, art. 12 et 13</Text>
             </Footnote>
-            <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441582" lims:id="1441582" format-ref="indent-1-1" language-align="no" list-item="no">
-                <Label>(a)</Label>
-                <Text>the re-application by the Public Service Commission...</Text>
+            <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429910" lims:id="1429910" format-ref="indent-1-1" language-align="no" list-item="no">
+                <Label>a)</Label>
+                <Text>l’annulation, par la Commission de la fonction publique, de l’exemption agréée par le décret C.P. 1967-444 du 10 mars 1967;</Text>
+            </Provision>
+            <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429911" lims:id="1429911" format-ref="indent-1-1" language-align="no" list-item="no">
+                <Label>b)</Label>
+                <Text>l’exemption, par la Commission de la fonction publique, de l’application de cette loi à la personne...</Text>
+            </Provision>
         </Provision>
-        <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441590" lims:id="1441590" format-ref="indent-0-0" language-align="yes" list-item="no" topmarginspacing="12">
-            <TableGroup lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441591" lims:id="1441591" bilingual="yes" orientation="portrait" pointsize="11pt" rowbreak="no" spanlanguages="no" spanmarginalnotecol="no" topmarginspacing="50pt">
-                <table lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1441592" lims:id="1441592" frame="none">...</table>
+        <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429912" lims:id="1429912" format-ref="indent-0-0" language-align="yes" list-item="no">
+            <Text>Attendu que la Commission de la fonction... <XRefExternal reference-type="act" link="P-33.01">Loi sur l’emploi dans la fonction publique</XRefExternal><FootnoteRef idref="nbp_81000-2-4385_hq_27276">a</FootnoteRef>, estime que l’application de...</Text>
+        </Provision>
+        <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429913" lims:id="1429913" format-ref="indent-0-0" language-align="yes" list-item="no">
+            <Text>Attendu que la Commission de la fonction publique a consulté l’employeur en application du paragraphe 20(2) de cette loi,</Text>
+        </Provision>
+        <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429914" lims:id="1429914" format-ref="indent-0-0" language-align="yes" list-item="no">
+            <Text>À ces causes, en vertu des paragraphes 20(1) et (3) de la  <XRefExternal reference-type="act" link="P-33.01">Loi sur l’emploi dans la fonction publique</XRefExternal><FootnoteRef idref="nbp_81000-2-4385_hq_27276">a</FootnoteRef>, la Commission de la fonction publique :</Text>
+            <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429915" lims:id="1429915" format-ref="indent-1-1" language-align="no" list-item="no">
+                <Label>a)</Label>
+                <Text>annule l’exemption agréée par le décret C.P. 1967-444 du 10 mars 1967;</Text>
+            </Provision>
+            <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429916" lims:id="1429916" format-ref="indent-1-1" language-align="no" list-item="no">
+                <Label>b)</Label>
+                <Text>exempte de l’application de cette loi la personne nommée et employée à l’extérieur du Canada...</Text>
+            </Provision>
+        </Provision>
+        <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429917" lims:id="1429917" format-ref="indent-0-0" language-align="yes" list-item="no">
+            <Text>Gatineau, le 21 novembre 2023</Text>
+        </Provision>
+        <Provision lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429918" lims:id="1429918" format-ref="indent-0-0" language-align="yes" list-item="no" topmarginspacing="12">
+            <TableGroup lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429919" lims:id="1429919" bilingual="yes" orientation="portrait" pointsize="11pt" rowbreak="no" spanlanguages="no" spanmarginalnotecol="no" topmarginspacing="50pt">
+                <table lims:inforce-start-date="2024-02-02" lims:enacted-date="2024-02-02" lims:fid="1429920" lims:id="1429920" frame="none">...</table>
             </TableGroup>
         </Provision>
     </Order>
