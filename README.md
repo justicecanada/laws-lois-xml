@@ -13,100 +13,110 @@ Generally, an Act will have the following structure:
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <Statute lims:pit-date="2024-01-22" hasPreviousVersion="true" lims:lastAmendedDate="2024-01-22" lims:current-date="2024-01-23" lims:inforce-start-date="2018-12-13" lims:fid="167" lims:id="167" bill-origin="commons" bill-type="govt-public" in-force="yes" xml:lang="en" xmlns:lims="http://justice.gc.ca/lims">
-	<Identification lims:inforce-start-date="2018-12-13" lims:fid="168" lims:id="168">
-		<LongTitle lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="169" lims:id="1171136">An Act to extend the present laws of Canada that provide access to information under the control of the Government of Canada and to provide for the proactive publication of certain information</LongTitle>
-		<ShortTitle lims:inforce-start-date="2018-12-13" lims:fid="170" lims:id="170" status="official">Access to Information Act</ShortTitle>
-		<RunningHead lims:inforce-start-date="2018-12-13" lims:fid="171" lims:id="171">Access to Information</RunningHead>
-		<BillHistory lims:inforce-start-date="2018-12-13" lims:fid="172" lims:id="172">
-			<Stages lims:inforce-start-date="2018-12-13" stage="consolidation">
-				<Date>
-          <YYYY>2024</YYYY>
-          <MM>1</MM>
-          <DD>24</DD>
-        </Date>
-			</Stages>
-		</BillHistory>
-		<Chapter lims:inforce-start-date="2018-12-13" lims:fid="174" lims:id="174">
-			<ConsolidatedNumber official="yes">A-1</ConsolidatedNumber>
-		</Chapter>
-	</Identification>
-	<Body lims:inforce-start-date="2018-12-13" lims:fid="175" lims:id="175">
-		<Heading lims:inforce-start-date="2018-12-13" lims:fid="176" lims:id="176" level="1">
-			<TitleText>Short Title</TitleText>
-		</Heading>
-		<Section lims:inforce-start-date="2002-12-31" lims:lastAmendedDate="2002-12-31" lims:fid="177" lims:id="177">
-			<MarginalNote lims:inforce-start-date="2002-12-31" lims:fid="178" lims:id="178">Short title</MarginalNote>
-			<Label>1</Label>
-			<Text>This Act may be cited as the <XRefExternal reference-type="act" link="A-1">Access to Information Act</XRefExternal>.</Text>
-			<HistoricalNote>
-				<HistoricalNoteSubItem lims:inforce-start-date="2002-12-31" lims:fid="180" lims:id="180">1980-81-82-83, c. 111, Sch. I “1”</HistoricalNoteSubItem>
-			</HistoricalNote>
-		</Section>
-		<Heading lims:inforce-start-date="2018-12-13" lims:fid="181" lims:id="181" level="1">
-			<TitleText>Purpose of Act</TitleText>
-		</Heading>
-		<Section lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:lastAmendedDate="2019-06-21" lims:fid="182" lims:id="1171637">
-			<MarginalNote lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171638" lims:id="1171638">Purpose of Act</MarginalNote>
-			<Label>2</Label>
-			<Subsection lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171639" lims:id="1171639">
-				<Label>(1)</Label>
-				<Text>The purpose of this Act is to enhance the accountability...</Text>
-			</Subsection>
-			<Subsection lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171640" lims:id="1171640">
-				<MarginalNote lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171641" lims:id="1171641">Specific purposes of Parts 1 and 2</MarginalNote>
-				<Label>(2)</Label>
-				<Text>In furtherance of that purpose,</Text>
-				<Paragraph lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171642" lims:id="1171642">
-					<Label>(a)</Label>
-					<Text>Part 1 extends the present laws of Canada to provide...</Text>
-				</Paragraph>
-				<Paragraph lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171643" lims:id="1171643">
-					<Label>(b)</Label>
-					<Text>Part 2 sets out requirements for the proactive...</Text>
-				</Paragraph>
-			</Subsection>
-			<Subsection lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171644" lims:id="1171644">
-				<MarginalNote lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171645" lims:id="1171645">Complementary procedures</MarginalNote>
-				<Label>(3)</Label>
-				<Text>This Act is also intended to complement and not replace...</Text>
-			</Subsection>
-			<HistoricalNote>
-				<HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="188" lims:id="1171646" lims:enactId="1150199" type="original">R.S., 1985, c. A-1, s. 2</HistoricalNoteSubItem>
-				<HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171647" lims:id="1171647" lims:enactId="1150199">2019, c. 18, s. 2</HistoricalNoteSubItem>
-			</HistoricalNote>
-		</Section>
-		<Heading lims:inforce-start-date="2018-12-13" lims:fid="189" lims:id="189" level="1">
-			<TitleText>Interpretation</TitleText>
-		</Heading>
-		<Section lims:inforce-start-date="2007-09-01" lims:lastAmendedDate="2019-06-21" lims:fid="190" lims:id="190">
-			<MarginalNote lims:inforce-start-date="2007-09-01" lims:fid="191" lims:id="191">Definitions</MarginalNote>
-			<Label>3</Label>
-			<Text>In this Act,</Text>
-			<Definition lims:inforce-start-date="2007-09-01" lims:fid="192" lims:id="192">
-				<Text>
-					<DefinedTermEn>alternative format</DefinedTermEn>, with respect to a record, means... (<DefinedTermFr>support de substitution</DefinedTermFr>)
-				</Text>
-			</Definition>
-			<HistoricalNote>
-				<HistoricalNoteSubItem lims:inforce-start-date="2007-09-01" lims:fid="207" lims:id="207">R.S., 1985, c. A-1, s. 3; 1992, c. 21, s. 1; 2002, c. 8, s. 183; 2006, c. 9, s. 141</HistoricalNoteSubItem>
-				<HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171654" lims:id="1171654" lims:enactId="1150201">2019, c. 18, s. 3</HistoricalNoteSubItem>
-			</HistoricalNote>
-		</Section>
-	</Body>
-	<Schedule lims:inforce-start-date="2018-11-05" lims:lastAmendedDate="2024-01-22" lims:fid="1229" lims:id="1229" bilingual="no" spanlanguages="yes">
-		<ScheduleFormHeading lims:inforce-start-date="2018-11-05" lims:fid="1230" lims:id="1230">
-			<Label>SCHEDULE II</Label>
-			<OriginatingRef>(Section 24)</OriginatingRef>
-		</ScheduleFormHeading>
-		<TableGroup lims:inforce-start-date="2018-11-05" lims:fid="1231" lims:id="1231" pointsize="9" topmarginspacing="10" rowbreak="no" bilingual="no" spanlanguages="no">
-			<table lims:inforce-start-date="2018-11-05" lims:fid="1232" lims:id="1232" colsep="0" frame="topbot" rowsep="0">...
+    <Identification lims:inforce-start-date="2018-12-13" lims:fid="168" lims:id="168">
+        <LongTitle lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="169" lims:id="1171136">An Act to extend the present laws of Canada that provide access to information under the control of the Government of Canada and to provide for the proactive publication of certain information</LongTitle>
+        <ShortTitle lims:inforce-start-date="2018-12-13" lims:fid="170" lims:id="170" status="official">Access to Information Act</ShortTitle>
+        <RunningHead lims:inforce-start-date="2018-12-13" lims:fid="171" lims:id="171">Access to Information</RunningHead>
+        <BillHistory lims:inforce-start-date="2018-12-13" lims:fid="172" lims:id="172">
+            <Stages lims:inforce-start-date="2018-12-13" stage="consolidation">
+                <Date>
+                    <YYYY>2024</YYYY>
+                    <MM>1</MM>
+                    <DD>24</DD>
+                </Date>
+            </Stages>
+        </BillHistory>
+        <Chapter lims:inforce-start-date="2018-12-13" lims:fid="174" lims:id="174">
+            <ConsolidatedNumber official="yes">A-1</ConsolidatedNumber>
+        </Chapter>
+    </Identification>
+    <Body lims:inforce-start-date="2018-12-13" lims:fid="175" lims:id="175">
+        <Heading lims:inforce-start-date="2018-12-13" lims:fid="176" lims:id="176" level="1">
+            <TitleText>Short Title</TitleText>
+        </Heading>
+        <Section lims:inforce-start-date="2002-12-31" lims:lastAmendedDate="2002-12-31" lims:fid="177" lims:id="177">
+            <MarginalNote lims:inforce-start-date="2002-12-31" lims:fid="178" lims:id="178">Short title</MarginalNote>
+            <Label>1</Label>
+            <Text>This Act may be cited as the
+                <XRefExternal reference-type="act" link="A-1">Access to Information Act</XRefExternal>.
+            </Text>
+            <HistoricalNote>
+                <HistoricalNoteSubItem lims:inforce-start-date="2002-12-31" lims:fid="180" lims:id="180">1980-81-82-83, c. 111, Sch. I “1”</HistoricalNoteSubItem>
+            </HistoricalNote>
+        </Section>
+        <Heading lims:inforce-start-date="2018-12-13" lims:fid="181" lims:id="181" level="1">
+            <TitleText>Purpose of Act</TitleText>
+        </Heading>
+        <Section lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:lastAmendedDate="2019-06-21" lims:fid="182" lims:id="1171637">
+            <MarginalNote lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171638" lims:id="1171638">Purpose of Act</MarginalNote>
+            <Label>2</Label>
+            <Subsection lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171639" lims:id="1171639">
+                <Label>(1)</Label>
+                <Text>The purpose of this Act is to enhance the accountability...</Text>
+            </Subsection>
+            <Subsection lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171640" lims:id="1171640">
+                <MarginalNote lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171641" lims:id="1171641">Specific purposes of Parts 1 and 2</MarginalNote>
+                <Label>(2)</Label>
+                <Text>In furtherance of that purpose,</Text>
+                <Paragraph lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171642" lims:id="1171642">
+                    <Label>(a)</Label>
+                    <Text>Part 1 extends the present laws of Canada to provide...</Text>
+                </Paragraph>
+                <Paragraph lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171643" lims:id="1171643">
+                    <Label>(b)</Label>
+                    <Text>Part 2 sets out requirements for the proactive...</Text>
+                </Paragraph>
+            </Subsection>
+            <Subsection lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171644" lims:id="1171644">
+                <MarginalNote lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171645" lims:id="1171645">Complementary procedures</MarginalNote>
+                <Label>(3)</Label>
+                <Text>This Act is also intended to complement and not replace...</Text>
+            </Subsection>
+            <HistoricalNote>
+                <HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="188" lims:id="1171646" lims:enactId="1150199" type="original">R.S., 1985, c. A-1, s. 2</HistoricalNoteSubItem>
+                <HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171647" lims:id="1171647" lims:enactId="1150199">2019, c. 18, s. 2</HistoricalNoteSubItem>
+            </HistoricalNote>
+        </Section>
+        <Heading lims:inforce-start-date="2018-12-13" lims:fid="189" lims:id="189" level="1">
+            <TitleText>Interpretation</TitleText>
+        </Heading>
+        <Section lims:inforce-start-date="2007-09-01" lims:lastAmendedDate="2019-06-21" lims:fid="190" lims:id="190">
+            <MarginalNote lims:inforce-start-date="2007-09-01" lims:fid="191" lims:id="191">Definitions</MarginalNote>
+            <Label>3</Label>
+            <Text>In this Act,</Text>
+            <Definition lims:inforce-start-date="2007-09-01" lims:fid="192" lims:id="192">
+                <Text><DefinedTermEn>alternative format</DefinedTermEn>, with respect to a record, means... (<DefinedTermFr>support de substitution</DefinedTermFr>)</Text>
+            </Definition>
+            <HistoricalNote>
+                <HistoricalNoteSubItem lims:inforce-start-date="2007-09-01" lims:fid="207" lims:id="207">R.S., 1985, c. A-1, s. 3; 1992, c. 21, s. 1; 2002, c. 8, s. 183; 2006, c. 9, s. 141</HistoricalNoteSubItem>
+                <HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171654" lims:id="1171654" lims:enactId="1150201">2019, c. 18, s. 3</HistoricalNoteSubItem>
+            </HistoricalNote>
+        </Section>
+    </Body>
+    <Schedule lims:inforce-start-date="2018-11-05" lims:lastAmendedDate="2024-01-22" lims:fid="1229" lims:id="1229" bilingual="no" spanlanguages="yes">
+        <ScheduleFormHeading lims:inforce-start-date="2018-11-05" lims:fid="1230" lims:id="1230">
+            <Label>SCHEDULE II</Label>
+            <OriginatingRef>(Section 24)</OriginatingRef>
+        </ScheduleFormHeading>
+        <TableGroup lims:inforce-start-date="2018-11-05" lims:fid="1231" lims:id="1231" pointsize="9" topmarginspacing="10" rowbreak="no" bilingual="no" spanlanguages="no">
+            <table lims:inforce-start-date="2018-11-05" lims:fid="1232" lims:id="1232" colsep="0" frame="topbot" rowsep="0">...
 			</table>
-		</TableGroup>
-		<HistoricalNote>
-			<HistoricalNoteSubItem lims:inforce-start-date="2019-06-18" lims:enacted-date="2014-12-09" lims:fid="1146092" lims:id="1146137" lims:enactId="1035379">R.S., 1985, c. A-1, Sch. II; R.S., 1985, c. 28 (1st Supp.)</HistoricalNoteSubItem>
-			<HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171131" lims:id="1171131" lims:enactId="1149587">2019, c. 14, s. 54</HistoricalNoteSubItem>
-		</HistoricalNote>
-	</Schedule>
+        </TableGroup>
+        <HistoricalNote>
+            <HistoricalNoteSubItem lims:inforce-start-date="2019-06-18" lims:enacted-date="2014-12-09" lims:fid="1146092" lims:id="1146137" lims:enactId="1035379">R.S., 1985, c. A-1, Sch. II; R.S., 1985, c. 28 (1st Supp.)</HistoricalNoteSubItem>
+            <HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171131" lims:id="1171131" lims:enactId="1149587">2019, c. 14, s. 54</HistoricalNoteSubItem>
+        </HistoricalNote>
+    </Schedule>
+    <RecentAmendments>
+        <Amendment>
+            <AmendmentCitation link="2023_29">2023, c. 29</AmendmentCitation>
+            <AmendmentDate>2024-01-22</AmendmentDate>
+        </Amendment>
+        <Amendment>
+            <AmendmentCitation link="2023_22">2023, c. 22</AmendmentCitation>
+            <AmendmentDate>2023-09-01</AmendmentDate>
+        </Amendment>
+    </RecentAmendments>
 </Statute>
 ```
 ### Regulations
@@ -116,80 +126,88 @@ Generally, a Regulation will have the following structure:
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <Regulation lims:pit-date="2023-11-24" hasPreviousVersion="true" lims:lastAmendedDate="2023-11-24" lims:current-date="2023-11-27" lims:inforce-start-date="2018-10-23" lims:fid="567721" lims:id="567721" regulation-type="SOR" xml:lang="en" xmlns:lims="http://justice.gc.ca/lims">
-	<Identification lims:inforce-start-date="2018-10-23" lims:fid="567722" lims:id="567722">
-		<InstrumentNumber>C.R.C., c. 870</InstrumentNumber>
-		<ConsolidationDate lims:inforce-start-date="2018-10-23">
-			<Date><YYYY>2023</YYYY><MM>11</MM><DD>28</DD></Date>
-		</ConsolidationDate>
-		<EnablingAuthority lims:inforce-start-date="2018-10-23" lims:fid="567724" lims:id="567724">
-			<XRefExternal reference-type="act" link="F-27">FOOD AND DRUGS ACT</XRefExternal>
-		</EnablingAuthority>
-		<ShortTitle lims:inforce-start-date="2018-10-23" lims:fid="567725" lims:id="567725">Food and Drug Regulations</ShortTitle>
-		<LongTitle lims:inforce-start-date="2018-10-23" lims:fid="567726" lims:id="567726">Regulations Respecting Food and Drugs</LongTitle>
-	</Identification>
-	<Body lims:inforce-start-date="2018-10-23" lims:fid="567727" lims:id="567727">
-		<Heading lims:inforce-start-date="2018-10-23" lims:fid="567728" lims:id="567728" level="1">
-			<Label>PART A</Label>
-			<TitleText>Administration</TitleText>
-		</Heading>
-		<Heading lims:inforce-start-date="2018-10-23" lims:fid="567729" lims:id="567729" level="2">
-			<TitleText>General</TitleText>
-		</Heading>
-		<Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="567730" lims:id="567730">
-			<Label>A.01.001</Label>
-			<Text>These Regulations may be cited as the <XRefExternal reference-type="regulation" link="C.R.C.,_c._870">Food and Drug Regulations</XRefExternal>.</Text>
-		</Section>
-			<Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="567731" lims:id="567731">
-			<Label>A.01.002</Label>
-			<Text>These Regulations, where applicable...</Text>
-		</Section>
-		<Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="567732" lims:id="567732">
-			<Label>A.01.003</Label>
-			<Text><Repealed>[Repealed, SOR/94-289, s. 1]</Repealed></Text>
-		</Section>
-		<Heading lims:inforce-start-date="2018-10-23" lims:fid="567733" lims:id="567733" level="2">
-			<TitleText>Interpretation</TitleText>
-		</Heading>
-		<Section lims:inforce-start-date="2018-04-04" lims:lastAmendedDate="2022-09-27" lims:fid="567734" lims:id="567734">
-			<Label>A.01.010</Label>
-			<Text>In these Regulations,</Text>
-			<Definition lims:inforce-start-date="2018-04-04" lims:fid="567735" lims:id="567735" generate-in-text="no">
-				<Text><DefinedTermEn>acceptable method</DefinedTermEn> means a method of analysis or examination..,(<DefinedTermFr>méthode acceptable</DefinedTermFr>)</Text>
-			</Definition>
-			<Definition lims:inforce-start-date="2018-04-04" lims:fid="567736" lims:id="567736" generate-in-text="no">
-				<Text><DefinedTermEn>Act</DefinedTermEn> means the <XRefExternal reference-type="act" link="F-27">Food and Drugs Act</XRefExternal>, except in Parts G and J;(<DefinedTermFr>Loi</DefinedTermFr>)</Text>
-			</Definition>
-			<HistoricalNote>
-				<HistoricalNoteSubItem lims:inforce-start-date="2018-04-04" lims:fid="567751" lims:id="567751">SOR/84-300, s. 1(F); SOR/85-141, s. 1;</HistoricalNoteSubItem>
-				<HistoricalNoteSubItem lims:inforce-start-date="2022-09-27" lims:enacted-date="2022-09-27" lims:fid="1376789" lims:id="1376789" lims:enactId="1375613">SOR/2022-197, s. 1</HistoricalNteSubItem>
-			</HistoricalNote>
-		</Section>
-	</Body>
-	<Schedule lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:lastAmendedDate="2022-07-20" lims:fid="1371609" lims:id="1371609">
-		<ScheduleFormHeading lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371610" lims:id="1371610">
-			<Label>SCHEDULE K.1</Label>
-			<OriginatingRef>(Subsections B.01.350(1) and B.01.351(1) and (5))</OriginatingRef>
-		</ScheduleFormHeading>
-		<Heading lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371611" lims:id="1371611" level="1">
-			<TitleText>Nutrition Symbols and Formats</TitleText>
-		</Heading>
-		<Heading lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371612" lims:id="1371612" level="2">
-			<TitleText>Unilingual Horizontal Format</TitleText>
-		</Heading>
-		<TableGroup lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371613" lims:id="1371613" bilingual="no" pointsize="8" spanlanguages="no" topmarginspacing="10">
-			<table lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371614" lims:id="1371614" frame="none">...</Table>
-		</TableGroup>
-	</Schedule>
-	<RecentAmendments>
-		<Amendment>
-			<AmendmentCitation>SOR/2023-247</AmendmentCitation>
-			<AmendmentDate>2023-11-24</AmendmentDate>
-		</Amendment>
-		<Amendment>
-			<AmendmentCitation>SOR/2023-18</AmendmentCitation>
-			<AmendmentDate>2023-02-15</AmendmentDate>
-		</Amendment>
-	</RecentAmendments>
+    <Identification lims:inforce-start-date="2018-10-23" lims:fid="567722" lims:id="567722">
+        <InstrumentNumber>C.R.C., c. 870</InstrumentNumber>
+        <ConsolidationDate lims:inforce-start-date="2018-10-23">
+            <Date>
+                <YYYY>2023</YYYY>
+                <MM>11</MM>
+                <DD>28</DD>
+            </Date>
+        </ConsolidationDate>
+        <EnablingAuthority lims:inforce-start-date="2018-10-23" lims:fid="567724" lims:id="567724">
+            <XRefExternal reference-type="act" link="F-27">FOOD AND DRUGS ACT</XRefExternal>
+        </EnablingAuthority>
+        <ShortTitle lims:inforce-start-date="2018-10-23" lims:fid="567725" lims:id="567725">Food and Drug Regulations</ShortTitle>
+        <LongTitle lims:inforce-start-date="2018-10-23" lims:fid="567726" lims:id="567726">Regulations Respecting Food and Drugs</LongTitle>
+    </Identification>
+    <Body lims:inforce-start-date="2018-10-23" lims:fid="567727" lims:id="567727">
+        <Heading lims:inforce-start-date="2018-10-23" lims:fid="567728" lims:id="567728" level="1">
+            <Label>PART A</Label>
+            <TitleText>Administration</TitleText>
+        </Heading>
+        <Heading lims:inforce-start-date="2018-10-23" lims:fid="567729" lims:id="567729" level="2">
+            <TitleText>General</TitleText>
+        </Heading>
+        <Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="567730" lims:id="567730">
+            <Label>A.01.001</Label>
+            <Text>These Regulations may be cited as the <XRefExternal reference-type="regulation" link="C.R.C.,_c._870">Food and Drug Regulations</XRefExternal>.</Text>
+        </Section>
+        <Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="567731" lims:id="567731">
+            <Label>A.01.002</Label>
+            <Text>These Regulations, where applicable...</Text>
+        </Section>
+        <Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="567732" lims:id="567732">
+            <Label>A.01.003</Label>
+            <Text>
+                <Repealed>[Repealed, SOR/94-289, s. 1]</Repealed>
+            </Text>
+        </Section>
+        <Heading lims:inforce-start-date="2018-10-23" lims:fid="567733" lims:id="567733" level="2">
+            <TitleText>Interpretation</TitleText>
+        </Heading>
+        <Section lims:inforce-start-date="2018-04-04" lims:lastAmendedDate="2022-09-27" lims:fid="567734" lims:id="567734">
+            <Label>A.01.010</Label>
+            <Text>In these Regulations,</Text>
+            <Definition lims:inforce-start-date="2018-04-04" lims:fid="567735" lims:id="567735" generate-in-text="no">
+                <Text><DefinedTermEn>acceptable method</DefinedTermEn> means a method of analysis or examination..,(<DefinedTermFr>méthode acceptable</DefinedTermFr>)</Text>
+            </Definition>
+            <Definition lims:inforce-start-date="2018-04-04" lims:fid="567736" lims:id="567736" generate-in-text="no">
+                <Text><DefinedTermEn>Act</DefinedTermEn> means the <XRefExternal reference-type="act" link="F-27">Food and Drugs Act</XRefExternal>, except in Parts G and J;(<DefinedTermFr>Loi</DefinedTermFr>)</Text>
+            </Definition>
+            <HistoricalNote>
+                <HistoricalNoteSubItem lims:inforce-start-date="2018-04-04" lims:fid="567751" lims:id="567751">SOR/84-300, s. 1(F); SOR/85-141, s. 1;</HistoricalNoteSubItem>
+                <HistoricalNoteSubItem lims:inforce-start-date="2022-09-27" lims:enacted-date="2022-09-27" lims:fid="1376789" lims:id="1376789" lims:enactId="1375613">SOR/2022-197, s. 1
+                </HistoricalNteSubItem>
+            </HistoricalNote>
+        </Section>
+    </Body>
+    <Schedule lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:lastAmendedDate="2022-07-20" lims:fid="1371609" lims:id="1371609">
+        <ScheduleFormHeading lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371610" lims:id="1371610">
+            <Label>SCHEDULE K.1</Label>
+            <OriginatingRef>(Subsections B.01.350(1) and B.01.351(1) and (5))</OriginatingRef>
+        </ScheduleFormHeading>
+        <Heading lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371611" lims:id="1371611" level="1">
+            <TitleText>Nutrition Symbols and Formats</TitleText>
+        </Heading>
+        <Heading lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371612" lims:id="1371612" level="2">
+            <TitleText>Unilingual Horizontal Format</TitleText>
+        </Heading>
+        <TableGroup lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371613" lims:id="1371613" bilingual="no" pointsize="8" spanlanguages="no" topmarginspacing="10">
+            <table lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371614" lims:id="1371614" frame="none">...
+            </Table>
+        </TableGroup>
+    </Schedule>
+    <RecentAmendments>
+        <Amendment>
+            <AmendmentCitation>SOR/2023-247</AmendmentCitation>
+            <AmendmentDate>2023-11-24</AmendmentDate>
+        </Amendment>
+        <Amendment>
+            <AmendmentCitation>SOR/2023-18</AmendmentCitation>
+            <AmendmentDate>2023-02-15</AmendmentDate>
+        </Amendment>
+    </RecentAmendments>
 </Regulation>
 ```
 #### [Federal Child Support Guidelines (SOR/97-175)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-97-175/index.html)
@@ -374,101 +392,92 @@ Généralement, une loi aura la structure suivante:
 #### [Loi sur l’accès à l’information (L.R.C. (1985), ch. A-1)](https://laws-lois.justice.gc.ca/fra/lois/A-1/index.html)
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
-<Statute lims:pit-date="2024-01-22" hasPreviousVersion="true" lims:lastAmendedDate="2024-01-22" lims:current-date="2024-01-23" lims:inforce-start-date="2018-12-13" lims:fid="167" lims:id="167" bill-origin="commons" bill-type="govt-public" in-force="yes" xml:lang="en" xmlns:lims="http://justice.gc.ca/lims">
-	<Identification lims:inforce-start-date="2018-12-13" lims:fid="168" lims:id="168">
-		<LongTitle lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="169" lims:id="1171136">An Act to extend the present laws of Canada that provide access to information under the control of the Government of Canada and to provide for the proactive publication of certain information</LongTitle>
-		<ShortTitle lims:inforce-start-date="2018-12-13" lims:fid="170" lims:id="170" status="official">Access to Information Act</ShortTitle>
-		<RunningHead lims:inforce-start-date="2018-12-13" lims:fid="171" lims:id="171">Access to Information</RunningHead>
-		<BillHistory lims:inforce-start-date="2018-12-13" lims:fid="172" lims:id="172">
-			<Stages lims:inforce-start-date="2018-12-13" stage="consolidation">
-				<Date>
-          <YYYY>2024</YYYY>
-          <MM>1</MM>
-          <DD>24</DD>
-        </Date>
-			</Stages>
-		</BillHistory>
-		<Chapter lims:inforce-start-date="2018-12-13" lims:fid="174" lims:id="174">
-			<ConsolidatedNumber official="yes">A-1</ConsolidatedNumber>
-		</Chapter>
-	</Identification>
-	<Body lims:inforce-start-date="2018-12-13" lims:fid="175" lims:id="175">
-		<Heading lims:inforce-start-date="2018-12-13" lims:fid="176" lims:id="176" level="1">
-			<TitleText>Short Title</TitleText>
-		</Heading>
-		<Section lims:inforce-start-date="2002-12-31" lims:lastAmendedDate="2002-12-31" lims:fid="177" lims:id="177">
-			<MarginalNote lims:inforce-start-date="2002-12-31" lims:fid="178" lims:id="178">Short title</MarginalNote>
-			<Label>1</Label>
-			<Text>This Act may be cited as the <XRefExternal reference-type="act" link="A-1">Access to Information Act</XRefExternal>.</Text>
-			<HistoricalNote>
-				<HistoricalNoteSubItem lims:inforce-start-date="2002-12-31" lims:fid="180" lims:id="180">1980-81-82-83, c. 111, Sch. I “1”</HistoricalNoteSubItem>
-			</HistoricalNote>
-		</Section>
-		<Heading lims:inforce-start-date="2018-12-13" lims:fid="181" lims:id="181" level="1">
-			<TitleText>Purpose of Act</TitleText>
-		</Heading>
-		<Section lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:lastAmendedDate="2019-06-21" lims:fid="182" lims:id="1171637">
-			<MarginalNote lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171638" lims:id="1171638">Purpose of Act</MarginalNote>
-			<Label>2</Label>
-			<Subsection lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171639" lims:id="1171639">
-				<Label>(1)</Label>
-				<Text>The purpose of this Act is to enhance the accountability...</Text>
-			</Subsection>
-			<Subsection lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171640" lims:id="1171640">
-				<MarginalNote lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171641" lims:id="1171641">Specific purposes of Parts 1 and 2</MarginalNote>
-				<Label>(2)</Label>
-				<Text>In furtherance of that purpose,</Text>
-				<Paragraph lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171642" lims:id="1171642">
-					<Label>(a)</Label>
-					<Text>Part 1 extends the present laws of Canada to provide...</Text>
-				</Paragraph>
-				<Paragraph lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171643" lims:id="1171643">
-					<Label>(b)</Label>
-					<Text>Part 2 sets out requirements for the proactive...</Text>
-				</Paragraph>
-			</Subsection>
-			<Subsection lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171644" lims:id="1171644">
-				<MarginalNote lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171645" lims:id="1171645">Complementary procedures</MarginalNote>
-				<Label>(3)</Label>
-				<Text>This Act is also intended to complement and not replace...</Text>
-			</Subsection>
-			<HistoricalNote>
-				<HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="188" lims:id="1171646" lims:enactId="1150199" type="original">R.S., 1985, c. A-1, s. 2</HistoricalNoteSubItem>
-				<HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171647" lims:id="1171647" lims:enactId="1150199">2019, c. 18, s. 2</HistoricalNoteSubItem>
-			</HistoricalNote>
-		</Section>
-		<Heading lims:inforce-start-date="2018-12-13" lims:fid="189" lims:id="189" level="1">
-			<TitleText>Interpretation</TitleText>
-		</Heading>
-		<Section lims:inforce-start-date="2007-09-01" lims:lastAmendedDate="2019-06-21" lims:fid="190" lims:id="190">
-			<MarginalNote lims:inforce-start-date="2007-09-01" lims:fid="191" lims:id="191">Definitions</MarginalNote>
-			<Label>3</Label>
-			<Text>In this Act,</Text>
-			<Definition lims:inforce-start-date="2007-09-01" lims:fid="192" lims:id="192">
-				<Text>
-					<DefinedTermEn>alternative format</DefinedTermEn>, with respect to a record, means... (<DefinedTermFr>support de substitution</DefinedTermFr>)
-				</Text>
-			</Definition>
-			<HistoricalNote>
-				<HistoricalNoteSubItem lims:inforce-start-date="2007-09-01" lims:fid="207" lims:id="207">R.S., 1985, c. A-1, s. 3; 1992, c. 21, s. 1; 2002, c. 8, s. 183; 2006, c. 9, s. 141</HistoricalNoteSubItem>
-				<HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171654" lims:id="1171654" lims:enactId="1150201">2019, c. 18, s. 3</HistoricalNoteSubItem>
-			</HistoricalNote>
-		</Section>
-	</Body>
-	<Schedule lims:inforce-start-date="2018-11-05" lims:lastAmendedDate="2024-01-22" lims:fid="1229" lims:id="1229" bilingual="no" spanlanguages="yes">
-		<ScheduleFormHeading lims:inforce-start-date="2018-11-05" lims:fid="1230" lims:id="1230">
-			<Label>SCHEDULE II</Label>
-			<OriginatingRef>(Section 24)</OriginatingRef>
-		</ScheduleFormHeading>
-		<TableGroup lims:inforce-start-date="2018-11-05" lims:fid="1231" lims:id="1231" pointsize="9" topmarginspacing="10" rowbreak="no" bilingual="no" spanlanguages="no">
-			<table lims:inforce-start-date="2018-11-05" lims:fid="1232" lims:id="1232" colsep="0" frame="topbot" rowsep="0">...
-			</table>
-		</TableGroup>
-		<HistoricalNote>
-			<HistoricalNoteSubItem lims:inforce-start-date="2019-06-18" lims:enacted-date="2014-12-09" lims:fid="1146092" lims:id="1146137" lims:enactId="1035379">R.S., 1985, c. A-1, Sch. II; R.S., 1985, c. 28 (1st Supp.)</HistoricalNoteSubItem>
-			<HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1171131" lims:id="1171131" lims:enactId="1149587">2019, c. 14, s. 54</HistoricalNoteSubItem>
-		</HistoricalNote>
-	</Schedule>
+<Statute lims:pit-date="2024-01-22" hasPreviousVersion="true" lims:lastAmendedDate="2024-01-22" lims:current-date="2024-01-23" lims:inforce-start-date="2018-12-13" lims:fid="167" lims:id="167" bill-origin="commons" bill-type="govt-public" in-force="yes" xml:lang="fr" xmlns:lims="http://justice.gc.ca/lims">
+    <Identification lims:inforce-start-date="2018-12-13" lims:fid="168" lims:id="168">
+        <LongTitle lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="169" lims:id="1157395">Loi visant à compléter la législation canadienne en matière d’accès à l’information relevant de l’administration fédérale et prévoyant la publication proactive de certains renseignements</LongTitle>
+        <ShortTitle lims:inforce-start-date="2018-12-13" lims:fid="170" lims:id="170" status="official">Loi sur l’accès à l’information</ShortTitle>
+        <RunningHead lims:inforce-start-date="2018-12-13" lims:fid="171" lims:id="171">Accès à l’information</RunningHead>
+        <BillHistory lims:inforce-start-date="2018-12-13" lims:fid="172" lims:id="172">
+            <Stages lims:inforce-start-date="2018-12-13" stage="consolidation">
+                <Date>
+                    <YYYY>2024</YYYY>
+                    <MM>1</MM>
+                    <DD>24</DD>
+                </Date>
+            </Stages>
+        </BillHistory>
+        <Chapter lims:inforce-start-date="2018-12-13" lims:fid="174" lims:id="174">
+            <ConsolidatedNumber official="yes">A-1</ConsolidatedNumber>
+        </Chapter>
+    </Identification>
+    <Body lims:inforce-start-date="2018-12-13" lims:fid="175" lims:id="175">
+        <Heading lims:inforce-start-date="2018-12-13" lims:fid="176" lims:id="176" level="1">
+            <TitleText>Titre abrégé</TitleText>
+        </Heading>
+        <Section lims:inforce-start-date="2005-10-05" lims:lastAmendedDate="2005-10-05" lims:fid="177" lims:id="177">
+            <MarginalNote lims:inforce-start-date="2005-10-05" lims:fid="178" lims:id="178">Titre abrégé</MarginalNote>
+            <Label>1</Label>
+            <Text>
+                <XRefExternal reference-type="act" link="A-1">Loi sur l’accès à l’information</XRefExternal>.
+            </Text>
+            <HistoricalNote>
+                <HistoricalNoteSubItem lims:inforce-start-date="2005-10-05" lims:fid="180" lims:id="180">1980-81-82-83, ch. 111, ann. I « 1 »</HistoricalNoteSubItem>
+            </HistoricalNote>
+        </Section>
+        <Heading lims:inforce-start-date="2018-12-13" lims:fid="181" lims:id="181" level="1">
+            <TitleText>Objet de la loi</TitleText>
+        </Heading>
+        <Section lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:lastAmendedDate="2019-06-21" lims:fid="182" lims:id="1157396">
+            <MarginalNote lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1157397" lims:id="1157397">Objet de la loi</MarginalNote>
+            <Label>2</Label>
+            <Subsection lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1157398" lims:id="1157398">
+                <Label>(1)</Label>
+                <Text>La présente loi a pour objet d’accroître la responsabilité et la transparence des institutions...</Text>
+            </Subsection>
+            <Subsection lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1157399" lims:id="1157399">
+                <MarginalNote lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1157400" lims:id="1157400">Objets spécifiques : parties 1 et 2</MarginalNote>
+                <Label>(2)</Label>
+                <Text>À cet égard :</Text>
+                <Paragraph lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1157401" lims:id="1157401">
+                    <Label>a)</Label>
+                    <Text>la partie 1 élargit l’accès aux documents de l’administration fédérale en consacrant...</Text>
+                </Paragraph>
+                <Paragraph lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1157402" lims:id="1157402">
+                    <Label>b)</Label>
+                    <Text>la partie 2 fixe des exigences visant la publication proactive de renseignements.</Text>
+                </Paragraph>
+            </Subsection>
+            <HistoricalNote>
+                <HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="188" lims:id="1157405" lims:enactId="1136662" type="original">L.R. (1985), ch. A-1, art. 2</HistoricalNoteSubItem>
+                <HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1157406" lims:id="1157406" lims:enactId="1136662">2019, ch. 18, art. 2</HistoricalNoteSubItem>
+            </HistoricalNote>
+        </Section>
+    </body>
+    <Schedule lims:inforce-start-date="2018-11-05" lims:lastAmendedDate="2024-01-22" lims:fid="1216" lims:id="1216" bilingual="no" spanlanguages="yes">
+        <ScheduleFormHeading lims:inforce-start-date="2018-11-05" lims:fid="1217" lims:id="1217">
+            <Label>ANNEXE II</Label>
+            <OriginatingRef>(article 24)</OriginatingRef>
+        </ScheduleFormHeading>
+        <TableGroup lims:inforce-start-date="2018-11-05" lims:fid="1218" lims:id="1218" pointsize="9" topmarginspacing="10" rowbreak="no" bilingual="no" spanlanguages="no">
+            <table lims:inforce-start-date="2018-11-05" lims:fid="1219" lims:id="1219" colsep="0" frame="topbot" rowsep="0">...
+            </Table>
+        </TableGroup>
+        <HistoricalNote>
+            <HistoricalNoteSubItem lims:inforce-start-date="2019-06-18" lims:enacted-date="2014-12-09" lims:fid="1132597" lims:id="1132614" lims:enactId="1023638">L.R. (1985), ch. A-1, ann. II; L.R. (1985), ch. 28 (1 <Sup>er</Sup> suppl.)</HistoricalNoteSubItem>
+            <HistoricalNoteSubItem lims:inforce-start-date="2019-06-21" lims:enacted-date="2019-06-21" lims:fid="1157394" lims:id="1157394" lims:enactId="1136063">2019, ch. 14, art. 54</HistoricalNoteSubItem>
+            <HistoricalNoteSubItem lims:inforce-start-date="2019-08-28" lims:enacted-date="2019-06-21" lims:fid="1184509" lims:id="1184509" lims:enactId="1144311">2019, ch. 28, art. 83</HistoricalNoteSubItem>
+        </HistoricalNote>
+    </Schedule>
+    <RecentAmendments>
+        <Amendment>
+            <AmendmentCitation link="2023_29">2023, ch. 29</AmendmentCitation>
+            <AmendmentDate>2024-01-22</AmendmentDate>
+        </Amendment>
+        <Amendment>
+            <AmendmentCitation link="2023_22">2023, ch. 22</AmendmentCitation>
+            <AmendmentDate>2023-09-01</AmendmentDate>
+        </Amendment>
+    </RecentAmendments>
 </Statute>
 ```
 ### Règlements
@@ -477,81 +486,103 @@ Généralement, un règlement aura la structure suivante:
 #### [Règlement sur les aliments et drogues (C.R.C., ch. 870))](https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.%2C_ch._870/index.html)
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
-<Regulation lims:pit-date="2023-11-24" hasPreviousVersion="true" lims:lastAmendedDate="2023-11-24" lims:current-date="2023-11-27" lims:inforce-start-date="2018-10-23" lims:fid="567721" lims:id="567721" regulation-type="SOR" xml:lang="en" xmlns:lims="http://justice.gc.ca/lims">
-	<Identification lims:inforce-start-date="2018-10-23" lims:fid="567722" lims:id="567722">
-		<InstrumentNumber>C.R.C., c. 870</InstrumentNumber>
-		<ConsolidationDate lims:inforce-start-date="2018-10-23">
-			<Date><YYYY>2023</YYYY><MM>11</MM><DD>28</DD></Date>
-		</ConsolidationDate>
-		<EnablingAuthority lims:inforce-start-date="2018-10-23" lims:fid="567724" lims:id="567724">
-			<XRefExternal reference-type="act" link="F-27">FOOD AND DRUGS ACT</XRefExternal>
-		</EnablingAuthority>
-		<ShortTitle lims:inforce-start-date="2018-10-23" lims:fid="567725" lims:id="567725">Food and Drug Regulations</ShortTitle>
-		<LongTitle lims:inforce-start-date="2018-10-23" lims:fid="567726" lims:id="567726">Regulations Respecting Food and Drugs</LongTitle>
-	</Identification>
-	<Body lims:inforce-start-date="2018-10-23" lims:fid="567727" lims:id="567727">
-		<Heading lims:inforce-start-date="2018-10-23" lims:fid="567728" lims:id="567728" level="1">
-			<Label>PART A</Label>
-			<TitleText>Administration</TitleText>
-		</Heading>
-		<Heading lims:inforce-start-date="2018-10-23" lims:fid="567729" lims:id="567729" level="2">
-			<TitleText>General</TitleText>
-		</Heading>
-		<Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="567730" lims:id="567730">
-			<Label>A.01.001</Label>
-			<Text>These Regulations may be cited as the <XRefExternal reference-type="regulation" link="C.R.C.,_c._870">Food and Drug Regulations</XRefExternal>.</Text>
-		</Section>
-			<Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="567731" lims:id="567731">
-			<Label>A.01.002</Label>
-			<Text>These Regulations, where applicable...</Text>
-		</Section>
-		<Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="567732" lims:id="567732">
-			<Label>A.01.003</Label>
-			<Text><Repealed>[Repealed, SOR/94-289, s. 1]</Repealed></Text>
-		</Section>
-		<Heading lims:inforce-start-date="2018-10-23" lims:fid="567733" lims:id="567733" level="2">
-			<TitleText>Interpretation</TitleText>
-		</Heading>
-		<Section lims:inforce-start-date="2018-04-04" lims:lastAmendedDate="2022-09-27" lims:fid="567734" lims:id="567734">
-			<Label>A.01.010</Label>
-			<Text>In these Regulations,</Text>
-			<Definition lims:inforce-start-date="2018-04-04" lims:fid="567735" lims:id="567735" generate-in-text="no">
-				<Text><DefinedTermEn>acceptable method</DefinedTermEn> means a method of analysis or examination..,(<DefinedTermFr>méthode acceptable</DefinedTermFr>)</Text>
-			</Definition>
-			<Definition lims:inforce-start-date="2018-04-04" lims:fid="567736" lims:id="567736" generate-in-text="no">
-				<Text><DefinedTermEn>Act</DefinedTermEn> means the <XRefExternal reference-type="act" link="F-27">Food and Drugs Act</XRefExternal>, except in Parts G and J;(<DefinedTermFr>Loi</DefinedTermFr>)</Text>
-			</Definition>
-			<HistoricalNote>
-				<HistoricalNoteSubItem lims:inforce-start-date="2018-04-04" lims:fid="567751" lims:id="567751">SOR/84-300, s. 1(F); SOR/85-141, s. 1;</HistoricalNoteSubItem>
-				<HistoricalNoteSubItem lims:inforce-start-date="2022-09-27" lims:enacted-date="2022-09-27" lims:fid="1376789" lims:id="1376789" lims:enactId="1375613">SOR/2022-197, s. 1</HistoricalNteSubItem>
-			</HistoricalNote>
-		</Section>
-	</Body>
-	<Schedule lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:lastAmendedDate="2022-07-20" lims:fid="1371609" lims:id="1371609">
-		<ScheduleFormHeading lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371610" lims:id="1371610">
-			<Label>SCHEDULE K.1</Label>
-			<OriginatingRef>(Subsections B.01.350(1) and B.01.351(1) and (5))</OriginatingRef>
-		</ScheduleFormHeading>
-		<Heading lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371611" lims:id="1371611" level="1">
-			<TitleText>Nutrition Symbols and Formats</TitleText>
-		</Heading>
-		<Heading lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371612" lims:id="1371612" level="2">
-			<TitleText>Unilingual Horizontal Format</TitleText>
-		</Heading>
-		<TableGroup lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371613" lims:id="1371613" bilingual="no" pointsize="8" spanlanguages="no" topmarginspacing="10">
-			<table lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1371614" lims:id="1371614" frame="none">...</Table>
-		</TableGroup>
-	</Schedule>
-	<RecentAmendments>
-		<Amendment>
-			<AmendmentCitation>SOR/2023-247</AmendmentCitation>
-			<AmendmentDate>2023-11-24</AmendmentDate>
-		</Amendment>
-		<Amendment>
-			<AmendmentCitation>SOR/2023-18</AmendmentCitation>
-			<AmendmentDate>2023-02-15</AmendmentDate>
-		</Amendment>
-	</RecentAmendments>
+<Regulation lims:pit-date="2023-11-24" hasPreviousVersion="true" lims:lastAmendedDate="2023-11-24" lims:current-date="2023-11-27" lims:inforce-start-date="2018-10-23" lims:fid="556370" lims:id="556370" regulation-type="SOR" xml:lang="fr" xmlns:lims="http://justice.gc.ca/lims">
+    <Identification lims:inforce-start-date="2018-10-23" lims:fid="556371" lims:id="556371">
+        <InstrumentNumber>C.R.C., ch. 870</InstrumentNumber>
+        <ConsolidationDate lims:inforce-start-date="2018-10-23">
+            <Date>
+                <YYYY>2023</YYYY>
+                <MM>11</MM>
+                <DD>28</DD>
+            </Date>
+        </ConsolidationDate>
+        <EnablingAuthority lims:inforce-start-date="2018-10-23" lims:fid="556373" lims:id="556373">
+            <XRefExternal reference-type="act" link="F-27">LOI SUR LES ALIMENTS ET DROGUES</XRefExternal>
+        </EnablingAuthority>
+        <ShortTitle lims:inforce-start-date="2018-10-23" lims:fid="556374" lims:id="556374">Règlement sur les aliments et drogues</ShortTitle>
+        <LongTitle lims:inforce-start-date="2018-10-23" lims:fid="556375" lims:id="556375">Règlement concernant les aliments et drogues</LongTitle>
+    </Identification>
+    <Body lims:inforce-start-date="2018-10-23" lims:fid="556376" lims:id="556376">
+        <Heading lims:inforce-start-date="2018-10-23" lims:fid="556377" lims:id="556377" level="1">
+            <Label>PARTIE A</Label>
+            <TitleText>Administration</TitleText>
+        </Heading>
+        <Heading lims:inforce-start-date="2018-10-23" lims:fid="556378" lims:id="556378" level="2">
+            <TitleText>Dispositions générales</TitleText>
+        </Heading>
+        <Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="556379" lims:id="556379">
+            <Label>A.01.001</Label>
+            <Text>Le présent règlement peut être cité sous le titre :
+                <XRefExternal reference-type="regulation" link="C.R.C.,_ch._870">Règlement sur les aliments et drogues</XRefExternal>.
+            </Text>
+        </Section>
+        <Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="556380" lims:id="556380">
+            <Label>A.01.002</Label>
+            <Text>Lorsqu’il y a lieu, les dispositions du présent règlement établissent les normes de composition...</Text>
+        </Section>
+        <Section lims:inforce-start-date="2006-03-22" lims:lastAmendedDate="2006-03-22" lims:fid="556381" lims:id="556381">
+            <Label>A.01.003</Label>
+            <Text>
+                <Repealed>[Abrogé, DORS/94-289, art. 1]</Repealed>
+            </Text>
+        </Section>
+        <Heading lims:inforce-start-date="2018-10-23" lims:fid="556382" lims:id="556382" level="2">
+            <TitleText>Interprétation</TitleText>
+        </Heading>
+        <Section lims:inforce-start-date="2018-04-04" lims:lastAmendedDate="2022-09-27" lims:fid="556383" lims:id="556383">
+            <Label>A.01.010</Label>
+            <Text>Dans le présent règlement,</Text>
+            <Definition lims:inforce-start-date="2018-04-04" lims:fid="556384" lims:id="556384">
+                <Text><DefinedTermFr>centimètre cube</DefinedTermFr> ou son abréviation <DefinedTermFr>cc.</DefinedTermFr> sont censées interchangeables avec le mot <DefinitionRef>millilitre</DefinitionRef> et son abréviation <DefinitionRef>ml.</DefinitionRef>; (<DefinedTermEn>cubic centimetre</DefinedTermEn>)</Text>
+            </Definition>
+            <Definition lims:inforce-start-date="2022-09-27" lims:enacted-date="2022-09-27" lims:fid="556385" lims:id="1365785">
+                <Text><DefinedTermFr>conjoint de fait</DefinedTermFr> S’entend au sens de l’article 2 du <XRefExternal reference-type="act" link="C-46">Code criminel</XRefExternal>; (<DefinedTermEn>common-law partner</DefinedTermEn>)</Text>
+            </Definition>
+            <HistoricalNote>
+                <HistoricalNoteSubItem lims:inforce-start-date="2018-04-04" lims:fid="556400" lims:id="556400">DORS/84-300, art. 1(F); DORS/85-141, art. 1; DORS/89-455, art. 1; DORS/97-12, art. 1; DORS/2000-353</HistoricalNoteSubItem>
+                <HistoricalNoteSubItem lims:inforce-start-date="2022-09-27" lims:enacted-date="2022-09-27" lims:fid="1365784" lims:id="1365784" lims:enactId="1364728">DORS/2022-197, art. 1</HistoricalNoteSubItem>
+            </HistoricalNote>
+        </Section>
+        <Section lims:inforce-start-date="2018-04-04" lims:lastAmendedDate="2018-04-04" lims:fid="556401" lims:id="556401">
+            <Label>A.01.011</Label>
+            <Text>Le ministre doit, sur demande, fournir des exemplaires des méthodes officielles.</Text>
+            <HistoricalNote>
+                <HistoricalNoteSubItem lims:inforce-start-date="2018-04-04" lims:fid="556403" lims:id="556403">DORS/2018-69, art. 27</HistoricalNoteSubItem>
+            </HistoricalNote>
+        </Section>
+        <Section lims:inforce-start-date="2018-04-04" lims:lastAmendedDate="2018-04-04" lims:fid="556404" lims:id="556404">
+            <Label>A.01.012</Label>
+            <Text>Le ministre doit, sur demande, indiquer si une méthode est acceptable ou non, lorsqu’on la lui présente en vue d’une décision.</Text>
+            <HistoricalNote>
+                <HistoricalNoteSubItem lims:inforce-start-date="2018-04-04" lims:fid="556406" lims:id="556406">DORS/2018-69, art. 27</HistoricalNoteSubItem>
+            </HistoricalNote>
+        </Section>
+    </Body>
+    <Schedule lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:lastAmendedDate="2022-07-20" lims:fid="1360697" lims:id="1360697">
+        <ScheduleFormHeading lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1360698" lims:id="1360698">
+            <Label>ANNEXE K.1</Label>
+            <OriginatingRef>(paragraphes B.01.350(1), B.01.351(1) et (5))</OriginatingRef>
+        </ScheduleFormHeading>
+        <Heading lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1360699" lims:id="1360699" level="1">
+            <TitleText>Symboles nutritionnels et modèles</TitleText>
+        </Heading>
+        <Heading lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1360700" lims:id="1360700" level="2">
+            <TitleText>Modèle horizontal unilingue</TitleText>
+        </Heading>
+        <TableGroup lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1360701" lims:id="1360701" bilingual="no" pointsize="8" spanlanguages="no" topmarginspacing="10">
+            <Table lims:inforce-start-date="2022-07-20" lims:enacted-date="2022-06-28" lims:fid="1360702" lims:id="1360702" frame="none">...</Table>
+        </TableGroup>
+    </Schedule>
+    <RecentAmendments>
+        <Amendment>
+            <AmendmentCitation>DORS/2023-247</AmendmentCitation>
+            <AmendmentDate>2023-11-24</AmendmentDate>
+        </Amendment>
+        <Amendment>
+            <AmendmentCitation>DORS/2023-18</AmendmentCitation>
+            <AmendmentDate>2023-02-15</AmendmentDate>
+        </Amendment>
+    </RecentAmendments>
 </Regulation>
 ```
 #### [Lignes directrices fédérales sur les pensions alimentaires pour enfants (DORS/97-175)](https://laws-lois.justice.gc.ca/fra/reglements/DORS-97-175/index.html)
