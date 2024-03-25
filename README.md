@@ -246,11 +246,7 @@ Generally, a Regulation will have the following structure:
     </Identification>
     <Order lims:inforce-start-date="2006-03-22" lims:fid="1004148" lims:id="1004148">
         <Provision lims:inforce-start-date="2006-03-22" lims:fid="1004149" lims:id="1004149" format-ref="indent-0-0" language-align="yes" list-item="no">
-            <Text>His Excellency the Governor General in Council...
-                <FootnoteRef idref="footnotea_e">a</FootnoteRef> of the
-                <XRefExternal reference-type="act" link="D-3.4">Divorce Act</XRefExternal>
-                <FootnoteRef idref="footnoteb_e">b</FootnoteRef>, hereby establishes the annexed
-                <XRefExternal reference-type="regulation" link="SOR-97-175">Federal Child Support Guidelines</XRefExternal>.
+            <Text>His Excellency the Governor General in Council...<FootnoteRef idref="footnotea_e">a</FootnoteRef> of the <XRefExternal reference-type="act" link="D-3.4">Divorce Act</XRefExternal><FootnoteRef idref="footnoteb_e">b</FootnoteRef>, hereby establishes the annexed <XRefExternal reference-type="regulation" link="SOR-97-175">Federal Child Support Guidelines</XRefExternal>.
             </Text>
             <Footnote id="footnotea_e" placement="page" status="official">
                 <Label>a</Label>
