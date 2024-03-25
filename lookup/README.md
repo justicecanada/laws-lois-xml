@@ -1,4 +1,4 @@
-# Lookup XML - [Aller en français](https://github.com/justicecanada/laws-lois-xml/edit/main/lookup/README.md#lookup-xml---fran%C3%A7ais)
+# Lookup XML - [Aller en français](https://github.com/justicecanada/laws-lois-xml/tree/main/lookup#lookup-xml---fran%C3%A7ais)
 The Lookup XML files are used for referencing the metadata of all the laws.
 
 > [!IMPORTANT]
