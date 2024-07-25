@@ -739,8 +739,10 @@
           <xsl:text>-</xsl:text>
           <xsl:value-of select="translate(parent::Provision/@subsequent-line-indent, '.', 'o')" />
         </xsl:when>
-        <xsl:when test="parent::*[@type='amending']"><xsl:value-of select="name(parent::*)" /> amending</xsl:when>
+        <xsl:when test="parent::*[@type='amending' or @type='repeal']"><xsl:value-of select="name(parent::*)" /> amending</xsl:when>
         <xsl:when test="parent::*[@type='transitional']"><xsl:value-of select="name(parent::*)" /> transitional</xsl:when>
+        <xsl:when test="parent::*[@type='application']"><xsl:value-of select="name(parent::*)" /> transitional</xsl:when>
+        <xsl:when test="parent::*[@type='CIF']"><xsl:value-of select="name(parent::*)" /> CIF</xsl:when>
         <xsl:when test="parent::FormulaParagraph/parent::FormulaParagraph">FormulaSubparagraph</xsl:when>
         <xsl:when test="parent::FormulaParagraph/parent::FormulaParagraph/parent::FormulaParagraph">
           <xsl:text>FormulaClause</xsl:text>
@@ -754,6 +756,18 @@
       <xsl:attribute name="class">
         <xsl:value-of select="$class"/>
       </xsl:attribute>
+      <xsl:choose>
+        <xsl:when test="parent::*/@lims:id">
+          <xsl:attribute name="id">
+            <xsl:value-of select="parent::*/@lims:id"/>
+          </xsl:attribute>
+        </xsl:when>
+        <xsl:when test="parent::Provision/@id">
+          <xsl:attribute name="id">
+            <xsl:value-of select="parent::Provision/@id"/>
+          </xsl:attribute>
+        </xsl:when>
+      </xsl:choose>
       <xsl:if test="parent::Subsection[not(preceding-sibling::Subsection) and parent::Section]">
         <xsl:apply-templates select="parent::Subsection/parent::Section/Label" mode="pulled" />
       </xsl:if>
@@ -1879,6 +1893,12 @@
     </xsl:choose>
   </xsl:template>
 
+  <xsl:template match="XRefSection">
+    <span class="XRefExternalLink">
+      <xsl:apply-templates />
+    </span>
+  </xsl:template>
+  
   <xsl:template match="XRefExternal">
     <xsl:variable name="refStyle">
       <xsl:choose>
@@ -2271,6 +2291,16 @@
         </xsl:if>
       </xsl:otherwise>
     </xsl:choose>
+  </xsl:template>
+
+  <xsl:template match="InlineFont">
+    <span>
+      <xsl:attribute name="style">
+        <xsl:text>font-family:</xsl:text>
+        <xsl:value-of select="@font-family"/>
+      </xsl:attribute>
+      <xsl:apply-templates />
+    </span>
   </xsl:template>
 
   <xsl:template match="Emphasis">
