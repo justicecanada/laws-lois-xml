@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2010, v.4002-->
+<!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd"[]>
+<?Pub Inc?>
+<TOPS xml:lang="fr">
+  <Statute>
+    <Title>Western Canada Telephone Company, Loi abrogeant la Loi constituant en corporation The</Title>
+    <ChapterNumber>2000, ch. 29</ChapterNumber>
+    <OtherLangTitle>(Western Canada Telephone Company, An Act to repeal An Act to incorporate the)</OtherLangTitle>
+    <Minister>
+      <Text>Le ministre de l’Industrie</Text>
+    </Minister>
+    <CIF>
+      <Text>EEV, 2000, ch. 29 en vigueur 01.02.2001 <Emphasis style="italic">voir</Emphasis> TR/2001-18</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Western Dry Dock and Shipbuilding Co. (Subvention)</Title>
+    <ChapterNumber>1913, ch. 57</ChapterNumber>
+    <OtherLangTitle>(Western Dry Dock and Shipbuilding Co. (Subsidy))</OtherLangTitle>
+  </Statute>
+  <Statute>
+    <Title>Winnipeg, têtes de lignes</Title>
+    <OtherLangTitle>(Winnipeg Terminals)</OtherLangTitle>
+    <Minister>
+      <Text>Le ministre des Transports</Text>
+    </Minister>
+    <CIF>
+      <Text>1907, ch. 52; 1914, ch. 57</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Winnipeg, ventes de terres</Title>
+    <OtherLangTitle>(Winnipeg, Sales of Lands at)</OtherLangTitle>
+    <CIF>
+      <Text>1910, ch. 49; 1912, ch. 54</Text>
+    </CIF>
+  </Statute>
+</TOPS>
+<?Pub *0000001255?>

@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2010, v.4002-->
+<!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd"[]>
+<?Pub Inc?>
+<TOPS xml:lang="en" xmlns:atict="http://www.arbortext.com/namespace/atict">
+  <Statute>
+    <Title>Ukrainian Famine and Genocide (“Holodomor”) Memorial Day Act</Title>
+    <ChapterNumber>2008, c. 19</ChapterNumber>
+    <OtherLangTitle>(Jour commémoratif de la famine et du génocide ukrainiens (« l’Holodomor »), Loi sur le)</OtherLangTitle>
+    <CIF>
+      <Text>CIF, 2008, c. 19 in force on assent 29.05.2008</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Underused Housing Tax Act</Title>
+    <ChapterNumber>S.C., 2022, c. 5, s. 10</ChapterNumber>
+    <OtherLangTitle>(Taxe sur les logements sous-utilisés, Loi sur)</OtherLangTitle>
+    <Section>
+      <Label>2</Label>
+      <Text>2022, c. 19, s. 113; 2024, c. 17, s. 136</Text>
+    </Section>
+    <Section>
+      <Label>4.1</Label>
+      <Text>added, 2024, c. 17, s. 137</Text>
+    </Section>
+    <Section>
+      <Label>6</Label>
+      <Text>2022, c. 19, s. 114; 2024, c. 17, s. 138</Text>
+    </Section>
+    <Section>
+      <Label>7</Label>
+      <Text>2024, c. 17, s. 139</Text>
+    </Section>
+    <Section>
+      <Label>32</Label>
+      <Text>2024, c. 17, s. 140</Text>
+    </Section>
+    <Section>
+      <Label>34</Label>
+      <Text>2022, c. 5, s. 10; 2024, c. 15, s. 122; 2024, c. 17, ss. 105 and 111(24)</Text>
+    </Section>
+    <Section>
+      <Label>47</Label>
+      <Text>2022, c. 19, s. 115; 2024, c. 17, s. 141</Text>
+    </Section>
+    <Section>
+      <Label>62</Label>
+      <Text>2024, c. 17, s. 142</Text>
+    </Section>
+    <Section>
+      <Label>80</Label>
+      <Text>2024, c. 17, s. 143</Text>
+    </Section>
+    <Section>
+      <Label>83</Label>
+      <Text>2024, c. 17, s. 144</Text>
+    </Section>
+    <CIF>
+      <Text>CIF, 2022, c. 5, s. 10 in force on assent 09.06.2022</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2022, c. 19 (assent 15.12.2022)</Text>
+      <List>
+        <Item>
+          <Text>— ss. 113(1) and (2) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 112(3)</Text>
+        </Item>
+        <Item>
+          <Text>— s. 114(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 114(2)</Text>
+        </Item>
+        <Item>
+          <Text>— s. 115(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 115(2)</Text>
+        </Item>
+      </List>
+    </CIF>
+    <CIF>
+      <Text>CIF 2024, c. 15, s. 122(1) in force 28.06.2024 <Emphasis style="italic">see</Emphasis> SI/2024-33</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2024, c. 17 in force on assent 20.06.2024, <Emphasis style="italic">except</Emphasis></Text>
+      <List>
+        <Item>
+          <Text>— s. 111(24) in force 20.06.2024 (Coordinating amendment — conditions met 28.06.2024 <Emphasis style="italic">see</Emphasis> SI/2024-33)</Text>
+        </Item>
+        <Item>
+          <Text>— ss. 136(1), (4) and (5) deemed in force 01.01. 2023 <Emphasis style="italic">see</Emphasis> s. 136(6)</Text>
+        </Item>
+        <Item>
+          <Text>— ss. 136(2) and (3) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 136(7)</Text>
+        </Item>
+        <Item>
+          <Text>— s. 137(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 137(2)</Text>
+        </Item>
+        <Item>
+          <Text>— s. 138(2) deemed in force 01.01.2023 <Emphasis style="italic">see</Emphasis> s. 138(4)</Text>
+        </Item>
+        <Item>
+          <Text>— s. 138(3) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 138(5)</Text>
+        </Item>
+        <Item>
+          <Text>— ss. 140(1) and (2) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 140(3)</Text>
+        </Item>
+        <Item>
+          <Text>— s. 141(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 141(3)</Text>
+        </Item>
+        <Item>
+          <Text>
+            <Emphasis style="italic">See also</Emphasis> the application provision s. 141(4)</Text>
+        </Item>
+      </List>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Unemployment Assistance Act</Title>
+    <ChapterNumber>R.S.C., 1970, c. U-1</ChapterNumber>
+    <OtherLangTitle>(Assistance-chômage, Loi sur l’)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of Employment and Social Development (2013, c. 40, s. 220)(2005, c. 34, s. 80)</Text>
+    </Minister>
+    <Section>
+      <Label>2</Label>
+      <Text>1999, c. 31, s. 221; 2005, c. 34, par. 80(h); 2013, c. 40, subpar. 238(1)(l)(i)</Text>
+    </Section>
+    <Section>
+      <Label>6</Label>
+      <Text>1996, c. 11, s. 96; 2005, c. 34, par. 80(h); 2013, c. 40, subpar. 238(1)(l)(ii)</Text>
+    </Section>
+    <Schedule>
+      <Label>Sch.</Label>
+      <Text>1974-75-76, c. 58, s. 11; 1996, c. 23, par. 187(j)</Text>
+    </Schedule>
+    <CIF>
+      <Text>CIF, 1996, c. 11, s. 96 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96-70</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 1996, c. 23, s. 187 in force 30.06.96 <Emphasis style="italic">see</Emphasis> s. 190</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 1999, c. 31, s. 221 in force on assent 17.06.99</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2005, c. 34, s. 80 in force 05.10.2005 <Emphasis style="italic">see</Emphasis> SI/2005-99</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2013, c. 40, par. 238(1)(l) in force on assent 12.12.2013</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Unemployment Insurance Benefit Entitlement Adjustments (Pension Payments)</Title>
+    <ChapterNumber>1987, c. 17</ChapterNumber>
+    <OtherLangTitle>(Réexamen de l’admissibilité aux prestations d’assurance-chômage (pension), Loi sur le)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of Human Resources Development <Emphasis style="italic">see</Emphasis> 1996, c. 11, s. 96</Text>
+    </Minister>
+    <CIF>
+      <Text>CIF, 1987, c. 17 deemed in force 05.04.87 <Emphasis style="italic">see</Emphasis> s. 10</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>United Kingdom Financial Agreement</Title>
+    <OtherLangTitle>(Royaume-Uni, Loi de 1953 sur l’accord financier avec le)</OtherLangTitle>
+    <CIF>
+      <Text>1946, c. 12; 1950, c. 50, s. 10; 1951 (2nd Sess.), c. 27; 1953-54, c. 11; 1957, c. 37</Text>
+    </CIF>
+  </Statute>
+  <?Pub Caret -1?>
+  <Statute>
+    <Title>United Nations Act</Title>
+    <ChapterNumber>R.S., 1985, c. U-2</ChapterNumber>
+    <OtherLangTitle>(Nations Unies, Loi sur les)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of Foreign Affairs (1995, c. 5, s. 25(2))</Text>
+    </Minister>
+    <Section>
+      <Label>3</Label>
+      <Text>2001, c. 41, s. 112</Text>
+    </Section>
+    <CIF>
+      <Text>CIF, 2001, c. 41, s. 112 in force 24.12.2001 <Emphasis style="italic">see</Emphasis> SI/2002-16</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>United Nations Declaration on the Rights of Indigenous Peoples Act</Title>
+    <ChapterNumber>2021, c. 14</ChapterNumber>
+    <OtherLangTitle>(<Emphasis style="underline">Déclaration des Nations Unies sur les droits des peuples autochtones</Emphasis>, Loi concernant la)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of Justice</Text>
+    </Minister>
+    <Section>
+      <Label>2</Label>
+      <Text>2024, c. 30, s. 35</Text>
+    </Section>
+    <CIF>
+      <Text>CIF, 2021, c. 14, in force on assent 21.06.2021</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2024, c. 30, s. 35 in force on assent 27.11.2024</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>United Nations Foreign Arbitral Awards Convention Act</Title>
+    <ChapterNumber>R.S., 1985, c. 16 (2nd Supp.)</ChapterNumber>
+    <OtherLangTitle>(Convention des Nations Unies concernant les sentences arbitrales étrangères, Loi sur la)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of Justice</Text>
+    </Minister>
+    <Section>
+      <Label>6</Label>
+      <Text>2002, c. 8, s. 178</Text>
+    </Section>
+    <CIF>
+      <Text>CIF, R.S., c. 16 (2nd Supp.) proclaimed in force 10.08.86 <Emphasis style="italic">see</Emphasis> SI/86‑154</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2002, c. 8, s. 178 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>United States Treaty (Smuggling)</Title>
+    <ChapterNumber>1925, c. 54</ChapterNumber>
+    <OtherLangTitle>(États-Unis, Exécution du traité relatif à la contrebande)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of National Revenue</Text>
+    </Minister>
+  </Statute>
+  <Statute>
+    <Title>United States Wreckers Act</Title>
+    <ChapterNumber>R.S., 1985, c. U-3</ChapterNumber>
+    <OtherLangTitle>(Bateaux sauveteurs des États-Unis, Lois sur les)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of Transport</Text>
+    </Minister>
+  </Statute>
+  <Statute>
+    <Title>Universal Child Care Benefit Act</Title>
+    <ChapterNumber>2006, c. 4, s. 168</ChapterNumber>
+    <OtherLangTitle>(Prestation universelle pour la garde d’enfants, Loi sur la)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of Employment and Social Development (2013, c. 40, s. 220)</Text>
+    </Minister>
+    <Section>
+      <Label>2</Label>
+      <Text>2010, c. 25, s. 74; 2013, c. 40, par. 238(1)(m); 2015, c. 36, s. 35</Text>
+    </Section>
+    <Section>
+      <Label>3</Label>
+      <Text>2015, c. 36, s. 36</Text>
+    </Section>
+    <Section>
+      <Label>4</Label>
+      <Text>2010, c. 25, s. 75; 2015, c. 36, s. 37; 2016, c. 7, s. 53</Text>
+    </Section>
+    <CIF>
+      <Text>CIF, 2006, c. 4, s. 168 in force 01.07.2006 <Emphasis style="italic">see</Emphasis> s. 181</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2010, c. 25, ss. 74 and 75 in force on assent 15.12.2010; <Emphasis style="italic">see also</Emphasis> application provisions at ss. 74(2) and 75(2)</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2013, c. 40, par. 238(1)(m) in force on assent 12.12.2013</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2015, c. 36 (assent: 23.06.2015), ss. 35 to 37 in force 01.07.2015 <Emphasis style="italic">see</Emphasis> s. 40</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2016, c. 7 (assent: 22.06.2016), s. 53 in force 01.07.2016 <Emphasis style="italic">see</Emphasis> 54(2)</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Use of French in Federally Regulated Private Businesses Act</Title>
+    <ChapterNumber>2023, c. 15, s. 54</ChapterNumber>
+    <OtherLangTitle>(Usage du français au sein des entreprises privées de compétence fédérale, Loi sur l’)</OtherLangTitle>
+    <Section>
+      <Label>4</Label>
+      <Text>2023, c. 15, s. 55</Text>
+    </Section>
+    <Section>
+      <Label>7</Label>
+      <Text>2023, c. 15, s. 56</Text>
+    </Section>
+    <Section>
+      <Label>9</Label>
+      <Text>2023, c. 15, s. 57</Text>
+    </Section>
+    <Section>
+      <Label>9.2</Label>
+      <Text>2023, c. 15, s. 57</Text>
+    </Section>
+    <Section>
+      <Label>10</Label>
+      <Text>2023, c. 15, s. 58</Text>
+    </Section>
+    <Section>
+      <Label>11</Label>
+      <Text>2023, c. 15, s. 59</Text>
+    </Section>
+    <Section>
+      <Label>16</Label>
+      <Text>2023, c. 15, s. 60</Text>
+    </Section>
+    <Section>
+      <Label>19</Label>
+      <Text>2023, c. 15, s. 61; 2024, c. 17, s. 260</Text>
+    </Section>
+    <Section>
+      <Label>33</Label>
+      <Text>2023, c. 15, s. 62</Text>
+    </Section>
+    <Section>
+      <Label>41.1</Label>
+      <Text>added, 2023, c. 15, s. 63</Text>
+    </Section>
+    <Transitional>
+      <Text>Transitional, 2023, c. 15, s. 68</Text>
+    </Transitional>
+    <CIF>
+      <Text>CIF, 2023, c. 15 (assent: 20.06.2023)</Text>
+      <List>
+        <Item>
+          <Text>— ss. 1 to 42 as enacted by s. 54 of <XRefExternal reference-type="act">An Act for the Substantive Equality of Canada’s Official Languages</XRefExternal>, in force on a day to be fixed by the Governor in Council <Emphasis style="italic">see</Emphasis> s. 71(4) — Not in Force</Text>
+        </Item>
+        <Item>
+          <Text>— ss. 55 to 57.1, sub. 58(1), 59 (1) to (3) and (5) and ss. 60 to 63 comes into force on the second anniversary of the day fixed under sub. (4) <Emphasis style="italic">see</Emphasis> s. 71 — Not in Force</Text>
+        </Item>
+        <Item>
+          <Text>— ss. 58(2) comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 71 — Not in Force</Text>
+        </Item>
+        <Item>
+          <Text>— ss. 58(4) comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 71 — Not in Force</Text>
+        </Item>
+      </List>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2024, c. 17, s. 260 in force on assent 20.06.2024</Text>
+    </CIF>
+  </Statute>
+</TOPS>
+<?Pub *0000010968?>

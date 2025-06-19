@@ -1,0 +1,1113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2010, v.4002-->
+<!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd"[]>
+<?Pub Inc?>
+<TOPS xml:lang="en" xmlns:atict="http://www.arbortext.com/namespace/atict">
+  <Statute>
+    <Title>Yale First Nation Final Agreement Act</Title>
+    <ChapterNumber>2013 c. 25</ChapterNumber>
+    <OtherLangTitle>(Accord définitif concernant la Première Nation de Yale)</OtherLangTitle>
+    <Minister>
+      <Text>Introduced by Minister of Aboriginal Affairs and Northern Development</Text>
+    </Minister>
+    <General>
+      <Text>General, 2013, c. 25, s. 14 (application of laws of British Columbia)</Text>
+    </General>
+    <CIF>
+      <Text>CIF, 2013, c. 25, s. 18 in force on assent 19.06.2013</Text>
+      <List>
+        <Item>
+          <Text>— ss. 1 to 17, 19 to 23 and 34 come into force on a day or days to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 25 — Not in force</Text>
+        </Item>
+      </List>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>York Factory First Nation Flooded Land Act</Title>
+    <ChapterNumber>1997, c. 28</ChapterNumber>
+    <OtherLangTitle>(Première nation de York Factory relativement à la submersion de terres, Loi concernant la)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of Indian Affairs and Northern Development</Text>
+    </Minister>
+    <CIF>
+      <Text>CIF, 1997, c. 28 in force on assent 25.04.97</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Youth Criminal Justice Act</Title>
+    <ChapterNumber>2002, c. 1</ChapterNumber>
+    <OtherLangTitle>(Système de justice pénale pour les adolescents, Loi sur le)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of Justice</Text>
+    </Minister>
+    <Section>
+      <Label>2</Label>
+      <Text>2002, c. 7, s. 274; 2012, c. 1, s. 167; 2014, c. 2, s. 52</Text>
+    </Section>
+    <Section>
+      <Label>3</Label>
+      <Text>2012, c. 1, s. 168</Text>
+    </Section>
+    <Section>
+      <Label>4.1</Label>
+      <Text>added, 2019, c. 25, s. 361</Text>
+    </Section>
+    <Section>
+      <Label>6</Label>
+      <Text>2019, c. 25, s. 362</Text>
+    </Section>
+    <Section>
+      <Label>14</Label>
+      <Text>2015, c. 20, s. 32, c. 29, s. 14, c. 20, s. 36(8); 2019, c. 13, s. 159; 2024, c. 22, s. 9</Text>
+    </Section>
+    <Section>
+      <Label> 20</Label>
+      <Text>2019, c. 13, s. 160</Text>
+    </Section>
+    <Section>
+      <Label>24.1</Label>
+      <Text>added, 2019, c. 25, s. 363</Text>
+    </Section>
+    <Section>
+      <Label>25</Label>
+      <Text>2019, c. 13, s. 161; 2019, c. 25, s. 364</Text>
+    </Section>
+    <Section>
+      <Label>26</Label>
+      <Text>2019, c. 25, s. 365</Text>
+    </Section>
+    <Section>
+      <Label>28.1</Label>
+      <Text>added, 2019, c. 25, s. 367</Text>
+    </Section>
+    <Section>
+      <Label>29</Label>
+      <Text>2012, c. 1, s. 169; 2019, c. 13, s. 163; 2019, c. 25, s. 368</Text>
+    </Section>
+    <Section>
+      <Label>30</Label>
+      <Text>2019, c. 13, s. 164</Text>
+    </Section>
+    <Section>
+      <Label>30.1</Label>
+      <Text>added, 2019, c. 25, s. 369</Text>
+    </Section>
+    <Section>
+      <Label>32</Label>
+      <Text>2002, c. 13, s. 91; 2012, c. 1, s. 170</Text>
+    </Section>
+    <Section>
+      <Label>37</Label>
+      <Text>2012, c. 1, s. 171; 2019, c. 25, s. 370</Text>
+    </Section>
+    <Section>
+      <Label>38</Label>
+      <Text>2012, c. 1, s. 172; 2019, c. 25, s. 371</Text>
+    </Section>
+    <Section>
+      <Label>39</Label>
+      <Text>2012, c. 1, s. 173; 2019, c. 25, s. 372</Text>
+    </Section>
+    <Section>
+      <Label>42</Label>
+      <Text>2012, c. 1, s. 174; 2019, c. 25, s. 373</Text>
+    </Section>
+    <Section>
+      <Label>55</Label>
+      <Text>2019, c. 25, s. 374</Text>
+    </Section>
+    <Section>
+      <Label>59</Label>
+      <Text>2019, c. 25, s. 375</Text>
+    </Section>
+    <Section>
+      <Label>61</Label>
+      <Text>repealed, 2012, c. 1, s. 175</Text>
+    </Section>
+    <Section>
+      <Label>62</Label>
+      <Text>repealed, 2012, c. 1, s. 175</Text>
+    </Section>
+    <Section>
+      <Label>63</Label>
+      <Text>repealed, 2012, c. 1, s. 175</Text>
+    </Section>
+    <Section>
+      <Label>64</Label>
+      <Text>2012, c. 1, s. 176; 2019, c. 25, s. 376</Text>
+    </Section>
+    <Section>
+      <Label>65</Label>
+      <Text>repealed, 2012, c. 1, s. 177</Text>
+    </Section>
+    <Section>
+      <Label>66</Label>
+      <Text>repealed, 2012, c. 1, s. 177</Text>
+    </Section>
+    <Section>
+      <Label>67</Label>
+      <Text>2002, c. 13, s. 91; 2012, c. 1, s. 178; 2019, c. 13, s. 166</Text>
+    </Section>
+    <Section>
+      <Label>68</Label>
+      <Text>repealed, 2012, c. 1, s. 179</Text>
+    </Section>
+    <Section>
+      <Label>69</Label>
+      <Text>repealed, 2012, c. 1, s. 180</Text>
+    </Section>
+    <Section>
+      <Label>70</Label>
+      <Text>repealed, 2012, c. 1, s. 181</Text>
+    </Section>
+    <Section>
+      <Label>71</Label>
+      <Text>2012, c. 1, s. 182</Text>
+    </Section>
+    <Section>
+      <Label>72</Label>
+      <Text>2012, c. 1, s. 183</Text>
+    </Section>
+    <Section>
+      <Label>73</Label>
+      <Text>2012, c. 1, s. 184</Text>
+    </Section>
+    <Section>
+      <Label>75</Label>
+      <Text>2012, c. 1, s. 185; repealed, 2019, c. 25, s. 377</Text>
+    </Section>
+    <Section>
+      <Label>76</Label>
+      <Text>2012, c. 1, s. 186; 2019, c. 25, s. 378</Text>
+    </Section>
+    <Section>
+      <Label>77</Label>
+      <Text>2012, c. 1, subpar. 160(l)(i)</Text>
+    </Section>
+    <Section>
+      <Label>81</Label>
+      <Text>2012, c. 1, s. 187</Text>
+    </Section>
+    <Section>
+      <Label>82</Label>
+      <Text>2012, c. 1, s. 156, subpar. 160(l)(ii) and s. 188</Text>
+    </Section>
+    <Section>
+      <Label>110</Label>
+      <Text>2012, c. 1, s. 189; 2019, c. 25, s. 379</Text>
+    </Section>
+    <Section>
+      <Label>115</Label>
+      <Text>2012, c. 1, s. 190</Text>
+    </Section>
+    <Section>
+      <Label>119</Label>
+      <Text>2012, c. 1, ss. 157 and 191(F); 2019, c. 13, s. 167</Text>
+    </Section>
+    <Section>
+      <Label>120</Label>
+      <Text>2012, c. 1, ss. 158 and 192</Text>
+    </Section>
+    <Section>
+      <Label>126</Label>
+      <Text>2004, c. 11, s. 48</Text>
+    </Section>
+    <Section>
+      <Label>128</Label>
+      <Text>2004, c. 11, s. 49; 2012, c. 1, s. 159</Text>
+    </Section>
+    <Section>
+      <Label>134</Label>
+      <Text>2019, c. 25, s. 380</Text>
+    </Section>
+    <Section>
+      <Label>135</Label>
+      <Text>2019, c. 25, s. 381</Text>
+    </Section>
+    <Section>
+      <Label>141</Label>
+      <Text>2005, c. 22, s. 63</Text>
+    </Section>
+    <Section>
+      <Label>142</Label>
+      <Text>2015, c. 20, s. 33, c. 29, s. 15, c. 20, s. 36(9); 2024, c. 22, s. 10</Text>
+    </Section>
+    <Section>
+      <Label>160</Label>
+      <Text>repealed, 2012, c. 1, s. 193</Text>
+    </Section>
+    <Section>
+      <Label>161</Label>
+      <Text>2019, c. 25, s. 382</Text>
+    </Section>
+    <Section>
+      <Label>162</Label>
+      <Text>2012, c. 1, s. 194</Text>
+    </Section>
+    <Schedule>
+      <Label>Schedule</Label>
+    </Schedule>
+    <Section>
+      <Label>1</Label>
+      <Text>2014, c. 25, s. 43; 2019, c. 25, s. 383</Text>
+    </Section>
+    <Section>
+      <Label>1.1</Label>
+      <Text>added, 2014, c. 25, s. 43(3)</Text>
+    </Section>
+    <Section>
+      <Label>5</Label>
+      <Text>added, 2018, c. 16, s. 184</Text>
+    </Section>
+    <CoordinatingAmendment>
+      <Text>Coordinating amendment, 2002, c. 7, s. 274</Text>
+    </CoordinatingAmendment>
+    <CoordinatingAmendment>
+      <Text>Coordinating amendments, 2002, c. 13, s. 91</Text>
+    </CoordinatingAmendment>
+    <CoordinatingAmendment>
+      <Text>Coordinating amendments, 2015, c. 20, s. 36(8) and (9)</Text>
+    </CoordinatingAmendment>
+    <General>
+      <Text>General, 2014, c. 25, s. 45.1 (review and report)</Text>
+    </General>
+    <General>
+      <Text>General, 2019, c. 13, ss. 162 (heading before section 28) and 165 (heading before section 33)</Text>
+    </General>
+    <General>
+      <Text>General, 2019, c. 25, s. 366 (heading before s. 28)</Text>
+    </General>
+    <Transitional>
+      <Text>Transitional, 2012, c. 1, s. 195</Text>
+    </Transitional>
+    <Transitional>
+      <Text>Transitional, 2019, c. 25, s. 384</Text>
+    </Transitional>
+    <CIF>
+      <Text>CIF, 2002, c. 1 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2002-91</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2002, c. 7, s. 274 in force on assent 27.03.2002 but effective 01.04.2003</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2002, c. 13, s. 91 in force on assent 04.06.2002 <Emphasis style="italic">see</Emphasis> s. 93 <Emphasis style="italic">but</Emphasis> effective 01.12.2003</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2004, c. 11, ss. 48 and 49 in force 21.05.2004 <Emphasis style="italic">see</Emphasis> SI/2004-58</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2005, c. 22, s. 63 in force 30.06.2005 <Emphasis style="italic">see</Emphasis> SI/2005-56 par. (a)</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2012, c. 1, s. 156 to 159 in force on assent 13.03.2012 <Emphasis style="italic">see</Emphasis> s. 166(1); ss. 167 to 195 in force 23.10.2012 <Emphasis style="italic">see</Emphasis> SI/2012-48; par. 160(l) in force 28.02.2013 <Emphasis style="italic">see</Emphasis> SI/2013-13</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2014, c. 2 (assent: 25.03.2014), s. 52 in force 01.04.2014 <Emphasis style="italic">see</Emphasis> SI/2014-34</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2014, c. 25 (assent: 06.11.2014), ss. 43 and 45.1 in force 06.12.2014 <Emphasis style="italic">see</Emphasis> s. 49</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2015, c. 20, s. 36 in force on assent 18.06.2015; ss. 32 and 33 in force 19.07.2015 <Emphasis style="italic">see</Emphasis> s. 39(1)</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2015, c. 29 (assent: 18.06.2015), ss. 14 and 15 in force 17.07.2015 <Emphasis style="italic">see</Emphasis> SI/2015-67 (Extra No.3, 17.07.2015 and No.15, 29.07.2015, p. 2526</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2018, c. 16 (assent: 21.06.2018), s. 184 in force 17.10.2018 <Emphasis style="italic">see</Emphasis> SI/2018-52</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2019, c. 13, ss. 159 to 167 in force on assent: 21.06.2019</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2019, c. 25 (assent: 21.06.2019)</Text>
+      <List>
+        <Item>
+          <Text>— ss. 370(1), 376 to 379, and 382 in force 19.09.2019 <Emphasis style="italic">see</Emphasis> s. 406</Text>
+        </Item>
+        <Item>
+          <Text>— ss. 361 to 369, 370(2), 371 to 375, 380, and 381 in force 18.12.2019 <Emphasis style="italic">see</Emphasis> s. 407 NOTE: s. 366 repealed by 2019, c. 25, s. 404(5)</Text>
+        </Item>
+      </List>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2024, c. 22, s. 9 and 10 in force 180 days after the day on which the <XRefExternal reference-type="act">Act to amend the Criminal Code and to make consequential amendments to another Act (interim release and domestic violence recognizance orders)</XRefExternal> receives royal assent <Emphasis style="italic">see</Emphasis> s. 12 (08.04.2025)</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Yukon Act</Title>
+    <ChapterNumber>2002, c. 7</ChapterNumber>
+    <OtherLangTitle>(Yukon, Loi sur le)</OtherLangTitle>
+    <?Pub Caret -2?>
+    <Minister>
+      <Text>Minister of Northern Affairs (<Emphasis style="italic">see</Emphasis> s. 2)</Text>
+    </Minister>
+    <Section>
+      <Label>2</Label>
+      <Text>2019, c. 29, s. 374(j)</Text>
+    </Section>
+    <Section>
+      <Label>3</Label>
+      <Text>repealed, 2024, c. 30, s. 22</Text>
+    </Section>
+    <Section>
+      <Label>4</Label>
+      <Text>2002, c. 7, s. 68</Text>
+    </Section>
+    <Section>
+      <Label>5</Label>
+      <Text>2017, c. 33, s. 257</Text>
+    </Section>
+    <Section>
+      <Label>22</Label>
+      <Text>2002, c. 7, s. 69</Text>
+    </Section>
+    <Section>
+      <Label>23</Label>
+      <Text>2012, c. 19, s. 216</Text>
+    </Section>
+    <Section>
+      <Label>33</Label>
+      <Text>2002, c. 7, s. 70; 2017, c. 26, subpar. 62(l)(i)</Text>
+    </Section>
+    <Section>
+      <Label>33.1</Label>
+      <Text>added, 2002, c. 7, s. 71</Text>
+    </Section>
+    <Section>
+      <Label>33.2</Label>
+      <Text>added, 2002, c. 7, s. 71</Text>
+    </Section>
+    <Section>
+      <Label>33.3</Label>
+      <Text>added, 2002, c. 7, s. 71</Text>
+    </Section>
+    <Section>
+      <Label>34</Label>
+      <Text>2002, c. 7, s. 72; 2017, c. 26, s. 46 and subpar. 62(l)(ii)</Text>
+    </Section>
+    <Section>
+      <Label>35</Label>
+      <Text>2002, c. 7, s. 73</Text>
+    </Section>
+    <Section>
+      <Label>36</Label>
+      <Text>2002, c. 7, s. 74</Text>
+    </Section>
+    <Section>
+      <Label>37</Label>
+      <Text>2002, c. 7, s. 75</Text>
+    </Section>
+    <Section>
+      <Label>37.1</Label>
+      <Text>added, 2002, c. 7, s. 75</Text>
+    </Section>
+    <Section>
+      <Label>37.2</Label>
+      <Text>added, 2002, c. 7, s. 75</Text>
+    </Section>
+    <Section>
+      <Label>37.3</Label>
+      <Text>added, 2002, c. 7, s. 75</Text>
+    </Section>
+    <Section>
+      <Label>37.4</Label>
+      <Text>added, 2002, c. 7, s. 75</Text>
+    </Section>
+    <Section>
+      <Label>55</Label>
+      <Text>repealed, 2002, c. 7, s. 76</Text>
+    </Section>
+    <Section>
+      <Label>55.1</Label>
+      <Text>added, 2023, c. 26, s. 307</Text>
+    </Section>
+    <Section>
+      <Label>64</Label>
+      <Text>2017, c. 26, s. 47(F)</Text>
+    </Section>
+    <Section>
+      <Label>65</Label>
+      <Text>2017, c. 26, s. 48(F)</Text>
+    </Section>
+    <Section>
+      <Label>76</Label>
+      <Text>2019, c. 28, s. 172</Text>
+    </Section>
+    <Section>
+      <Label>153</Label>
+      <Text>repealed, 2002, c. 7, s. 272</Text>
+    </Section>
+    <CoordinatingAmendment>
+      <Text>Coordinating amendments, 2002, c. 7, s. 272(2) and s. 273</Text>
+    </CoordinatingAmendment>
+    <CoordinatingAmendment>
+      <Text>Coordinating amendment, 2003, c. 22, s. 276</Text>
+    </CoordinatingAmendment>
+    <CoordinatingAmendment>
+      <Text>Coordinating amendment, 2017, c. 26, s. 72</Text>
+    </CoordinatingAmendment>
+    <CoordinatingAmendment>
+      <Text>Coordinating amendments, 2019, c. 28, ss. 189 to 191</Text>
+    </CoordinatingAmendment>
+    <General>
+      <Text>General, 2024, c. 30, s. 21(E) (heading before s. 2)</Text>
+    </General>
+    <CIF>
+      <Text>CIF, 2002, c. 7, ss. 272 to 278 in force on assent 27.03.2002</Text>
+      <List>
+        <Item>
+          <Text>— ss. 1 to 69, 76, 78 to 116, 117(1), 118 to 166, 169 to 209, 212 to 220, 222 to 226, 228 to 232, 234 to 271, 279 to 282 and 284 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+        </Item>
+        <Item>
+          <Text>— s. 68 states that s. 4(3) of the <XRefExternal reference-type="act">Yukon Act</XRefExternal> is repealed on the day that is 10 years after the day on which that subsection comes into force — effective 01.04.2013</Text>
+        </Item>
+        <Item>
+          <Text>— s. 69 states that s. 22(1) of the <XRefExternal reference-type="act">Yukon Act</XRefExternal> is renumbered as s. 22 and s. 22(2) and (3) are repealed on the first day on which the final agreements of all first nations, within the meaning the <XRefExternal reference-type="act">Yukon First Nations Land Claims Settlement Act</XRefExternal>, chapter 34 of the Statutes of Canada, 1994, are in effect. The Minister shall publish a notice of that day in the <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal></Text>
+        </Item>
+        <Item>
+          <Text>— ss. 70 to 75 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 285(2) — Not in force</Text>
+        </Item>
+        <Item>
+          <Text>[<Emphasis style="italic">Note</Emphasis>: at the coming into force of 2002, c. 7, s. 72, the portion of s. 34(1) before par. (a) is replaced <Emphasis style="italic">see</Emphasis> 2017, c. 26, s. 72(2)]</Text>
+        </Item>
+        <Item>
+          <Text>— s. 76 states that s. 55 of the <XRefExternal reference-type="act">Yukon Act</XRefExternal> is repealed on the day on which the National Energy Board gives leave to open the last section or part of the pipeline referred to in the <XRefExternal reference-type="act">Northern Pipeline Act.</XRefExternal> The Minister shall publish a notice of that day in the <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal></Text>
+        </Item>
+        <Item>
+          <Text>— ss. 77, 117(2), 167, 168, 221, 227, 233 and 283 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 285(3) — Not in force</Text>
+        </Item>
+      </List>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2003, c. 22, s. 276 in force on assent 07.11.2003</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2012, c. 19, s. 216 in force 08.03.2013 <Emphasis style="italic">see</Emphasis> SI/2013-25</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2017, c. 26, ss. 46 to 48 and par. 62(l) in force on assent 12.12.2017</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2017, c. 33 (assent: 14.12.2017), s. 257 in force 01.10.2018 <Emphasis style="italic">see</Emphasis> SI/2018-83</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2019, c. 28 (assent: 21.06.2019)</Text>
+      <List>
+        <Item>
+          <Text>— s. 172 in force 28.08.2019 <Emphasis style="italic">see</Emphasis> SI/2019-86</Text>
+        </Item>
+        <Item>
+          <Text>— ss. 189 to 191 in force on assent 21.06.2019</Text>
+        </Item>
+      </List>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2019, c. 29 (assent: 21.06.2019), s. 374 in force 15.07.2019</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2024, c. 30, ss. 21 and 22 in force on assent 27.11.2024</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Yukon and Nunavut Regulatory Improvement Act</Title>
+    <ChapterNumber>2015, c. 19</ChapterNumber>
+    <OtherLangTitle>(Amélioration de la réglementation au Yukon et au Nunavut, Loi sur l’)</OtherLangTitle>
+    <Section>
+      <Label>39</Label>
+      <Text>2017, c. 34, s. 9</Text>
+    </Section>
+    <CoordinatingAmendment>
+      <Text>Coordinating amendment, 2015, c. 19, s. 55</Text>
+    </CoordinatingAmendment>
+    <Transitional>
+      <Text>Transitionals, 2015, c. 19, ss. 39 and 40</Text>
+    </Transitional>
+    <CIF>
+      <Text>CIF, 2015, c. 19, ss. 1 to 41, 46 and 49 to 55 in force on assent 18.06.2015; ss. 42 to 45, 47 and 48 in force 19.06.2016</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2017, c. 34, s. 9 in force on assent 14.12.2017</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Yukon Boundary (<Emphasis style="italic">see</Emphasis> Provincial Boundaries)</Title>
+    <OtherLangTitle>(Frontières provinciales :)</OtherLangTitle>
+  </Statute>
+  <Statute>
+    <Title>Yukon Environmental and Socio-economic Assessment Act</Title>
+    <ChapterNumber>2003, c. 7 </ChapterNumber>
+    <OtherLangTitle>(Évaluation environnementale et socioéconomique au Yukon, Loi sur l’)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of Northern Affairs (<Emphasis style="italic">see</Emphasis> s. 2)</Text>
+    </Minister>
+    <Section>
+      <Label>2</Label>
+      <Text>2003, c. 7, s. 133(3)(E); 2019, c. 29, s. 374(l)</Text>
+    </Section>
+    <Section>
+      <Label>6</Label>
+      <Text>2015, c. 19, s. 2; 2019, c. 28, s. 188(b)</Text>
+    </Section>
+    <Section>
+      <Label>6.1</Label>
+      <Text>added, 2015, c. 19, s. 2; 2017, c. 34, s. 1</Text>
+    </Section>
+    <Section>
+      <Label>8</Label>
+      <Text>2015, c. 19, s. 3</Text>
+    </Section>
+    <Section>
+      <Label>10</Label>
+      <Text>2015, c. 19, s. 4</Text>
+    </Section>
+    <Section>
+      <Label>11</Label>
+      <Text>2015, c. 19, s. 5</Text>
+    </Section>
+    <Section>
+      <Label>14</Label>
+      <Text>2003, c. 22, s. 277(E)</Text>
+    </Section>
+    <Section>
+      <Label>28</Label>
+      <Text>2017, c. 26, par. 62(n)</Text>
+    </Section>
+    <Section>
+      <Label>30</Label>
+      <Text>2015, c. 19, s. 6</Text>
+    </Section>
+    <Section>
+      <Label>31</Label>
+      <Text>2015, c. 19, s. 7</Text>
+    </Section>
+    <Section>
+      <Label>35</Label>
+      <Text>2015, c. 19, s. 8</Text>
+    </Section>
+    <Section>
+      <Label>42</Label>
+      <Text>2015, c. 19, s. 9</Text>
+    </Section>
+    <Section>
+      <Label>43</Label>
+      <Text>2015, c. 19, s. 10</Text>
+    </Section>
+    <Section>
+      <Label>46.1</Label>
+      <Text>added, 2015, c. 19, s. 11</Text>
+    </Section>
+    <Section>
+      <Label>47</Label>
+      <Text>2015, c. 19, s. 12</Text>
+    </Section>
+    <Section>
+      <Label>48</Label>
+      <Text>2015, c. 19, s. 13</Text>
+    </Section>
+    <Section>
+      <Label>49.1</Label>
+      <Text>added, 2015, c. 19, s. 14; repealed, 2017, c. 34, s. 2</Text>
+    </Section>
+    <Section>
+      <Label>50</Label>
+      <Text>2015, c. 19, s. 15</Text>
+    </Section>
+    <Section>
+      <Label>56</Label>
+      <Text>2015, c. 19, s. 16; 2017, c. 34, s. 3</Text>
+    </Section>
+    <Section>
+      <Label>58</Label>
+      <Text>2015, c. 19, s. 17; 2017, c. 34, s. 4</Text>
+    </Section>
+    <Section>
+      <Label>59</Label>
+      <Text>2015, c. 19, s. 18</Text>
+    </Section>
+    <Section>
+      <Label>61</Label>
+      <Text>2015, c. 19, s. 19</Text>
+    </Section>
+    <Section>
+      <Label>62</Label>
+      <Text>2015, c. 19, s. 19</Text>
+    </Section>
+    <Section>
+      <Label>63 and 64</Label>
+      <Text>repealed, 2015, c. 19, s. 19</Text>
+    </Section>
+    <Section>
+      <Label>65</Label>
+      <Text>2015, c. 19, s. 20</Text>
+    </Section>
+    <Section>
+      <Label>66.1</Label>
+      <Text>added, 2015, c. 19, s. 21; repealed, 2017, c. 34, s. 5</Text>
+    </Section>
+    <Section>
+      <Label>66.2</Label>
+      <Text>added, 2015, c. 19, s. 21</Text>
+    </Section>
+    <Section>
+      <Label>67</Label>
+      <Text>2015, c. 19, s. 22</Text>
+    </Section>
+    <Section>
+      <Label>72</Label>
+      <Text>2015, c. 19, s. 23; 2017, c. 34, s. 6</Text>
+    </Section>
+    <Section>
+      <Label>73</Label>
+      <Text>repealed, 2015, c. 19, s. 24</Text>
+    </Section>
+    <Section>
+      <Label>75</Label>
+      <Text>2015, c. 19, s. 25</Text>
+    </Section>
+    <Section>
+      <Label>76</Label>
+      <Text>2015, c. 19, s. 26</Text>
+    </Section>
+    <Section>
+      <Label>77</Label>
+      <Text>2015, c. 19, s. 27; 2017, c. 34, s. 7</Text>
+    </Section>
+    <Section>
+      <Label>81</Label>
+      <Text>2003, c. 7, s. 133(5); 2015, c. 19, s. 28</Text>
+    </Section>
+    <Section>
+      <Label>86</Label>
+      <Text>2003, c. 7, s. 133(5)</Text>
+    </Section>
+    <Section>
+      <Label>87</Label>
+      <Text>2019, c. 28, s. 176</Text>
+    </Section>
+    <Section>
+      <Label>88.1</Label>
+      <Text>added, 2015, c. 19, s. 29</Text>
+    </Section>
+    <Section>
+      <Label>93.1</Label>
+      <Text>added, 2015, c. 19, s. 30</Text>
+    </Section>
+    <Section>
+      <Label>112</Label>
+      <Text>2015, c. 19, s. 31</Text>
+    </Section>
+    <Section>
+      <Label>113</Label>
+      <Text>2015, c. 19, s. 32</Text>
+    </Section>
+    <Section>
+      <Label>115</Label>
+      <Text>2003, c. 7, s. 133(6)(E)</Text>
+    </Section>
+    <Section>
+      <Label>116</Label>
+      <Text>2003, c. 7, s. 132(3)</Text>
+    </Section>
+    <Section>
+      <Label>118</Label>
+      <Text>2015, c. 19, s. 33(E)</Text>
+    </Section>
+    <Section>
+      <Label>121.1</Label>
+      <Text>added, 2015, c. 19, s. 34</Text>
+    </Section>
+    <Section>
+      <Label>122</Label>
+      <Text>2015, c. 19, s. 35</Text>
+    </Section>
+    <Section>
+      <Label>122.1</Label>
+      <Text>added, 2015, c. 19, s. 36; repealed, 2017, c. 34, s. 8</Text>
+    </Section>
+    <Section>
+      <Label>123</Label>
+      <Text>2015, c. 19, s. 37(F)</Text>
+    </Section>
+    <Schedule>
+      <Label>Schedule</Label>
+    </Schedule>
+    <Heading>
+      <Label>Part I</Label>
+      <Text>2015, c. 19, s. 38; 2019, c. 28, ss. 177 and 178</Text>
+    </Heading>
+    <CoordinatingAmendment>
+      <Text>Coordinating amendments, 2003, c. 7, ss. 132 and 133</Text>
+    </CoordinatingAmendment>
+    <CoordinatingAmendment>
+      <Text>Coordinating amendment, 2003, c. 22, s. 277</Text>
+    </CoordinatingAmendment>
+    <Transitional>
+      <Text>Transitional, 2015, c. 19, ss. 39 and 40</Text>
+    </Transitional>
+    <CIF>
+      <Text>CIF, 2003, c. 7 (assent: 13.05.2003)</Text>
+      <List>
+        <Item>
+          <Text>— ss. 1 to 5, 7 to 39, 127 to 130, 132 and 133 in force on assent 13.05.2003</Text>
+        </Item>
+        <Item>
+          <Text>— s. 6, Part 2 (ss. 40 to 123) and ss. 124 to 126 and 131 in force 13.11.2004 <Emphasis style="italic">see</Emphasis> s. 134</Text>
+        </Item>
+      </List>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2003, c. 22, s. 277 in force on assent 07.11.2003</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2015, c. 19, ss. 2 to 40 in force on assent 18.06.2015 <Emphasis style="italic">see</Emphasis> s. 56</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2017, c. 26, par. 62(n) in force on assent 12.12.2017</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2017, c. 34, ss. 1 to 8 in force on assent 14.12.2017</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2019, c. 28 (assent: 21.06.2019), ss. 176 to 178 and 188 in force 28.08.2019 <Emphasis style="italic">see</Emphasis> SI/2019-86</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2019, c. 29 (assent: 21.06.2019), s. 374 in force 15.07.2019</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Yukon First Nations Land Claims Settlement Act</Title>
+    <ChapterNumber>1994, c. 34</ChapterNumber>
+    <OtherLangTitle>(Règlement des revendications territoriales des premières nations du Yukon, Loi sur le)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of Northern Affairs (SI/2018-107, S.C. 2019, c. 29, s. 341(2))</Text>
+    </Minister>
+    <LongTitle>
+      <Label>Long title</Label>
+      <Text>2002, c. 7, s. 253</Text>
+    </LongTitle>
+    <Heading>
+      <Label>Preamble</Label>
+      <Text>2002, c. 7, s. 254</Text>
+    </Heading>
+    <Section>
+      <Label>10</Label>
+      <Text>repealed, 2009, c. 23, s. 339</Text>
+    </Section>
+    <Section>
+      <Label>11</Label>
+      <Text>2002, c. 7, s. 255(E)</Text>
+    </Section>
+    <Section>
+      <Label>15</Label>
+      <Text>2002, c. 7, s. 256(E); 2004, c. 11, s. 50; 2019, c. 29, ss. 371(2)(d) and 373(2)(d)</Text>
+    </Section>
+    <Section>
+      <Label>20</Label>
+      <Text>2002, c. 7, s. 257</Text>
+    </Section>
+    <Section>
+      <Label>21</Label>
+      <Text>2002, c. 7, s. 258</Text>
+    </Section>
+    <Schedule>
+      <Label>Sch.</Label>
+      <Text>1999, c. 31, ss. 224, 225</Text>
+    </Schedule>
+    <CIF>
+      <Text>CIF, 1994, c. 34, other than ss. 20(1), (2) and (4), in force 14.02.95 <Emphasis style="italic">see</Emphasis> SI/95‑19; ss. 20(1), (2) and (4) come into force on the first day on which the final agreements of all first nations have been given effect <Emphasis style="italic">see</Emphasis> s. 21(2) (these provisions amend Yukon Act, Y-2 which is repealed 01.04.2003 by 2002, c. 7, s. 280); ss. 20(1), (2) and (4) repealed <Emphasis style="italic">see</Emphasis> 2002, c. 7, s. 257</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 1999, c. 31, ss. 224 and 225 in force on assent 17.06.99</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2002, c. 7, ss. 253 to 258 and 280 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2004, c. 11, s. 50 in force 21.05.2004 <Emphasis style="italic">see</Emphasis> SI/2004-58</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2009, c. 23 (assent: 23.06.2009), s. 339 in force 17.10.2011 <Emphasis style="italic">see</Emphasis> SI/2011-87</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2019, c. 29 (assent: 21.06.2019), ss. 371 and 373 in force 15.07.2019</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Yukon First Nations Self-Government Act</Title>
+    <ChapterNumber>1994, c. 35</ChapterNumber>
+    <OtherLangTitle>(Autonomie gouvernementale des premières nations du Yukon, Loi sur l’)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of Indian Affairs and Northern Development</Text>
+    </Minister>
+    <LongTitle>
+      <Label>Long title</Label>
+      <Text>2002, c. 7, s. 259(E)</Text>
+    </LongTitle>
+    <Heading>
+      <Label>Preamble</Label>
+      <Text>2002, c. 7, s. 260</Text>
+    </Heading>
+    <Section>
+      <Label>2</Label>
+      <Text>2002, c. 7, s. 261; 2019, c. 29, s. 373(1)(c)</Text>
+    </Section>
+    <Section>
+      <Label>10</Label>
+      <Text>2002, c. 17, s. 31(F)</Text>
+    </Section>
+    <Section>
+      <Label>11</Label>
+      <Text>2002, c. 7, s. 262</Text>
+    </Section>
+    <Section>
+      <Label>13</Label>
+      <Text>2003, c. 7, s. 130</Text>
+    </Section>
+    <Section>
+      <Label>12</Label>
+      <Text>2002, c. 7, s. 263(E)</Text>
+    </Section>
+    <Section>
+      <Label>14</Label>
+      <Text>2002, c. 7, s. 264</Text>
+    </Section>
+    <Section>
+      <Label>15</Label>
+      <Text>2002, c. 7, s. 265, c. 8, s. 180</Text>
+    </Section>
+    <Section>
+      <Label>17</Label>
+      <Text>2002, c. 7, s. 266</Text>
+    </Section>
+    <Section>
+      <Label>18.1</Label>
+      <Text>added, 1999, c. 26, s. 35</Text>
+    </Section>
+    <Section>
+      <Label>22.1</Label>
+      <Text>added, 2006, c. 4, s. 98</Text>
+    </Section>
+    <Section>
+      <Label>24</Label>
+      <Text>2022, c. 9, s. 48</Text>
+    </Section>
+    <Section>
+      <Label>25</Label>
+      <Text>2002, c. 7, s. 267; 2004, c. 11, s. 51; 2019, c. 29, s. 371(1)(a)</Text>
+    </Section>
+    <Section>
+      <Label>32</Label>
+      <Text>2019, c. 29, s. 366</Text>
+    </Section>
+    <Schedule>
+      <Label>Sch. I</Label>
+      <Text>1999, c. 31, s. 226</Text>
+    </Schedule>
+    <Schedule>
+      <Label>Sch. II</Label>
+      <Text>SOR/97‑451, SOR/97‑456; SOR/98-425; SOR/2002-134; SOR/2004-9; SOR/2005-69, SOR/2005‑403</Text>
+    </Schedule>
+    <Schedule>
+      <Label>Sch. III, Part II:</Label>
+    </Schedule>
+    <Schedule>
+      <Label>Item 5</Label>
+      <Text>2002, c. 7, s. 268(E)</Text>
+    </Schedule>
+    <Schedule>
+      <Label>Sch. III, Part IV:</Label>
+    </Schedule>
+    <Schedule>
+      <Label>Item 3</Label>
+      <Text>2002, c. 7, s. 269(F)</Text>
+    </Schedule>
+    <CIF>
+      <Text>CIF, 1994, c. 35 comes into force on the day fixed by order of the Governor in Council for the coming into force of the <XRefExternal reference-type="act">Yukon First Nations Land Claims Settlement Act</XRefExternal> (1994, c. 34) <Emphasis style="italic">see</Emphasis> s. 40. <XRefExternal reference-type="act">Yukon First Nations Land Claims Settlement Act</XRefExternal> in force 14.02.95 <Emphasis style="italic">see</Emphasis> SI/95‑19</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 1999, c. 26, s. 35 in force on assent 17.06.99</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 1999, c. 31, s. 226 in force on assent 17.06.99</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2002, c. 7, ss. 259 to 269 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2002, c. 8, s. 180 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2002, c. 17, s. 31 in force 22.07.2002 <Emphasis style="italic">see</Emphasis> SI/2002-105</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2003, c. 7, s. 130 in force on assent 13.05.2003</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2004, c. 11, s. 51 in force 21.05.2004 <Emphasis style="italic">see</Emphasis> SI/2004-58</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2006, c. 4, s. 98(1) deemed in force 01.01.99 <Emphasis style="italic">see</Emphasis> s. 98(2)</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2019, c. 29 (assent: 21.06.2019), ss. 366, 371 and 373 in force 15.07.2019</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2022, c. 9, s. 48 in force on assent 23.06.2022</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Yukon Surface Rights Board Act</Title>
+    <ChapterNumber>1994, c. 43</ChapterNumber>
+    <OtherLangTitle>(Office des droits de surface du Yukon, Loi sur l’)</OtherLangTitle>
+    <Minister>
+      <Text>Minister of Northern Affairs (<Emphasis style="italic">see</Emphasis> s. 2)</Text>
+    </Minister>
+    <Repeal>
+      <Text>ACT REPEALED 2002, c. 7, s. 283 (Not in force)</Text>
+    </Repeal>
+    <Section>
+      <Label>2</Label>
+      <Text>1999, c. 31, s. 227; 2019, c. 29, s. 374(h)</Text>
+    </Section>
+    <Section>
+      <Label>5</Label>
+      <Text>2003, c. 7, s. 131</Text>
+    </Section>
+    <Section>
+      <Label>10</Label>
+      <Text>2013, c. 14, s. 12</Text>
+    </Section>
+    <Section>
+      <Label>11</Label>
+      <Text>2013, c. 14, s. 13</Text>
+    </Section>
+    <Section>
+      <Label>15</Label>
+      <Text>2003, c. 22, par. 224(<Emphasis style="italic">z</Emphasis>.86)(E)</Text>
+    </Section>
+    <Section>
+      <Label>15.1</Label>
+      <Text>added, 2013, c. 14, s. 14</Text>
+    </Section>
+    <Section>
+      <Label>18</Label>
+      <Text>2013, c. 14, s. 15</Text>
+    </Section>
+    <Section>
+      <Label>23</Label>
+      <Text>2012, c. 19, s. 185; 2013, c. 14, s. 16; 2017, c. 26, par. 62(g)</Text>
+    </Section>
+    <Section>
+      <Label>40</Label>
+      <Text>1998, c. 5, s. 15(F)</Text>
+    </Section>
+    <Section>
+      <Label>55</Label>
+      <Text>2019, c. 28, s. 163</Text>
+    </Section>
+    <Section>
+      <Label>59</Label>
+      <Text>2019, c. 29, s. 372(1)(i)</Text>
+    </Section>
+    <Section>
+      <Label>65</Label>
+      <Text>1998, c. 5, s. 16; 2002, c. 7, s. 270</Text>
+    </Section>
+    <Section>
+      <Label>75</Label>
+      <Text>1998, c. 5, s. 17(F)</Text>
+    </Section>
+    <Section>
+      <Label>76</Label>
+      <Text>2002, c. 8, s. 181; c. 10, ss. 192(F) and 202(F)</Text>
+    </Section>
+    <Section>
+      <Label>78</Label>
+      <Text>1998, c. 5, s. 18; 2002, c. 7, s. 271</Text>
+    </Section>
+    <Schedule>
+      <Label>Sch. I</Label>
+      <Text>SOR/98‑178; SOR/99-14; SOR/2002-378; SOR/2004-10; SOR/2005-70</Text>
+    </Schedule>
+    <Heading>
+      <Label>Part I</Label>
+      <Text></Text>
+    </Heading>
+    <Section>
+      <Label>11</Label>
+      <Text>added, SOR/2005-402</Text>
+    </Section>
+    <Heading>
+      <Label>Part II</Label>
+    </Heading>
+    <Section>
+      <Label>11</Label>
+      <Text>added, SOR/2005-402</Text>
+    </Section>
+    <CoordinatingAmendment>
+      <Text>Coordinating amendment, 2002, c. 10, s. 202</Text>
+    </CoordinatingAmendment>
+    <CoordinatingAmendment>
+      <Text>Coordinating amendment, 2003, c. 7, s. 133(7)</Text>
+    </CoordinatingAmendment>
+    <Transitional>
+      <Text>Transitional, 1998, c. 5, ss. 19 to 27; 2002, c. 7, ss. 117 and 119</Text>
+    </Transitional>
+    <Transitional>
+      <Text>Transitional, 2012, c. 19, s. 201 (application <Emphasis style="italic">re</Emphasis> s. 23(5))</Text>
+    </Transitional>
+    <CIF>
+      <Text>CIF, 1994, c. 43 in force 14.02.95 <Emphasis style="italic">see</Emphasis> SI/95‑19</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 1998, c. 5, ss. 15, 17 and 19 to 27 in force on assent 12.05.98; ss. 16 and 18 come into force on the transfer date <Emphasis style="italic">see</Emphasis> s. 28 (transfer date 19.11.98 <Emphasis style="italic">see</Emphasis> P.C. 1998‑2022)</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 1999, c. 31, s. 227 in force on assent 17.06.99</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2002, c. 7, ss. 270 and 271 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48; s. 283 comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 285(3) — Not in force</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2002, c. 8, s. 181 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2002, c. 10, ss. 192 and 202 in force on assent 30.04.2002</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2003, c. 7,</Text>
+      <List>
+        <Item>
+          <Text>— s. 133 in force on assent 13.05.2003</Text>
+        </Item>
+        <Item>
+          <Text>— s. 131 in force 13.11.2004 <Emphasis style="italic">see</Emphasis> s. 134</Text>
+        </Item>
+      </List>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2003, c. 22, s. 224 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2012, c. 19, ss. 185 and 201 in force on assent 29.06.2012</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2013, c. 14, ss. 12 to 16 in force on assent 19.06.2013</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2017, c. 26, par. 62(g) in force on assent 12.12.2017</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2019, c. 28 (assent: 21.06.2019), s. 163 in force 28.08.2019 <Emphasis style="italic">see</Emphasis> SI/2019-86</Text>
+    </CIF>
+    <CIF>
+      <Text>CIF, 2019, c. 29 (assent: 21.06.2019), ss. 372 and 374 in force 15.07.2019</Text>
+    </CIF>
+  </Statute>
+  <Statute>
+    <Title>Yukon Territory Act, 1898 (1898, c. 6) (<Emphasis style="italic">see</Emphasis> R.S.C. 1970, Appendix II, No. 18) (<Emphasis style="italic">see also</Emphasis> R.S., 1985, Appendix II, No. 19)</Title>
+    <OtherLangTitle>(Territoire du Yukon, Acte du) </OtherLangTitle>
+  </Statute>
+</TOPS>
+<?Pub *0000031158?>
