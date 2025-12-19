@@ -3057,6 +3057,11 @@
 <ChapterNumber>2001, c. 27</ChapterNumber>
 <FlicsAlpha>2001, c. 27</FlicsAlpha>
 </Statute>
+<Statute statuteid="">
+<Title>Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts, An Act to amend An Act to amend the</Title>
+<ChapterNumber>2015, c. 29</ChapterNumber>
+<FlicsAlpha>2015, c. 29</FlicsAlpha>
+</Statute>
 <Statute statuteid="1160054e">
 <Title>Impact Assessment Act</Title>
 <ChapterNumber>2019, c. 28, s. 1</ChapterNumber>
@@ -3499,7 +3504,7 @@
 <FlicsAlpha>R.S., 1985, c. 44 (4th Supp.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Lobbyists Registration ActTitle of Act changed: see Lobbying Act</Title>
+<Title>Lobbyists Registration Act </Title>
 <ChapterNumber>Lobbyists Registration Act</ChapterNumber>
 <FlicsAlpha>tops-4L</FlicsAlpha>
 </Statute>
@@ -3576,8 +3581,8 @@
 <FlicsAlpha>R.S.C. 1927, c. 124</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Marine and Aviation War Risks ActTitle of Act changed: see Marine War Risks Act</Title>
-<ChapterNumber>R.S.C. 1970, c. W-3</ChapterNumber>
+<Title>Marine and Aviation War Risks Act </Title>
+<ChapterNumber>Marine and Aviation War Risks Act</ChapterNumber>
 <FlicsAlpha>R.S.C. 1970, c. W-3</FlicsAlpha>
 </Statute>
 <Statute statuteid="348725e">
@@ -3757,7 +3762,7 @@
 </Statute>
 <Statute statuteid="">
 <Title>Motor Vehicle Transport Act, 1987</Title>
-<ChapterNumber>R.S., 1985, c. 29 (3rd Supp.)</ChapterNumber>
+<ChapterNumber>Motor Vehicle Transport Act</ChapterNumber>
 <FlicsAlpha>R.S., 1985, c. 29 (3rd Supp.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
@@ -3772,7 +3777,7 @@
 </Statute>
 <Statute statuteid="">
 <Title>Municipal Grants Act</Title>
-<ChapterNumber>R.S., 1985, c. M-13</ChapterNumber>
+<ChapterNumber>Municipal Grants Act</ChapterNumber>
 <FlicsAlpha>R.S., 1985, c. M-13</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
@@ -4044,11 +4049,11 @@
 </Statute>
 <Statute statuteid="">
 <Title>Navigable Waters Protection Act</Title>
-<ChapterNumber>R.S., 1985, c. N-22</ChapterNumber>
+<ChapterNumber>Navigable Waters Protection Act</ChapterNumber>
 <FlicsAlpha>N-22</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Navigation Protection ActTitle of Act changed see Navigable Waters Act, Canadian</Title>
+<Title>Navigation Protection Act </Title>
 <ChapterNumber>Navigation Protection Act</ChapterNumber>
 <FlicsAlpha>tops-3N</FlicsAlpha>
 </Statute>
@@ -4099,7 +4104,7 @@
 </Statute>
 <Statute statuteid="">
 <Title>Newfoundland, Terms of Union with Canada,</Title>
-<ChapterNumber>1949, c. 1 (see R.S., 1985, Appendix II, No. 32)</ChapterNumber>
+<ChapterNumber>Newfoundland, Terms of Union with Canada,</ChapterNumber>
 <FlicsAlpha>1949, c. 1</FlicsAlpha>
 </Statute>
 <Statute statuteid="365196e">
@@ -6056,7 +6061,7 @@
 <FlicsAlpha>1992, c. 52</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Wildlife Act, Canada (see Canada Wildlife Act)</Title>
+<Title>Wildlife Act, Canada</Title>
 <ChapterNumber>Wildlife Act</ChapterNumber>
 <FlicsAlpha>tops-3W</FlicsAlpha>
 </Statute>
@@ -6171,7 +6176,7 @@
 <Letter value="Z">
 <Statute statuteid="">
 <Title>Zero Tolerance for Barbaric Cultural Practices Act</Title>
-<ChapterNumber>2015, c. 29</ChapterNumber>
+<ChapterNumber>Zero Tolerance for Barbaric Cultural Practices Act</ChapterNumber>
 <FlicsAlpha>2015, c. 29</FlicsAlpha>
 </Statute>
 </Letter>
