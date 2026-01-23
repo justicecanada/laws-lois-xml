@@ -167,7 +167,7 @@
 <FlicsAlpha>1988, ch. 65</FlicsAlpha>
 </Statute>
 <Statute statuteid="143648f">
-<Title>Accord de libre-échange CanadaIsraël, Loi portant mise en oeuvre de l’</Title>
+<Title>Accord de libre-échange Canada Israël, Loi portant mise en oeuvre de l’</Title>
 <ChapterNumber>1996, ch. 33</ChapterNumber>
 <FlicsAlpha>1996, ch. 33</FlicsAlpha>
 </Statute>
@@ -668,7 +668,7 @@
 </Statute>
 <Statute statuteid="">
 <Title>Association canadienne des paiements, Loi sur l’</Title>
-<ChapterNumber>L.R. (1985), ch. C-21</ChapterNumber>
+<ChapterNumber>Association canadienne des paiements, Loi sur l’</ChapterNumber>
 <FlicsAlpha>L.R. (1985), ch. C-21</FlicsAlpha>
 </Statute>
 <Statute statuteid="94275f">
@@ -1010,9 +1010,9 @@
 <ChapterNumber>Canadian Pacific Railway (contrat avec le C.N.R.)</ChapterNumber>
 <FlicsAlpha>tops-4C</FlicsAlpha>
 </Statute>
-<Statute statuteid="72936f">
+<Statute statuteid="">
 <Title>Canadian Red Cross Society, Loi constituant en corporation la</Title>
-<ChapterNumber>1909, ch. 68</ChapterNumber>
+<ChapterNumber>Canadian Red Cross Society, Loi constituant en co</ChapterNumber>
 <FlicsAlpha>C-22.4</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
@@ -1075,9 +1075,9 @@
 <ChapterNumber>L.R. (1985), ch. C-47</ChapterNumber>
 <FlicsAlpha>C-47</FlicsAlpha>
 </Statute>
-<Statute statuteid="49155f">
+<Statute statuteid="">
 <Title>Centre canadien de gestion, Loi sur le</Title>
-<ChapterNumber>1991, ch. 16</ChapterNumber>
+<ChapterNumber>Centre canadien de gestion, Loi sur le</ChapterNumber>
 <FlicsAlpha>1991, ch. 16</FlicsAlpha>
 </Statute>
 <Statute statuteid="60210f">
@@ -1600,11 +1600,6 @@
 <ChapterNumber>L.R. (1985), ch. 24 (3e suppl.), partie III</ChapterNumber>
 <FlicsAlpha>L.R. (1985), ch. 24 (3e suppl.), partie III</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Convention concernant les oiseaux migrateurs, 1994 (voir Oiseaux migrateurs, Loi de 1994 sur la convention concernant les)</Title>
-<ChapterNumber>Convention concernant les oiseaux migrateurs, 199</ChapterNumber>
-<FlicsAlpha>tops-21C</FlicsAlpha>
-</Statute>
 <Statute statuteid="82926f">
 <Title>Convention Canada-Royaume-Uni relative aux jugements en matière civile et commerciale, Loi sur la</Title>
 <ChapterNumber>L.R. (1985), ch. C-30</ChapterNumber>
@@ -1616,9 +1611,9 @@
 <FlicsAlpha>tops-22C</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Convention concernant les oiseaux migrateurs, voir Oiseaux migrateurs...</Title>
-<ChapterNumber>Convention concernant les oiseaux migrateurs, voi</ChapterNumber>
-<FlicsAlpha>tops-23C</FlicsAlpha>
+<Title>Convention concernant les oiseaux migrateurs, 1994</Title>
+<ChapterNumber>Convention concernant les oiseaux migrateurs, 199</ChapterNumber>
+<FlicsAlpha>tops-21C</FlicsAlpha>
 </Statute>
 <Statute statuteid="451128f">
 <Title>Convention des Nations Unies concernant les sentences arbitrales étrangères, Loi sur la</Title>
@@ -1722,7 +1717,7 @@
 </Statute>
 <Statute statuteid="">
 <Title>Cour du banc de la reine de la province de Québec, Loi portant revision de la mention</Title>
-<ChapterNumber>1974-75-76, ch. 19 (modificationscorrélatives )</ChapterNumber>
+<ChapterNumber>1974-75-76, ch. 19 (modifications corrélatives)</ChapterNumber>
 <FlicsAlpha>1974-75-76, ch. 19</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
@@ -1785,9 +1780,9 @@
 <ChapterNumber>Contrôle de l’énergie atomique, Loi sur levoir Én</ChapterNumber>
 <FlicsAlpha>tops-34C</FlicsAlpha>
 </Statute>
-<Statute statuteid="109620f">
-<Title>Cris et les Naskapis du Québec, Loi sur les[nouvelle appellation voir Naskapis et la Commission crie-naskapie, Loi sur les]</Title>
-<ChapterNumber>1984, ch. 18</ChapterNumber>
+<Statute statuteid="">
+<Title>Cris et les Naskapis du Québec, Loi sur les </Title>
+<ChapterNumber>Cris et les Naskapis du Québec, Loi sur les </ChapterNumber>
 <FlicsAlpha>1984, ch. 18</FlicsAlpha>
 </Statute>
 <Statute statuteid="142582f">
@@ -1844,7 +1839,7 @@
 </Statute>
 <Statute statuteid="">
 <Title>Déclarations des personnes morales et des syndicats, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. C-43</ChapterNumber>
+<ChapterNumber>Déclarations des personnes morales et des syndica</ChapterNumber>
 <FlicsAlpha>L.R. (1985), ch. C-43</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
@@ -1913,7 +1908,7 @@
 <FlicsAlpha>E-20</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Développement des forêts et la recherche sylvicole Loi sur le</Title>
+<Title>Développement des forêts et la recherche sylvicole, Loi sur le</Title>
 <ChapterNumber>Développement des forêts et la recherche sylvicol</ChapterNumber>
 <FlicsAlpha>tops-1D</FlicsAlpha>
 </Statute>
@@ -2220,8 +2215,8 @@
 <FlicsAlpha>2004, ch. 10</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Enregistrement des lobbyistes, Loi sur l’,[Nouvelle appellation voir Lobbying, Loi sur le]</Title>
-<ChapterNumber>Enregistrement des lobbyistes, Loi sur l’,[Nouvel</ChapterNumber>
+<Title>Enregistrement des lobbyistes, Loi sur l’</Title>
+<ChapterNumber>Enregistrement des lobbyistes, Loi sur l’</ChapterNumber>
 <FlicsAlpha>tops-6E</FlicsAlpha>
 </Statute>
 <Statute statuteid="78039f">
@@ -2250,8 +2245,8 @@
 <FlicsAlpha>tops-7E</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Environnement canadien, semaine (voir Semaine canadien de l’environnement, Loi sur la)</Title>
-<ChapterNumber>Environnement canadien, semaine (voir Semaine can</ChapterNumber>
+<Title>Environnement canadien, semaine</Title>
+<ChapterNumber>Environnement canadien, semaine</ChapterNumber>
 <FlicsAlpha>tops-8E</FlicsAlpha>
 </Statute>
 <Statute statuteid="80789f">
@@ -2583,12 +2578,12 @@
 </Statute>
 <Statute statuteid="">
 <Title>Familles dans le besoin, Loi visant à aider les</Title>
-<ChapterNumber>2012, ch. 27 voir Code canadien du travail et Loi sur l’assurance-emploi</ChapterNumber>
+<ChapterNumber>Familles dans le besoin, Loi visant à aider les</ChapterNumber>
 <FlicsAlpha>2012, ch. 27</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Faune du Canada, voir Espèces sauvages du Canada, Loi sur les</Title>
-<ChapterNumber>Faune du Canada, voir Espèces sauvages du Canada,</ChapterNumber>
+<Title>Faune du Canada</Title>
+<ChapterNumber>Faune du Canada</ChapterNumber>
 <FlicsAlpha>tops-1F</FlicsAlpha>
 </Statute>
 <Statute statuteid="226644f">
@@ -2743,9 +2738,9 @@
 <ChapterNumber>2005, ch. 9</ChapterNumber>
 <FlicsAlpha>F-11.67</FlicsAlpha>
 </Statute>
-<Statute statuteid="219103f">
+<Statute statuteid="">
 <Title>Gestion financière et statistique des premières nations, Loi sur la</Title>
-<ChapterNumber>2005, ch. 9</ChapterNumber>
+<ChapterNumber>Gestion financière et statistique des premières n</ChapterNumber>
 <FlicsAlpha>2005, ch. 9</FlicsAlpha>
 </Statute>
 <Statute statuteid="329791f">
@@ -2844,11 +2839,6 @@
 <Title>Halifax, Loi sur la prise en charge des prestations de la Commission de secours d’</Title>
 <ChapterNumber>1974-75-76, ch. 88</ChapterNumber>
 <FlicsAlpha>1974-75-76, ch. 88</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Havre de Québec, Acte pour pourvoir à la nomination d’un gardien de port pour le voir Québec, Acte pour pourvoir à la nomination d’un gardien de port pour le Havre de</Title>
-<ChapterNumber>Havre de Québec, Acte pour pourvoir à la nominati</ChapterNumber>
-<FlicsAlpha>tops-2H</FlicsAlpha>
 </Statute>
 <Statute statuteid="248750f">
 <Title>Hudson Bay Mining and Smelting Co., Limited, Loi concernant l’</Title>
@@ -3008,7 +2998,7 @@
 <FlicsAlpha>G-5</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Indemnisation des dommages causés par des pesticides Loi sur l’</Title>
+<Title>Indemnisation des dommages causés par des pesticides, Loi sur l’</Title>
 <ChapterNumber>Indemnisation des dommages causés par des pestici</ChapterNumber>
 <FlicsAlpha>tops-3I</FlicsAlpha>
 </Statute>
@@ -3280,8 +3270,8 @@
 <FlicsAlpha>H-5</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Jugements en matière civile et commerciale (convention), voir Convention Canada</Title>
-<ChapterNumber>Royaume-Uni relative aux jugements en matière civile et commerciale, Loi sur la</ChapterNumber>
+<Title>Jugements en matière civile et commerciale (convention)</Title>
+<ChapterNumber>Jugements en matière civile et commerciale (conve</ChapterNumber>
 <FlicsAlpha>tops-2J</FlicsAlpha>
 </Statute>
 <Statute statuteid="328359f">
@@ -3307,8 +3297,8 @@
 </Letter>
 <Letter value="K">
 <Statute statuteid="">
-<Title>Kingsmere (voir Parc)</Title>
-<ChapterNumber>Kingsmere (voir Parc)</ChapterNumber>
+<Title>Kingsmere</Title>
+<ChapterNumber>Kingsmere</ChapterNumber>
 <FlicsAlpha>tops-1K</FlicsAlpha>
 </Statute>
 </Letter>
@@ -3767,11 +3757,11 @@
 </Statute>
 <Statute statuteid="">
 <Title>Mesures de réformes équitables concernant les réfugiés, Loi sur des</Title>
-<ChapterNumber>2010, ch. 8 voir Loi sur l’immigration et la protection des réfugiés</ChapterNumber>
+<ChapterNumber>2010, ch. 8 voir Immigration et la protection des réfugiés, Loi sur l’</ChapterNumber>
 <FlicsAlpha>2010, ch. 8</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes, Loi sur les --- 2005, ch. 21</Title>
+<Title>Mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes, Loi sur les</Title>
 <ChapterNumber>Mesures de réinsertion et d’indemnisation des mil</ChapterNumber>
 <FlicsAlpha>tops-2M</FlicsAlpha>
 </Statute>
@@ -3827,7 +3817,7 @@
 </Statute>
 <Statute statuteid="249683f">
 <Title>Ministère de l’Emploi et du Développement social, Loi sur le</Title>
-<ChapterNumber>2005, ch. 34 (Ancienne appellation  Ministère des Ressources humaines et du Développement des compétences, Loi sur le)</ChapterNumber>
+<ChapterNumber>2005, ch. 34 </ChapterNumber>
 <FlicsAlpha>2005, ch. 34</FlicsAlpha>
 </Statute>
 <Statute statuteid="173357f">
@@ -3836,7 +3826,7 @@
 <FlicsAlpha>E-10</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Ministère de l’Environnement, voir Organisation du gouvernement, Loi de 1970</Title>
+<Title>Ministère de l’Environnement, voir Organisation du gouvernement, Loi de 1970 sur l’</Title>
 <ChapterNumber>Ministère de l’Environnement, voir Organisation d</ChapterNumber>
 <FlicsAlpha>tops-5M</FlicsAlpha>
 </Statute>
@@ -4240,17 +4230,17 @@
 <FlicsAlpha>F-26</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Organisation du gouvernement, Loi de 1966 sur l’ (voir le ministère ou le sujet en cause)</Title>
+<Title>Organisation du gouvernement, Loi de 1966 sur l’, (voir le ministère ou le sujet en cause)</Title>
 <ChapterNumber>1966-67, ch. 25</ChapterNumber>
 <FlicsAlpha>1966-67, ch. 25</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Organisation du gouvernement, Loi de 1969 (voir le ministère en cause)</Title>
+<Title>Organisation du gouvernement, Loi de 1969, (voir le ministère en cause)</Title>
 <ChapterNumber>1968-69, ch. 28</ChapterNumber>
 <FlicsAlpha>1968-69, ch. 28</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Organisation du gouvernement, Loi de 1970 (voir le ministère en cause)</Title>
+<Title>Organisation du gouvernement, Loi de 1970 sur l’, (voir le ministère en cause)</Title>
 <ChapterNumber>S.R.C. 1970, ch. 14 (2e suppl.)</ChapterNumber>
 <FlicsAlpha>S.R.C. 1970, ch. 14 </FlicsAlpha>
 </Statute>
@@ -4698,7 +4688,7 @@
 </Statute>
 <Statute statuteid="">
 <Title>Prêts destinés aux améliorations agricoles et à la commercialisation selon la formule coopérative, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. 25 (3e suppl.)</ChapterNumber>
+<ChapterNumber>Prêts destinés aux améliorations agricoles et à l</ChapterNumber>
 <FlicsAlpha>L.R. (1985), ch. 25 </FlicsAlpha>
 </Statute>
 <Statute statuteid="133980f">
@@ -4832,13 +4822,13 @@
 <FlicsAlpha>2003, ch. 20</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Protection de la navigation, Loi sur la (Nouvelle appellation voir Eaux navigables canadiennes, Loi sur les)</Title>
-<ChapterNumber>Protection de la navigation, Loi sur la (Nouvelle</ChapterNumber>
+<Title>Protection de la navigation, Loi sur la</Title>
+<ChapterNumber>Protection de la navigation, Loi sur la</ChapterNumber>
 <FlicsAlpha>tops-17P</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Protection des eaux navigables, Loi sur la</Title>
-<ChapterNumber>L.R.C. (1985), ch. N-22</ChapterNumber>
+<ChapterNumber>Protection des eaux navigables, Loi sur la</ChapterNumber>
 <FlicsAlpha>N-22</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
@@ -5752,9 +5742,9 @@
 <ChapterNumber>1985, ch. 35</ChapterNumber>
 <FlicsAlpha>1985, ch. 35</FlicsAlpha>
 </Statute>
-<Statute statuteid="226644f">
+<Statute statuteid="">
 <Title>Société du crédit agricole, Loi sur la</Title>
-<ChapterNumber>1993, ch. 14</ChapterNumber>
+<ChapterNumber>Société du crédit agricole, Loi sur la</ChapterNumber>
 <FlicsAlpha>1993, ch. 14</FlicsAlpha>
 </Statute>
 <Statute statuteid="59545f">
@@ -5919,7 +5909,7 @@
 </Statute>
 <Statute statuteid="">
 <Title>Subventions aux municipalités, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. M-13</ChapterNumber>
+<ChapterNumber>Subventions aux municipalités, Loi sur les</ChapterNumber>
 <FlicsAlpha>L.R. (1985), ch. M-13</FlicsAlpha>
 </Statute>
 <Statute statuteid="391456f">
@@ -6031,7 +6021,7 @@
 <Letter value="T">
 <Statute statuteid="">
 <Title>Tabac, Loi sur le</Title>
-<ChapterNumber>1997, ch. 13 </ChapterNumber>
+<ChapterNumber>Tabac, Loi sur le</ChapterNumber>
 <FlicsAlpha>1997, ch. 13 </FlicsAlpha>
 </Statute>
 <Statute statuteid="438582f">
@@ -6156,7 +6146,7 @@
 </Statute>
 <Statute statuteid="">
 <Title>Terre-Neuve, Conditions de l’union de Terre-Neuve au Canada</Title>
-<ChapterNumber>1949, ch. 1 (voir L.R. (1985), Appendice II no 32)</ChapterNumber>
+<ChapterNumber>Terre-Neuve, Conditions de l’union de Terre-Neuve</ChapterNumber>
 <FlicsAlpha>1949, ch. 1</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
@@ -6371,12 +6361,12 @@
 </Statute>
 <Statute statuteid="">
 <Title>Transports nationaux, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. N-20</ChapterNumber>
+<ChapterNumber>Transports nationaux, Loi sur les</ChapterNumber>
 <FlicsAlpha>N-20</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Transports routiers, Loi de 1987 sur les</Title>
-<ChapterNumber>L.R. (1985), ch. 29 (3e suppl.)</ChapterNumber>
+<ChapterNumber>Transports routiers, Loi de 1987 sur les</ChapterNumber>
 <FlicsAlpha>L.R. (1985), ch. 29 </FlicsAlpha>
 </Statute>
 <Statute statuteid="345101f">
@@ -6417,8 +6407,8 @@
 </Letter>
 <Letter value="U">
 <Statute statuteid="">
-<Title>Urgence sur les approvisionnements d’énergie (1973-74 et 1979) voir Approvisionnement d’énergie (loi d’urgence)</Title>
-<ChapterNumber>Urgence sur les approvisionnements d’énergie (197</ChapterNumber>
+<Title>Urgence sur les approvisionnements d’énergie, Loi d’</Title>
+<ChapterNumber>Urgence sur les approvisionnements d’énergie, Loi</ChapterNumber>
 <FlicsAlpha>tops-1U</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
@@ -6454,7 +6444,7 @@
 <FlicsAlpha>2005, ch. 36</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Victimes des délinquants sexuels, Loi protégeant les voir Code criminel</Title>
+<Title>Victimes des délinquants sexuels, Loi protégeant les (voir Code criminel)</Title>
 <ChapterNumber>2010, ch. 17</ChapterNumber>
 <FlicsAlpha>2010, ch. 17</FlicsAlpha>
 </Statute>
@@ -6464,8 +6454,8 @@
 <FlicsAlpha>tops-4V</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Voie maritime du Saint-Laurent (Administration), voir Administration de la voie maritime du Saint-Laurent</Title>
-<ChapterNumber>Voie maritime du Saint-Laurent (Administration), </ChapterNumber>
+<Title>Voie maritime du Saint-Laurent (Administration) (voir Administration de la voie maritime du Saint-Laurent)</Title>
+<ChapterNumber>Voie maritime du Saint-Laurent (Administration) (</ChapterNumber>
 <FlicsAlpha>tops-5V</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
