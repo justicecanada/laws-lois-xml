@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="C-21">
+  <Title>Loi canadienne sur les paiements</Title>
+  <ChapterNumber>L.R. (1985), ch. C-21</ChapterNumber>
+  <TitleChanged>
+    <Text>(Ancienne appellation : Association canadienne des paiements, Loi sur l’)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Canadian Payments Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Finances</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Titre intégral</Label>
+    <Text>2001, ch. 9, art. 217</Text>
+  </LongTitle>
+  <Section>
+    <Label>1</Label>
+    <Text>2001, ch. 9, art. 218</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>L.R., ch. 18 (3<Sup>e</Sup> suppl.), art. 33; 1991, ch. 45, art. 546, ch. 48, art. 488; 1999, ch. 28, art. 110; 2001, ch. 9, art. 219; 2007, ch. 6, art. 422; 2014, ch. 39, art. 334; 2024, ch. 15, art. 219(A)</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 220</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1992, ch. 1, art. 142, ann. V, art. 10; 1999, ch. 28, art. 111; 2001, ch. 9, art. 223; 2007, ch. 6, art. 423; 2009, ch. 2, art. 256; 2014, ch. 39, art. 335; 2024, ch. 15, art. 220</Text>
+  </Section>
+  <Section>
+    <Label>4.1</Label>
+    <Text>2014, ch. 39, art. 336</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2001, ch. 9, art. 224</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2001, ch. 9, art. 225</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2001, ch. 9, art. 226; 2014, ch. 39, art. 337</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1993, ch. 34, art. 46(F); 1999, ch. 28, art. 112; 2001, ch. 9, art. 227; 2003, ch. 22, art. 142(A); 2007, ch. 6, art. 424; 2012, ch. 5, art. 207; 2014, ch. 39, art. 337; 2024, ch. 15, art. 221(A)</Text>
+  </Section>
+  <Section>
+    <Label>9.1</Label>
+    <Text>ajouté, 2014, ch. 39, art. 337; 2019, ch. 29, art. 93</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1993, ch. 34, art. 47(F); 1999, ch. 28, art. 113; abrogé, 2001, ch. 9, art. 228; ajouté, 2007, ch. 6, art. 425</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2014, ch. 39, art. 338</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2001, ch. 9, art. 229(A); abrogé, 2014, ch. 39, art. 338</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2001, ch. 9, art. 230; abrogé, 2014, ch. 39, art. 338</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2007, ch. 6, art. 426</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2001, ch. 9, art. 232(A) et al. 245a) (A); 2007, ch. 6, art. 427(F); 2014, ch. 39, art. 339; 2019, ch. 29, art. 94</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2001, ch. 9, al. 245b)(A); 2007, ch. 6, art. 428; 2014, ch. 39, art. 340</Text>
+  </Section>
+  <Section>
+    <Label>16.1</Label>
+    <Text>ajouté, 2014, ch. 39, art. 341</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2001, ch. 9, art. 233; 2007, ch. 6, art. 429; 2012, ch. 5, art. 208; 2014, ch. 39, art. 342; 2019, ch. 29, art. 95; 2024, ch. 15, art. 222</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2001, ch. 9, art. 234 et al. 245c)(A); 2007, ch. 6, art. 430; 2014, ch. 39, art. 344</Text>
+  </Section>
+  <Section>
+    <Label>19.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 235; 2014, ch. 39, art. 345</Text>
+  </Section>
+  <Section>
+    <Label>19.2</Label>
+    <Text>ajouté, 2001, ch. 9, art. 235</Text>
+  </Section>
+  <Section>
+    <Label>19.3</Label>
+    <Text>ajouté, 2001, ch. 9, art. 235; 2014, ch. 39, art. 346</Text>
+  </Section>
+  <Section>
+    <Label>19.4</Label>
+    <Text>ajouté, 2001, ch. 9, art. 235</Text>
+  </Section>
+  <Section>
+    <Label>19.5</Label>
+    <Text>ajouté, 2014, ch. 39, art. 347</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2001, ch. 9, art. 237(A) et al. 245d) et e)(A); 2007, ch. 6, art. 431(F); 2014, ch. 39, art. 347; 2024, ch. 15, art. 223(F)</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2001, ch. 9, art. 238; 2024, ch. 15, art. 224</Text>
+  </Section>
+  <Section>
+    <Label>21.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 238</Text>
+  </Section>
+  <Section>
+    <Label>21.2</Label>
+    <Text>ajouté, 2001, ch. 9, art. 238; 2007, ch. 6, art. 432(F); 2014, ch. 39, art. 349; 2019, ch. 29, art. 96; 2024, ch. 15, art. 225</Text>
+  </Section>
+  <Section>
+    <Label>21.3</Label>
+    <Text>ajouté, 2014, ch. 39, art. 350</Text>
+  </Section>
+  <Section>
+    <Label>21.4</Label>
+    <Text>ajouté, 2014, ch. 39, art. 350; 2024, ch. 15, art. 226</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2014, ch. 39, art. 351</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2014, ch. 39, art. 351</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2007, ch. 6, art. 433(F); 2014, ch. 39, art. 351</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2014, ch. 39, art. 352</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2014, ch. 39, art. 353</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2001, ch. 9, art. 239</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>L.R., ch. 18 (3<Sup>e</Sup> suppl.), art. 34; 2001, ch. 9, art. 239; 2014, ch. 39, art. 354</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>1991, ch. 48, art. 489; 1997, ch. 15, art. 115; 1999, ch. 28, art. 114; abrogé, 2001, ch. 9, art. 240</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>1992, ch. 27, art. 90; 1996, ch. 6, art. 163 et al. 167(1)c); 2004, ch. 25, art. 192</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2018, ch. 12, art. 238</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>1993, ch. 34, art. 48(A); abrogé, 2001, ch. 9, art. 241</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>1994, ch. 24, al. 34(1)g)(F); 2001, ch. 9, art. 242; 2009, ch. 23, art. 320 et 351; 2014, ch. 39, art. 355</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>2001, ch. 9, art. 243; 2014, ch. 39, art. 356; 2024, ch. 15, art. 227(A)</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>ajouté, 2001, ch. 9, art. 244</Text>
+  </Section>
+  <Section>
+    <Label>36.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 244</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>ajouté, 2001, ch. 9, art. 244</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>ajouté, 2001, ch. 9, art. 244</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>ajouté, 2001, ch. 9, art. 244</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>ajouté, 2001, ch. 9, art. 244; 2024, ch. 15, art. 228(A)</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>ajouté, 2001, ch. 9, art. 244</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>ajouté, 2001, ch. 9, art. 244</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>ajouté, 2001, ch. 9, art. 244; 2016, ch. 7, art. 170</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>ajouté, 2001, ch. 9, art. 244</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>ajouté, 2001, ch. 9, art. 244</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>ajouté, 2001, ch. 9, art. 244; 2002, ch. 8, al. 182(1)h)</Text>
+  </Section>
+  <Section>
+    <Label>46.1</Label>
+    <Text>ajouté, 2012, ch. 5, art. 209</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>ajouté, 2001, ch. 9, art. 244</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>ajouté, 2007, ch. 6, art. 434</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>ajouté, 2014, ch. 39, art. 357; abrogé, 2024, ch. 15, art. 229</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>ajouté, 2024, ch. 15, art. 229</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2009, ch. 23, art. 351</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>disposition générale, 1994, ch. 24, par. 34(2)(F)</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 2001, ch. 9, art. 221, 222, 231, 236 et 246</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 2014, ch. 39, art. 343 et 348</Text>
+  </General>
+  <Transitional>
+    <Text>dispositions transitoires; 2001, ch. 9, art. 247 et 247.1</Text>
+  </Transitional>
+  <Transitional>
+    <Text>disposition transitoire, 2014, ch. 39, art. 358</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, L.R., ch. 18 (3<Sup>e</Sup> suppl.) en vigueur 02.07.87 <Emphasis style="italic">voir</Emphasis> TR/87-146</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1991, ch. 45, art. 546 en vigueur 01.06.92 <Emphasis style="italic">voir</Emphasis> TR/92‑89</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1991, ch. 48, art. 488 et 489 en vigueur 01.06.92 <Emphasis style="italic">voir</Emphasis> TR/92‑92</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1992, ch. 1, art. 142, ann. V, art. 10 en vigueur à la sanction 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1992, ch. 27, art. 90 en vigueur 30.11.92 <Emphasis style="italic">voir</Emphasis> TR/92‑194</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1993, ch. 34, art. 46(F), 47(F) et 48(A) en vigueur à la sanction 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 24, art. 34(F) en vigueur à la sanction 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 6, art. 163 et 167 en vigueur 28.06.96 <Emphasis style="italic">voir</Emphasis> TR/96‑58</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1997, ch. 15, art. 115 en vigueur 15.10.99 <Emphasis style="italic">voir</Emphasis> TR/99‑117</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 28, art. 110 à 114 en vigueur 28.06.99 <Emphasis style="italic">voir</Emphasis> TR/99-70</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 9</Text>
+    <List>
+      <Item>
+        <Text>— a) art. 217 à 222, par. 223(1), (4) et (5) et art. 224 à 238</Text>
+      </Item>
+      <Item>
+        <Text>— b) art. 28 de la <XRefExternal reference-type="act">Loi sur l’Association canadienne des paiements</XRefExternal> et l’intertitre le précédant, édictés par l’art. 239 c) art. 241 à 247.1 en vigueur 24.10.2001 <Emphasis style="italic">voir</Emphasis> TR/2001-102</Text>
+      </Item>
+      <Item>
+        <Text>— par. 223(2) et (3) et art. 240 en vigueur 07.11.2001 <Emphasis style="italic">voir</Emphasis> TR/2001-111</Text>
+      </Item>
+      <Item>
+        <Text>— art. 27 de la <XRefExternal reference-type="act">Loi sur l’Association canadienne des paiements</XRefExternal> et l’intertitre le précédant, édictés par l’art. 239 en vigueur 21.06.2002 <Emphasis style="italic">voir</Emphasis> TR/2002-99</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 8, art. 182 en vigueur 02.07.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 22, art. 142 en vigueur 01.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 25, art. 192 en vigueur à la sanction 15.12.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2007, ch. 6</Text>
+    <List>
+      <Item>
+        <Text>— par. 422(5), par. 4(4) de la <XRefExternal reference-type="act">Loi canadienne sur les paiements</XRefExternal>, édicté par l’art. 423, art. 424 à 426, par. 429(1), (2) et (4) et 430(1), art. 432 à 434 en vigueur 20.04.2007 <Emphasis style="italic">voir</Emphasis> TR/2007-49</Text>
+      </Item>
+      <Item>
+        <Text>— par. 422(1) à (4), par. 4(3) de la <XRefExternal reference-type="act">Loi canadienne sur les paiements</XRefExternal>, édicté par l’art. 423, art. 427 et 428, par. 429(3), 430(2) et (3) et art. 431 en vigueur 01.03.2010 <Emphasis style="italic">voir</Emphasis> TR/2010-15</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2009, ch. 2 (sanction : 12.03.2009), art. 256 en vigueur 01.07.2009 <Emphasis style="italic">voir</Emphasis> TR/2009-57</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2009, ch. 23, art. 351 en vigueur à la sanction 23.06.2009; art. 320 en vigueur 17.10.2011 <Emphasis style="italic">voir</Emphasis> TR/2011‑87 [<Emphasis style="italic">Remarque</Emphasis> : la modification prévue par art. 351 prend effet à l’entrée en vigueur de l’al. 313a) laquelle est 31.12.2017 <Emphasis style="italic">voir</Emphasis> TR/2018-1]</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 5 (sanction : 29.03.2012), art. 208 et 209 en vigueur 24.05.2012 <Emphasis style="italic">voir</Emphasis> TR/2012-36; art. 207 en vigueur 19.12.2012 <Emphasis style="italic">voir</Emphasis> TR/2012-99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 39, art. 358 en vigueur à la sanction 16.12.2014; art. 334 à 357 en vigueur 04.06.2015 <Emphasis style="italic">voir</Emphasis> TR/2015-47</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2016, ch. 7, art. 170 en vigueur à la sanction 22.06.2016</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 12 (sanction : 21.06.2018), art. 238 en vigueur 23.06.2019 <Emphasis style="italic">voir</Emphasis> TR/2019-48</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 29 (sanction 21.06.2019), art. 93 à 96 en vigueur 02.04.2021 <Emphasis style="italic">voir</Emphasis> art. 97 et TR/2021-12</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 15 en vigueur à la sanction 20.06.2024, <Emphasis style="italic">sauf</Emphasis></Text>
+    <List>
+      <Item>
+        <Text>— art. 219 à 228 en vigueur 25.09.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-102</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

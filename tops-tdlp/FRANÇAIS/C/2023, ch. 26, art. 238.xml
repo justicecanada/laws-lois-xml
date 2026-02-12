@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2023, ch. 26, art. 238">
+  <Title>Corporation d’innovation du Canada, Lois sur les</Title>
+  <ChapterNumber>2023, ch. 26, art. 238</ChapterNumber>
+  <OtherLangTitle>(Canada Innovation Corporation Act)</OtherLangTitle>
+  <Minister>
+    <Text>Ministre de l’Industrie (art. 2)</Text>
+  </Minister>
+  <Section>
+    <Label>1 à 35</Label>
+    <Text>2023, ch. 26, art. 238</Text>
+  </Section>
+  <CIF>
+    <Text>EEV, 2023, ch. 26 (sanction : 22.06.2023),</Text>
+    <List>
+      <Item>
+        <Text>— art. 1 à 29, 34 et 35 de la <XRefExternal reference-type="act">Loi sur la Corporation d’innovation du Canada</XRefExternal> entrent en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> par. 241(1) — non en vigueur</Text>
+      </Item>
+      <Item>
+        <Text>— art. 30 à 33 de la <XRefExternal reference-type="act">Loi sur la Corporation d’innovation du Canada</XRefExternal> entrent en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> par. 241(2) — non en vigueur</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

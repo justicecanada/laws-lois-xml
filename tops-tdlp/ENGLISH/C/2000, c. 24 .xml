@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2000, c. 24 ">
+  <Title>Crimes Against Humanity and War Crimes Act</Title>
+  <ChapterNumber>2000, c. 24 </ChapterNumber>
+  <OtherLangTitle>(Crimes contre l’humanité et les crimes de guerre, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Foreign Affairs</Text>
+  </Minister>
+  <Section>
+    <Label>9</Label>
+    <Text>2001, c. 32, s. 59; 2024, c. 17, s. 377</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2019, c. 25, s. 399</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>repealed, 2001, c. 32, s. 60</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>repealed, 2001, c. 32, s. 60</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>repealed, 2001, c. 32, s. 60</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2001, c. 32, s. 61; 2019, c. 29, s. 122(F)</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2019, c. 29, s. 123(F)</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>2001, c. 34, s. 36(E)</Text>
+  </Section>
+  <ConditionalAmendment>
+    <Text>Conditional amendments, 2000, c. 24, ss. 76 and 76.1</Text>
+  </ConditionalAmendment>
+  <CIF>
+    <Text>CIF, 2000, c. 24 in force 23.10.2000 <Emphasis style="italic">see</Emphasis> SI/2000-95</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 32, ss. 59 to 61 in force 01.02.2002 <Emphasis style="italic">see</Emphasis> SI/2002-17</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 34, s. 36 in force on assent 18.12.2001</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 25 (assent: 21.06.2019), s. 399 in force 19.09.2019 <Emphasis style="italic">see</Emphasis> s. 406</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 17, s. 377 in force on the 30th day after the day on which <XRefExternal reference-type="act">Budget Implementation Act, 2024, No. 1</XRefExternal>, c. 17 receives royal assent <Emphasis style="italic">see</Emphasis> s. 379 (20.07.2024)</Text>
+  </CIF>
+</Statute>
+</TOPS>

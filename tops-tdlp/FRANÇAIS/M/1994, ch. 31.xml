@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1994, ch. 31">
+  <Title>Ministère de la Citoyenneté et de l’Immigration, Loi sur le</Title>
+  <ChapterNumber>1994, ch. 31</ChapterNumber>
+  <OtherLangTitle>(Department of Citizenship and Immigration Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de la Citoyenneté et de l’Immigration</Text>
+  </Minister>
+  <Section>
+    <Label>4</Label>
+    <Text>2005, ch. 38, art. 57</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2004, ch. 15, art. 33</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>ajouté, 2012, ch. 17, art. 78</Text>
+  </Section>
+  <Section>
+    <Label>5.2</Label>
+    <Text>ajouté, 2012, ch. 17, art. 78</Text>
+  </Section>
+  <General>
+    <Text>disposition générale, TR/2013-79 tel que modifié par TR/2013-94 (ministre d’État délégué auprès du Ministre de CI)</Text>
+  </General>
+  <Transitional>
+    <Text>dispositions transitoires, 1994, ch. 31, art. 6 à 8</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, 1994, ch. 31 en vigueur à la sanction 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 15, art. 33 en vigueur 28.06.2004 <Emphasis style="italic">voir</Emphasis> TR/2004-66</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 38, art. 57 en vigueur 12.12.2005 <Emphasis style="italic">voir</Emphasis> TR/2005‑119</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 17 (sanction : 28.06.2012), art. 78 en vigueur 29.04.2013 <Emphasis style="italic">voir</Emphasis> TR/2013-48</Text>
+  </CIF>
+</Statute>
+</TOPS>

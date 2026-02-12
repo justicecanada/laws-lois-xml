@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2022, ch. 10, art. 135">
+  <Title>Taxe sur certains biens de luxe, Loi sur la</Title>
+  <ChapterNumber>2022, ch. 10, art. 135</ChapterNumber>
+  <OtherLangTitle>(Select Luxury Items Tax Act)</OtherLangTitle>
+  <Minister>
+    <Text>Ministre du Revenu national</Text>
+  </Minister>
+  <Section>
+    <Label>45</Label>
+    <Text>2022, ch. 10, art. 135; 2024, ch. 15, art. 123; 2024, ch. 17, art. 106 et par. 111(25)</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2022, ch. 10, art. 135; 2024, ch. 15, art. 124; 2024, ch. 17, art. 107 et par. 111(26)</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>2022, ch. 10, art. 135; 2024, ch. 15, art. 125; 2024, ch. 17, art. 108 et par. 111(27)</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>2022, ch. 10, art. 135; 2024, ch. 15, art. 126; 2024, ch. 17, art. 109 et par. 111(28)</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>2022, ch. 10, art. 135; 2024, ch. 15, art. 127; 2024, ch. 17, art. 110 et par. 111(29)</Text>
+  </Section>
+  <Section>
+    <Label>150</Label>
+    <Text>2022, ch. 10, art. 135; 2024, ch. 15, art. 128</Text>
+  </Section>
+  <CIF>
+    <Text>EEV, 2022, ch. 10, art. 135 (sanction : 23.06.2022),</Text>
+    <List>
+      <Item>
+        <Text>— par. 135(1) de la <XRefExternal reference-type="act">Loi sur la taxe sur certains biens de luxe</XRefExternal> (art. 1 à 156), édicté par art. 135, en vigueur 01.09.2022 <Emphasis style="italic">voir</Emphasis> art. 135(2));</Text>
+      </Item>
+      <Item>
+        <Text>— Malgré, le par. 135(2), les dispositions de la <XRefExternal reference-type="act">Loi sur la taxe sur certains biens de luxe</XRefExternal>, édictées par le par. (1) qui prévoient la taxe sur les aéronefs assujettis en vigueur 01.09.2022 <Emphasis style="italic">voir</Emphasis> TR/2022-36</Text>
+      </Item>
+      <Item>
+        <Text>— Malgré le par. (2), les art. 107 à 119 et 121 à 129 de la <XRefExternal reference-type="act">Loi sur la taxe sur certains biens de luxe</XRefExternal>, édictés par le par. (1) en vigueur 01.09.2022</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 15, par. 123(1), 124(1), 125(1), 126(1), 127(1) et 128(1) en vigueur 28.06.2024 <Emphasis style="italic">voir</Emphasis> TR/2024-33</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 17 en vigueur à la sanction 20.06.2024, <Emphasis style="italic">sauf</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>— par. 111(25) à (29) en vigueur 20.06.2024 (dispositions de coordination — conditions remplies 28.06.2024, <Emphasis style="italic">voir</Emphasis> TR/2024-33)</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

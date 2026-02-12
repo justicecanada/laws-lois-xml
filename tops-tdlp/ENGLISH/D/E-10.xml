@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="E-10">
+  <Title>Department of the Environment Act</Title>
+  <ChapterNumber>R.S., 1985, c. E-10</ChapterNumber>
+  <OtherLangTitle>(Ministère de l’Environnement, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of the Environment</Text>
+  </Minister>
+  <Section>
+    <Label>4</Label>
+    <Text>1995, c. 11, s. 18; 1996, c. 8, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>repealed, R.S., c. 16 (4th Supp.), s. 146</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, R.S., c. 16 (4th Supp.), s. 146 <Emphasis style="italic">but</Emphasis> was repealed before coming into force by 1999, c. 33, s. 355</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 11, s. 18 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑68</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 8, s. 19 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑69</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 33, s. 355 in force 31.03.2000 <Emphasis style="italic">see</Emphasis> SI/2000-15</Text>
+  </CIF>
+</Statute>
+</TOPS>

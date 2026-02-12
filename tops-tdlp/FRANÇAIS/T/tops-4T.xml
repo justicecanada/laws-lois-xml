@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="tops-4T">
+  <Title>Terre-Neuve, Loi sur (<Emphasis style="italic">voir</Emphasis> Loi constitutionnelle de 1982, annexe, article 21)</Title>
+  <TitleChanged>
+    <Text>(Ancienne appellation : Terre-Neuve, Condition de l’union de Terre-Neuve au Canada)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Newfoundland Act)</OtherLangTitle>
+  <Section>
+    <Label>3</Label>
+    <Text>
+      <XRefExternal reference-type="act">Modification constitutionnelle de 1987 (Loi sur Terre-Neuve)</XRefExternal>
+      <Emphasis style="italic">voir</Emphasis> TR/88‑11</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe (au complet)</Label>
+    <Text>
+      <Emphasis style="italic">Modification constitutionnelle de 2001 (Terre-Neuve-et-Labrador) voir</Emphasis> TR/2001‑117, art. 1 — substitution de mots</Text>
+  </Schedule>
+  <Convention>
+    <List>
+      <Item>
+        <Text>clause 17</Text>
+        <List>
+          <Item>
+            <Text>
+              <Emphasis style="italic">Modification constitutionnelle de 1987 (Loi sur Terre-Neuve) voir</Emphasis> TR/88‑11</Text>
+          </Item>
+          <Item>
+            <Text>
+              <Emphasis style="italic">Modification constitutionnelle de 1997 (Loi sur Terre-Neuve) voir</Emphasis> TR/97‑55</Text>
+          </Item>
+          <Item>
+            <Text>
+              <Emphasis style="italic">Modification constitutionnelle de 1998 (Loi sur Terre-Neuve) voir</Emphasis> TR/98‑25</Text>
+          </Item>
+          <Item>
+            <Text>
+              <Emphasis style="italic">Modification constitutionnelle de 2001 (Terre-Neuve-et-Labrador) voir</Emphasis> TR/2001‑117, art. 1 — substitution de mots</Text>
+          </Item>
+        </List>
+      </Item>
+      <Item>
+        <Text>clause 33 <Emphasis style="italic">Modification constitutionnelle de 2001 (Terre-Neuve-et-Labrador) voir</Emphasis> TR/2001‑117, art. 2 — substitution de mots</Text>
+      </Item>
+      <Item>
+        <Text>clause 38 <Emphasis style="italic">Modification constitutionnelle de 2001 (Terre-Neuve-et-Labrador) voir</Emphasis> TR/2001‑117, art. 3 — substitution de mots</Text>
+      </Item>
+      <Item>
+        <Text>clause 42 <Emphasis style="italic">Modification constitutionnelle de 2001 (Terre-Neuve-et-Labrador) voir</Emphasis> TR/2001‑117, art. 4 — substitution de mots</Text>
+      </Item>
+      <Item>
+        <Text>clause 46 <Emphasis style="italic">Modification constitutionnelle de 2001 (Terre-Neuve-et-Labrador) voir</Emphasis> TR/2001‑117, art. 5 — substitution de mots</Text>
+      </Item>
+    </List>
+  </Convention>
+</Statute>
+</TOPS>

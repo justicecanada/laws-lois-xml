@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="E-18">
+  <Title>Export Act</Title>
+  <ChapterNumber>R.S., 1985, c. E-18</ChapterNumber>
+  <OtherLangTitle>(Exportations, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of National Revenue</Text>
+  </Minister>
+  <Section>
+    <Label>6</Label>
+    <Text>R.S., c. 1 (2nd Supp.), s. 213(3) (Sch. III, item 5); 2002, c. 22, s. 393</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, R.S., c. 1 (2nd Supp.), s. 213 proclaimed in force 10.11.86 <Emphasis style="italic">see</Emphasis> SI/86‑206</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 22, s. 393 in force 01.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003‑47</Text>
+  </CIF>
+</Statute>
+</TOPS>

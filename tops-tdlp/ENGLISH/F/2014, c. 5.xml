@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2014, c. 5">
+  <Title>First Nations Elections Act</Title>
+  <ChapterNumber>2014, c. 5</ChapterNumber>
+  <OtherLangTitle>(Élections au sein de premières nations, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Indigenous Services (<Emphasis style="italic">see</Emphasis> s. 2)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2019, c. 29, s. 375(l)</Text>
+  </Section>
+  <Schedule>
+    <Label>Schedule</Label>
+    <Text>SOR/2015-136, ss. 1 and 2; SOR/15-149, s. 1; SOR/15-208, s. 2; SOR/15-218, ss. 1 and 2; SOR/2016-2, ss. 1 and 2, SOR/2016-28, s. 1, SOR/16-53, s. 1, SOR/16-55, s. 1, SOR/16-57, s. 1, SOR/16-110, s. 1, SOR/16-112, s. 1, SOR/16-114, s. 1, SOR/16-116, s. 1, SOR/16-118, s. 1, SOR/16-215, s. 1, SOR/16-217, s. 1, SOR/16-219, s. 1, SOR/16-221, s. 1, SOR/16-223, s. 1, SOR/16-225, s. 1, SOR/16-237, s. 1, SOR/16-246, s. 1, SOR/16-248, s. 1, SOR/16-250, s. 1, SOR/16-264, s. 1, SOR/16-266, s. 1, SOR/16-330, s. 1, SOR/16-332, s. 1, SOR/16-334, s. 1; SOR/2017-3, s. 1, SOR/17-5, s. 1, SOR/17-30, s. 1, SOR/17-32, s. 1, SOR/17-34, s. 1, SOR/17-64, s. 1, SOR/17-66, s. 1, SOR/17-97, s. 1, SOR/17-99, s. 1, SOR/17-102, s. 1, SOR/17-152, s. 1, SOR/17-153, s. 1; SOR/17-188, s. 1, SOR/17-190, s. 1, SOR/17-240, s. 1, SOR/17-242, s. 1; SOR/2018-30, s. 1, SOR/18-74, s. 1, SOR/18-91, s. 1, SOR/18-93, s. 1, SOR/18-95, s. 1, SOR/18-106, s. 1, SOR/18-154, s. 1; SOR/18-173, s. 1; SOR/18-175, s. 1, SOR/18-181, s. 1, SOR/18-200, s. 1, SOR/18-267, s. 1; SOR/2019-9 s. 1; SOR/2019-14, s. 1; SOR/2019-28, s. 1; SOR/2019-30, s. 1; SOR/2019-141, s. 1; SOR/2019-205, s. 1; SOR/2019-271, s. 1; SOR/2019-306, s. 1; SOR/2019-344, s. 1; SOR/2019-346, s. 1; SOR/2020-99, s. 1; SOR/2020-140, s.1; SOR/2020-196, s. 1; SOR/2020-198, s. 1; SOR/2020-202, s. 1; SOR/2020-300, s. 1; SOR/2021-33, ss. 1 and 2; SOR/2021-54, s. 1; SOR/2021-94, s. 1; SOR/2021-209, s. 1; SOR/2021-211, s. 1; SOR/2021-213, s. 1; SOR/2022-130, s. 1; SOR/2023-11, s. 1; SOR/2023-54, s. 1; SOR/2023-75, ss. 1 and 2; SOR/2023-94; SOR/2023-96, s. 1; SOR/2023-140, s. 1; SOR/2023-142, s. 1; SOR/2023-288, s. 1; SOR/2024-189, s. 1; SOR/2024-191, s. 1; SOR/2024-193, s. 1; SOR/2024-225, ss. 1 and 2; SOR/2024-294, s. 1; SOR/2025-54, s. 1; SOR/2025-160, s. 1; SOR/2025-186, s. 1; SOR/2025-190, s. 1</Text>
+  </Schedule>
+  <General>
+    <Text>General, SOR/2015-136, s. 2 (First Election Date of the council of the Madawaska Maliseet First Nation: 27.08.2015)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2015-149, s. 2 (First Election Date of the council of the Micmacs of Gesgapegiag: 20.08.2015)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2015-208, s. 2 (First Election Date of the Council of the English River First Nation: 26.10.2015)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2015-218, s. 2 (First Election Date of the Council of the Bunibonibee Cree Nation: 03.12.2015)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-2, s. 2 (First Election Date of the George Gordon First Nation: 31.03.2016, Red Pheasant First Nation: 18.03.2016 and Pabineau First Nation: 13.04.2016 modified by SOR/2016-28, s. 1)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-53, s. 2 (First Election Date of the Membertou First Nation :15.06.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-55, s. 2 (First Election Date of the council of The Key First Nation: 01.10.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-57, s. 2 (First Election Date of the council of the Stswecemc Xgattem First Nation: 08.06.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-110, s. 2 (First Election Date of the council of the Ashcroft Band: 07.11.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-112, s. 2 (First Election Date of the council of the Burns Lake Band: 21.10.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-114, s. 2 (First Election Date of the council of the Chippewas of Rama First Nation: 02.09.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-116, s. 2 (First Election Date of the council of the Indian Island Band: 17.11.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-118, s. 2 (First Election Date of the council of the Waycobah First Nation:18.08.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-215, s. 2 (First Election Date of the council of the Gull Bay Band: 26.11.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-217, s. 2 (First Election Date of the council of the Wuskwi Sipihk First Nation: 14.10.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-219, s. 2 (First Election Date of the council of the Musqueam Indian Band: 30.11.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-221, s. 2 (First Election Date of the council of the Chippewas of Georgina Island: 21.03.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-223, s. 2 (First Election Date of the council of the Nooaitch Indian Band: 21.11.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-225, s. 2 (First Election Date of the council of the Eskasoni: 13.10.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-237, s. 2 (First Election Date of the council of the Skownan First Nation: 03.11.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-246, s. 2 (First Election Date of the council of the Tobique First Nation: 28.11.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-248, s. 2 (First Election Date of the council of the Canoe Lake Cree First Nation: 16.12.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-250, s. 2 (First Election Date of the council of the Beaver First Nation: 29.11.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-264, s. 2 (First Election Date of the council of the Pine Creek First Nation: 04.01.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-266, s. 2 (First Election Date of the council of the Flying Dust First Nation: 05.12.2016)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-330, s. 2 (First Election Date of the council of the Fishing Lake First Nation: 26.02.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-332, s. 2 (First Election Date of the council of the Mistawasis Nehiyawak First Nation: 07.04.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2016-334, s. 2 (First Election Date of the council of the Waywayseecappo First Nation: 24.02.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-3, s. 2 (First Election Date of the council of the Birdtail Sioux First Nation: 30.03.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-5, s. 2 (First Election Date of the council of the Tla-o-qui-aht First Nations: 09.05.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-30, s. 2 (First Election Date of the council of the Songhees Nation: 22.06.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-32, s. 2 (First Election Date of the council of the Pic Nobert Nation: 27.07.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-34, s. 2 (First Election Date of the council of the Gitwangak Band: 08.05.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-64, s. 2 (First Election Date of the council of the Ahtahkakoop Band: 16.06.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-66, s. 2 (First Election Date of the council of the Gitsegukla Band: 07.07.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-97, s. 2 (First Election Date of the council of the Moose Deer Point First Nation: 01.08.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-99, s. 2 (First Election Date of the council of the Black River First Nation: 02.08.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-102, s. 2 (First Election Date of the council of the Oromocto First Nation: 04.08.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-152, s. 2 (First Election Date of the council of the Sakimay First Nations: 06.09.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-153, s. 2 (First Election Date of the council of the Pheasant Rump Nakota First Nation: 15.09.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-188, s. 2 (First Election Date of the council of the Fort Folly First Nation: 23.11.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-190, s. 2 (First Election Date of the council of the Day Star First Nation: 15.11.2017)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-240, s. 2 (First Election Date of the council of the Kingsclear First Nation: 20.02.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2017-242, s. 2 (First Election Date of the council of the Elsipogtog First Nation: 10.02.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2018-30, s. 2 (First Election Date of the council of the Eel Ground First Nation: 10.05.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2018-74, s. 2 (First Election Date of the council of the Lake St. Martin First Nation: 04.07.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2018-91, s. 2 (First Election Date of the council of the Metepenagiag Mi’kmaq Nation: 16.07.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2018-93, s. 2 (First Election Date of the council of the Wagmatcook First Nation: 04.07.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2018-95, s. 2 (First Election Date of the council of the Nigigoonsiminikaaning First Nation: 18.07.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2018-106, s. 2 (First Election Date of the council of the Potlotek First Nation: 05.08.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2018-154, s. 2 (First Election Date of the council of the Dakota Tipi First Nation: 31.08.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2018-173, s. 2 (First Election Date of the council of the Shuswap Indian Band: 01.11.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2018-175, s. 2 (First Election Date of the council of the Paul First Nation: 02.11.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2018-181, s. 2 (First Election Date of the council of the Biinjitiwaabik Zaaging Anishinaabek: 17.11.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2018-200, s. 2 (First Election Date of the council of the Woodstock First Nation: 06.12.2018)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2018-267, s. 2 (First Election Date of the council of the Peguis First Nation: 30.03.2019)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2019-9, s. 2 (First Election Date of the council of the Makwa Sahgaiehcan First Nation: 18.02.2019)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2019-14, s. 2 (First Election Date of the council of the Roseau River Anishinabe First Nation: 11.03.2019)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2019-28, s. 2 (First Election Date of the council of the Keeseekoowenin First Nation: 08-04-2019)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2019-30, s. 2 (First Election Date of the council of the Fort William First Nation: 15.04.2019)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2019-141, s. 2 (First Election Date of the council of the Tseycum First Nation: 25.07.2019)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2019-205, s. 2 (First Election Date of the council of the Beecher Bay First Nation: 08.10.2019)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2019-271, s. 2 (First Election Date of the council of the Berens River First Nation: 15.11.2019)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2019-306, s. 2 (First Election Date of the council of the T’Sou-ke First Nation: 11.02.2020)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2019-344, s. 2 (First Election Date of the council of the Penelakut First Nation: 19.02.2020)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2019-346, s. 2 (First Election Date of the council of the Hollow Water First Nation: 03.02.2020)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2020-99, s. 2 (First Election Date of the council of the Piapot First Nation: 27.06.2020)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2020-140, s. 2 (First Election Date of the council of the Lake Manitoba First Nation: 31.08.2020)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2020-196, s. 2 (First Election Date of the council of the Esgenoôpetitj First Nation: 12.11.2020)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2020-198, s. 2 (First Election Date of the council of the Poplar River First Nation: 03.11.2020)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2020-202, s. 2 (First Election Date of the council of the Ebb and Flow First Nation: 20.11.2020)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2020-300, s. 2 (First Election Date of the council of the Tsleil-Waututh Nation: 31.03.2021)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2021-54, s. 2 (First Election Date of the council of the Ocean Man First Nation: 01.06.2021)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2021-94, s. 2 (First Election Date of the council of the Serpent River First Nation: 30.10.2021)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2021-209, s. 2 (First Election Date of the council of the Bear River First Nation: 18.11.2021)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2021-211, s. 2 (First Election Date of the council of the Tsartlip First Nation: 05.12.2021)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2021-213, s. 2 (First Election Date of the council of the Biigtigong Nishnaabeg: 01.11.2021)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2024-189, s. 2 (First Election Date of the council of the Pasqua First Nation #79: 03.03.2025)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2024-191, s. 2 (First Election Date of the council of the Sunchild First Nation: 13.03.2025)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2024-193, s. 2 (First Election Date of the council of the Kinonjeoshtegon First Nation: 22.07.2025)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2024-294, s. 2 (First election date of the council of the Animakee Wa Zhing # 37: 20.04.2025)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2025-54, s. 2 (First election date of the council of the Washagamis Bay: 18.08.2025)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2025-160, s. 2 (First election date of the council of the Ministikwan Lake Cree Nation: 20.10.2025)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2025-186, s. 2 (First election date of the council of Saint Mary’s: 07.10.2026)</Text>
+  </General>
+  <General>
+    <Text>General, SOR/2025-190, s. 2 (First election date of the council of the Paqtnkek Mi’kmaw Nation: 26.11.2025)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 2014, c. 5 (assent: 11.04.2014), ss. 1 to 42 and the Schedule in force 02.04.2015 <Emphasis style="italic">see</Emphasis> SI/2015-27</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2015-136 in force 05.06.2015 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2015-149 in force 12.06.2015 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2015-208 in force 31.07.2015 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2015-218 in force 28.09.2015 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-2 in force 07.01.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-28 in force 24.02.2016 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-53 in force 29.03.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-55 in force 29.03.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-57 in force 29.03.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-110 in force 02.06.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-112 in force 02.06.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-114 in force 02.06.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-116 in force 02.06.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-118 in force 02.06.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-215 in force 26.07.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-217 in force 26.07.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-219 in force 26.07.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-221 in force 26.07.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-223 in force 26.07.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-225 in force 26.07.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-237 in force 25.08.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-246 in force 21.09.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-248 in force 21.09.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-250 in force 21.09.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-264 in force 30.09.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-266 in force 30.09.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-330 in force 23.12.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-332 in force 23.12.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2016-334 in force 23.12.2016 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-3 in force 25.01.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-5 in force 25.01.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-30 in force 01.03.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-32 in force 01.03.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-34 in force 01.03.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-64 in force 20.04.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-66 in force 20.04.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-97 in force 24.05.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-99 in force 24.05.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-102 in force 31.05.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-152 in force 23.07.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-153 in force 23.06.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-188 in force 05.09.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-190 in force 05.09.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-240 in force 17.11.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-242 in force 17.11.2017 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-30 in force 07.03.2018 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-74 in force 13.04.2018 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-91 in force 03.05.2018 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-93 in force 03.05.2018 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-95 in force 03.05.2018 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-106 in force 25.05.2018 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-154 in force 29.06.2018 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-173 in force 22.08.2018 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-175 in force 22.08.2018 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-181 in force 06.09.2018 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-200 in force 03.11.2018 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-267 in force 03.12.2018 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2019-9 in force 21.12.2018 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2019-14 in force 08.01.2019 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2019-28 in force 31.01.2019 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), s. 375 in force 15.07.2019 <Emphasis style="italic">see</Emphasis> s. 383</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2019-31 in force 31.01.2019 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2019-141 in force 15.05.2019 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2019-205 in force 12.06.2019 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2019-271 in force 04.07.2019 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2019-306 in force 16.08.2019 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2019-344 in force 02.12.2019 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2019-346 in force 02.12.2019 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2020-99 in force 01.05.2020 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2020-140 in force 26.06.2020 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2020-196 in force 11.09.2020 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2020-198 in force 11.09.2020 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2020-202 in force 17.09.2020 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2020-30 in force 30.12.2020 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2021-54 in force 26.03.2021 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2021-94 in force 06.05.2021 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2021-209 in force 18.08.2021 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2021-211 in force 18.08.2021 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2021-213 in force 18.08.2021 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2022-130 in force 10.06.2022 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-11 in force 26.01.2023 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-54 in force 17.03.2023 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-75 in force 12.04.2023 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-94 in force 18.05.2023 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-96 in force 18.05.2023 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-140 in force 19.06.2023 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-142 in force 19.06.2023 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-288 in force 22.12.2023 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2024-189 in force 23.09.2024 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2024-191 in force 23.09.2024 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2024-193 in force 23.09.2024 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2024-225 in force 21.11.2024 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2024-294 in force 27.12.2024 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2025-54 in force 26.02.2025 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2025-160 in force 12.08.2025 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2025-186 in force 12.09.2025 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2025-190 in force 17.09.2025 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+</Statute>
+</TOPS>

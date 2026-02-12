@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2024, c. 17">
+  <Title>Budget Implementation Act, 2024, No. 1</Title>
+  <ChapterNumber>2024, c. 17</ChapterNumber>
+  <OtherLangTitle>(Exécution du budget 2024, Loi no 1)</OtherLangTitle>
+  <Minister>
+    <Text>Introduced by Deputy Minister and Minister of Finance</Text>
+  </Minister>
+  <General>
+    <Text>Notes — ss. 77 to 79, 80(112), 133 to 135, 138 to 140 as enacted by 2024, c. 17, ss. 81, 145 and 146, 195 and 348: Regulations</Text>
+  </General>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2024, c. 17, ss. 80, 111, 153, 257, 335, 338, 350, 378, 396 and 412</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2024, c. 17, ss. 154 (program) and 261 to 267</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 2024, c. 17, ss. 243 and 244, 256, 302 to 317, 332 and 416 to 419</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2024, c. 17 in force on assent 20.06.2024, <Emphasis style="italic">except</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>— s. 3(2) deemed in force 01.01.2023 <Emphasis style="italic">see</Emphasis> s. 3(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 5(1) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 5(5)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 5(2) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 5(6)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 5(3) and (4) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 5(7)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 6(1) deemed in force 12.03.2020 <Emphasis style="italic">see</Emphasis> s. 6(11)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 6(2), (5), (7) and (9) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 6(12)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 6(4) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 6(13)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 6(3), (6), (8) and (10) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 6(14)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 8(1) deemed in force 12.03.2020 <Emphasis style="italic">see</Emphasis> s. 8(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 10(1) and (3) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 10(5)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 10(2) and (4) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 10(6)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 13(1) deemed in force 04.08.2023 <Emphasis style="italic">see</Emphasis> s. 13(6)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 14(1) deemed in force 04.08.2023 <Emphasis style="italic">see</Emphasis> s. 14(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 15(1) deemed in 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 15(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 15(2) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 15(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 17(2) and (3) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 17(5)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 18(1) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 18(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 18(2) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 18(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 19(1) and (3) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 19(5)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 19(2) and (4) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 19(6)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 21(1) deemed in force 04.08.2023 <Emphasis style="italic">see</Emphasis> s. 21(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 22 (1), (3) and (5) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 22(7)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 22(2), (4) and (6) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 22(8)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 24(1) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 24(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 24(2) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 24(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 28(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 28(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 32(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 32(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 33(1) to (3) deemed in force 01.01.2023 <Emphasis style="italic">see</Emphasis> s. 33(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 34(3) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 34(7)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 34(4) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 34(8)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 34(5) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 34(9)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 36(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 36(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 37(1) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 37(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See exceptions</Emphasis> re application of s. 127.48(3) and s. 127.48(1)a)(ii)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 38(1) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 38(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 39(1) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 39(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See exceptions</Emphasis> re application of s. 127.491(1<Emphasis style="italic">)</Emphasis></Text>
+      </Item>
+      <Item>
+        <Text>— s. 45(1) deemed in force 04.08.2023 <Emphasis style="italic">see</Emphasis> s. 45(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 48(5) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 48(9)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 48(8) deemed in force 04.08.2023 <Emphasis style="italic">see</Emphasis> s. 48(10)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 52(1) deemed in force 01.01.2018 <Emphasis style="italic">see</Emphasis> s. 52(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 53(1) deemed in force 04.08.2023 <Emphasis style="italic">see</Emphasis> s. 53(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 56(1) and (3) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 56(6)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 56(2) and (4) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 56(7)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 56(5) (re 152(4.01)(b)(x.1)) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 56(8)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 56(5) (re 152(4.01)(b)(x.2)) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 56(9)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 57(1) deemed in force 01.04.2019 <Emphasis style="italic">see</Emphasis> s. 57(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 57(2) deemed in force 18.03.2020 <Emphasis style="italic">see</Emphasis> s. 57(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 58(1) and (3) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 58(5)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 58(2) and (4) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 58(6)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 59(1) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 59(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 59(2) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 59(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 65(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 65(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 68(1) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 68(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 68(2) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 68(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 73 deemed in force 22.06.2023 <Emphasis style="italic">see</Emphasis> s. 73(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 74(4) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 74(8)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See exceptions</Emphasis> re subpar. 241(4)(d)(vi.2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 75(1) deemed in force 04.08.2023 <Emphasis style="italic">see</Emphasis> s. 75(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 80 in force on assent 20.06.2024, Coordinating amendments,</Text>
+        <List>
+          <Item>
+            <Text>— s. 80(2) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(113)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(2) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(113)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(3) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(114)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(4) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(115)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(5) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> 80(116)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(6) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(117)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(7) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(118)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(8) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(119)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(9) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(120)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(10) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(121)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(11) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(122)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(12) conditions met 30.09.2023 <Emphasis style="italic">see</Emphasis> s. 80(123)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(13) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(124)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(14) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(125)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(15) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(126)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(16) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(127)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(17) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(128)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(18) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(129)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(19) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(130)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(20) conditions met 30.12.2023 <Emphasis style="italic">see</Emphasis> s. 80(131)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(21) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(21)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(22) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(22)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(23) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(132)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(24) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(133)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(25) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(25)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(26) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(26)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(27) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(134)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(28) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(135)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(29) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(136)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(30) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(137)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(31) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(138)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(32) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(139)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(33) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(140)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(34) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(141)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(35) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(142)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(36) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(143)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(37) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(144)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(38) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(145)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(39) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(146)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(40) conditions met 20.06.2024 (<Emphasis style="italic">see</Emphasis> application provisions s. 80(147))</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(41) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(148)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(42) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(149)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(43) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(150)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(44) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(151)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(45) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(152)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(46) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(153)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(47) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(154)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(48) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(155)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(49) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(156)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(50) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(157)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(51) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(158)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(52) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(159)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(53) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(160)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(54) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(161)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(55) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(162)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(56) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(163)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(57) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(164)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(58) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(165)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(59) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(166)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(60) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(167)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(61) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(168)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(62) conditions met 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 80(169)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(63) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(170)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(64) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(171)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(65) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(172)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(66) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(173)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(67) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(174)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(68) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(175)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(69) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(176)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(70) conditions met 20.06.2024 (<Emphasis style="italic">see</Emphasis> application provisions s. 80(177))</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(71) conditions met 20.06.2024 (<Emphasis style="italic">see</Emphasis> application provisions s. 80(178))</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(72) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(179)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(73) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(180)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(74) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(181)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(75) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(182)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(76) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(183) with <Emphasis style="italic">exceptions</Emphasis></Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(77) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(184)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(78) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(185)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(79) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(79)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(80) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(186) with <Emphasis style="italic">exceptions</Emphasis></Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(81) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(81)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(82) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(187)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(83) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(83)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(84) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(188)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(85) conditions met 20.06.2024 (<Emphasis style="italic">see</Emphasis> application provisions s. 80(189))</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(86) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(190)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(87) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(191)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(88) conditions met 20.06.2024 <Emphasis style="italic">see</Emphasis> s. 80(192)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(89) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(193)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(90) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(90)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(91) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(91)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(92) [replacing 152(4.01)(b)(xii)] conditions met 20.06.2024 <Emphasis style="italic">see</Emphasis> s. 80(194)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(92) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(195)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(92) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(196)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(93) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(197)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(94) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(198)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(95) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(199)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(96) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(200)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(97 conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(201)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(98) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(98)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(99) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(99)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(100) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(202)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(101) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(203)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(102) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(204)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(103) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(205)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(104) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(206)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(105) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(207)</Text>
+          </Item>
+          <Item>
+            <Text>— ss. 80(106) and (107) conditions met 20.06.2024</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(108) conditions met 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 80(208)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(109) conditions met 28.11.2023 <Emphasis style="italic">see</Emphasis> s. 80(209)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(110) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(210)</Text>
+          </Item>
+          <Item>
+            <Text>— s. 80(111) conditions met 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 80(211)</Text>
+          </Item>
+        </List>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See also</Emphasis> application provisions throughout</Text>
+      </Item>
+      <Item>
+        <Text>— s. 81 enacting ss. 1 to 141 of the <XRefExternal reference-type="act">Global Minimum Tax Act</XRefExternal> in force on assent 20.06.2024</Text>
+      </Item>
+      <Item>
+        <Text>— s. 82(1) deemed in force 31.12.2023 <Emphasis style="italic">see</Emphasis> s. 82(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 111(2) to (32) in force on assent 20.06.2024 (Coordinating amendment - conditions met 28.06.2024 <Emphasis style="italic">see</Emphasis> SI/2024-33)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See also</Emphasis> application provision s. 111(34)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 113(1) deemed in force 01.04.2024 <Emphasis style="italic">see</Emphasis> s. 113(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 114(1) deemed in force 01.04.2024 <Emphasis style="italic">see</Emphasis> s. 114(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 114(2) deemed in force 01.04.2026 <Emphasis style="italic">see</Emphasis> s. 114(4) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— s. 115(1) deemed in force 01.04.2024 <Emphasis style="italic">see</Emphasis> s. 115(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 115(2) deemed in force 01.04.2026 <Emphasis style="italic">see</Emphasis> s. 115(4) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— s. 116(1) deemed in force 01.04.2024 <Emphasis style="italic">see</Emphasis> s. 116(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 116(2) deemed in force 01.04.2026 <Emphasis style="italic">see</Emphasis> s. 116(4) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 117(1) and (2) in force on the first day of the month after the month in which this Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 117(3) (01.07.2024)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 118(1) and (2) in force on the first day of the month after the month in which this Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 118(3) (01.07.2024)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 119(1) deemed in force 17.04.2024 <Emphasis style="italic">see</Emphasis> s. 119(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 120(1) deemed in force 17.04.2024 <Emphasis style="italic">see</Emphasis> s. 120(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 121(1) deemed in force 17.04.2024 <Emphasis style="italic">see</Emphasis> s. 121(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 122(1) deemed in force 17.04.2024 <Emphasis style="italic">see</Emphasis> s. 122(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 123(1) deemed in force 01.04.2024 <Emphasis style="italic">see</Emphasis> s. 123(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 124(1) deemed in force 01.04.2024 <Emphasis style="italic">see</Emphasis> s. 124(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 126(1) deemed in force 17.04.2024 <Emphasis style="italic">see</Emphasis> s. 126(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 127(1) deemed in force 17.04.2024 <Emphasis style="italic">see</Emphasis> s. 127(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 128(1) deemed in force 17.04.2024 <Emphasis style="italic">see</Emphasis> s. 128(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 129(1) deemed in force 17.04.2024 <Emphasis style="italic">see</Emphasis> s. 129(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 130(1) deemed in force 17.04.2024 <Emphasis style="italic">see</Emphasis> s. 130(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 131(1) and (2) in force 01.07.2024 <Emphasis style="italic">see</Emphasis> s. 131(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 132(1) and (2) in force 01.07.2024 <Emphasis style="italic">see</Emphasis> s. 132(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 136(1), (4) and (5) deemed in force 01.01. 2023 <Emphasis style="italic">see</Emphasis> s. 136(6)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 136(2) and (3) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 136(7)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 137(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 137(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 138(2) deemed in force 01.01.2023 <Emphasis style="italic">see</Emphasis> s. 138(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 138(3) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 138(5)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 140(1) and (2) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 140(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 141(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 141(3)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See also</Emphasis> the application provision s. 141(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 153(2) in force on assent (Coordinating amendment - conditions met 20.06.2024)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 153(3) and (4) conditions deemed never to have had its effects</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 155 to 160 in force 12.12.2025 <Emphasis style="italic">see</Emphasis> SI/2025-128</Text>
+      </Item>
+      <Item>
+        <Text>— s. 159 in force 01.07.2024 <Emphasis style="italic">see</Emphasis> SI/2023-60</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 162, 163(2), 166 to 168, 169(1) and 170 in force 27.06.2025 <Emphasis style="italic">see</Emphasis> SI/2025-88</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 163(1), (3) and (4), 164, 165, 169(2) come into force on a day to be fixed by order of the Governor in Council<Emphasis style="italic"> see</Emphasis> s. 171(2) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 184 and 185 come into force on a day or days to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 186 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 187(2), 188 to 190, 192 and 194(1) in force 17.12.2024 <Emphasis style="italic">see</Emphasis> SI/2025-1</Text>
+      </Item>
+      <Item>
+        <Text>— s. 198 enacting ss. 1 to 20 of the <XRefExternal reference-type="act">Consumer-Driven Banking Act</XRefExternal> in force on assent, <Emphasis style="italic">except</Emphasis>, ss. 4 to 7, 12 and 13 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 21 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 213 to 221 and 224 come into force on a day or days to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 227 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— s. 236 comes into force on the fourth anniversary of the day on which s. 235 comes into force <Emphasis style="italic">see</Emphasis> s. 149 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 245 to 248 and 255 come into force on a day or days to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 258 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 265 to 267 deemed in force 29.11.2022 <Emphasis style="italic">see</Emphasis> s. 268</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 325(2), 330 and 331(2) in force 27.03.2025 <Emphasis style="italic">see</Emphasis> SI/2025-25</Text>
+      </Item>
+      <Item>
+        <Text>— s. 327 comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 333 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— s. 335 in force on assent (Coordinating amendment - conditions met 20.06.2024 <Emphasis style="italic">see</Emphasis> s. 335)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 336(1) and (2) and 337 in force 01.01.2025 <Emphasis style="italic">see</Emphasis> SI/2025-4</Text>
+      </Item>
+      <Item>
+        <Text>— s. 336(3) in force on the 30th day after the day on which the <XRefExternal reference-type="act">Budget Implementation Act, 2024, No. 1 — 2024</XRefExternal>, c. 17 receives royal assent (22.07.2024)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 338(3) in force 20.06.2024 (Coordinating amendment - conditions met 01.01.2025 <Emphasis style="italic">see</Emphasis> SI/2025-4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 340(1) and (3) in force 01.07.2024 <Emphasis style="italic">see</Emphasis> s. 351(1)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 340(2) and (4) and 342(2) in force 01.04.2025 <Emphasis style="italic">see</Emphasis> SI/2025-24 (b)(i)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 341 and 344 in force 04.03.2025 <Emphasis style="italic">see</Emphasis> SI/2025-24 (b)(ii)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 346 in force 01.10.2025 <Emphasis style="italic">see</Emphasis> SI/2025-2</Text>
+      </Item>
+      <Item>
+        <Text>— s. 347 in force 04.03.2025 <Emphasis style="italic">see</Emphasis> SI/2025-24 (b)(ii)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 349(2) in force on assent 20.06.2024 (Coordinating amendment - conditions met 01.07.2024)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 356 to 366 in force on the 90th day after the day on which the <XRefExternal reference-type="act">Budget Implementation Act, 2024, No. 1 — 2024</XRefExternal>, c. 17 receives royal assent <Emphasis style="italic">see</Emphasis> s. 367 (18.09.2024)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 368 to 374 in force on the 30th day after the day on which the <XRefExternal reference-type="act">Budget Implementation Act, 2024, No. 1 — 2024</XRefExternal>, c. 17 receives royal assent <Emphasis style="italic">see</Emphasis> s. 379 (20.07.2024)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 375 in force on the 30th day after the day on which <XRefExternal reference-type="act">Budget Implementation Act, 2024, No. 1 — 2024 </XRefExternal>, c. 17 receives royal assent <Emphasis style="italic">see</Emphasis> s. 379 (20.07.2024)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 378 in force on assent 20.06.2024 (Coordinating amendment - conditions met 18.09.2024 <Emphasis style="italic">see</Emphasis> s. 378)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 383 in force 30.10.2025 <Emphasis style="italic">see</Emphasis> SI/2025-106</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 385(2), 387 and 389 and 390(2) come into force on the fifth anniversary of the day on which the <XRefExternal reference-type="act">Budget Implementation Act, 2024, No. 1</XRefExternal>, c. 17 receives royal assent <Emphasis style="italic">see</Emphasis> s. 393 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— s. 392 in force on assent (coordinating amendment - conditions met 01.10.2024 <Emphasis style="italic">see</Emphasis> SI/2024-45)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 397 to 401 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 402 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 413(4), 414 and 415 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 420 — Not in force</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

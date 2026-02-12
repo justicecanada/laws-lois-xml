@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="E-23">
+  <Title>Extradition, Loi sur l’</Title>
+  <ChapterNumber>L.R. (1985), ch. E-23</ChapterNumber>
+  <OtherLangTitle>(Extradition Act)</OtherLangTitle>
+  <Repeal>
+    <Text>LOI ABROGÉE par 1999, ch. 18, art. 129, entré en vigueur à la sanction (17.06.99). Cependant, l’art. 84 de la nouvelle <XRefExternal reference-type="act">Loi sur l’extradition</XRefExternal>, 1999, ch. 18, prévoit que la loi abrogée continue de s’appliquer — comme si elle n’avait pas été abrogée par l’art. 129 — à toute question en matière d’extradition dans le cas où l’audition de la demande d’extradition est en cours devant le juge le 17.06.99.</Text>
+  </Repeal>
+  <Transitional>
+    <Text>disposition transitoire, 1999, ch. 18, art. 84</Text>
+  </Transitional>
+  <ConditionalAmendment>
+    <Text>modification conditionnelle, 1999, ch. 3, art. 91</Text>
+  </ConditionalAmendment>
+  <CIF>
+    <Text>EEV, 1999, ch. 3, art. 91 en vigueur à la sanction 11.03.99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 18, art. 84 et 129 en vigueur à la sanction 17.06.99</Text>
+  </CIF>
+</Statute>
+</TOPS>

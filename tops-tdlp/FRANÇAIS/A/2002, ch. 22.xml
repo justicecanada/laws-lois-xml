@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2002, ch. 22">
+  <Title>Accise, Loi de 2001 sur l’</Title>
+  <ChapterNumber>2002, ch. 22</ChapterNumber>
+  <OtherLangTitle>(Excise Act, 2001)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre du Revenu national</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50; 2009, ch. 2, art. 119(A); 2010, ch. 12, art. 38, ch. 25, art. 107; 2011, ch. 15, art. 9; 2018, ch. 12, art. 69; 2019, ch. 29, art. 81; 2022, ch. 10, art. 54; 2022, ch. 19, art. 93</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>ajouté, 2018, ch. 27, art. 63</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2008, ch. 28, art. 51; 2010, ch. 12, art. 39; 2018, ch. 12, art. 70; 2022, ch. 10, art. 55</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2010, ch. 25, art. 108</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2005, ch. 38, art. 93 et al. 145(2)f)</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2005, ch. 10, al. 34(1)k)</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2007, ch. 18, art. 68; 2018, ch. 12, art. 71; 2022, ch. 10, art. 56; 2024, ch. 15, art. 145</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>2007, ch. 18, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2007, ch. 18, art. 70; 2022, ch. 10, art. 57</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2007, ch. 18, art. 71</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2007, ch. 18, art. 72</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2008, ch. 28, art. 52; 2018, ch. 12, art. 72; 2022, ch. 10, art. 58</Text>
+  </Section>
+  <Section>
+    <Label>24.1</Label>
+    <Text>ajouté, 2007, ch. 18, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2007, ch. 18, art. 74</Text>
+  </Section>
+  <Section>
+    <Label>25.1</Label>
+    <Text>ajouté, 2010, ch. 12, art. 40; 2018, ch. 12, al. 94a)</Text>
+  </Section>
+  <Section>
+    <Label>25.2</Label>
+    <Text>ajouté, 2010, ch. 12, art. 40; 2018, ch. 12, al. 94b)</Text>
+  </Section>
+  <Section>
+    <Label>25.3</Label>
+    <Text>ajouté, 2010, ch. 12, art. 40; 2018, ch. 12, al. 94b)</Text>
+  </Section>
+  <Section>
+    <Label>25.4</Label>
+    <Text>ajouté, 2010, ch. 12, art. 40; 2018, ch. 12, al. 94b)</Text>
+  </Section>
+  <Section>
+    <Label>25.5</Label>
+    <Text>ajouté, 2010, ch. 12, art. 40; 2018, ch. 12, al. 94c)</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2007, ch. 18, art. 75</Text>
+  </Section>
+  <Section>
+    <Label>28.1</Label>
+    <Text>ajouté, 2007, ch. 18, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2007, ch. 18, art. 77</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2007, ch. 18, art. 78</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2007, ch. 18, art. 79</Text>
+  </Section>
+  <Section>
+    <Label>32.1</Label>
+    <Text>ajouté, 2008, ch. 28, art. 53</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>2007, ch. 18, art. 80</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2007, ch. 18, art. 81</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>2007, ch. 18, art. 82; 2008, ch. 28, art. 54; 2024, ch. 17, art. 117</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>2007, ch. 18, art. 83</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2014, ch. 20, art. 62</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>2014, ch. 20, art. 63</Text>
+  </Section>
+  <Section>
+    <Label>43.1</Label>
+    <Text>ajouté, 2014, ch. 20, art. 64; 2018, ch. 12, art. 47</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2007, ch. 18, art. 84</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>2008, ch. 28, art. 55</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>2007, ch. 18, art. 85</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2007, ch. 18, art. 86</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2007, ch. 18, art. 87</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>2008, ch. 28, art. 56; 2014, ch. 20, art. 65(F)</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2008, ch. 28, art. 57; 2014, ch. 20, art. 66(F)</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>2014, ch. 20, art. 67(F)</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>2024, ch. 17, art. 118</Text>
+  </Section>
+  <Heading>
+    <Label>Partie 3.1</Label>
+    <Text>(art. 58.1 à 58.6) ajoutée, 2006, ch. 4, art. 34</Text>
+  </Heading>
+  <Section>
+    <Label>58.1</Label>
+    <Text>ajouté, 2006, ch. 4, art. 34; 2007, ch. 35, art. 197; 2014, ch. 20, art. 69; 2017, ch. 20, art. 45; 2018, ch. 12, art. 48; 2021, ch. 23, art. 117; 2024, ch. 17, art. 119</Text>
+  </Section>
+  <Section>
+    <Label>58.2</Label>
+    <Text>ajouté, 2006, ch. 4, art. 34; 2007, ch. 35, art. 198; 2014, ch. 20, art. 70; 2017, ch. 20, art. 46; 2018, ch. 12, art. 49; 2021, ch. 23, art. 118; 2024, ch. 17, art. 120</Text>
+  </Section>
+  <Section>
+    <Label>58.3</Label>
+    <Text>ajouté, 2006, ch. 4, art. 34; 2007, ch. 35, art. 199; 2014, ch. 20, art. 70</Text>
+  </Section>
+  <Section>
+    <Label>58.4</Label>
+    <Text>ajouté, 2006, ch. 4, art. 34; 2014, ch. 20, art. 70</Text>
+  </Section>
+  <Section>
+    <Label>58.5</Label>
+    <Text>ajouté, 2006, ch. 4, art. 34; 2007, ch. 35, art. 200; 2014, ch. 20, art. 71; 2017, ch. 20, art. 47; 2018, ch. 12, art. 50; 2021, ch. 23, art. 119; 2024, ch. 17, art. 121</Text>
+  </Section>
+  <Section>
+    <Label>58.6</Label>
+    <Text>ajouté, 2006, ch. 4, art. 34; 2007, ch. 35, art. 201; 2014, ch. 20, art. 72; 2017, ch. 20, art. 48; 2018, ch. 12, art. 51; 2021, ch. 23, art. 120; 2024, ch. 17, art. 122</Text>
+  </Section>
+  <Section>
+    <Label>59.1</Label>
+    <Text>ajouté, 2007, ch. 18, art. 88</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>2007, ch. 18, art. 89</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2007, ch. 18, art. 90</Text>
+  </Section>
+  <Section>
+    <Label>62.1</Label>
+    <Text>ajouté, 2007, ch. 18, art. 91</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>2007, ch. 18, art. 92</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>2005, ch. 38, art. 94 et al. 145(2)f)</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>2007, ch. 18, art. 93</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>2007, ch. 18, art. 94</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>2007, ch. 18, art. 95</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>2007, ch. 18, art. 95</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>2007, ch. 2, art. 55; 2022, ch. 10, art. 129</Text>
+  </Section>
+  <Section>
+    <Label>88</Label>
+    <Text>2007, ch. 18, art. 96 et 157; 2022, ch. 10, art. 130</Text>
+  </Section>
+  <Section>
+    <Label>93.1</Label>
+    <Text>ajouté, 2007, ch. 18, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>93.2</Label>
+    <Text>ajouté, 2007, ch. 18, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>117.1</Label>
+    <Text>ajouté, 2007, ch. 18, art. 98</Text>
+  </Section>
+  <Section>
+    <Label>123.1</Label>
+    <Text>ajouté, 2017, ch. 20, art. 49; 2023, ch. 26, art. 125; 2024, ch. 17, art. 123</Text>
+  </Section>
+  <Section>
+    <Label>131</Label>
+    <Text>2007, ch. 18, art. 99</Text>
+  </Section>
+  <Section>
+    <Label>131.1</Label>
+    <Text>ajouté, 2007, ch. 18, art. 99</Text>
+  </Section>
+  <Section>
+    <Label>131.2</Label>
+    <Text>ajouté, 2007, ch. 18, art. 99</Text>
+  </Section>
+  <Section>
+    <Label>134</Label>
+    <Text>2007, ch. 2, art. 56; 2022, ch. 10, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>135</Label>
+    <Text>2007, ch. 2, art. 57; 2007, ch. 18, art. 100; 2022, ch. 10, art. 132</Text>
+  </Section>
+  <Section>
+    <Label>135.1</Label>
+    <Text>ajouté, 2017, ch. 20, art. 50; 2023, ch. 26, art. 126; 2024, ch. 17, art. 124</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>; 2007, ch. 18, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>138</Label>
+    <Text>2007, ch. 18, art. 102</Text>
+  </Section>
+  <Section>
+    <Label>145</Label>
+    <Text>2007, ch. 18, art. 103</Text>
+  </Section>
+  <Section>
+    <Label>147</Label>
+    <Text>2007, ch. 18, art. 104</Text>
+  </Section>
+  <Section>
+    <Label>151</Label>
+    <Text>2007, ch. 18, art. 105</Text>
+  </Section>
+  <Section>
+    <Label>153.1</Label>
+    <Text>ajouté, 2007, ch. 18, art. 106</Text>
+  </Section>
+  <Heading>
+    <Label>partie 4.1</Label>
+    <Text>(art. 158.01…) ajoutée, 2018, ch. 12, art. 73</Text>
+  </Heading>
+  <Section>
+    <Label>158.01</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73; 2022, ch. 19, art. 94</Text>
+  </Section>
+  <Section>
+    <Label>158.02</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.03</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.04</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.05</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.06</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.07</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.08</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.09</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.1</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.11</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.12</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.13</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73; 2022, ch. 19, art. 95</Text>
+  </Section>
+  <Section>
+    <Label>158.14</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.15</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.16</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.17</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.18</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.19</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73; 2022, ch. 19, art. 96</Text>
+  </Section>
+  <Section>
+    <Label>158.2</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73; 2022, ch. 19, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>158.21</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.22</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.23</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.24</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.25</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.26</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.27</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.28</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.29</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.3</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.31</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.32</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.33</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.34</Label>
+    <Text>ajouté, 2018, ch. 12, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>158.35</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.36</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.37</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.38</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.39</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.4</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.41</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.42</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.43</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.44</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.45</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.46</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59; 2024, ch. 15, art. 146</Text>
+  </Section>
+  <Section>
+    <Label>158.47</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59; 2024, ch. 15, art. 147</Text>
+  </Section>
+  <Section>
+    <Label>158.48</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.49</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59; 2024, ch. 15, art. 148</Text>
+  </Section>
+  <Section>
+    <Label>158.5</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59; 2024, ch. 15, art. 149</Text>
+  </Section>
+  <Section>
+    <Label>158.51</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59; 2024, ch. 15, art. 150</Text>
+  </Section>
+  <Section>
+    <Label>158.511</Label>
+    <Text>ajouté, 2024, ch. 15, art. 151</Text>
+  </Section>
+  <Section>
+    <Label>158.52</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.53</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.54</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.55</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.56</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.57</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59; 2024, ch. 15, art. 152</Text>
+  </Section>
+  <Section>
+    <Label>158.58</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59; 2024, ch. 15, art. 153</Text>
+  </Section>
+  <Section>
+    <Label>158.59</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59; 2024, ch. 15, art. 154</Text>
+  </Section>
+  <Section>
+    <Label>158.6</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.61</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.62</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.63</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.64</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.65</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.66</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.67</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.68</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>158.69</Label>
+    <Text>ajouté, 2022, ch. 10, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>159</Label>
+    <Text>2010, ch. 25, art. 110; 2018, ch. 12, art. 74; 2022, ch. 10, art. 60</Text>
+  </Section>
+  <Section>
+    <Label>159.1</Label>
+    <Text>ajouté, 2010, ch. 25, art. 111; 2022, ch. 19, art. 98</Text>
+  </Section>
+  <Section>
+    <Label>159.2</Label>
+    <Text>ajouté, 2022, ch. 19, art. 99; 2024, ch. 15, art. 155</Text>
+  </Section>
+  <Section>
+    <Label>160</Label>
+    <Text>2007, ch. 18, art. 107; 2010, ch. 25, art. 112</Text>
+  </Section>
+  <Section>
+    <Label>163</Label>
+    <Text>2023, ch. 26, art. 89</Text>
+  </Section>
+  <Section>
+    <Label>165</Label>
+    <Text>2003, ch. 15, art. 91; 2006, ch. 4, art. 113</Text>
+  </Section>
+  <Section>
+    <Label>168</Label>
+    <Text>2006, ch. 4, art. 114</Text>
+  </Section>
+  <Section>
+    <Label>169</Label>
+    <Text>2012, ch. 19, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>170</Label>
+    <Text>2003, ch. 15, art. 92; 2006, ch. 4, art. 115; 2010, ch. 25, art. 113</Text>
+  </Section>
+  <Section>
+    <Label>171</Label>
+    <Text>2003, ch. 15, art. 93</Text>
+  </Section>
+  <Section>
+    <Label>172</Label>
+    <Text>2019, ch. 29, art. 82</Text>
+  </Section>
+  <Section>
+    <Label>173</Label>
+    <Text>2006, ch. 4, art. 116; 2007, ch. 18, art. 108</Text>
+  </Section>
+  <Section>
+    <Label>176</Label>
+    <Text>2010, ch. 25, art. 114</Text>
+  </Section>
+  <Section>
+    <Label>177</Label>
+    <Text>2007, ch. 18, art. 109</Text>
+  </Section>
+  <Section>
+    <Label>178</Label>
+    <Text>2010, ch. 25, art. 115</Text>
+  </Section>
+  <Section>
+    <Label>180</Label>
+    <Text>2018, ch. 12, art. 75; 2022, ch. 10, art. 61</Text>
+  </Section>
+  <Section>
+    <Label>180.1</Label>
+    <Text>ajouté, 2008, ch. 28, art. 58; 2014, ch. 20, par. 73(1), abrogé, ch. 20, par. 73(2)</Text>
+  </Section>
+  <Section>
+    <Label>181</Label>
+    <Text>2014, ch. 39, art. 100</Text>
+  </Section>
+  <Section>
+    <Label>181.1</Label>
+    <Text>ajouté; 2007, ch. 18, art. 110; 2014, ch. 39, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>187.1</Label>
+    <Text>ajouté, 2018, ch. 12, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>187.2</Label>
+    <Text>added, 2022, ch. 10, art. 62</Text>
+  </Section>
+  <Section>
+    <Label>188</Label>
+    <Text>2005, ch. 38, art. 95 et al. 145(2)f); 2006, ch. 4, art. 117; 2007, ch. 18, art. 111; 2010, ch. 25, art. 116; 2022, ch. 5, art. 32 et 33; 2022, ch. 10, art. 164 et par. 173(23) et (24); 2024, ch. 15, art. 119; 2024, ch. 17, art. 103 et par. 111(21) et (22)</Text>
+  </Section>
+  <Section>
+    <Label>189</Label>
+    <Text>2005, ch. 38, art. 96 et al. 145(2)f); 2006, ch. 4, art. 118; 2007, ch. 18, art. 112; 2022, ch. 5, art. 34; 2022, ch. 10, art. 165 et par. 173(25); 2024, ch. 15, art. 120; 2024, ch. 17, art. 104 et par. 111(23)</Text>
+  </Section>
+  <Section>
+    <Label>191</Label>
+    <Text>2010, ch. 25, art. 117; 2016, ch. 12, art. 100</Text>
+  </Section>
+  <Section>
+    <Label>193</Label>
+    <Text>2010, ch. 25, art. 118</Text>
+  </Section>
+  <Section>
+    <Label>196</Label>
+    <Text>2007, ch. 18, art. 113</Text>
+  </Section>
+  <Section>
+    <Label>197</Label>
+    <Text>2007, ch. 18, art. 114</Text>
+  </Section>
+  <Section>
+    <Label>199</Label>
+    <Text>2007, ch. 18, art. 115</Text>
+  </Section>
+  <Section>
+    <Label>205</Label>
+    <Text>2002, ch. 22, art. 410</Text>
+  </Section>
+  <Section>
+    <Label>206</Label>
+    <Text>2008, ch. 28, art. 59; 2010, ch. 12, art. 41; 2018, ch. 12, art. 77; 2022, ch. 10, art. 63</Text>
+  </Section>
+  <Section>
+    <Label>207.1</Label>
+    <Text>ajouté, 2014, ch. 20, art. 74</Text>
+  </Section>
+  <Section>
+    <Label>208</Label>
+    <Text>2007, ch. 18, art. 116; 2013, ch. 33, art. 53; 2021, ch. 23, art. 74</Text>
+  </Section>
+  <Section>
+    <Label>209.1</Label>
+    <Text>ajouté, 2018, ch. 27, art. 64; 2021, ch. 23, art. 75</Text>
+  </Section>
+  <Section>
+    <Label>210</Label>
+    <Text>2018, ch. 27, art. 65; 2021, ch. 23, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>211</Label>
+    <Text>2005, ch. 38, art. 97 et al. 145(2)f); 2007, ch. 18, art. 117; 2009, ch. 2, art. 120; 2014, ch. 20, art. 75; 2015, ch. 20, art. 8; 2016, ch. 7, art. 75; 2018, ch. 12, art. 78, ch. 27, art. 66; 2019, ch. 13, art 126; 2022, ch. 10, art. 33; 2022, ch. 14, art. 7; 2023, ch. 14, art. 6; 2023, ch. 26, art. 90; 2024, ch. 15, art. 72; 2024, ch. 17, art. 125</Text>
+  </Section>
+  <Section>
+    <Label>212</Label>
+    <Text>2010, ch. 25, art. 119</Text>
+  </Section>
+  <Section>
+    <Label>214</Label>
+    <Text>2008, ch. 28, art. 60l 2010, ch. 12, art. 42; 2018, ch. 12, art. 79; 2022, ch. 10, art. 64</Text>
+  </Section>
+  <Section>
+    <Label>216</Label>
+    <Text>2006, ch. 4, art. 35; 2007, ch. 35, art. 202; 2008, ch. 28, art. 61; 2013, ch. 33, art. 54; 2014, ch. 20, art. 76; 2017, ch. 20, art. 51; 2018, ch. 12, art. 52</Text>
+  </Section>
+  <Section>
+    <Label>217</Label>
+    <Text>2006, ch. 4, art. 44; 2007, ch. 18, art. 118; 2017, ch. 20, art. 52</Text>
+  </Section>
+  <Section>
+    <Label>218</Label>
+    <Text>2006, ch. 4, art. 45; 2007, ch. 18, art. 119; 2017, ch. 20, art. 53</Text>
+  </Section>
+  <Section>
+    <Label>218.1</Label>
+    <Text>ajouté, 2018, ch. 12, art. 80</Text>
+  </Section>
+  <Section>
+    <Label>218.2</Label>
+    <Text>ajouté, 2022, ch. 10, art. 65</Text>
+  </Section>
+  <Section>
+    <Label>221</Label>
+    <Text>2007, ch. 18, art. 120</Text>
+  </Section>
+  <Section>
+    <Label>230</Label>
+    <Text>2018, ch. 12, art. 81; 2022, ch. 10, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>231</Label>
+    <Text>2018, ch. 12, art. 82; 2022, ch. 10, art. 67</Text>
+  </Section>
+  <Section>
+    <Label>232</Label>
+    <Text>2018, ch. 12, art. 83; 2022, ch. 10, art. 68</Text>
+  </Section>
+  <Section>
+    <Label>233.1</Label>
+    <Text>ajouté, 2018, ch. 12, art. 84, ch. 27, art. 67; 2019, ch. 29, art. 83</Text>
+  </Section>
+  <Section>
+    <Label>233.2</Label>
+    <Text>ajouté, 2022, ch. 10, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>233.3</Label>
+    <Text>ajouté, 2024, ch. 15, art. 156</Text>
+  </Section>
+  <Section>
+    <Label>234</Label>
+    <Text>2007, ch. 18, art. 121; 2010, ch. 12, art. 43; 2018, ch. 12, art. 85; 2022, ch. 10, art. 70</Text>
+  </Section>
+  <Section>
+    <Label>234.1</Label>
+    <Text>ajouté, 2018, ch. 12, art. 86, ch. 27, art. 68; 2019, ch. 29, art. 84; 2022, ch. 19, art. 100</Text>
+  </Section>
+  <Section>
+    <Label>234.2</Label>
+    <Text>ajouté, 2022, ch. 10, art. 71; 2024, ch. 15, art. 157</Text>
+  </Section>
+  <Section>
+    <Label>236</Label>
+    <Text>2007, ch. 18, art. 122; abrogé, 2014, ch. 20, art. 77</Text>
+  </Section>
+  <Section>
+    <Label>237</Label>
+    <Text>2007, ch. 18, art. 123; 2022, ch. 10, art. 72</Text>
+  </Section>
+  <Section>
+    <Label>238.01</Label>
+    <Text>ajouté, 2022, ch. 10, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>238.1</Label>
+    <Text>ajouté, 2010, ch. 12, art. 44; 2018, ch. 12, art. 87; 2019, ch. 29, art. 85; 2022, ch. 10, art. 74</Text>
+  </Section>
+  <Section>
+    <Label>239</Label>
+    <Text>2018, ch. 12, art. 88; 2022, ch. 10, art. 75</Text>
+  </Section>
+  <Section>
+    <Label>240</Label>
+    <Text>2003, ch. 15, art. 46; 2006, ch. 4, art. 36; 2007, ch. 35, art. 203; 2008, ch. 28, art. 62; 2013, ch. 33, art. 55; 2014, ch. 20, art. 78; 2017, ch. 20, art. 54; 2018, ch. 12, art. 53</Text>
+  </Section>
+  <Section>
+    <Label>242</Label>
+    <Text>2006, ch. 4, art. 46; 2017, ch. 20, art. 55</Text>
+  </Section>
+  <Section>
+    <Label>243</Label>
+    <Text>2006, ch. 4, art. 47; 2007, ch. 18, art. 124; 2017, ch. 20, art. 56</Text>
+  </Section>
+  <Section>
+    <Label>243.1</Label>
+    <Text>2007, ch. 18, art. 124; 2017, ch. 20, art. 57</Text>
+  </Section>
+  <Section>
+    <Label>247.1</Label>
+    <Text>2007, ch. 18, art. 125</Text>
+  </Section>
+  <Section>
+    <Label>249.1</Label>
+    <Text>ajouté, 2024, ch. 15, art. 158</Text>
+  </Section>
+  <Section>
+    <Label>251</Label>
+    <Text>2006, ch. 4, art. 119</Text>
+  </Section>
+  <Section>
+    <Label>251.1</Label>
+    <Text>ajouté, 2006, ch. 4, art. 119; 2010, ch. 25, art. 120</Text>
+  </Section>
+  <Section>
+    <Label>251.2</Label>
+    <Text>ajouté, 2006, ch. 4, art. 119</Text>
+  </Section>
+  <Section>
+    <Label>251.11</Label>
+    <Text>ajouté, 2023, ch. 26, art. 91</Text>
+  </Section>
+  <Section>
+    <Label>253</Label>
+    <Text>2010, ch. 25, art. 121</Text>
+  </Section>
+  <Section>
+    <Label>254</Label>
+    <Text>2006, ch. 4, art. 120</Text>
+  </Section>
+  <Section>
+    <Label>255.1</Label>
+    <Text>ajouté, 2006, ch. 4, art. 121; 2007, ch. 18, art. 126; 2010, ch. 25, art. 122</Text>
+  </Section>
+  <Section>
+    <Label>260</Label>
+    <Text>2022, ch. 19, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>264</Label>
+    <Text>2007, ch. 18, art. 127; 2010, ch. 12, art. 45; 2018, ch. 12, art. 89; 2022, ch. 10, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>266</Label>
+    <Text>2007, ch. 18, art. 128; 2010, ch. 12, art. 46; 2018, ch. 12, art. 90; 2022, ch. 10, art. 77</Text>
+  </Section>
+  <Section>
+    <Label>276</Label>
+    <Text>2002, ch. 22, art. 410</Text>
+  </Section>
+  <Section>
+    <Label>284</Label>
+    <Text>2004, ch. 22, art. 47; 2010, ch. 25, art. 123</Text>
+  </Section>
+  <Section>
+    <Label>286</Label>
+    <Text>2006, ch. 4, art. 122</Text>
+  </Section>
+  <Section>
+    <Label>286.1</Label>
+    <Text>ajouté, 2016, ch. 7, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>288</Label>
+    <Text>2006, ch. 4, art. 123</Text>
+  </Section>
+  <Section>
+    <Label>295</Label>
+    <Text>2004, ch. 25, art. 198</Text>
+  </Section>
+  <Section>
+    <Label>297</Label>
+    <Text>2007, ch. 18, art. 129; 2010, ch. 25, art. 124; 2022, ch. 5, art. 35; 2022, ch. 10, art. 166 et par. 173(26); 2022, ch. 19, art. 67; 2024, ch. 15, art. 121</Text>
+  </Section>
+  <Section>
+    <Label>301</Label>
+    <Text>2005, ch. 38, art. 98 et al. 145(2)f); 2010, ch. 25, art. 125; 2021, ch. 23, art. 77; 2023, ch. 26, art. 92</Text>
+  </Section>
+  <Section>
+    <Label>304</Label>
+    <Text>2007, ch. 18, art. 130; 2010, ch. 12, art. 47; 2018, ch. 12, art. 91; 2022, ch. 10, art. 78; 2022, ch. 19, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>304.3</Label>
+    <Text>ajouté, 2022, ch. 10, art. 79</Text>
+  </Section>
+  <Section>
+    <Label>304.1</Label>
+    <Text>ajouté, 2018, ch. 12, art. 92</Text>
+  </Section>
+  <Section>
+    <Label>304.2</Label>
+    <Text>ajouté, 2018, ch. 12, art. 92</Text>
+  </Section>
+  <Section>
+    <Label>315.1</Label>
+    <Text>ajouté, 2007, ch. 18, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>316.1</Label>
+    <Text>ajouté, 2007, ch. 18, art. 132</Text>
+  </Section>
+  <Section>
+    <Label>317.1</Label>
+    <Text>ajouté, 2007, ch. 18, art. 133</Text>
+  </Section>
+  <Section>
+    <Label>326</Label>
+    <Text>abrogé, 2002, ch. 22, al. 409(2)a)</Text>
+  </Section>
+  <Section>
+    <Label>327</Label>
+    <Text>abrogé, 2002, ch. 22, par. 409(6)</Text>
+  </Section>
+  <Section>
+    <Label>342</Label>
+    <Text>abrogé, 2002, ch. 22, par. 409(8)</Text>
+  </Section>
+  <Section>
+    <Label>343</Label>
+    <Text>abrogé, 2002, ch. 22, par. 409(8)</Text>
+  </Section>
+  <Section>
+    <Label>344</Label>
+    <Text>abrogé, 2002, ch. 22, par. 409(8)</Text>
+  </Section>
+  <Section>
+    <Label>377</Label>
+    <Text>2003, ch. 15, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>384</Label>
+    <Text>2003, ch. 15, par. 130(5) et (7)</Text>
+  </Section>
+  <Section>
+    <Label>411</Label>
+    <Text>2002, ch. 19, al. 21(2)b), 23(2)b) et 25(2)b)</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe 1 :</Label>
+  </Schedule>
+  <Section>
+    <Label>1</Label>
+    <Text>2003, ch. 15, art. 47; 2006, ch. 4, art. 37; 2007, ch. 35, art. 204; 2014, ch. 20, art. 79; 2017, ch. 20, art. 58; 2018, ch. 12, art. 54; 2021, ch. 23, art. 121; 2024, ch. 17, art. 126</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>2003, ch. 15, art. 48; 2006, ch. 4, art. 38; 2007, ch. 35, art. 205; 2008, ch. 28, art. 63; 2014, ch. 20, art. 79; 2017, ch. 20, art. 59; 2018, ch. 12, art. 55; 2021, ch. 23, art. 122; 2024, ch. 17, art. 127</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2003, ch. 15, art. 49; 2006, ch. 4, art. 39; 2007, ch. 35, art. 206; 2008, ch. 28, art. 64; 2013, ch. 33, art. 56; 2014, ch. 20, art. 79; 2017, ch. 20, art. 60; 2018, ch. 12, art. 56; 2021, ch. 23, art. 123; 2024, ch. 17, art. 128</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2006, ch. 4, art. 39; 2007, ch. 35, art. 207; 2014, ch. 20, art. 79; 2017, ch. 20, art. 61; 2018, ch. 12, art. 57; 2021, ch. 23, art. 124; 2024, ch. 17, art. 129</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe 2</Label>
+    <Text>2003, ch. 15, art. 50; 2006, ch. 4, art. 41; 2007, ch. 35, art. 208; 2014, ch. 20, art. 80; 2017, ch. 20, art. 62 et 63; 2018, ch. 12, art. 58; 2021, ch. 23, art. 125; 2024, ch. 17, art. 130</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe 3 :</Label>
+  </Schedule>
+  <Section>
+    <Label>1</Label>
+    <Text>2003, ch. 15, art. 51; 2008, ch. 28, art. 65; 2013, ch. 33, art. 57; 2014, ch. 20, art. 81</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>2003, ch. 15, art. 52; 2008, ch. 28, art. 66; 2013, ch. 33, art. 58; 2014, ch. 20, art. 81</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2003, ch. 15, art. 53; 2008, ch. 28, art. 67; 2013, ch. 33, art. 59; 2014, ch. 20, art. 81</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2003, ch. 15, art. 54; 2008, ch. 28, art. 68; 2013, ch. 33, art. 60; abrogé, 2014, ch. 20, art. 81</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe 4 :</Label>
+    <Text>2017, ch. 20, art. 64</Text>
+  </Schedule>
+  <Section>
+    <Label>1</Label>
+    <Text>2006, ch. 4, art. 48; 2017, ch. 20, art. 64</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>2006, ch. 4, art. 48; 2017, ch. 20, art. 64</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe 6</Label>
+    <Text>2006, ch. 4, art. 49; 2017, ch. 20, art. 65</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe 7</Label>
+    <Text>2018, ch. 12, art. 93</Text>
+  </Schedule>
+  <Section>
+    <Label>1 à 4</Label>
+    <Text>2019, ch. 29, art. 86</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe 8</Label>
+    <Text>ajouté, 2022, ch. 10, art. 80; 2024, ch. 15, art. 159</Text>
+  </Schedule>
+  <Section>
+    <Label>1</Label>
+    <Text>2024, ch. 17, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>2024, ch. 17, art. 132</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>dispositions de coordination, 2002, ch. 19, art. 21, 23 et 25</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>dispositions de coordination, 2002, ch. 22, art. 409 et 410</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>dispositions de coordination, 2003, ch. 15, par. 130(5) et (7)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2005, ch. 38, par. 145(2)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2007, ch. 18, par. 157</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>disposition générale, 2006, ch. 4, art. 42 et 50 — application</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2007, ch. 35, art. 209 — application</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2010, ch. 12, art. 54 — application</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2010, ch. 25, art. 109</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2013, ch. 33, art. 61 — application (paiement d’intérêts)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2014, ch. 20, art. 68 et 82 — application (paiement d’intérêts)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2018, ch. 12, art. 67 (application des dispositions de la <XRefExternal reference-type="act">Loi sur les douanes</XRefExternal> re paiement d’intérêts ou sur l’obligation …); art. 117 (application re licence de cannabis)</Text>
+  </General>
+  <Transitional>
+    <Text>disposition transitoire, 2018, ch. 12, art. 118 (période de transition se termine à la <Emphasis style="italic">date de référence</Emphasis>)</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, 2002, ch. 19, art. 21, 23 et 25 en vigueur à la sanction 13.06.2002</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 22, art. 1 et 408 à 432 en vigueur à la sanction 13.06.2002 <Emphasis style="italic">voir aussi</Emphasis> les différentes dispositions d’entrée en vigueur; art. 2, 4, 7 à 12, 14 à 24, 159, 211, 219 à 229, 304, 322 et 323 en vigueur 01.04.2003 et art. 3, 5, 6, 13, 25 à 158, 160 à 210, 212 à 218, 230 à 303, 305 à 321 et 324 à 407 et les annexes 1 à 7 de la loi en vigueur 01.07.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-47</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 15</Text>
+    <List>
+      <Item>
+        <Text>— art. 46 à 54 sont réputés entrer en vigueur à la sanction 19.06.2003 <Emphasis style="italic">voir</Emphasis> par. 60(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 66(1) est réputé entré en vigueur à la sanction 19.06.2003 <Emphasis style="italic">voir</Emphasis> par. 66(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 91(1), 92(1) et 93(1) sont réputés entrer en vigueur à la sanction 19.06.2003 <Emphasis style="italic">voir</Emphasis> par. 91(2), 92(2) et 93(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 130(5) et (7) en vigueur à la sanction 19.06.2003</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 22, art. 47 en vigueur à la sanction 14.05.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 25, art. 198 en vigueur à la sanction 15.12.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 10, art. 34 en vigueur 04.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-29</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 38, art. 145 en vigueur à la sanction 03.11.2005; art. 92 à 98 en vigueur 12.12.2005 <Emphasis style="italic">voir</Emphasis> TR/2005‑119</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2006, ch. 4, art. 34 à 42, 44 à 50 et 113 à 123 en vigueur à la sanction 22.06.2006 <Emphasis style="italic">sauf</Emphasis> </Text>
+    <List>
+      <Item>
+        <Text>— par. 34(1), 35(1) et (2), 36(1), 37(1), 38(1), 39(1), 40(1), 41(1) et (2), 44(1) et (2), 45(1) et (2), 46(1), 47(1), 48(1) et 49(1) en vigueur 01.07.2006 <Emphasis style="italic">voir respectivement</Emphasis> par. 34(2), 35(3), 36(2), 37(2), 38(2), 39(2), 40(2), 41(3), 44(3), 45(3), 46(2), 47(2), 48(2) et 49(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 113(1), 116(1), 117(1) à (7), 118(1), 120(1), 121(1) et 122(1) en vigueur 01.04.2007 <Emphasis style="italic">voir respectivement</Emphasis> par. 113(2), 116(2), 117(8), 118(2), 120(2), 121(2) et 122(2)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <Convention>
+    <Text>
+      <Emphasis style="italic">Voir aussi</Emphasis> les différentes dispositions d’application</Text>
+  </Convention>
+  <CIF>
+    <Text>EEV, 2007, ch. 2, art. 55 à 57 en vigueur à la sanction 21.02.2007. <Emphasis style="italic">Voir aussi</Emphasis> les différentes dispositions d’application; par. 55(1) est réputé entré en vigueur 01.07.2006 <Emphasis style="italic">voir</Emphasis> par. 55(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2007, ch. 18, art. 67 à 133 en vigueur à la sanction 22.06.2007. <Emphasis style="italic">Voir aussi</Emphasis> les différentes dispositions d’entrée en vigueur et d’application</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2007, ch. 35, art. 200, 201 et 209 en vigueur à la sanction 14.12.2007; art. 197 à 199 et 202 à 208 en vigueur 01.01.2008. <Emphasis style="italic">Voir aussi</Emphasis> les différentes dispositions d’application</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2008, ch. 28, art. 50 à 53, 56, 58 à 62 et 69 en vigueur à la sanction 18.06.2008. <Emphasis style="italic">Voir aussi</Emphasis> les différentes dispositions d’entrée en vigueur et d’application</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2009, ch. 2, art. 119 et 120 en vigueur à la sanction 12.03.2009</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2010, ch. 12, art. 38 à 47 et 54 en vigueur à la sanction 12.07.2010</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2010, ch. 25, art. 107 à 125 en vigueur à la sanction 15.12.2010</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2011, ch. 15, art. 9 en vigueur à la sanction 26.06.2011</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 19, art. 46 en vigueur à la sanction 29.06.2012</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 33, art. 53 à 55, par. 56(3), 57(2), 58(2), 59(2), 60(2) et art. 61 en vigueur à la sanction 26.06.2013; par. 56(1) et (2), 57(1), 58(1), 59(1) et 60(1) réputés être entrer en vigueur 22.03.2013 <Emphasis style="italic">voir respectivement</Emphasis> par. 56(3), 57(2), 58(2), 59(2) et 60(2)</Text>
+    <List>
+      <Item>
+        <Text>
+          <Emphasis style="italic">Voir aussi</Emphasis> la disposition d’application au par. 53(3)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 20, par. 62(2), 63(2), 64(2), 65(2), 66(2), 67(2), 68(2), 69(4) et (5), 70(2), 71(2), 72(2), 73(3) et (4), 74(2), art. 75, par. 76(1), (3) et (5), 77(2), 78(1) et (3), 79(3) et (4), 80(3) et (4), 81(3) et (4) et art. 82 en vigueur à la sanction 19.06.2014; [<Emphasis style="italic">Remarque</Emphasis> : par. 69(5) abrogé par 2017, ch. 20, par. 66(2)]</Text>
+    <List>
+      <Item>
+        <Text>— par. 62(1), 63(1), 64(1), 65(1), 66(1), 67(1), 68(1), 69(1) et (2), 70(1), 71(1), 72(1), 73(1), 77(1), 79(1), 80(1) et 81(1) réputés en vigueur 12.02.2014 <Emphasis style="italic">voir respectivement</Emphasis> par. 62(2), 63(2), 64(2), 65(2), 66(2), 67(2), 68(2), 69(4), 70(2), 71(2), 72(2), 73(3), 77(2), 79(3), 80(3) et 81(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 69(3) abrogé avant son entrée en vigueur <Emphasis style="italic">voir</Emphasis> 2017, ch. 20, par. 66(1)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 73(2) en vigueur 12.02.2016 <Emphasis style="italic">voir</Emphasis> par. 73(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 74(1) en vigueur 01.01.2015 <Emphasis style="italic">voir</Emphasis> par. 74(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 76(2) and (4); 78(2), 79(2), 80(2) et 81(2) en vigueur 01.04.2019 <Emphasis style="italic">voir respectivement</Emphasis> par. 76(5), 78(3), 79(4), 80(4) et 81(4) tels que modifiés par 2018, ch. 12, art. 59 à 63</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 39, par. 100(3) en vigueur à la sanction 16.12.2014</Text>
+    <List>
+      <Item>
+        <Text>— par. 100(1) réputé en vigueur 12.02.2014 <Emphasis style="italic">voir</Emphasis> par. 100(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 100(2) et 101(1) en vigueur 01.04.2019 <Emphasis style="italic">voir</Emphasis><Emphasis style="italic">respectivement</Emphasis> par. 100(4) et 101(2) tels que modifiés par 2018, ch. 12, art. 64 et 65</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 20 (sanction : 18.06.2015), art. 8 en vigueur 01.08.2015 <Emphasis style="italic">voir</Emphasis> TR/2015-64</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2016, ch. 7, art. 75 et 76 en vigueur à la sanction 22.06.2016</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2016, ch. 12, art. 100 en vigueur à la sanction 15.12.2016. <Emphasis style="italic">Voir</Emphasis> la disposition d’application par. 100(4)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 20, par. 45(4), 46(2), 47(2), 48(2), 49(2) et 50(2), art. 51, par. 52(1), (3) et (5), 53(1), (3) et (5), art. 54, par. 55(1) et (3), 56(1), (3) et (5), 57(1) et (3), 58(2), 59(2), 60(2), 61(2), 62(2), 63(2), 64(1), (3) et (4), et 65(1), (3) et (4) et art. 66 et 67 en vigueur à la sanction 22.06.2017</Text>
+    <List>
+      <Item>
+        <Text>[<Emphasis style="italic">Remarque</Emphasis> : pour l’application des dispositions de la <XRefExternal reference-type="act">Loi sur les douanes</XRefExternal> et de la <XRefExternal reference-type="act">Loi sur l’accise</XRefExternal> qui prévoient le paiement d’intérêts, ou l’obligation d’en payer, relativement à une somme, cette somme est déterminée et les intérêts sont calculés comme si les art. 44 et 58 à 63 et les par. 64(1) et 65(1) avaient été sanctionnés le 23.03.2017 <Emphasis style="italic">voir</Emphasis> art. 67]</Text>
+      </Item>
+      <Item>
+        <Text>— par. 45(1) et (2), 46(1), 47(1), 48(1), 49(1), 50(1), 58(1), 59(1), 60(1), 61(1), 62(1) et 63(1) réputés en vigueur 23.03.2017 <Emphasis style="italic">voir respectivement</Emphasis> par. 45(4), 46(2), 47(2), 48(2), 49(2), 50(2), 58(2), 59(2), 60(2), 61(2), 62(2) et 63(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 45(3) et (5) abrogés avant leur entrée en vigueur <Emphasis style="italic">voir</Emphasis> 2018, ch. 12, art. 66</Text>
+      </Item>
+      <Item>
+        <Text>— par. 52(2) et (4), 53(2) et (4), 55(2), 56(2) et (4), 57(2), 64(2) et 65(2) en vigueur 01.04.2018 <Emphasis style="italic">voir respectivement</Emphasis> par. 52(5), 53(5), 55(3), 56(5), 57(3), 64(4) et 65(4)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 12, par. 47(2), 48(3), 49(2), 50(2) et 51(2), art. 52 et 53, par. 54(2), 55(2), 56(2), 57(2) et 58(3), art. 59 à 67, 117 et 118 en vigueur à la sanction 21.06.2018</Text>
+    <List>
+      <Item>
+        <Text>— par. 47(1), 48(1) et (2), 49(1), 50(1) 51(1), 54(1), 55(1), 56(1), 57(1) et 58(1) et (2) réputés en vigueur 28.02.2018 <Emphasis style="italic">voir respectivement</Emphasis> par. 47(2), 48(3), 49(2), 50(2) et 51(2), art. 52 et 53, par. 54(2), 55(2), 56(2), 57(2) et 58(3)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 69 à 78, par. 79(1), art. 84, par. 85(2), art. 87, 89 à 94 en vigueur 21.06.2018 <Emphasis style="italic">voir</Emphasis> par. 68(2)</Text>
+      </Item>
+      <Item>
+        <Text>— <Emphasis style="italic">malgré</Emphasis> le par. (2), les art. 158.02, 158.09 à 158.12, 158.15 et 158.16, édictés par art. 73, en vigueur 17.10.2018 <Emphasis style="italic">voir</Emphasis> par. 68(3) et TR/2019-52</Text>
+      </Item>
+      <Item>
+        <Text>— par. 79(2), art. 80 à 83, par. 85(1) et (3), art. 86 et 88 en vigueur 17.10.2018 <Emphasis style="italic">voir</Emphasis> par. 68(4) et TR/2018-52</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 27, par. 63(2) et art. 64 à 68 en vigueur à la sanction 13.12.2018</Text>
+    <List>
+      <Item>
+        <Text>— par. 63(1) réputé en vigueur 17.09.2018 <Emphasis style="italic">voir</Emphasis> par. 63(2)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 29, (sanction : 21.06.2019)</Text>
+    <List>
+      <Item>
+        <Text>— par. 81(1) à (3), 82(1) et 83(1), 84(1), 85(1) et 86(1) réputé d’être entré en vigueur 01.05.2019 <Emphasis style="italic">voir</Emphasis> par. 81(4), 82(2), 83(2), 84(2), 85(2) et 86(2)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2021, ch. 23 (sanction : 29.06.2021)</Text>
+    <List>
+      <Item>
+        <Text>
+          <Emphasis style="italic">—</Emphasis> par. 117(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 117(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">—</Emphasis> par. 118(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 118(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">—</Emphasis> par. 119(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 119(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">—</Emphasis> par. 120(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 120(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">—</Emphasis> par. 121(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 121(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">—</Emphasis> par. 122(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 122(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">—</Emphasis> par. 123(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 123(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">—</Emphasis> par. 124(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 124(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">—</Emphasis> par. 125(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 125(2)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2022, ch. 5 (sanction : 09.06.2022), art. 32 à 35 en vigueur 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 32(2), 33(2), 34(2) et 35(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2022, ch. 10 (sanction : 23.06.2022)</Text>
+    <List>
+      <Item>
+        <Text>— art. 158.35, 158.51 à 158.53, 158.68 et 158.69 (édictés par l’art. 59) en vigueur 01.10.2022 <Emphasis style="italic">voir</Emphasis> par. 128(1) </Text>
+      </Item>
+      <Item>
+        <Text>— art. 158.42 à 158.47 et 158.49, par. 158.5(2), art. 158.54 à 158.56, 158.6 et 158.61 (édictés par l’art. 59) en vigueur 01.10.2022 <Emphasis style="italic">voir</Emphasis> par. 128(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 63(1) en vigueur 01.10.2022 <Emphasis style="italic">voir</Emphasis> par. 128(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 64(2), art. 65 à 69 en vigueur 01.10.2022 <Emphasis style="italic">voir</Emphasis> par. 128(1)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 70(2) et (4) en vigueur 01.10.2022 <Emphasis style="italic">voir</Emphasis> par. 128(1)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 71, 72 et 75 en vigueur 01.10.2022 <Emphasis style="italic">voir</Emphasis> par. 128(1)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 164 (1), (2), 173(23) et (24) en vigueur 01.09.2022 <Emphasis style="italic">voir</Emphasis> par. 164(3), 173(23) et (24)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 165(1) et 173(25) en vigueur 01.09.2022 <Emphasis style="italic">voir</Emphasis> par. 165(2) et 173(25)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 166 (1) et 173(26) en vigueur 01.09.2022 <Emphasis style="italic">voir</Emphasis> par. 166(2) et 173(26)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2022, ch. 14, art. 7 en vigueur à la sanction (17.11.2022)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2022, ch. 19, art. 66, 93 à 97, 100 et 101, en vigueur à la sanction (15.12.2022)</Text>
+    <List>
+      <Item>
+        <Text>— par. 67(1) et (2) réputés en vigueur 19.04.2021 <Emphasis style="italic">voir</Emphasis> par. 67(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 98(1) et 99(1) réputés en vigueur 01.04.2022 <Emphasis style="italic">voir</Emphasis> par. 98(2) et 99(2)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2023, ch. 26 (sanction : 22.06.2023)</Text>
+    <List>
+      <Item>
+        <Text>— par. 125(1) réputé en vigueur 01.04.2023 <Emphasis style="italic">voir</Emphasis> par. 125 (2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 126(1) réputé en vigueur 01.04.2023 <Emphasis style="italic">voir</Emphasis> par. 126 (2)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 15 en vigueur à la sanction 20.06.2024, <Emphasis style="italic">sauf</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>
+          <Emphasis style="italic">—</Emphasis> par. 119(1) et (2), 120(1) et 121(1) en vigueur 28.06.2024 <Emphasis style="italic">voir</Emphasis> TR/2024-33</Text>
+      </Item>
+      <Item>
+        <Text>— par. 145(1) réputé en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 145(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 148(1) réputé en vigueur 01.10.2022 <Emphasis style="italic">voir</Emphasis> par. 148(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 154(1) réputé en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 154(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 155(1) à (3) réputés en vigueur 01.04.2023 <Emphasis style="italic">voir</Emphasis> par. 155(4)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">Voir aussi</Emphasis> les différentes dispositions d’application</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 17 en vigueur à la sanction 20.06.2024, <Emphasis style="italic">sauf</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>— par. 111(21) à (23) en vigueur 20.06.2024 (disposition de coordination — conditions remplies 28.06.2024, <Emphasis style="italic">voir</Emphasis> TR/2024-33)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 117(1) et (2) en vigueur le premier jour du mois suivant celui qui comprend la date de sanction de la <XRefExternal reference-type="act">Loi n<Sup>o</Sup> 1 d’exécution du budget 2024</XRefExternal> <Emphasis style="italic">voir</Emphasis> par. 117(3) (01.07-2024)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 118(1) et (2) en vigueur le premier jour du mois suivant celui qui comprend la date de sanction de la <XRefExternal reference-type="act">Loi n<Sup>o</Sup> 1 d’exécution du budget 2024</XRefExternal> <Emphasis style="italic">voir</Emphasis> par. 118(3) (01.07.2024)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 119(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 119(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 120(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 120(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 121(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 121(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 122(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 122(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 123(1) réputé en vigueur 01.04.2024 <Emphasis style="italic">voir</Emphasis> par. 123(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 124(1) réputé en vigueur 01.04.2024 <Emphasis style="italic">voir</Emphasis> par. 124(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 126(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 126(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 127(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 127(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 128(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 128(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 129(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 129(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 130(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 130(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 131(1) et (2) en vigueur 01.07.0204 <Emphasis style="italic">voir</Emphasis> par. 131(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 132(1) et (2) en vigueur 01.07.0204 <Emphasis style="italic">voir</Emphasis> par. 132(3)</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1999, ch. 17">
+  <Title>Agence du revenu du Canada, Loi sur l’</Title>
+  <ChapterNumber>1999, ch. 17</ChapterNumber>
+  <TitleChanged>
+    <Text>(Ancienne appellation : Agence des douanes et du revenu du Canada, Loi sur l’)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Canada Revenue Agency Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre du Revenu national (TR/99-112)</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Titre intégral</Label>
+    <Text>2005, ch. 38, art. 34</Text>
+  </LongTitle>
+  <Section>
+    <Label>1</Label>
+    <Text>2005, ch. 38, art. 35</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>2002, ch. 22, art. 322; 2005, ch. 38, art. 36 et al. 140a); 2006, ch. 13, art. 120; 2018, ch. 12, art. 193; 2022, ch. 5, art. 30; 2022, ch. 10, art. 162 et 173(21); 2024, ch. 15, art. 117; 2024, ch. 17, art. 101 et par. 111(19)</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2005, ch. 38, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2005, ch. 38, art. 39(F)</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2005, ch. 38, art. 40</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2002, ch. 22, art. 323; 2005, ch. 38, art. 41</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2005, ch. 38, art. 42(F)</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2001, ch. 27, art. 210; 2003, ch. 22, art. 95(A)</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2003, ch. 22, al. 224k)(A); 2004, ch. 16, art. 2(F)</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2005, ch. 38, al. 140a)</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2004, ch. 16, art. 4(F); 2005, ch. 38, art. 43</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2004, ch. 16, art. 4(F)</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2004, ch. 16, art. 4(F)</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>2004, ch. 16, art. 4(F)</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2001, ch. 4, art. 129; 2003, ch. 22, art. 96; 2006, ch. 9, art. 237</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>2005, ch. 38, art. 44(F)</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>2005, ch. 38, art. 45(F)</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>2005, ch. 38, art. 46(F)</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2005, ch. 38, art. 47</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2005, ch. 38, art. 48(F)</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2005, ch. 38, art. 49(F)</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>2003, ch. 22, art. 97; 2017, ch. 9, al.55(1)m)</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2003, ch. 22, art. 98; 2012, ch. 31, art. 515</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>2003, ch. 22, art. 229; 2005, ch. 38, par. 144(10)</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>2003, ch. 22, art. 230; 2004, ch. 16, art. 5(F) et 30(F)</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>2003, ch. 22, art. 99; 2012, ch. 31, art. 516</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>2001, ch. 4, art. 130; 2005, ch. 38, art. 50(F)</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>3005, ch. 38, art. 51</Text>
+  </Section>
+  <Section>
+    <Label>63.1</Label>
+    <Text>ajouté, 2021, ch. 12, art. 1</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>2014, ch. 13, al. 115b); 2024, ch. 20, par. 214(1)b) et 216(1)c)</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>2003, ch. 22, al. 224k)(A)</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>2001, ch. 4, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>2001, ch. 4, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>2001, ch. 4, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>2001, ch. 4, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>77</Label>
+    <Text>2001, ch. 4, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>78</Label>
+    <Text>2001, ch. 4, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>79</Label>
+    <Text>2001, ch. 4, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>2001, ch. 4, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>2001, ch. 4, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>2001, ch. 4, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>2001, ch. 4, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>2001, ch. 4, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>2012, ch. 19, art. 189</Text>
+  </Section>
+  <Section>
+    <Label>88</Label>
+    <Text>2012, ch. 19, art. 190</Text>
+  </Section>
+  <Section>
+    <Label>103</Label>
+    <Text>2001, ch. 4, art. 132</Text>
+  </Section>
+  <Section>
+    <Label>109</Label>
+    <Text>abrogé, 1999, ch. 17, art. 112</Text>
+  </Section>
+  <Section>
+    <Label>110</Label>
+    <Text>abrogé, 1999, ch. 17, art. 112</Text>
+  </Section>
+  <Section>
+    <Label>117</Label>
+    <Text>abrogé, 1999, ch. 17, art. 118</Text>
+  </Section>
+  <Section>
+    <Label>123</Label>
+    <Text>1999, ch. 17, art. 128</Text>
+  </Section>
+  <Section>
+    <Label>125</Label>
+    <Text>abrogé, 1999, ch. 17, art. 128</Text>
+  </Section>
+  <Section>
+    <Label>126</Label>
+    <Text>abrogé, 1999, ch. 17, art. 128</Text>
+  </Section>
+  <Section>
+    <Label>134</Label>
+    <Text>abrogé, 1999, ch. 17, art. 136</Text>
+  </Section>
+  <Section>
+    <Label>164</Label>
+    <Text>1999, ch. 17, art. 169</Text>
+  </Section>
+  <Section>
+    <Label>165</Label>
+    <Text>abrogé, 1999, ch. 17, art. 169</Text>
+  </Section>
+  <Section>
+    <Label>176</Label>
+    <Text>1999, ch. 17, art. 178</Text>
+  </Section>
+  <Section>
+    <Label>186</Label>
+    <Text>abrogé, 2005, ch. 38, art. 52</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2004, ch. 16, art. 30</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2005, ch. 38, par. 144(10)</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>disposition générale, 2004, ch. 16, art. 3(F)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2005, ch. 38, art. 37</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2014, ch. 13, al. 115b) (terminologie)</Text>
+  </General>
+  <Transitional>
+    <Text>dispositions transitoires, 1999, ch. 17, art. 90 à 105</Text>
+  </Transitional>
+  <Transitional>
+    <Text>disposition transitoire, 2012, ch. 19, art. 203 (application <Emphasis style="italic">re</Emphasis> art. 87 et 88)</Text>
+  </Transitional>
+  <ConditionalAmendment>
+    <Text>modifications conditionnelles, 1999, ch. 17, art. 115, 157, 169, 184, 185.1</Text>
+  </ConditionalAmendment>
+  <Terminology>
+    <Text>terminologie, 1999, ch. 17, art. 186</Text>
+  </Terminology>
+  <Terminology>
+    <Text>terminologie, 2017, ch. 9, al.55(1)m)</Text>
+  </Terminology>
+  <Terminology>
+    <Text>terminologie, 2024, ch. 20, art. 214 et 216</Text>
+  </Terminology>
+  <CIF>
+    <Text>EEV, 1999, ch. 17 en vigueur 01.11.99 <Emphasis style="italic">voir</Emphasis> TR/99-111</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 4, art. 129 et 132 en vigueur 01.06.2001 <Emphasis style="italic">voir</Emphasis> TR/2001‑71</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 27, art. 210 en vigueur 28.06.2002 <Emphasis style="italic">voir</Emphasis> TR/2002-97</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 22, art. 322 et 323 en vigueur 01.04.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-47</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 22, art. 95 à 99 et 224 en vigueur 01.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-24; art. 229 et 230 en vigueur 31.12.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-122</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 16, art. 2 à 5 et 30 en vigueur à la sanction 06.05.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 38, art. 144 en vigueur à la sanction 03.11.2005; art. 34 à 52 et 140 en vigueur 12.12.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-119</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2006, ch. 9, art. 237 en vigueur à la sanction 12.12.2006</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2006, ch. 13, art. 120 est réputé être entré en vigueur 12.10.2006 <Emphasis style="italic">voir</Emphasis> art. 126</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 19, art. 189, 190 et 203 en vigueur à la sanction 29.06.2012</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 31, art. 515 et 516 en vigueur à la sanction 14.12.2012</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 13 (sanction : 19.06.2014), al. 115b) en vigueur 31.12.2014 <Emphasis style="italic">voir</Emphasis> TR/2014-103</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 9, al.55(1)m) en vigueur à la sanction 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 12, art. 193 en vigueur à la sanction 21.06.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2021, ch. 12, art. 1 en vigueur à la sanction 21.06.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2022, ch. 5 (sanction : 09.06.2022), art. 30 en vigueur 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 30(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2022, ch. 10 (sanction : 23.06.2022), par. 162(1) en vigueur 01.09.2022 <Emphasis style="italic">voir</Emphasis> par. 162(2) et 173(21)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 15, par. 117(1) en vigueur 28.06.2024 <Emphasis style="italic">voir</Emphasis> TR/2024-33</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 17 en vigueur à la sanction 20.06.2024, <Emphasis style="italic">sauf</Emphasis></Text>
+    <List>
+      <Item>
+        <Text>— par. 111(19) en vigueur 20.06.2024 (disposition de coordination — conditions remplies 28.06.2024, <Emphasis style="italic">voir</Emphasis> TR/2024-33)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 20, </Text>
+    <List>
+      <Item>
+        <Text>— al. 214(1)b) entre en vigueur à la date de l’adjonction de la définition de « Regulator » à l’art. 2 de la loi <XRefExternal reference-type="act">Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act</XRefExternal>, chap. C-2 des lois révisées de Terre-Neuve-et-Labrador (1990) <Emphasis style="italic">voir</Emphasis> TR/2025-22 (02.06.2025)</Text>
+      </Item>
+      <Item>
+        <Text>—	 al. 216(1)c) en vigueur 31.01.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-5</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

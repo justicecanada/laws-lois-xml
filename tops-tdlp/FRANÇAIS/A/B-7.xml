@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="B-7">
+  <Title>Accords de Bretton Woods et des accords connexes, Loi sur les</Title>
+  <ChapterNumber>L.R. (1985), ch. B-7</ChapterNumber>
+  <TitleChanged>
+    <Text>(Ancienne appellation : Bretton Woods (accords))</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Bretton Woods and Related Agreements Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Finances</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Titre intégral</Label>
+    <Text>L.R., ch. 24 (1<Sup>er</Sup> suppl.), art. 1; L.R., ch. 32 (3<Sup>e</Sup> suppl.), art. 1</Text>
+  </LongTitle>
+  <Heading>
+    <Label>Préambule</Label>
+    <Text>L.R., ch. 24 (1<Sup>er</Sup> suppl.), art. 2; L.R., ch. 32 (3<Sup>e</Sup> suppl.), art. 2</Text>
+  </Heading>
+  <Section>
+    <Label>1</Label>
+    <Text>L.R., ch. 24 (1<Sup>er</Sup> suppl.), art. 3</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>L.R., ch. 24 (1<Sup>er</Sup> suppl.), art. 4; L.R., ch. 32 (3<Sup>e</Sup> suppl.), art. 3</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>L.R., ch. 24 (1<Sup>er</Sup> suppl.), art. 5; L.R., ch. 32 (3<Sup>e</Sup> suppl.), art. 4</Text>
+  </Section>
+  <Section>
+    <Label>6.1</Label>
+    <Text>ajouté, L.R., ch. 32 (3<Sup>e</Sup> suppl.), art. 4</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1991, ch. 21, art. 1; 1998, ch. 21, art. 127; 2012, ch. 19, art. 375; 2024, ch. 17, art. 173</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>L.R., ch. 24 (1<Sup>er</Sup> suppl.), art. 6; L.R., ch. 32 (3<Sup>e</Sup> suppl.), art. 5; 1998, ch. 21, art. 128; 2017, ch. 33, art. 172</Text>
+  </Section>
+  <Section>
+    <Label>8.1</Label>
+    <Text>ajouté, L.R., ch. 34 (4<Sup>e</Sup> suppl.), art. 1; 1998, ch. 21, art. 129; 2017, ch. 33, art. 173</Text>
+  </Section>
+  <Section>
+    <Label>8.11</Label>
+    <Text>ajouté, 2017, ch. 33, art. 174</Text>
+  </Section>
+  <Section>
+    <Label>8.2</Label>
+    <Text>ajouté, 1997, ch. 26, art. 92</Text>
+  </Section>
+  <Section>
+    <Label>8.3</Label>
+    <Text>ajouté, 1998, ch. 21, art. 130; 2001, ch. 33, art. 18; 2022, ch. 19, art. 120; 2024, ch. 17, art. 172</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>abrogé, 1999, ch. 31, art. 27</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>L.R., ch. 24 (1<Sup>er</Sup> suppl.), art. 7; 1993, ch. 34, art. 11; 2012, ch. 19, art. 376; 2018, ch. 27, art. 654</Text>
+  </Section>
+  <Schedule>
+    <Label>14</Label>
+    <Text>ajouté, 1991, ch. 21, art. 6; 2017, ch. 33, art. 175</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe I, V</Label>
+    <Text>2009, ch. 31, art. 20</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe I, XII</Label>
+    <Text>1991, ch. 21, art. 2; 2009, ch. 31, art. 21; 2012, ch.31, art. 185</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe I, XV</Label>
+    <Text>1998, ch. 21, art. 131</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe I, XXI</Label>
+    <Text>2012, ch.31, art. 186</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe I, XXVI</Label>
+    <Text>1991, ch. 21, art. 3</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe I, XXIX</Label>
+    <Text>2012, ch.31, art. 187</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe I, annexe D</Label>
+    <Text>1991, ch. 21, art. 4; 2012, ch.31, art. 188 et 189</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe I, annexe E</Label>
+    <Text>2012, ch.31, art. 190</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe I, annexe L</Label>
+    <Text>ajoutée, 1991, ch. 21, art. 5; 2009, ch. 31, art. 22; 2012, ch.31, art. 191 et 192</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe I, annexe M</Label>
+    <Text>ajoutée, 1998, ch. 21, art. 132</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe II, III</Label>
+    <Text>L.R., ch. 24 (1<Sup>er</Sup> suppl.), art. 8</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe II, VIII</Label>
+    <Text>L.R., ch. 32 (3<Sup>e</Sup> suppl.), art. 6</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe III</Label>
+    <Text>ajoutée, L.R., ch. 24 (1<Sup>er</Sup> suppl.), art. 9</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe IV</Label>
+    <Text>ajoutée, L.R., ch. 24 (1<Sup>er</Sup> suppl.), art. 9</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe V</Label>
+    <Text>ajoutée, L.R., ch. 32 (3<Sup>e</Sup> suppl.), art. 7</Text>
+  </Schedule>
+  <CIF>
+    <Text>EEV, ch. 24 (1<Sup>er</Sup> suppl.), art. 1-9 en vigueur 16.05.85</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, ch. 32 (3<Sup>e</Sup> suppl.), les art. 1 à 5 et 7 en vigueur 12.04.88; art. 6 en vigueur 31.07.89 <Emphasis style="italic">voir</Emphasis> TR/89‑180</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 34 (4<Sup>e</Sup> suppl.), art. 1 en vigueur 28.07.88</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1991, ch. 21 en vigueur 19.11.92 <Emphasis style="italic">voir</Emphasis> TR/92‑200</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1993, ch. 34, art. 11 en vigueur à la sanction 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1997, ch. 26, art. 92 en vigueur à la sanction 25.04.97</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1998, ch. 21, art. 128 à 130 en vigueur 16.07.98 <Emphasis style="italic">voir</Emphasis> TR/98-83; art. 127 en vigueur 10.02.99 <Emphasis style="italic">voir</Emphasis> TR/99-12; art. 131 et 132 en vigueur 30.11.2012 <Emphasis style="italic">voir</Emphasis> TR/2012-91</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 31, art. 27 en vigueur à la sanction 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 33, art. 18 en vigueur 21.12.2001 <Emphasis style="italic">voir</Emphasis> TR/2002-15</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2009, ch. 31, art. 20 à 22 en vigueur à la sanction 15.12.2009</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 19, art. 375 et 376 en vigueur à la sanction 29.06.2012</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 31, art. 185 à 192 en vigueur à la sanction 14.12.2012</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 33, art. 172 à 175 en vigueur à la sanction 14.12.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 27 (sanction : 13.12.2018), art. 654 en vigueur le 23.06.2019 <Emphasis style="italic">voir</Emphasis> TR/2019-49</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2022, ch. 19, art. 120 en vigueur à la sanction (15.12.2022)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 17, art. 172 et 173 en vigueur à la sanction 20.06.2024</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="M-5">
+  <Title>Members of Parliament Retiring Allowances Act</Title>
+  <ChapterNumber>R.S., 1985, c. M-5</ChapterNumber>
+  <OtherLangTitle>(Allocations de retraite des parlementaires, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>President of the Treasury Board</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1992, c. 46, s. 81; 1995, c. 30, s. 1; 1999, c. 34, s. 224; 2000, c. 12, s. 176; 2001, c. 20, s. 14; 2005, c. 16, s. 14; 2012, c. 22, s. 2; 2022, c. 10, s. 244</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>added, 1995, c. 30, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>2.2</Label>
+    <Text>added, 1995, c. 30, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>2.3</Label>
+    <Text>added, 1995, c. 30, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>2.4</Label>
+    <Text>added, 1995, c. 30, s. 2; repealed, 1998, c. 23, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>2.5</Label>
+    <Text>added, 1995, c. 30, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>2.6</Label>
+    <Text>added, 1998, c. 23, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>2.7</Label>
+    <Text>added, 2012, c. 22, s. 3; 2015, c. 36, s. 94</Text>
+  </Section>
+  <Section>
+    <Label>2.8</Label>
+    <Text>added, 2012, c. 22, s. 3; 2015, c. 36, s. 95</Text>
+  </Section>
+  <Section>
+    <Label>2.9</Label>
+    <Text>added, 2014, c. 20, s. 166</Text>
+  </Section>
+  <Section>
+    <Label>2.91</Label>
+    <Text>added, 2014, c. 20, s. 166</Text>
+  </Section>
+  <Section>
+    <Label>2.92</Label>
+    <Text>added, 2014, c. 20, s. 166</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1992, c. 46, s. 81</Text>
+  </Section>
+  <Heading>
+    <Label>Part I</Label>
+    <Text>(ss. 4 to 26), 1992, c. 46, s. 81</Text>
+  </Heading>
+  <Section>
+    <Label>4</Label>
+    <Text>1992, c. 46, s. 81; 2001, c. 20, s. 15; 2012, c. 22, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1992, c. 46, s. 81; 2012, c. 22, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1992, c. 46, s. 81; repealed, 2012, c. 22, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>1992, c. 46, s. 81; 2012, c. 22, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>8.1</Label>
+    <Text>added, 2012, c. 22, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1992, c. 46, s. 81; 2000, c. 27, s. 3; 2001, c. 20, s. 16; 2003, c. 16, s. 1; 2012, c. 22, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>9.1</Label>
+    <Text>added, 2012, c. 22, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1992, c. 46, s. 81; 1998, c. 23, s. 11; 2000, c. 27, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1992, c. 46, s. 81; 2000, c. 27, s. 5; 2001, c. 20, s. 17; 2012, c. 22, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>11.1</Label>
+    <Text>added, 2012, c. 22, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>1992, c. 46, s. 81; 2001, c. 20, s. 18; 2003, c. 16, s. 2; 2012, c. 22, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1989, c. 6, s. 15; 1992, c. 46, s. 81; 2012, c. 22, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>1992, c. 46, s. 81; 2012, c. 22, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>1992, c. 46, s. 81; 2001, c. 20, s. 19; 2003, c. 16, s. 3; 2012, c. 22, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>17.1</Label>
+    <Text>added, 2012, c. 22, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>17.2</Label>
+    <Text>added, 2012, c. 22, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>1992, c. 46, s. 81; 2012, c. 22, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>1989, c. 6, s. 16; 1992, c. 46, s. 81; 2012, c. 22, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>19.1</Label>
+    <Text>added, 1995, c. 30, s. 3; repealed, 1998, c. 23, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>1992, c. 46, s. 81; 1995, c. 30, s. 4; 1999, c. 34, s. 225; 2012, c. 22, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>1992, c. 46, s. 81; 1995, c. 30, s. 5; repealed 2000, c. 12, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>1992, c. 46, s. 81; 1995, c. 30, s. 6; 2000, c. 12, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>1992, c. 46, s. 81; 2000, c. 12, s. 177; 2012, c. 22, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>1992, c. 46, s. 81; repealed, 2000, c. 12, s. 177</Text>
+  </Section>
+  <Heading>
+    <Label>Part II</Label>
+    <Text>(ss. 27 to 46), 1992, c. 46, s. 81</Text>
+  </Heading>
+  <Section>
+    <Label>27</Label>
+    <Text>1992, c. 46, s. 81; 2001, c. 20, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>1992, c. 46, s. 81; 2012, c. 22, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>1992, c. 46, s. 81; 2012, c. 22, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>29.1</Label>
+    <Text>added, 2012, c. 22, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>1989, c. 6, ss. 17 and 18; 1992, c. 46, s. 81; 1995, c. 30, s. 7; 2000, c. 27, s. 6; 2001, c. 20, s. 21; 2003, c. 16, s. 4; 2012, c. 22, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>31.1</Label>
+    <Text>added, 2012, c. 22, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>31.2</Label>
+    <Text>added, 2012, c. 22, s. 24; 2015, c. 36, s. 96</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>1992, c. 46, s. 81; 1998, c. 23, s. 13; 2000, c. 27, s. 7; 2001, c. 20, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>1992, c. 46, s. 81; 1995, c. 30, s. 8; 2000, c. 27, s. 8; 2001, c. 20, s. 23; 2003, c. 16, s. 5; 2012, c. 22, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>33.1</Label>
+    <Text>added, 2012, c. 22, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>33.2</Label>
+    <Text>added, 2012, c. 22, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>1992, c. 46, s. 81; 2001, c. 20, s. 24; 2003, c. 16, s. 6; 2012, c. 22, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>34.1</Label>
+    <Text>added, 2012, c. 22, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>34.2</Label>
+    <Text>added, 2012, c. 22, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>1992, c. 46, s. 81; 1995, c. 30, s. 9; 2001, c. 20, s. 25; 2003, c. 16, s. 7; 2012, c. 22, s. 27 and par. 41(a) to (d)</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>1992, c. 46, s. 81; 1995, c. 30, s. 10; 2001, c. 20, s. 26; 2003, c. 16, s. 8; 2012, c. 22, s. 28 and par. 41(e) to (h)</Text>
+  </Section>
+  <Section>
+    <Label>37.1</Label>
+    <Text>added, 1995, c. 30, s. 11; 2012, c. 22, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>37.2</Label>
+    <Text>added, 2012, c. 22, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>37.3</Label>
+    <Text>added, 2012, c. 22, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>1992, c. 46, s. 81; 2012, c. 22, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>1992, c. 46, s. 81; 2012, c. 22, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>39.1</Label>
+    <Text>added, 1995, c. 30, s. 12; repealed, 1998, c. 23, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>1992, c. 46, s. 81; 1995, c. 30, s. 13; 1999, c. 34, s. 226; 2012, c. 22, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>added, 1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>added, 1992, c. 46, s. 81; 1995, c. 30, s. 14; repealed, 2000, c. 12, s. 178</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>added, 1992, c. 46, s. 81; 1995, c. 30, s. 15; 2000, c. 12, s. 178</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>added, 1992, c. 46, s. 81; 2000, c. 12, s. 178; 2012, c. 22, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>added, 1992, c. 46, s. 81; repealed, 2000, c. 12, s. 178</Text>
+  </Section>
+  <Heading>
+    <Label>Part III</Label>
+    <Text>(ss. 47 to 49), added, 1992, c. 46, s. 81</Text>
+  </Heading>
+  <Section>
+    <Label>47</Label>
+    <Text>added, 1992, c. 46, s. 81; 2012, c. 22, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>added, 1992, c. 46, s. 81; 2012, c. 22, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>added, 1992, c. 46, s. 81; 2000, c. 12, s. 179; 2012, c. 22, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>49.1</Label>
+    <Text>added; 2000, c. 12, s. 180</Text>
+  </Section>
+  <Heading>
+    <Label>Part IV</Label>
+    <Text>(ss. 50 to 55), added, 1992, c. 46, s. 81</Text>
+  </Heading>
+  <Section>
+    <Label>50</Label>
+    <Text>added, 1992, c. 46, s. 81; 1995, c. 30, s. 16; 2000, c. 12, s. 181</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>added, 1992, c. 46, s. 81; 1995, c. 30, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>added, 1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>added, 1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>added, 1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>added, 1992, c. 46, s. 81</Text>
+  </Section>
+  <Heading>
+    <Label>Part V</Label>
+    <Text>(ss. 56 to 67), added, 1992, c. 46, s. 81</Text>
+  </Heading>
+  <Section>
+    <Label>56</Label>
+    <Text>added, 1992, c. 46, s. 81; 1995, c. 30, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>added, 1992, c. 46, s. 81; 1995, c. 30, s. 19; 2000, c. 12, s. 182; 2012, c. 22, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>added, 1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>58.1</Label>
+    <Text>added, 2012, c. 22, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>added, 1992, c. 46, s. 81; 2012, c. 22, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>59.1</Label>
+    <Text>added, 1995, c. 30, s. 20; 2000, c. 12, s. 183</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>added, 1992, c. 46, s. 81; 1995, c. 30, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>60.1</Label>
+    <Text>added, 2001, c. 20, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>added, 1992, c. 46, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>added, 1992, c. 46, s. 81; 1995, c. 30, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>added, 1992, c. 46, s. 81; 1995, c. 30, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>63.1</Label>
+    <Text>added, 1995, c. 30, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>added, 1992, c. 46, s. 81; 1995, c. 30, s. 25; 2000, c. 12, s. 184; 2001, c. 20, s. 28; 2003, c. 16, s. 9; 2012, c. 22, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>added, 1992, c. 46, s. 81; 1995, c. 30, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>added, 1992, c. 46, s. 81; 1995, c. 30, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>added, 1992, c. 46, s. 81</Text>
+  </Section>
+  <General>
+    <Text>General, 1995, c. 30, s. 28</Text>
+  </General>
+  <General>
+    <Text>General, 2001, c. 20, s. 30 <Emphasis style="italic">re</Emphasis> application</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 1989, c. 6, s. 35</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 1999, c. 34, s. 229</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2000, c. 12, ss. 185 and 186</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2014, c. 20, s. 167</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1989, c. 6 in force 29.06.89</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 46, ss. 2 to 22, 24 to 42 and 44 to 67, as enacted by s. 81, in force 31.12.92 <Emphasis style="italic">see</Emphasis> SI/93‑03; ss. 23 and 43, as enacted by s. 81, in force 01.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑60</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 30, ss. 1 to 28 in force on assent 13.07.95</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 23, ss. 9 to 14 in force on assent 18.06.98</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 34, ss. 224 to 226 and 229 in force on assent 14.09.99, <Emphasis style="italic">see also</Emphasis> s. 231</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 12, ss. 176(2) and 179 in force 31.07.2000 <Emphasis style="italic">see</Emphasis> SI/2000-76; ss. 176(1), 177, 178 and 180 to 186 in force 01.01.2012 <Emphasis style="italic">see</Emphasis> SI/2011-118</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 27, ss. 3 to 8 in force on assent 21.09.2000</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 20, s. 30 in force 15.06.2001 <Emphasis style="italic">see</Emphasis> SI/2001-82; ss. 14, 15, 18, 24, 25 and 28 in force 01.01.2001 and ss. 16, 17, 19 to 23, 26 and 27 in force 12.07.2001 <Emphasis style="italic">see</Emphasis> SI/2001-84</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 16, ss. 1 to 9 are deemed to have come into force 01.01.2001 <Emphasis style="italic">see</Emphasis> s. 13(1)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 16, s. 14 deemed in force 01.04.2004 <Emphasis style="italic">see</Emphasis> s. 22</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 22 (assent: 01.11.2012), Act in force 01.01.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 20, ss. 166 and 167 in force on assent 19.06.2014</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 36, ss. 94 to 96 in force on assent 23.06.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 10 (assent: 23.06.2022), s. 244 in force 26.07.2022 <Emphasis style="italic">see</Emphasis> SI/2022-35</Text>
+  </CIF>
+</Statute>
+</TOPS>

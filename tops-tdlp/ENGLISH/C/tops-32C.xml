@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="tops-32C">
+  <Title>Constitution Act, 1867</Title>
+  <TitleChanged>
+    <Text>(Formerly: “<XRefExternal reference-type="act">British North America Act</XRefExternal>, 1867” <Emphasis style="italic">see also</Emphasis> Constitutional Acts and Documents in Appendix II of R.S., 1985)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Loi constitutionnelle de 1867)</OtherLangTitle>
+  <Minister>
+    <Text>Prime Minister</Text>
+  </Minister>
+  <Section>
+    <Label>1</Label>
+    <Text>
+      <XRefExternal reference-type="act">Constitution Act, 1982</XRefExternal>, Sch., subitem 1(1)</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>repealed, <XRefExternal reference-type="act">Constitution Act, 1982</XRefExternal>, Sch., subitem 1(2)</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>
+      <XRefExternal reference-type="act">Constitution Act (No.2), 1975</XRefExternal>, 1974-75-76, c. 53, s. 1; <XRefExternal reference-type="act">Constitution Act, 1999 (Nunavut)</XRefExternal>, 1998, c. 15, s. 43(1)</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>
+      <XRefExternal reference-type="act">Constitution Act (No.2), 1975</XRefExternal>, 1974-75-76, c. 53, s. 1</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>
+      <XRefExternal reference-type="act">Constitution Act (No.2), 197</XRefExternal>5, 1974-75-76, c. 53, s. 2 <Emphasis style="italic">re</Emphasis> “Province”; <XRefExternal reference-type="act">Constitution Act, 1999 (Nunavut)</XRefExternal>, 1998, c. 15, Part 2, s. 44 <Emphasis style="italic">re</Emphasis> Meaning of “Province”</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>
+      <XRefExternal reference-type="act">Constitution Act (No.2), 1975</XRefExternal>, 1974-75-76, c. 53, s. 1; <XRefExternal reference-type="act">Constitution Act, 1999 (Nunavut)</XRefExternal>, 1998, c. 15, s. 43(2)</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>
+      <XRefExternal reference-type="act">Constitution Act, 1974</XRefExternal>, 1974-75-76, c. 13, s. 2, <XRefExternal reference-type="act">Constitution Act (No. 1), 1975</XRefExternal>, 1974-75-76, c. 28, s. 2; <XRefExternal reference-type="act">Constitution Act, 1985 (Representation)</XRefExternal>, 1986, c. 8, Part 1, s. 2; <XRefExternal reference-type="act">Constitution Act, 1999 (Nunavut)</XRefExternal>, 1998, c. 15, s. 46; 2011, c. 26, s. 2; 2022, c. 6, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>
+      <XRefExternal reference-type="act">Constitution Act, 1982</XRefExternal>, Sch. Subitem 1(3) and item 22</Text>
+  </Section>
+  <Section>
+    <Label>92</Label>
+    <Text>
+      <XRefExternal reference-type="act">Constitution Act, 1982</XRefExternal>, Sch. Subitem 1(4)</Text>
+  </Section>
+  <Section>
+    <Label>92A and heading</Label>
+    <Text>added by s. 50 of the <XRefExternal reference-type="act">Constitution Act, 1982</XRefExternal></Text>
+  </Section>
+  <Section>
+    <Label>93A</Label>
+    <Text>added, <Emphasis style="italic">Constitution Amendment, 1997 (Quebec)</Emphasis><Emphasis style="italic">see</Emphasis> SI/97‑141</Text>
+  </Section>
+  <Schedule>
+    <Label>Sixth Schedule</Label>
+    <Text> added of the <XRefExternal reference-type="act">Constitution Act, 1982</XRefExternal>, s. 51</Text>
+  </Schedule>
+  <General>
+    <Text>Interpretation, 2011, c. 26, s. 23</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional provisions, 2011, c. 26, ss. 15 and 17</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1986, c. 8 proclaimed in force 06.03.86 <Emphasis style="italic">see</Emphasis> SI/86-49</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 15, ss. 43 and 46 in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 52(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2011, c. 26, ss. 2, 14, 15, 17 to 20 and 23 in force on assent 16.12.2011.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 6, s. 2 in force on assent (23.06.2022)</Text>
+  </CIF>
+</Statute>
+</TOPS>

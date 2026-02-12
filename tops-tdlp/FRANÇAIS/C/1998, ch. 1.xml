@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1998, ch. 1">
+  <Title>Coopératives, Loi canadienne sur les</Title>
+  <ChapterNumber>1998, ch. 1</ChapterNumber>
+  <OtherLangTitle>(Canada Cooperatives Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de l’Industrie (TR/99-68)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2000, ch. 12, art. 28; 2001, ch. 14, art. 137; 2011, ch. 21, art. 72; 2018, ch. 8, art. 47</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2009, ch. 23, art. 312 et 347</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2001, ch. 14, art. 138</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2001, ch. 14, art. 139; 2018, ch. 8, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2018, ch. 8, art. 49</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2011, ch. 21, art. 73; 2018, ch. 8, art. 50</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2001, ch. 14, art. 140; 2018, ch. 8, art. 51</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2001, ch. 14, art. 141; 2011, ch. 21, art. 74</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2001, ch. 14, art. 142</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2001, ch. 14, art. 143</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2001, ch. 14, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2018, ch. 8, art. 52</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2018, ch. 8, art. 52</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2018, ch. 8, art. 53</Text>
+  </Section>
+  <Section>
+    <Label>24.1</Label>
+    <Text>ajouté, 2018, ch. 8, art. 54</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2001, ch. 14, art. 145</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2018, ch. 8, art. 55(F)</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2001, ch. 14, art. 146</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2001, ch. 14, art. 147</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>2001, ch. 14, art. 148</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>2011, ch. 21, art. 75(A)</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2001, ch. 14, art. 149</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>2001, ch. 14, art. 150</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2001, ch. 14, art. 151</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2001, ch. 14, art. 152</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>2001, ch. 14, art. 153; 2018, ch. 8, art. 56</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>2001, ch. 14, art. 154</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2018, ch. 8, art. 57(A)</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>2001, ch. 14, art. 155</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>2001, ch. 14, art. 156</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>abrogé, 2001, ch. 14, art. 157</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>2001, ch. 14, art. 158</Text>
+  </Section>
+  <Section>
+    <Label>78</Label>
+    <Text>2001, ch. 14, art. 159; 2018, ch. 8, art. 58</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>2001, ch. 14, art. 160; 2018, ch. 8, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>2018, ch. 8, art. 60</Text>
+  </Section>
+  <Section>
+    <Label>85</Label>
+    <Text>2001, ch. 14, art. 161; 2011, ch. 21, art. 76(A)</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>2001, ch. 14, art. 162</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>2001, ch. 14, art. 163</Text>
+  </Section>
+  <Section>
+    <Label>98</Label>
+    <Text>2001, ch. 14, art. 164</Text>
+  </Section>
+  <Section>
+    <Label>100</Label>
+    <Text>2001, ch. 14, art. 165</Text>
+  </Section>
+  <Section>
+    <Label>101</Label>
+    <Text>2001, ch. 14, art. 166</Text>
+  </Section>
+  <Section>
+    <Label>102</Label>
+    <Text>2001, ch. 14, art. 167; 2004, ch. 25, art. 188; 2011, ch. 21, art. 77</Text>
+  </Section>
+  <Section>
+    <Label>103</Label>
+    <Text>2001, ch. 14, art. 168</Text>
+  </Section>
+  <Section>
+    <Label>104</Label>
+    <Text>2001, ch. 14, art. 169</Text>
+  </Section>
+  <Section>
+    <Label>106</Label>
+    <Text>2001, ch. 14, art. 170</Text>
+  </Section>
+  <Section>
+    <Label>106.1</Label>
+    <Text>ajouté, 2001, ch. 14, art. 170</Text>
+  </Section>
+  <Section>
+    <Label>107</Label>
+    <Text>2001, ch. 14, art. 170</Text>
+  </Section>
+  <Section>
+    <Label>109</Label>
+    <Text>2001, ch. 14, art. 171</Text>
+  </Section>
+  <Section>
+    <Label>111</Label>
+    <Text>2001, ch. 14, art. 172</Text>
+  </Section>
+  <Section>
+    <Label>113</Label>
+    <Text>2001, ch. 14, art. 173</Text>
+  </Section>
+  <Section>
+    <Label>115</Label>
+    <Text>2001, ch. 14, art. 174</Text>
+  </Section>
+  <Section>
+    <Label>119</Label>
+    <Text>2011, ch. 21, art. 78</Text>
+  </Section>
+  <Section>
+    <Label>123</Label>
+    <Text>2001, ch. 14, art. 175; 2011, ch. 21, art. 79</Text>
+  </Section>
+  <Section>
+    <Label>126</Label>
+    <Text>2001, ch. 14, art. 176</Text>
+  </Section>
+  <Section>
+    <Label>129</Label>
+    <Text>2001, ch. 14, art. 177; 2011, ch. 21, art. 80</Text>
+  </Section>
+  <Section>
+    <Label>130</Label>
+    <Text>2001, ch. 14, art. 178; 2011, ch. 21, art. 81(A)</Text>
+  </Section>
+  <Section>
+    <Label>131</Label>
+    <Text>2001, ch. 14, art. 179; 2011, ch. 21, art. 82</Text>
+  </Section>
+  <Section>
+    <Label>137</Label>
+    <Text>2001, ch. 14, art. 180; 2011, ch. 21, art. 83(F)</Text>
+  </Section>
+  <Section>
+    <Label>138</Label>
+    <Text>2001, ch. 14, art. 181; 2011, ch. 21, art. 84(A)</Text>
+  </Section>
+  <Section>
+    <Label>139</Label>
+    <Text>2001, ch. 14, art. 182</Text>
+  </Section>
+  <Section>
+    <Label>142.1</Label>
+    <Text>ajouté, 2018, ch. 8, art. 61</Text>
+  </Section>
+  <Section>
+    <Label>145</Label>
+    <Text>2011, ch. 21, art. 85</Text>
+  </Section>
+  <Section>
+    <Label>147</Label>
+    <Text>2001, ch. 14, art. 183(F)</Text>
+  </Section>
+  <Section>
+    <Label>160</Label>
+    <Text>abrogé, 2001, ch. 14, art. 184</Text>
+  </Section>
+  <Section>
+    <Label>163</Label>
+    <Text>2001, ch. 14, art. 185; 2011, ch. 21, art. 86(A)</Text>
+  </Section>
+  <Section>
+    <Label>164</Label>
+    <Text>2001, ch. 14, art. 186; 2011, ch. 21, art. 87(A)</Text>
+  </Section>
+  <Section>
+    <Label>165</Label>
+    <Text>2001, ch. 14, art. 187</Text>
+  </Section>
+  <Section>
+    <Label>166</Label>
+    <Text>2001, ch. 14, art. 188</Text>
+  </Section>
+  <Section>
+    <Label>167</Label>
+    <Text>2001, ch. 14, art. 189; 2018, ch. 8, art. 62</Text>
+  </Section>
+  <Section>
+    <Label>169</Label>
+    <Text>2001, ch. 14, art. 190; 2018, ch. 8, art. 63</Text>
+  </Section>
+  <Section>
+    <Label>171</Label>
+    <Text>2001, ch. 14, art. 191; 2018, ch. 8, art. 64(F)</Text>
+  </Section>
+  <Section>
+    <Label>172</Label>
+    <Text>2001, ch. 14, art. 192</Text>
+  </Section>
+  <Section>
+    <Label>173</Label>
+    <Text>2001, ch. 14, art. 193</Text>
+  </Section>
+  <Section>
+    <Label>174</Label>
+    <Text>2001, ch. 14, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>175</Label>
+    <Text>2001, ch. 14, art. 195(A)</Text>
+  </Section>
+  <Section>
+    <Label>176</Label>
+    <Text>2001, ch. 14, art. 196</Text>
+  </Section>
+  <Section>
+    <Label>177</Label>
+    <Text>2011, ch. 21, art. 88</Text>
+  </Section>
+  <Section>
+    <Label>182</Label>
+    <Text>2001, ch. 14, art. 197</Text>
+  </Section>
+  <Section>
+    <Label>183</Label>
+    <Text>2001, ch. 14, art. 198; 2011, ch. 21, art. 89</Text>
+  </Section>
+  <Section>
+    <Label>185</Label>
+    <Text>2011, ch. 21, art. 90(A); 2018, ch. 8, art. 65</Text>
+  </Section>
+  <Section>
+    <Label>187</Label>
+    <Text>2011, ch. 21, art. 91(A)</Text>
+  </Section>
+  <Section>
+    <Label>190</Label>
+    <Text>2018, ch. 8, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>194</Label>
+    <Text>2011, ch. 21, art. 92</Text>
+  </Section>
+  <Section>
+    <Label>199</Label>
+    <Text>2018, ch. 8, art. 67</Text>
+  </Section>
+  <Section>
+    <Label>200</Label>
+    <Text>2011, ch. 21, art. 93(A)</Text>
+  </Section>
+  <Section>
+    <Label>211</Label>
+    <Text>2011, ch. 21, art. 94(A)</Text>
+  </Section>
+  <Section>
+    <Label>221</Label>
+    <Text>2018, ch. 8, art. 68</Text>
+  </Section>
+  <Section>
+    <Label>225</Label>
+    <Text>2011, ch. 21, art. 95(A)</Text>
+  </Section>
+  <Section>
+    <Label>231</Label>
+    <Text>2011, ch. 21, art. 96</Text>
+  </Section>
+  <Section>
+    <Label>235</Label>
+    <Text>2011, ch. 21, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>236</Label>
+    <Text>2011, ch. 21, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>245</Label>
+    <Text>2011, ch. 21, art. 98(F)</Text>
+  </Section>
+  <Section>
+    <Label>247</Label>
+    <Text>2018, ch. 8, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>248</Label>
+    <Text>2018, ch. 8, art. 70</Text>
+  </Section>
+  <Section>
+    <Label>249</Label>
+    <Text>2001, ch. 14, art. 200</Text>
+  </Section>
+  <Section>
+    <Label>251</Label>
+    <Text>2018, ch. 8, art. 71</Text>
+  </Section>
+  <Section>
+    <Label>252</Label>
+    <Text>2001, ch. 14, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>253</Label>
+    <Text>2011, ch. 21, art. 99(A)</Text>
+  </Section>
+  <Section>
+    <Label>255</Label>
+    <Text>2001, ch. 14, art. 202</Text>
+  </Section>
+  <Section>
+    <Label>260</Label>
+    <Text>2001, ch. 14, art. 203(F)</Text>
+  </Section>
+  <Section>
+    <Label>266</Label>
+    <Text>2011, ch. 21, art. 100</Text>
+  </Section>
+  <Section>
+    <Label>267</Label>
+    <Text>2001, ch. 14, art. 204(F)</Text>
+  </Section>
+  <Section>
+    <Label>278</Label>
+    <Text>2011, ch. 21, art. 102</Text>
+  </Section>
+  <Section>
+    <Label>279</Label>
+    <Text>2011, ch. 21, art. 102</Text>
+  </Section>
+  <Section>
+    <Label>280</Label>
+    <Text>2011, ch. 21, art. 103(A)</Text>
+  </Section>
+  <Section>
+    <Label>281</Label>
+    <Text>2011, ch. 21, art. 104(A)</Text>
+  </Section>
+  <Section>
+    <Label>282</Label>
+    <Text>2011, ch. 21, art. 105(A)</Text>
+  </Section>
+  <Section>
+    <Label>283</Label>
+    <Text>2011, ch. 21, art. 106(A)</Text>
+  </Section>
+  <Section>
+    <Label>285</Label>
+    <Text>2010, ch. 12, art. 2113; 2018, ch. 8, art. 72</Text>
+  </Section>
+  <Section>
+    <Label>287</Label>
+    <Text>2018, ch. 8, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>289</Label>
+    <Text>2001, ch. 14, art. 205</Text>
+  </Section>
+  <Section>
+    <Label>290</Label>
+    <Text>2001, ch. 14, art. 206</Text>
+  </Section>
+  <Section>
+    <Label>291</Label>
+    <Text>2018, ch. 8, art. 74</Text>
+  </Section>
+  <Section>
+    <Label>292</Label>
+    <Text>2018, ch. 8, art. 75</Text>
+  </Section>
+  <Section>
+    <Label>294</Label>
+    <Text>2001, ch. 14, art. 207(A)</Text>
+  </Section>
+  <Section>
+    <Label>298</Label>
+    <Text>2001, ch. 14, art. 208</Text>
+  </Section>
+  <Section>
+    <Label>299</Label>
+    <Text>2018, ch. 8, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>302</Label>
+    <Text>2011, ch. 21, art. 107</Text>
+  </Section>
+  <Section>
+    <Label>307</Label>
+    <Text>2001, ch. 14, art. 209; 2018, ch. 8, art. 77</Text>
+  </Section>
+  <Section>
+    <Label>308</Label>
+    <Text>2001, ch. 14, art. 210; 2018, ch. 8, art. 78</Text>
+  </Section>
+  <Section>
+    <Label>311</Label>
+    <Text>2001, ch. 14, art. 211; 2018, ch. 8, art. 79(F)</Text>
+  </Section>
+  <Section>
+    <Label>312</Label>
+    <Text>2001, ch. 14, art. 212; 2018, ch. 8, art. 80(F)</Text>
+  </Section>
+  <Section>
+    <Label>313</Label>
+    <Text>2001, ch. 14, art. 213(F)</Text>
+  </Section>
+  <Section>
+    <Label>315</Label>
+    <Text>2018, ch. 8, art. 81(F)</Text>
+  </Section>
+  <Section>
+    <Label>316</Label>
+    <Text>2011, ch. 21, art. 108(F)</Text>
+  </Section>
+  <Section>
+    <Label>320</Label>
+    <Text>2018, ch. 8, art. 82(F)</Text>
+  </Section>
+  <Section>
+    <Label>321</Label>
+    <Text>2001, ch. 14, art. 214; 2011, ch. 21, art. 109(A)</Text>
+  </Section>
+  <Section>
+    <Label>322</Label>
+    <Text>2011, ch. 21, art. 110(A)</Text>
+  </Section>
+  <Section>
+    <Label>325</Label>
+    <Text>2018, ch. 8, art. 83</Text>
+  </Section>
+  <Section>
+    <Label>326</Label>
+    <Text>2001, ch. 14, art. 215; 2011, ch. 21, art. 111(F)</Text>
+  </Section>
+  <Section>
+    <Label>328</Label>
+    <Text>2001, ch. 14, art. 216</Text>
+  </Section>
+  <Section>
+    <Label>329</Label>
+    <Text>2001, ch. 14, art. 217(F)</Text>
+  </Section>
+  <Section>
+    <Label>335</Label>
+    <Text>2011, ch. 21, art. 112; 2018, ch. 8, art. 84(F)</Text>
+  </Section>
+  <Section>
+    <Label>336</Label>
+    <Text>2011, ch. 21, art. 113(A)</Text>
+  </Section>
+  <Heading>
+    <Label>partie 18.1</Label>
+    <Text>(art. 337.1 à 337.9), ajouté, 2001, ch. 14, art. 218</Text>
+  </Heading>
+  <Section>
+    <Label>337.1</Label>
+    <Text>ajouté, 2001, ch. 14, art. 218</Text>
+  </Section>
+  <Section>
+    <Label>337.2</Label>
+    <Text>ajouté, 2001, ch. 14, art. 218</Text>
+  </Section>
+  <Section>
+    <Label>337.3</Label>
+    <Text>ajouté, 2001, ch. 14, art. 218</Text>
+  </Section>
+  <Section>
+    <Label>337.4</Label>
+    <Text>ajouté, 2001, ch. 14, art. 218</Text>
+  </Section>
+  <Section>
+    <Label>337.5</Label>
+    <Text>ajouté, 2001, ch. 14, art. 218; 2005, ch. 33, art. 6; 2011, ch. 21, art. 114(A)</Text>
+  </Section>
+  <Section>
+    <Label>337.6</Label>
+    <Text>ajouté, 2001, ch. 14, art. 218</Text>
+  </Section>
+  <Section>
+    <Label>337.7</Label>
+    <Text>ajouté, 2001, ch. 14, art. 218; 2018, ch. 8, art. 85(F)</Text>
+  </Section>
+  <Section>
+    <Label>337.8</Label>
+    <Text>ajouté, 2001, ch. 14, art. 218</Text>
+  </Section>
+  <Section>
+    <Label>337.9</Label>
+    <Text>ajouté, 2001, ch. 14, art. 218</Text>
+  </Section>
+  <Section>
+    <Label>338</Label>
+    <Text>2001, ch. 14, art. 219</Text>
+  </Section>
+  <Section>
+    <Label>339</Label>
+    <Text>2001, ch. 14, art. 220</Text>
+  </Section>
+  <Section>
+    <Label>340</Label>
+    <Text>2001, ch. 14, art. 221(F)</Text>
+  </Section>
+  <Section>
+    <Label>341</Label>
+    <Text>2011, ch. 21, art. 115</Text>
+  </Section>
+  <Section>
+    <Label>345</Label>
+    <Text>2001, ch. 14, art. 222</Text>
+  </Section>
+  <Section>
+    <Label>346</Label>
+    <Text>2011, ch. 21, art. 116(A)</Text>
+  </Section>
+  <Heading>
+    <Label>partie 21.1</Label>
+    <Text>(art. 361.1 à 361.7), ajouté, 2001, ch. 14, art. 223</Text>
+  </Heading>
+  <Section>
+    <Label>361.1</Label>
+    <Text>ajouté, 2001, ch. 14, art. 223</Text>
+  </Section>
+  <Section>
+    <Label>361.2</Label>
+    <Text>ajouté, 2001, ch. 14, art. 223</Text>
+  </Section>
+  <Section>
+    <Label>361.3</Label>
+    <Text>ajouté, 2001, ch. 14, art. 223</Text>
+  </Section>
+  <Section>
+    <Label>361.4</Label>
+    <Text>ajouté, 2001, ch. 14, art. 223</Text>
+  </Section>
+  <Section>
+    <Label>361.5</Label>
+    <Text>ajouté, 2001, ch. 14, art. 223</Text>
+  </Section>
+  <Section>
+    <Label>361.6</Label>
+    <Text>ajouté, 2001, ch. 14, art. 223</Text>
+  </Section>
+  <Section>
+    <Label>361.7</Label>
+    <Text>ajouté, 2001, ch. 14, art. 223</Text>
+  </Section>
+  <Section>
+    <Label>362</Label>
+    <Text>2001, ch. 14, art. 224(F)</Text>
+  </Section>
+  <Section>
+    <Label>364</Label>
+    <Text>2001, ch. 14, art. 225</Text>
+  </Section>
+  <Section>
+    <Label>367</Label>
+    <Text>2001, ch. 14, art. 226; 2011, ch. 21, art. 117(A); 2018, ch. 8, art. 86</Text>
+  </Section>
+  <Section>
+    <Label>368</Label>
+    <Text>2018, ch. 8, art. 87</Text>
+  </Section>
+  <Section>
+    <Label>369.1</Label>
+    <Text>jouté, 2018, ch. 8, art. 88</Text>
+  </Section>
+  <Section>
+    <Label>372</Label>
+    <Text>2001, ch. 14, art. 227; 2018, ch. 8, art. 89</Text>
+  </Section>
+  <Section>
+    <Label>372.1</Label>
+    <Text>ajouté, 2001, ch. 14, art. 228; 2018, ch. 8, art. 90</Text>
+  </Section>
+  <Section>
+    <Label>373</Label>
+    <Text>2001, ch. 14, art. 229; 2011, ch. 21, art. 118(A); 2018, ch. 8, art. 91</Text>
+  </Section>
+  <Section>
+    <Label>373.1</Label>
+    <Text>ajouté, 2018, ch. 8, art. 92</Text>
+  </Section>
+  <Section>
+    <Label>374</Label>
+    <Text>2018, ch. 8, art. 92</Text>
+  </Section>
+  <Section>
+    <Label>375</Label>
+    <Text>2001, ch. 14, art. 230</Text>
+  </Section>
+  <Section>
+    <Label>376</Label>
+    <Text>2001, ch. 14, art. 230</Text>
+  </Section>
+  <Section>
+    <Label>376.1</Label>
+    <Text>ajouté, 2001, ch. 14, art. 230; 2018, ch. 8, art. 93(F)</Text>
+  </Section>
+  <Section>
+    <Label>376.2</Label>
+    <Text>ajouté, 2001, ch. 14, art. 230</Text>
+  </Section>
+  <Section>
+    <Label>377</Label>
+    <Text>2001, ch. 14, art. 231; 2018, ch. 8, art. 94</Text>
+  </Section>
+  <Section>
+    <Label>378</Label>
+    <Text>2001, ch. 14, art. 232; 2018, ch. 8, art. 95</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2009, ch. 23, art. 347</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>disposition générale, 2001, ch. 14, art. 199(F)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2011, ch. 21, art. 101(A)</Text>
+  </General>
+  <Transitional>
+    <Text>disposition transitoire, 2001, ch. 14, art. 234</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, 1998, ch. 1 en vigueur 31.12.99 <Emphasis style="italic">voir</Emphasis> TR/99-69</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2000, ch. 12, art. 28 en vigueur 31.07.2000 <Emphasis style="italic">voir</Emphasis> TR/2000-76</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 14, art. 137 à 232 et 234 en vigueur 24.11.2001 <Emphasis style="italic">voir</Emphasis> TR/2001-114</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 25, art. 188 en vigueur à la sanction 15.12.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 33, art. 6 en vigueur à la sanction 20.07.2005</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2009, ch. 23, art. 347 en vigueur à la sanction 23.06.2009; art. 312 en vigueur 17.10.2011 <Emphasis style="italic">voir</Emphasis> TR/2011‑87</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2010, ch. 12 (sanction : 12.07.2010), art. 2113 en vigueur 19.12.2012 <Emphasis style="italic">voir</Emphasis> TR/2012-99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2011, ch. 21, art. 72 à 118 en vigueur à la sanction 29.11.2011</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 8, art. 47 à 51, 55, 57, 58, 61, 62, 64 à 70, 72 à 82, 84 à 87, 89 à 93 et par. 95(5) en vigueur à la sanction 01.05.2018;</Text>
+    <List>
+      <Item>
+        <Text>— art. 52 à 54, 56, 59, 60, 83 et 94, par. 95(1) à (4), art. 102, par. 104(1) et (3) en vigueur 31.08.2022 <Emphasis style="italic">voir</Emphasis> TR/2022-17;</Text>
+      </Item>
+      <Item>
+        <Text>— art. 63, 71 et 88 entrent en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> par. 108(4) — Non en vigueur</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2009, ch. 14, art. 126">
+  <Title>Pénalités administratives en matière d’environnement, Loi sur les</Title>
+  <ChapterNumber>2009, ch. 14, art. 126</ChapterNumber>
+  <OtherLangTitle>(Environmental Violations Administrative Monetary Penalties Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de l’Environnement et le ministre responsable de l’Agence Parcs Canada (art. 2);</Text>
+  </Minister>
+  <Minister>
+    <Text>Le ministre de l’Environnement en ce qui concerne les contraventions relatives aux lois suivantes : (2018, ch. 12, par. 195(2))</Text>
+  </Minister>
+  <General>
+    <Text>Loi de 1994 sur la convention concernant les oiseaux migrateurs,</Text>
+  </General>
+  <General>
+    <Text>Loi sur les espèces sauvages du Canada,</Text>
+  </General>
+  <General>
+    <Text>Loi canadienne sur l’évaluation environnementale (2012),</Text>
+  </General>
+  <General>
+    <Text>Loi sur les ouvrages destinés à l’amélioration des cours d’eau internatonaux,</Text>
+  </General>
+  <General>
+    <Text>Loi canadienne sur la protection de l’environnement (1999),</Text>
+  </General>
+  <General>
+    <Text>Loi sur la protection de l’environnement en Antarctique,</Text>
+  </General>
+  <General>
+    <Text>Loi sur la protection d’espèces animales ou végétales sauvages et la réglementation de leur commerce international et interprovincial,</Text>
+  </General>
+  <General>
+    <Text>Loi sur les ressources en eau du Canada et la</Text>
+  </General>
+  <General>
+    <Text>Loi sur la tarification de la pollution causée par les gaz à effet de serre</Text>
+  </General>
+  <Heading>
+    <Label>Titre intégral</Label>
+    <Text>2018, ch. 12, art. 194</Text>
+  </Heading>
+  <Section>
+    <Label>2</Label>
+    <Text>2012, ch. 19, art. 53; 2015, ch. 10, art. 61; 2018, ch. 12, art. 195; 2019, ch. 28, al. 188e)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2012, ch. 19, art. 54; 2018, ch. 12, art. 196; 2019, ch. 28, art. 180</Text>
+  </Section>
+  <Section>
+    <Label>12.1</Label>
+    <Text>ajouté, 2018, ch. 12, art. 197</Text>
+  </Section>
+  <General>
+    <Text>disposition générale, 2009, ch. 14, art. 126 (art. 29) (admissibilité de documents)</Text>
+  </General>
+  <CIF>
+    <Text>EEV, 2009, ch. 14, art. 126 (sanction : 18.06.2009), en vigueur 10.12.2010 <Emphasis style="italic">voir</Emphasis> TR/2010-91</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 19 (sanction : 29.06.2012), art. 53 et 54 en vigueur 06.07.2012 <Emphasis style="italic">voir</Emphasis> TR/2012-56</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 10 (sanction : 23.04.2015), art. 61 en vigueur 15.05.2015 <Emphasis style="italic">voir</Emphasis>TR/2015-37.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 12, art. 194 à 197 en vigueur à la sanction 21.06.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, c. 28 (sanction : 21.06.2019), art. 180 et 188 en vigueur 28.08.2019 — <Emphasis style="italic">vo</Emphasis>ir TR/2019-86</Text>
+  </CIF>
+</Statute>
+</TOPS>

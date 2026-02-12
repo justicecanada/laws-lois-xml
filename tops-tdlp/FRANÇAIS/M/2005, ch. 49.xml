@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2005, ch. 49">
+  <Title>Mesures d’aide liées au coût de l’énergie, Loi sur les</Title>
+  <ChapterNumber>2005, ch. 49</ChapterNumber>
+  <OtherLangTitle>(Energy Costs Assistance Measures Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Finances</Text>
+  </Minister>
+  <Section>
+    <Label>3</Label>
+    <Text>2005, ch. 49, art. 11; 2012, ch. 19, al. 694b); 2013, ch. 40, al. 238(1)e)</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2005, ch. 49, art. 11</Text>
+  </CoordinatingAmendment>
+  <CIF>
+    <Text>EEV, 2005, ch. 49 en vigueur à la sanction 25.11.2005</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 19 (sanction : 29.06.2012), al. 694b) en vigueur 01.03.2013 <Emphasis style="italic">voir</Emphasis> TR/2013-17</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 40, al. 238(1)e) en vigueur à la sanction 12.12.2013</Text>
+  </CIF>
+</Statute>
+</TOPS>

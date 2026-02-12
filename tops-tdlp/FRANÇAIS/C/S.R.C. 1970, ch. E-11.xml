@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="S.R.C. 1970, ch. E-11">
+  <Title>Cour de l’Échiquier, Loi sur la</Title>
+  <ChapterNumber>S.R.C. 1970, ch. E-11</ChapterNumber>
+  <OtherLangTitle>(Exchequer Court Act)</OtherLangTitle>
+  <Repeal>
+    <Text>LOI ABROGÉE (<Emphasis style="italic">sauf</Emphasis> art. 26-28), S.R.C. 1970, ch. 10 (2<Sup>e</Sup> suppl.), par. 64(1)</Text>
+  </Repeal>
+  <Section>
+    <Label>26</Label>
+    <Text>S.R.C. 1970, ch. 10 (2<Sup>e</Sup> suppl.), par. 64(2); 1987, ch. 34, art. 368, ann., n<Sup>o</Sup> 6; 1996, ch. 10, art. 223</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>1996, ch. 10, art. 224</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>S.R.C. 1970, ch. 10 (2<Sup>e</Sup> suppl.), par 64(2)</Text>
+  </Section>
+  <CIF>
+    <Text>EEV, S.R.C. 1970, ch. 10 (2<Sup>e</Sup> suppl.) en vigueur 01.06.71 <Emphasis style="italic">voir</Emphasis> DORS/71-241</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1987, ch. 34, art. 368, ann., n<Sup>o</Sup> 6 en vigueur 01.01.88 <Emphasis style="italic">voir</Emphasis> TR/88‑26</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 10, art. 223 et 224 en vigueur 01.07.96 <Emphasis style="italic">voir</Emphasis> TR/96‑53</Text>
+  </CIF>
+</Statute>
+</TOPS>

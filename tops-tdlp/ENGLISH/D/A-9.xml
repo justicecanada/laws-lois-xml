@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="A-9">
+  <Title>Department of Agriculture and Agri-Food Act</Title>
+  <ChapterNumber>R.S., 1985, c. A-9</ChapterNumber>
+  <TitleChanged>
+    <Text>(Formerly: Department of Agriculture Act)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Ministère de l’Agriculture et de l’Agroalimentaire, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Agriculture and Agri-Food</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>1994, c. 38, s. 1</Text>
+  </LongTitle>
+  <Section>
+    <Label>1</Label>
+    <Text>1994, c. 38, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>1994, c. 38, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1994, c. 38, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1989, c. 27, s. 20; 1994, c. 38, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>5.01</Label>
+    <Text>added, 1994, c. 38, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>added, 1988, c. 65, s. 46</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1992, c. 1, s. 6; repealed, 1994, c. 38, s. 7</Text>
+  </Section>
+  <Transitional>
+    <Text>Transitional, 1994, c. 38, ss. 8 to 10</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1988, c. 65, s. 46 in force 01.01.89 <Emphasis style="italic">see</Emphasis> SI/89‑9</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1989, c. 27, s. 20 in force 23.02.90 <Emphasis style="italic">see</Emphasis> SI/90‑41</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 1, s. 6 in force on assent 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 38, ss. 1 to 10 in force 12.01.95 <Emphasis style="italic">see</Emphasis> SI/95‑9</Text>
+  </CIF>
+</Statute>
+</TOPS>

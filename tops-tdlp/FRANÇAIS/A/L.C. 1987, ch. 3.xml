@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="L.C. 1987, ch. 3">
+  <Title>Accord atlantique Canada — Terre-Neuve-et-Labrador, Loi de mise en oeuvre de l’</Title>
+  <ChapterNumber>L.C. 1987, ch. 3</ChapterNumber>
+  <OtherLangTitle>(Canada-Newfoundland and Labrador Atlantic Accord Implementation Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Ressources naturelles</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Titre intégral</Label>
+    <Text>2014, ch. 13, art. 2(F); 2024, ch. 20, art. 1</Text>
+  </LongTitle>
+  <Section>
+    <Label>1</Label>
+    <Text>2014, ch. 13, art. 3; 2024, ch. 20, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>1994, ch. 41, al. 37(1)a); 2014, ch. 13, art. 4; 2015, ch. 4, art. 37 et par. 117(2); 2024, ch. 20, art. 3 et 101</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>ajouté, 2024, ch. 20, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1992, ch. 35, art. 44; 2005, ch. 27, art. 18</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2024, ch. 20, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1993, ch. 28, art. 78, ann. III, art. 8.1; 1998, ch. 15, art. 18; 2002, ch. 7, art. 108(A); 2024, ch. 20, art. 6</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2014, ch. 13, art. 5; 2015, ch. 4, art. 38 et par. 117(4); 2024, ch. 20, art. 7</Text>
+  </Section>
+  <Section>
+    <Label>7.1</Label>
+    <Text>ajouté, 2024, ch. 20, art. 8</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>1992, ch. 35, art. 45; 2024, ch. 20, art. 9</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1992, ch. 35, art. 46; 1994, ch. 24, par. 34(F); 2014, ch. 13, art. 6; 2024, ch. 20, art. 10 et 101</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2014, ch. 13, al. 52(2)a)(A) et par. (3)(A); 2024, ch. 20, art. 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2003, ch. 22, art. 117(A); 2017, ch. 9, sous-al.55(1)e)(i); 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2014, ch. 13, art. 7 et al. 52(1)a)(A) et (2)b)(A); 2024, ch. 20, art. 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2014, ch. 13, al. 52(2)c)(A); 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2014, ch. 13, al. 52(2)d)(A); 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2014, ch. 13, al. 52(2)e)(A); 2024, ch. 20, art. 11 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2014, ch. 13, al. 52(2)f)(A); 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>17.1</Label>
+    <Text>ajouté, 2024, ch. 20, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2024, ch. 20, art. 13</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2014, ch. 13, al. 52(2)g)(A); 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2024, ch. 20, art. 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2024, ch. 20, art. 14</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2024, ch. 20, art. 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2014, ch. 13, al. 52(2)h)(A); 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2003, ch. 22, art. 118 et al. 225g)(A) et art. 231; 2014, ch. 13, art. 8; 2017, ch. 9, sous-al.55(1)e)(ii); 2024, ch. 20, art. 15, 101 et 103(F)</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>26.1</Label>
+    <Text>ajouté, 2014, ch. 13, art. 9; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2024, ch. 20, art. 16, 101 et 103(F)</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>2014, ch. 13, art. 10; 2024, ch. 20, art. 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>29.1</Label>
+    <Text>ajouté, 2015, ch. 4, art. 39; 2024, ch. 20, art. 17 et 101</Text>
+  </Section>
+  <Section>
+    <Label>29.2</Label>
+    <Text>ajouté, 2015, ch. 4, art. 39; 2017, ch. 20, al. 454c)</Text>
+  </Section>
+  <Section>
+    <Label>29.3</Label>
+    <Text>ajouté, 2015, ch. 4, art. 39; 2018, ch. 27, art. 176; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>2014, ch. 13, al. 52(1)b)(A)</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2014, ch. 13, al. 52(1)c)(A)</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>40.1</Label>
+    <Text>ajouté, 2024, ch. 20, art. 19</Text>
+  </Section>
+  <Section>
+    <Label>40.2</Label>
+    <Text>ajouté, 2024, ch. 20, art. 19</Text>
+  </Section>
+  <Section>
+    <Label>40.3</Label>
+    <Text>ajouté, 2024, ch. 20, art. 19</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>2014, ch. 13, art. 11</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2014, ch. 13, art. 12; 2024, ch. 20, art. 20 et 101</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>2014, ch. 13, art. 13(A); 2015, ch. 4, art. 40(A); 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>44.1</Label>
+    <Text>ajouté, 2015, ch. 4, art. 41; 2024, ch. 20, art. 21</Text>
+  </Section>
+  <Section>
+    <Label>44.2</Label>
+    <Text>ajouté, 2015, ch. 4, art. 41; 2024, ch. 20, art. 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>44.3</Label>
+    <Text>ajouté, 2015, ch. 4, art. 41; 2024, ch. 20, art. 22(A) et 101</Text>
+  </Section>
+  <Section>
+    <Label>44.4</Label>
+    <Text>ajouté, 2015, ch. 4, art. 41; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>1992, ch. 35, art. 47; 2014, ch. 13, art. 15; 2024, ch. 20, art. 23 et 101</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2014, ch. 13, art. 16; 2024, ch. 20, art. 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>2024, ch. 20, art. 25, 102(A) et 103(F)</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>abrogé, 2024, ch. 30, art. 9</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>1992, ch. 1, art. 144, ann. VII, art. 6(F)</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2024, ch. 20, art. 26</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>2024, ch. 20, art. 27 et 101</Text>
+  </Section>
+  <Section>
+    <Label>56.1</Label>
+    <Text>ajouté, 2024, ch. 20, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>56.2</Label>
+    <Text>ajouté, 2024, ch. 20, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>56.3</Label>
+    <Text>ajouté, 2024, ch. 20, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>56.4</Label>
+    <Text>ajouté, 2024, ch. 20, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>56.5</Label>
+    <Text>ajouté, 2024, ch. 20, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>2024, ch. 20, art. 30</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>1994, ch. 26, art. 11(F); 2024, ch. 20, art. 31 et 101</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>2024, ch. 20, art. 32</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>2024, ch. 20, art. 33</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2024, ch. 20, art. 34, 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>2024, ch. 20, art. 35</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>2015, ch. 4, art. 42(F); 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>2015, ch. 4, art. 43; 2024, ch. 20, art. 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>2024, ch. 20, art. 36</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>2015, ch. 4, art. 43; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>77</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>78</Label>
+    <Text>1988, ch. 28, art. 256; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>79</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>2024, ch. 20, art. 37</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>1993, ch. 47, art. 6; 2024, ch. 20, art. 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>2024, ch. 20, art. 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>1993, ch. 47, art. 7</Text>
+  </Section>
+  <Heading>
+    <Label>partie II, section V</Label>
+    <Text>abrogée, (art. 88 à 96), 1993, ch. 47, art. 8; ajouté, 2024, ch. 20, art. 38</Text>
+  </Heading>
+  <Section>
+    <Label>88</Label>
+    <Text>abrogé, 1993, ch. 47, art. 8; ajouté, 2024, ch. 20, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>89</Label>
+    <Text>abrogé, 1993, ch. 47, art. 8; ajouté, 2024, ch. 20, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>90</Label>
+    <Text>abrogé, 1993, ch. 47, art. 8; ajouté, 2024, ch. 20, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>abrogé, 1993, ch. 47, art. 8; ajouté, 2024, ch. 20, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>92</Label>
+    <Text>abrogé, 1993, ch. 47, art. 8; ajouté, 2024, ch. 20, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>abrogé, 1993, ch. 47, art. 8; ajouté, 2024, ch. 20, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>abrogé, 1993, ch. 47, art. 8; ajouté, 2024, ch. 20, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>abrogé, 1993, ch. 47, art. 8; ajouté, 2024, ch. 20, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>96</Label>
+    <Text>abrogé, 1993, ch. 47, art. 8; ajouté, 2024, ch. 20, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>96.1</Label>
+    <Text>ajouté, 2024, ch. 24, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>96.2</Label>
+    <Text>ajouté, 2024, ch. 24, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>96.3</Label>
+    <Text>ajouté, 2024, ch. 24, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>96.4</Label>
+    <Text>ajouté, 2024, ch. 24, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>96.5</Label>
+    <Text>ajouté, 2024, ch. 24, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>96.6</Label>
+    <Text>ajouté, 2024, ch. 24, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>1988, ch. 28, art. 257(F); 2014, ch. 13, art. 17; 2024, ch. 20, art. 40</Text>
+  </Section>
+  <Section>
+    <Label>97.1</Label>
+    <Text>ajouté, 2024, ch. 20, art. 41</Text>
+  </Section>
+  <Section>
+    <Label>98</Label>
+    <Text>1988, ch. 28, art. 258(F); 2014, ch. 13, art. 18(F); 2024, ch. 20, art. 42</Text>
+  </Section>
+  <Section>
+    <Label>99</Label>
+    <Text>2015, ch. 4, art. 44(F); 2024, ch. 20, art. 43</Text>
+  </Section>
+  <Section>
+    <Label>100</Label>
+    <Text>2024, ch. 20, art. 43</Text>
+  </Section>
+  <Section>
+    <Label>101</Label>
+    <Text>2024, ch. 20, art. 44 et 101</Text>
+  </Section>
+  <Section>
+    <Label>102</Label>
+    <Text>1988, ch. 28, art. 259; 1990, ch. 41, art. 12; 1991, ch. 46, art. 585; 2014, ch. 13, art. 19; 2024, ch. 20, art. 45 et 101</Text>
+  </Section>
+  <Section>
+    <Label>103</Label>
+    <Text>2024, ch. 20, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>104</Label>
+    <Text>1990, ch. 41, art. 13; abrogé, 1993, ch. 47, art. 9</Text>
+  </Section>
+  <Section>
+    <Label>104.1</Label>
+    <Text>ajouté, 1990, ch. 41, art. 14; abrogé, 1993, ch. 47, art. 9</Text>
+  </Section>
+  <Section>
+    <Label>107</Label>
+    <Text>1990, ch. 41, art. 15; abrogé, 1993, ch. 47, art. 10</Text>
+  </Section>
+  <Section>
+    <Label>112</Label>
+    <Text>1994, ch. 26, art. 12(F)</Text>
+  </Section>
+  <Section>
+    <Label>116</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>118</Label>
+    <Text>2015, ch. 4, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>119</Label>
+    <Text>1988, ch. 28, art. 260; 1992, ch. 35, art. 48; 1994, ch. 26, art. 13(F); 2015, ch. 4, art. 46; 2024, ch. 20, art. 47 et 101</Text>
+  </Section>
+  <Section>
+    <Label>119.1</Label>
+    <Text>ajouté, 2015, ch. 4, art. 47; 2024, ch. 20, art. 48, 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>120</Label>
+    <Text>abrogé, 1992, ch. 35, art. 49</Text>
+  </Section>
+  <Section>
+    <Label>121</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>122</Label>
+    <Text>1992, ch. 35, art. 50</Text>
+  </Section>
+  <Section>
+    <Label>123</Label>
+    <Text>2014, ch. 13, art. 20; 2024, ch. 20, art. 49 et 101</Text>
+  </Section>
+  <Section>
+    <Label>124</Label>
+    <Text>2014, ch. 13, art. 21; 2024, ch. 20, art. 50, 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>125</Label>
+    <Text>2024, ch. 20, art. 51 et 101</Text>
+  </Section>
+  <Section>
+    <Label>126</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>128</Label>
+    <Text>2024, ch. 20, art. 52</Text>
+  </Section>
+  <Section>
+    <Label>130</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>131</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>132</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>133</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>134.1</Label>
+    <Text>ajouté, 2024, ch. 20, art. 53</Text>
+  </Section>
+  <Section>
+    <Label>135</Label>
+    <Text>1992, ch. 35, art. 52</Text>
+  </Section>
+  <Section>
+    <Label>135.1</Label>
+    <Text>ajouté, 1992, ch. 35, art. 53; 2015, ch. 4, art. 48; 2024, ch. 20, art. 55</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>1992, ch. 35, art. 54(F); 2024, ch. 20, art. 57</Text>
+  </Section>
+  <Section>
+    <Label>136.1</Label>
+    <Text>ajouté, 1992, ch. 35, art. 55</Text>
+  </Section>
+  <Section>
+    <Label>136.2</Label>
+    <Text>ajouté, 1992, ch. 35, art. 55</Text>
+  </Section>
+  <Section>
+    <Label>137</Label>
+    <Text>1992, ch. 35, art. 56</Text>
+  </Section>
+  <Section>
+    <Label>137.01</Label>
+    <Text>ajouté, 2024, ch. 20, art. 58</Text>
+  </Section>
+  <Section>
+    <Label>137.1</Label>
+    <Text>ajouté, 1992, ch. 35, art. 57; 2015, ch. 4, art. 49; 2024, ch. 20, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>138</Label>
+    <Text>1992, ch. 35, art. 58; 2014, ch. 13, art. 22; 2015, ch. 4, art. 50 et art. 117; 2024, ch. 20, art. 61, 101, 102(A) et 103(F)</Text>
+  </Section>
+  <Section>
+    <Label>138.01</Label>
+    <Text>ajouté, 2015, ch. 4, art. 51; 2024, ch. 20, art. 62</Text>
+  </Section>
+  <Section>
+    <Label>138.011</Label>
+    <Text>ajouté, 2024, ch. 20, art. 62.1</Text>
+  </Section>
+  <Section>
+    <Label>138.012</Label>
+    <Text>ajouté, 2024, ch. 20, art. 62.1</Text>
+  </Section>
+  <Section>
+    <Label>138.013</Label>
+    <Text>ajouté, 2024, ch. 20, art. 62.1</Text>
+  </Section>
+  <Section>
+    <Label>138.014</Label>
+    <Text>ajouté, 2024, ch. 20, art. 62.1</Text>
+  </Section>
+  <Section>
+    <Label>138.015</Label>
+    <Text>ajouté, 2024, ch. 20, art. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.016</Label>
+    <Text>ajouté, 2024, ch. 20, art. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.017</Label>
+    <Text>ajouté, 2024, ch. 20, art. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.018</Label>
+    <Text>ajouté, 2024, ch. 20, art. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.019</Label>
+    <Text>ajouté, 2024, ch. 20, art. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.02</Label>
+    <Text>ajouté, 2015, ch. 4, art. 51; 2024, ch. 20, art. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.021</Label>
+    <Text>ajouté, 2024, ch. 20, art. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.1</Label>
+    <Text>ajouté, 1992, ch. 35, art. 58; 2024, ch. 20, art. 63</Text>
+  </Section>
+  <Section>
+    <Label>138.2</Label>
+    <Text>ajouté, 1992, ch. 35, art. 58; 2024, ch. 20, art. 64</Text>
+  </Section>
+  <Section>
+    <Label>138.21</Label>
+    <Text>ajouté, 2015, ch. 4, art. 52; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>138.3</Label>
+    <Text>ajouté, 1992, ch. 35, art. 58; 2015, ch. 4, art. 53; 2024, ch. 20, art. 65</Text>
+  </Section>
+  <Section>
+    <Label>139</Label>
+    <Text>1992, ch. 35, art. 59; 2024, ch. 20, art. 66 et 101</Text>
+  </Section>
+  <Section>
+    <Label>139.1</Label>
+    <Text>ajouté, 1992, ch. 35, art. 60; 2014, ch. 13, art. 23; 2024, ch. 20, art. 67 et 101</Text>
+  </Section>
+  <Section>
+    <Label>139.2</Label>
+    <Text>ajouté, 1992, ch. 35, art. 60; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>140</Label>
+    <Text>1992, ch. 35, art. 61; 2014, ch. 13, art. 24; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>140.1</Label>
+    <Text>ajouté, 1992, ch. 35, art. 61; 2014, ch. 13, art. 25</Text>
+  </Section>
+  <Section>
+    <Label>140.2</Label>
+    <Text>ajouté, 1992, ch. 35, art. 61; 2024, ch. 20, art. 69(F)</Text>
+  </Section>
+  <Section>
+    <Label>141</Label>
+    <Text>2003, ch. 22, art. 119(A); 2014, ch. 13, al. 52(1)d)(A); 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>142</Label>
+    <Text>2003, ch. 22, art. 120; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>144</Label>
+    <Text>2003, ch. 22, art. 121</Text>
+  </Section>
+  <Section>
+    <Label>147</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>148</Label>
+    <Text>2014, ch. 13, art. 26; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>149</Label>
+    <Text>1992, ch. 35, art. 63; 2015, ch. 4, art. 54 et par. 117(7); 2024, ch. 20, art. 71 et 101</Text>
+  </Section>
+  <Section>
+    <Label>149.1</Label>
+    <Text>ajouté, 2015, ch. 4, art. 55</Text>
+  </Section>
+  <Section>
+    <Label>150</Label>
+    <Text>1994, ch. 26, art. 14(F); abrogé, 2024, ch. 20, art. 72</Text>
+  </Section>
+  <Section>
+    <Label>151</Label>
+    <Text>1992, ch. 35, art. 64; 2014, ch. 13, art. 27</Text>
+  </Section>
+  <Section>
+    <Label>151.1</Label>
+    <Text>1992, ch. 35, art. 65; 2015, ch. 4, art. 56; 2024, ch. 20, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>152</Label>
+    <Text>1988, ch. 28, art. 261; 1992, ch. 35, art. 66; 1999, ch. 31, art. 29; abrogé, 2014, ch. 13, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>153</Label>
+    <Text>1992, ch. 35, art. 67</Text>
+  </Section>
+  <Section>
+    <Label>154</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>155</Label>
+    <Text>1992, ch. 35, art. 68</Text>
+  </Section>
+  <Section>
+    <Label>156</Label>
+    <Text>1992, ch. 35, art. 69(F); 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>157</Label>
+    <Text>1992, ch. 35, art. 70(F)</Text>
+  </Section>
+  <Section>
+    <Label>158</Label>
+    <Text>1992, ch. 35, art. 71(F)</Text>
+  </Section>
+  <Section>
+    <Label>160</Label>
+    <Text>1992, ch. 35, art. 73; 2001, ch. 6, art. 110, ch. 26, art. 280 et par. 324(8); 2015, ch. 4, art. 57</Text>
+  </Section>
+  <Section>
+    <Label>161</Label>
+    <Text>1992, ch. 35, art. 74; 2014, ch. 13, art. 29; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>161.1</Label>
+    <Text>ajouté, 2015, ch. 4, art. 58</Text>
+  </Section>
+  <Section>
+    <Label>161.2</Label>
+    <Text>ajouté, 2015, ch. 4, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>161.3</Label>
+    <Text>ajouté, 2015, ch. 4, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>161.4</Label>
+    <Text>ajouté, 2015, ch. 4, art. 59; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>161.5</Label>
+    <Text>ajouté, 2015, ch. 4, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>162</Label>
+    <Text>1992, ch. 35, art. 75; 2015, ch. 4, art. 60; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>162.1</Label>
+    <Text>ajouté, 2015, ch. 4, art. 61; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>163</Label>
+    <Text>1992, ch. 35, art. 76; 2015, ch. 4, art. 62; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>163.1</Label>
+    <Text>ajouté, 2015, ch. 4, art. 63; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>164</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>164.1</Label>
+    <Text>ajouté, 2018, ch. 27, art. 177</Text>
+  </Section>
+  <Section>
+    <Label>164.2</Label>
+    <Text>ajouté, 2018, ch. 27, art. 177</Text>
+  </Section>
+  <Section>
+    <Label>164.3</Label>
+    <Text>ajouté, 2018, ch. 27, art. 177; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>165</Label>
+    <Text>1992, ch. 35, art. 77; 2024, ch. 20, art. 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>166</Label>
+    <Text>1992, ch. 35, art. 78(F); 2024, ch. 20, art. 75</Text>
+  </Section>
+  <Section>
+    <Label>167</Label>
+    <Text>1991, ch. 50, art. 23; 2001, ch. 4, art. 151; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>168</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>172</Label>
+    <Text>1991, ch. 50, art. 24; 2001, ch. 4, art. 152; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>174</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>176</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>177</Label>
+    <Text>1992, ch. 35, art. 79(A)</Text>
+  </Section>
+  <Section>
+    <Label>179</Label>
+    <Text>1994, ch. 26, art. 15(F)</Text>
+  </Section>
+  <Section>
+    <Label>183.01</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.02</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.03</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.04</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.05</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.06</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.07</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.08</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.09</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.1</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.11</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.12</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.13</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.14</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.15</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.16</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.17</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.18</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.19</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.2</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.21</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.22</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.23</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.24</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.25</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.26</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.27</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.28</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.29</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.3</Label>
+    <Text>ajouté, 2024, ch. 20, art. 76</Text>
+  </Section>
+  <Section>
+    <Label>185</Label>
+    <Text>2014, ch. 13, art. 30; 2024, ch. 20, art. 77</Text>
+  </Section>
+  <Section>
+    <Label>186</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>187</Label>
+    <Text>2014, ch. 13, art. 31; 2024, ch. 20, art. 78 et 101</Text>
+  </Section>
+  <Section>
+    <Label>188</Label>
+    <Text>1992, ch. 35, art. 80; 2014, ch. 13, art. 33; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>189</Label>
+    <Text>1992, ch. 35, art. 80; 2014, ch. 13, art. 33</Text>
+  </Section>
+  <Section>
+    <Label>189.1</Label>
+    <Text>ajouté, 2014, ch. 13, art. 33</Text>
+  </Section>
+  <Section>
+    <Label>189.2</Label>
+    <Text>ajouté, 2014, ch. 13, art. 33</Text>
+  </Section>
+  <Section>
+    <Label>190</Label>
+    <Text>1992, ch. 35, art. 80; 2014, ch. 13, art. 34(A); 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>191</Label>
+    <Text>1992, ch. 35, art. 80; 2014, ch. 13, art. 35</Text>
+  </Section>
+  <Section>
+    <Label>192</Label>
+    <Text>1992, ch. 35, art. 80; 2014, ch. 13, art. 35</Text>
+  </Section>
+  <Section>
+    <Label>192.1</Label>
+    <Text>ajouté, 2014, ch. 13, art. 35</Text>
+  </Section>
+  <Section>
+    <Label>192.2</Label>
+    <Text>ajouté, 2014, ch. 13, art. 35</Text>
+  </Section>
+  <Section>
+    <Label>193</Label>
+    <Text>1992, ch. 35, art. 80; 2014, ch. 13, art. 36(A); 2024, ch. 20, art. 79</Text>
+  </Section>
+  <Section>
+    <Label>193.1</Label>
+    <Text>ajouté, 1992, ch. 35, art. 80; 2014, ch. 13, art. 37(A);</Text>
+  </Section>
+  <Section>
+    <Label>193.2</Label>
+    <Text>ajouté, 1992, ch. 35, art. 80; 2014, ch. 13, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>193.3</Label>
+    <Text>ajouté, 2024, ch. 20, art. 81</Text>
+  </Section>
+  <Section>
+    <Label>194</Label>
+    <Text>1992, ch. 35, art. 81; 2014, ch. 13, art. 39; 2015, ch. 4, art. 64 et par. 117(13); 2024, ch. 20, art. 82</Text>
+  </Section>
+  <Section>
+    <Label>195</Label>
+    <Text>abrogé, 1992, ch. 35, art. 82; ajouté, 2014, ch. 13, art. 40</Text>
+  </Section>
+  <Section>
+    <Label>195.1</Label>
+    <Text>ajouté, 2014, ch. 13, art. 40</Text>
+  </Section>
+  <Section>
+    <Label>195.2</Label>
+    <Text>ajouté, 2014, ch. 13, art. 40; abrogé, 2015, ch. 4, al. 117(14)a)</Text>
+  </Section>
+  <Section>
+    <Label>195.3</Label>
+    <Text>ajouté, 2014, ch. 13, art. 40; abrogé, 2015, ch. 4, al. 117(14)a)</Text>
+  </Section>
+  <Section>
+    <Label>195.4</Label>
+    <Text>ajouté, 2014, ch. 13, art. 40; abrogé, 2015, ch. 4, al. 117(14)a)</Text>
+  </Section>
+  <Section>
+    <Label>195.5</Label>
+    <Text>ajouté, 2014, ch. 13, art. 40; abrogé, 2015, ch. 4, al. 117(14)a)</Text>
+  </Section>
+  <Section>
+    <Label>196</Label>
+    <Text>2015, ch. 4, art. 65 et al. 117(14)b); 2024, ch. 20, art. 83 et 101</Text>
+  </Section>
+  <Section>
+    <Label>196.1</Label>
+    <Text>ajouté, 2015, ch. 4, art. 65; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>196.2</Label>
+    <Text>ajouté, 2015, ch. 4, art. 65</Text>
+  </Section>
+  <Section>
+    <Label>196.3</Label>
+    <Text>ajouté, 2015, ch. 4, art. 65</Text>
+  </Section>
+  <Section>
+    <Label>198</Label>
+    <Text>1988, ch. 28, art. 262; abrogé, 1992, ch. 35, art. 83</Text>
+  </Section>
+  <Section>
+    <Label>199</Label>
+    <Text>2014, ch. 13, art. 41</Text>
+  </Section>
+  <Section>
+    <Label>202</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>202.001</Label>
+    <Text>ajouté, 2014, ch. 13, art. 43; renuméroté, 2015, ch. 4, par. 117(15)</Text>
+  </Section>
+  <Section>
+    <Label>202.01</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.02</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>202.03</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.04</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.05</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.06</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.07</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.08</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.09</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.1</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.2</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>202.3</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>202.4</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>202.5</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66; 2024, ch. 20, art. 84, 101 et 102(A)</Text>
+  </Section>
+  <Section>
+    <Label>202.6</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.7</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.8</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.9</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66; 2024, ch. 20, art. 85</Text>
+  </Section>
+  <Section>
+    <Label>202.91</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66; 2024, ch. 20, art. 86 et 101</Text>
+  </Section>
+  <Section>
+    <Label>202.92</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.93</Label>
+    <Text>ajouté, 2015, ch. 4, art. 66; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>204</Label>
+    <Text>2014, ch. 13, art. 44(F)</Text>
+  </Section>
+  <Section>
+    <Label>205</Label>
+    <Text>2024, ch. 20, art. 101</Text>
+  </Section>
+  <Heading>
+    <Label>Partie III.1</Label>
+    <Text>ajoutée, 2014, ch. 13, art. 45</Text>
+  </Heading>
+  <Section>
+    <Label>205.001</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 87</Text>
+  </Section>
+  <Section>
+    <Label>205.002</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.003</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 88</Text>
+  </Section>
+  <Section>
+    <Label>205.004</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 89</Text>
+  </Section>
+  <Section>
+    <Label>205.005</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 89</Text>
+  </Section>
+  <Section>
+    <Label>205.006</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 89</Text>
+  </Section>
+  <Section>
+    <Label>205.007</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 90</Text>
+  </Section>
+  <Section>
+    <Label>205.008</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 91</Text>
+  </Section>
+  <Section>
+    <Label>205.009</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101 et 103(F)</Text>
+  </Section>
+  <Section>
+    <Label>205.01</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.011</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.012</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.013</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 92 et 101</Text>
+  </Section>
+  <Section>
+    <Label>205.014</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.015</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.016</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.017</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.018</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.019</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 93 et 101</Text>
+  </Section>
+  <Section>
+    <Label>205.02</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.021</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.022</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.023</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.024</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.025</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.026</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.027</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.028</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.029</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.03</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.031</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.032</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.033</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.034</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.035</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.036</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.037</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.038</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.039</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.04</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.041 à 205.049</Label>
+    <Text>ajoutés, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.05</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.051 à 205.059</Label>
+    <Text>ajoutés, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.06</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 94</Text>
+  </Section>
+  <Section>
+    <Label>205.061</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.062</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.063</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 95</Text>
+  </Section>
+  <Section>
+    <Label>205.064</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.065</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.066</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.067</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.068</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 96 et 101</Text>
+  </Section>
+  <Section>
+    <Label>205.069</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.07</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.071</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.072</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.073</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.074</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.075</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.076</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.077</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.078</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.079</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.08</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.081</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.082</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.083</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.084</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.085</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.086</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.087</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.088</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.089</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.09</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101 et 103(F)</Text>
+  </Section>
+  <Section>
+    <Label>205.091 à 205.099</Label>
+    <Text>ajoutés, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.1</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>205.101</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.102</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 98</Text>
+  </Section>
+  <Section>
+    <Label>205.103</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.104</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.105</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.106</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.107</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.108</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.109</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.11</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.111</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.112</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.113</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.114</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.115</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.116</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.117</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.118</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.119</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.12</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; 2024, ch. 20, art. 99; et 101</Text>
+  </Section>
+  <Section>
+    <Label>205.121</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.122</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.123</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.124</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.125</Label>
+    <Text>ajouté, 2014, ch. 13, art. 45; abrogé, 2024, ch. 20, art. 100</Text>
+  </Section>
+  <Section>
+    <Label>206</Label>
+    <Text>2014, ch. 13, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>207</Label>
+    <Text>2014, ch. 13, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>208</Label>
+    <Text>2014, ch. 13, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>209</Label>
+    <Text>2014, ch. 13, art. 47</Text>
+  </Section>
+  <Section>
+    <Label>210</Label>
+    <Text>2014, ch. 13, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>211</Label>
+    <Text>2014, ch. 13, art. 49</Text>
+  </Section>
+  <Section>
+    <Label>212</Label>
+    <Text>2015, ch. 4, art. 67(F)</Text>
+  </Section>
+  <Section>
+    <Label>214</Label>
+    <Text>2014, ch. 13, art. 50; 2024, ch. 20, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>216</Label>
+    <Text>2014, ch. 13, art. 51</Text>
+  </Section>
+  <Heading>
+    <Label>Partie V</Label>
+    <Text>abrogée, 2015, ch. 4, art. 69</Text>
+  </Heading>
+  <Section>
+    <Label>218</Label>
+    <Text>1994, ch. 41, al. 37(1)a); 1993, ch. 28, art. 78, ann. III, art. 8.2; 1998, ch. 15, art. 18; 2002, ch. 7, art. 109(A); abrogé, 2015, ch. 4, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>219</Label>
+    <Text>1994, ch. 41, al. 37(1)a); abrogé, 2015, ch. 4, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>220</Label>
+    <Text>2004, ch. 22, art. 6; 2007, ch. 29, art. 78 (<Emphasis style="italic">mais</Emphasis> art. 78 abrogé par 2007, ch. 35, art. 169 avant son entrée en vigueur), ch. 35, art. 172 et 174; abrogé, 2015, ch. 4, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>220.1</Label>
+    <Text>ajouté, 2007, ch. 29, art. 79; abrogé, 2015, ch. 4, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>221</Label>
+    <Text>abrogé, 2015, ch. 4, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>222</Label>
+    <Text>2007, ch. 29, art. 80; abrogé, 2015, ch. 4, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>223</Label>
+    <Text>1994, ch. 41, al. 37(1)a); abrogé, 2015, ch. 4, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>224 et 225</Label>
+    <Text>abrogés, 2015, ch. 4, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>226</Label>
+    <Text>1994, ch. 41, al. 37(1)a); abrogé, 2015, ch. 4, art. 69</Text>
+  </Section>
+  <Heading>
+    <Label>Partie VI</Label>
+    <Text>abrogée, 2015, ch. 4, art. 69</Text>
+  </Heading>
+  <Section>
+    <Label>227</Label>
+    <Text>1994, ch. 41, al. 37(1)a); abrogé, 2015, ch. 4, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>228 à 232</Label>
+    <Text>abrogés, 2015, ch. 4, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>233</Label>
+    <Text>2015, ch. 4, art. 68; abrogé, 2015, ch. 4, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>239</Label>
+    <Text>1991, ch. 49, art. 237</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe 1</Label>
+    <Text>ajoutée, 2015, ch. 4, art. 70</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe 2</Label>
+    <Text>ajoutée, 2015, ch. 4, art. 70; 2019, ch. 14, art. 56; DORS/2022‑106</Text>
+  </Schedule>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2001, ch. 26, art. 324</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2021, ch. 10, art. 3</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>dispositions de coordination, 2024, ch. 20, par. 220(9) et (11)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2024, ch. 30, art. 38</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>disposition générale, 1993, ch. 47, art. 18</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 1994, ch. 41, par. 37(2)</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 2014, ch. 13, art. 14(A) et 32(A)</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 2018, ch. 27, art. 179 (abrogation de réglements)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, ajoutée, 2024, ch. 20, art. 18 (intertitre après l’art. 30)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 20, art. 24 (intertitre avant art. 47)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 20, art. 29 (intertitre avant art. 57)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 20, art. 39 (intertitres avant art. 97)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 20, art. 54 (intertitre avant art. 135)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 20, art. 56(F) (intertitre avant art. 136)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 20, art. 60 (intertitre avant art. 138)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 20, art. 68 (intertitre avant art. 139.2)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 20, art. 70 (intertitre avant art. 149)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 20, art. 74 (titre de la section II de la partie III)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 20, art. 80 (intertitre avant art. 193.2)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 20, art. 101 (intertitre avant art. 9)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 20, art. 101 (intertitre avant art. 17)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 20, art. 101 (intertitre avant art. 205.066)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 30, art. 8(A) (intertitre avant art. 47)</Text>
+  </General>
+  <Transitional>
+    <Text>disposition transitoire, 2007, ch. 29, art. 83 (mais abrogé par 2007, ch. 35, art. 170)</Text>
+  </Transitional>
+  <Transitional>
+    <Text>disposition transitoire, 2007, ch. 35, art. 174</Text>
+  </Transitional>
+  <Transitional>
+    <Text>dispositions transitoires, 2014, ch. 13, art. 53 (par. 53(5) tel que modifié par 2018, ch. 27, art. 179) et 54</Text>
+  </Transitional>
+  <Transitional>
+    <Text>dispositions transitoires, 2024, ch. 20, art. 104 à 106</Text>
+  </Transitional>
+  <Terminology>
+    <Text>terminologie, 2017, ch. 9, al.55(1)e)</Text>
+  </Terminology>
+  <CIF>
+    <Text>EEV, 1987, ch. 3, loi en vigueur 04.04.87 <Emphasis style="italic">sauf</Emphasis> Section VIII de la partie II et les art. 207 et 208 <Emphasis style="italic">voir</Emphasis> TR/87‑88; les art. 211, 234 et 235 s’appliquent à l’année d’imposition commençant après la date fixée par proclamation <Emphasis style="italic">voir</Emphasis> par. 239(2); Section VIII de la partie II en vigueur 20.05.88 <Emphasis style="italic">voir</Emphasis> TR/88‑102; art. 207 et 208 en vigueur 23.01.96 <Emphasis style="italic">voir</Emphasis> TR/96‑20</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1988, ch. 28, art. 256-262 en vigueur 22.12.89 <Emphasis style="italic">voir</Emphasis> TR/90‑9</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1990, ch. 41, art. 12-15 en vigueur 09.11.90 <Emphasis style="italic">voir</Emphasis> TR/90‑169</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1991, ch. 46 en vigueur 01.06.92 <Emphasis style="italic">voir</Emphasis> TR/92‑90</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1991, ch. 49, par. 237(1) est réputé entré en vigueur 27.03.87 <Emphasis style="italic">voir</Emphasis> par. 237(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1991, ch. 50, art. 23 et 24 en vigueur 15.09.92 <Emphasis style="italic">voir</Emphasis> TR/92‑151</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1992, ch. 1, art. 144, ann. VII, art. 6(F) en vigueur à la sanction 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1992, ch. 35, art. 44 à 83 en vigueur 01.09.92 <Emphasis style="italic">voir</Emphasis> TR/92‑154</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1993, ch. 47, art. 6 à 10 en vigueur 30.06.93 <Emphasis style="italic">voir</Emphasis> TR/93‑149; art. 18 en vigueur à la sanction 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 24, par. 34(2)(F) en vigueur à la sanction 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 26, art. 11(F) à 15(F) en vigueur à la sanction 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 41, art. 37 en vigueur 12.01.95 <Emphasis style="italic">voir</Emphasis> TR/95‑10</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1998, ch. 15, art. 18 en vigueur à la sanction 11.06.98</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 31, art. 29 en vigueur à la sanction 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 4, art. 151 et 152 en vigueur 01.06.2001 <Emphasis style="italic">voir</Emphasis> TR/2001‑71</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 6, art. 110 entre en vigueur quatre-vingt-dix jours après la date de sanction (sanctionnée le 10.05.2001) ou à la date ultérieure fixée antérieurement par décret <Emphasis style="italic">voir</Emphasis> art. 131. Il n’y a pas eu de décret, par conséquent, art. 110 en vigueur 08.08.2001</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 26, art. 324 en vigueur à la sanction 01.11.2001; art. 280 en vigueur 01.07.2007 <Emphasis style="italic">voir</Emphasis> TR/2007-65</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 7, art. 108 et 109 en vigueur 01.04.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 22, art. 117 à 121 et 225 en vigueur 01.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-24; art. 231 en vigueur 31.12.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-122</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 22, art. 6 en vigueur à la sanction 14.05.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 27, art. 18 en vigueur 01.12.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-117</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2007, ch. 29, art. 80 en vigueur à la sanction 22.06.2007</Text>
+    <List>
+      <Item>
+        <Text>— art. 79 réputé être entré en vigueur 01.04.2010 <Emphasis style="italic">voir</Emphasis> art. 84, modifié par 2007, ch. 35, art. 171, et <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, Vol. 146, n<Sup>o</Sup> 2, 14.01.2012, p. 26</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2007, ch. 35, art. 169 à 171 et 174 en vigueur à la sanction 14.12.2007</Text>
+    <List>
+      <Item>
+        <Text>— art. 172 réputé être entré en vigueur 01.04.2010 <Emphasis style="italic">voir</Emphasis> art. 175 et <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, Vol. 146, n<Sup>o</Sup> 2, 14.01.2012, p. 26</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 13 (sanction : 19.06.2014), art. 2 à 44, 46 à 54, 116 et 117 en vigueur 31.12.2014 <Emphasis style="italic">voir</Emphasis> TR/2014-103; art. 45 en vigueur 03.12.2014 <Emphasis style="italic">voir</Emphasis> TR/2014-103</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 4, art. 117 et 118 en vigueur à la sanction 26.02.2015</Text>
+    <List>
+      <Item>
+        <Text>— art. 37, par. 52(1), 54(1) à (3) et (5), art. 55 et 57, par. 58(1) et art. 59, 69 et 70 en vigueur 19.06.2015 <Emphasis style="italic">voir</Emphasis> TR/2015-59</Text>
+      </Item>
+      <Item>
+        <Text>— art. 38 à 51, art. 53, par. 54(4), art. 56 et art. 60 à 68 en vigueur 27.02.2016 <Emphasis style="italic">voir</Emphasis> par. 119(1)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 52(2) et 58(2) à (4) en vigueur 26.02.2020 ou, dans cet intervalle, à la date ou aux dates fixées par décret <Emphasis style="italic">voir</Emphasis> par. 119(2)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 9, al. 55(1)e) en vigueur à la sanction 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 20, art. 454 en vigueur à la sanction 22.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 27, art. 179 en vigueur à la sanction 13.12.2018; art. 176 et 177 en vigueur 01.01.2019 <Emphasis style="italic">voir</Emphasis> TR/2019-25</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 14 (sanction : 21-06-2019) art. 56 en vigueur 28.08.2019 <Emphasis style="italic">voir</Emphasis> TR/2019-80</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2021, ch. 10, art. 1 et 3 en vigueur à la sanction 03.06.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 20, art. 1 à 106 entrent en vigueur à la date de l’adjonction de la définition de « Regulator » à l’art.  2 de la loi intitulée <XRefExternal reference-type="act">Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act</XRefExternal>, ch. C-2 des lois révisées de Terre-Neuve-et Labrador (1990) <Emphasis style="italic">voir</Emphasis> TR/2025-22 (02.06.2025)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 30, art. 8 et 9 en vigueur à la sanction 27.11.2024, <Emphasis style="italic">sauf</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>— art. 38 en vigueur à la sanction 27.11.2024 (disposition de coordination — conditions réputées ne jamais avoir produit leurs effets)</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

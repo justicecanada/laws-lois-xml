@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2004, ch. 16">
+  <Title>Loi modificative et rectificative (2003)</Title>
+  <ChapterNumber>2004, ch. 16</ChapterNumber>
+  <OtherLangTitle>(Amendments and Corrections Act, 2003)</OtherLangTitle>
+  <Minister>
+    <Text>Le leader du gouvernement à la Chambre des communes et ministre responsable de la réforme démocratique</Text>
+  </Minister>
+  <CIF>
+    <Text>EEV, 2004, ch. 16</Text>
+    <List>
+      <Item>
+        <Text>— art. 1 à 5, 7, 8, 18 à 24.1 et 28 à 31 en vigueur à la sanction 06.05.2004</Text>
+      </Item>
+      <Item>
+        <Text>— art. 6 est réputé entré en vigueur 01.04.2003 <Emphasis style="italic">voir</Emphasis> par. 32(1)</Text>
+      </Item>
+      <Item>
+        <Text>— l’art. 9 entre en vigueur ou est réputé être entré en vigueur à la date d’entrée en vigueur du par. 395(2) de la <XRefExternal reference-type="act">Loi de 2001 sur l’accise</XRefExternal><Emphasis style="italic"> voir</Emphasis> par. 32(2), en vigueur 01.07.2003</Text>
+      </Item>
+      <Item>
+        <Text>— les art. 10 à 17 et 25 à 27 abrogés avant l’entrée en vigueur 31.12.2018 <Emphasis style="italic">voir</Emphasis> 2008, ch. 20, art. 3 de la <XRefExternal reference-type="act">Loi sur l’abrogation des lois</XRefExternal></Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

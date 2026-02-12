@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="C-16">
+  <Title>Telefilm Canada Act</Title>
+  <ChapterNumber>R.S., 1985, c. C-16</ChapterNumber>
+  <TitleChanged>
+    <Text>(Formerly: Canadian Film Development Corporation Act)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Téléfilm Canada, Loi sur)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Canadian Heritage <Emphasis style="italic">see</Emphasis> 1995, c. 11, s. 46</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>2002, c. 17, s. 5</Text>
+  </LongTitle>
+  <Section>
+    <Label>1</Label>
+    <Text>2002, c. 17, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>2002, c. 17, s. 7; 2005, c. 14, s. 1</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2002, c. 17, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1995, c. 29, s. 20(E)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2005, c. 14, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2003, c. 22, par. 224(<Emphasis style="italic">z</Emphasis>.82)(E)</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1995, c. 29, s. 20(E)</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1994, c. 25, s. 1; 2005, c. 14, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>1995, c. 29, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>1994, c. 25, s. 2; 2002, c. 17, s. 9; 2005, c. 14, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2005, c. 14, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2005, c. 14, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>1995, c. 29, s. 20(E)</Text>
+  </Section>
+  <General>
+    <Text>General, 2002, c. 17, ss. 10 to 15 <Emphasis style="italic">re</Emphasis> powers, duties and functions; references; rights and obligations transferred; continuation of legal proceedings; consequential amendments to other Acts and to regulations</Text>
+  </General>
+  <General>
+    <Text>General, 2005, c. 14, s. 3(E)</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 2005, c. 14, s. 9</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1994, c. 25, ss. 1 and 2 in force on assent 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 29, ss. 19 and 20(E) in force 01.11.95 <Emphasis style="italic">see</Emphasis> SI/95‑115</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 17, ss. 5 to 15 in force 22.07.2002 <Emphasis style="italic">see</Emphasis> SI/2002-105</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 224 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 14, ss. 1 to 7 and 9 in force on assent 23.03.2005</Text>
+  </CIF>
+</Statute>
+</TOPS>

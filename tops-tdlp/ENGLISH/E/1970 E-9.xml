@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1970 E-9">
+  <Title>Estate Tax Act</Title>
+  <ChapterNumber>R.S.C. 1970, c. E-9</ChapterNumber>
+  <OtherLangTitle>(Impôt sur les biens transmis par décès, Loi de l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of National Revenue</Text>
+  </Minister>
+  <Section>
+    <Label>3, 7 and 8</Label>
+    <Text>1970-71-72, c. 43, s. 3(2)</Text>
+  </Section>
+  <Section>
+    <Label>25 and 26</Label>
+    <Text>1970-71-72, c. 43, s. 3(2), c. 63, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>1970-71-72, c. 43, s. 3(2)</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>1984, c. 40, s. 26 (deemed in force 28.05.80)</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>1984, c. 40, s. 26 (deemed in force 28.05.80)</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>1984, c. 40, s. 26 (deemed in force 28.05.80)</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>1970-71-72, c. 43, s. 3(2), c. 63, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>1970-71-72, c. 43, s. 3(2)</Text>
+  </Section>
+  <General>
+    <Text>[<Emphasis style="italic">Note:</Emphasis> Act does not apply in the case of the death of any person whose death occurred after 1971. <Emphasis style="italic">See</Emphasis> 1970-71-72, c. 63, Part II s. 2]</Text>
+  </General>
+</Statute>
+</TOPS>

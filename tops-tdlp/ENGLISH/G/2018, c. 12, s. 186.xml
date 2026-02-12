@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2018, c. 12, s. 186">
+  <Title>Greenhouse Gas Pollution Pricing Act</Title>
+  <ChapterNumber>2018, c. 12, s. 186</ChapterNumber>
+  <OtherLangTitle>(Tarification de la pollution causée par les gaz à effet de serre, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of National Revenue; Minister of Environment (for the purposes of section 188 <Emphasis style="italic">see</Emphasis> SI/2021-9)</Text>
+  </Minister>
+  <Section>
+    <Label>51</Label>
+    <Text>2022, c. 5, s. 36; 2022, c. 10, s. 168 and 173(27)</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2022, c. 5, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>2023, c. 26, s. 93</Text>
+  </Section>
+  <Section>
+    <Label>106</Label>
+    <Text>2021, c. 23, s. 78</Text>
+  </Section>
+  <Section>
+    <Label>107</Label>
+    <Text>2024, c. 17, s. 147</Text>
+  </Section>
+  <Section>
+    <Label>108</Label>
+    <Text>2022, c. 5, s. 38; 2022, c. 10, s. 170</Text>
+  </Section>
+  <Section>
+    <Label>109</Label>
+    <Text>2022, c. 5, s. 39; 2022, c. 10, s. 171</Text>
+  </Section>
+  <Section>
+    <Label>123.1</Label>
+    <Text>added, 2023, c. 26, s. 94</Text>
+  </Section>
+  <Section>
+    <Label>134</Label>
+    <Text>2024, c. 17, s. 148</Text>
+  </Section>
+  <Section>
+    <Label>141</Label>
+    <Text>2022, c. 19, s. 68</Text>
+  </Section>
+  <Section>
+    <Label>144</Label>
+    <Text>2021, c. 23, s. 79</Text>
+  </Section>
+  <Section>
+    <Label>161</Label>
+    <Text>2022, c. 5, s. 40; 2022, c. 10, s. 172; 2022, c. 19, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>164</Label>
+    <Text>2021, c. 23, s. 80; 2023, c. 26, s. 95</Text>
+  </Section>
+  <Section>
+    <Label>189.1</Label>
+    <Text>added, 2018, c. 27, s. 178; 2024, c. 20, s. 214</Text>
+  </Section>
+  <Schedule>
+    <Label>Schedule 1, Part 1</Label>
+    <Text>SOR/2019-79, ss. 1 and 2; SOR/2023-129, ss. 1 to 3; SOR/2023-130, s. 1</Text>
+    <List>
+      <Item>
+        <Text>— Item 2, repealed, SOR/2020-261, s. 1; SOR/2023-129, s. 1</Text>
+      </Item>
+      <Item>
+        <Text>— Item 2.1, added, SOR/2023-130, s. 1</Text>
+      </Item>
+      <Item>
+        <Text>— Item 3.1, added, SOR/2023-129, s. 2</Text>
+      </Item>
+      <Item>
+        <Text>— Item 4.2, added, SOR/2023-129, s. 3</Text>
+      </Item>
+    </List>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 1, Part 2</Label>
+    <Text>SOR/2018-212, s. 1</Text>
+    <List>
+      <Item>
+        <Text>— Item 1, repealed, SOR/2021-195, s. 1</Text>
+      </Item>
+      <Item>
+        <Text>— Item 2, repealed, SOR/2021-195, s. 2</Text>
+      </Item>
+      <Item>
+        <Text>— Item 5, repealed, SOR/2023-148, s. 1</Text>
+      </Item>
+    </List>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 2</Label>
+    <Text>SOR/2019-79, ss. 3 and 4</Text>
+    <List>
+      <Item>
+        <Text>— Table 2, SOR/2020-261, s. 2</Text>
+      </Item>
+      <Item>
+        <Text>— Table 3, SOR/2020-261, s. 3</Text>
+      </Item>
+      <Item>
+        <Text>— Table 4, SOR/2020-261, s. 4; SOR/2023-62 s. 1 (heading);</Text>
+      </Item>
+      <Item>
+        <Text>— Table 5, SOR/2023-62, s. 2; SOR/2025-107, s. 1</Text>
+      </Item>
+    </List>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 3</Label>
+    <Text>SOR/2022-210</Text>
+    <List>
+      <Item>
+        <Text>— Items 2 to 23, SOR/2022-210, s. 1</Text>
+      </Item>
+      <?Pub Caret 36?>
+      <Item>
+        <Text>— Item 24 (French version), SOR/2022-210, s. 2</Text>
+      </Item>
+      <Item>
+        <Text>— Items 25 to 33, SOR/2022-210, s. 3</Text>
+      </Item>
+    </List>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 4</Label>
+    <Text>SOR/2022-211</Text>
+    <List>
+      <Item>
+        <Text>— Items 6 to 13, added, SOR/2022-211, s. 1</Text>
+      </Item>
+    </List>
+  </Schedule>
+  <General>
+    <Text>General, 2018, c. 12, s. 186 (s. 270 of the Act: report to Parliament)</Text>
+  </General>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2022, c. 10, s. 173</Text>
+  </CoordinatingAmendment>
+  <Terminology>
+    <Text>Terminology, 2024, c. 20, s. 214</Text>
+  </Terminology>
+  <CIF>
+    <Text>CIF, 2018, c. 12, s. 186 (ss. 1 to 270) in force on assent 21.06.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 27 (assent: 13.12.2018), s. 178 in force on 01.01.2019 <Emphasis style="italic">see</Emphasis> SI/2019-25</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2021-195, s. 1 in force 01.01.2022, s. 2 deemed in force 01.01.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2021, c. 23, ss. 78 to 80 in force on assent 29.06.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2022-210, ss. 1 to 3 in force 01.01.2023</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 5, (assent 09.06.2022), ss. 36 to 40 in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 36(2), 37(2), 38(2), 39(2) and 40(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2022-211, s. 1 in force 11.10.2022</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 10 (assent: 23.06.2022)</Text>
+    <List>
+      <Item>
+        <Text>— ss. 168(1) and 173(27) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 168(2) and 173(27)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 169(1) and 173(28) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 169(2) and 173(28)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 170 (1) and 173(29) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 170(2) and 173(29)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 171 (1) and 173(30) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 171(2) and 173(30)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 172(1) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 172(2)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 19, s. 68 in force on assent (15.12.2022)</Text>
+    <List>
+      <Item>
+        <Text>— ss. 69(1) and (2) deemed in force 19.04.2021 <Emphasis style="italic">see</Emphasis> s. 69(3)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-62, ss. 1 and 2 deemed in force 27.03.2023, <Emphasis style="italic">see</Emphasis> ss. 18(1)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-129, ss. 1 to 3 deemed in force 01.07.2023 <Emphasis style="italic">see</Emphasis> SOR/2023-129, s. 10(1)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-130, s. 1 comes into force or is deemed to have come into force immediately after the expiration of June 30, 2023, <Emphasis style="italic">see</Emphasis> s. 10(1)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-148 deemed in force 01.01.2023 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 17, ss. 147 and 148 in force on assent 20.06.2024</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 20, par. 214(1)(d) comes into force on the day on which the definition “Regulator” is added to s. 2 of the <XRefExternal reference-type="act">Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act</XRefExternal>, c. C-2 of the Revised Statutes of Newfoundland and Labrador, 1990 <Emphasis style="italic">see</Emphasis> SI/2025-22 (02.06.2025)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2025-107, s. 1 in force 15.03.2025 <Emphasis style="italic">see</Emphasis> s. 5</Text>
+  </CIF>
+</Statute>
+</TOPS>

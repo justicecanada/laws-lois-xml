@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2021, c. 26">
+  <Title>Provide further support in response to COVID-19, An act to,</Title>
+  <?Pub Caret -2?>
+  <ChapterNumber>2021, c. 26</ChapterNumber>
+  <OtherLangTitle>(Fournir un soutien supplémentaire en réponse à la COVID-19, Loi visant à)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Employment and Social Development (s. 2)</Text>
+  </Minister>
+  <General>
+    <Text>— <Emphasis style="italic">Note:</Emphasis> 2021, c. 26, ss. 2, 3, 4 and 8 and 19.1: Regulations</Text>
+  </General>
+  <Convention>
+    <Text>Coordinating Amendments, 2021, c. 26, ss. 27 and 28</Text>
+  </Convention>
+  <CIF>
+    <Text>CIF, 2021, c. 26, (assent: 17.12.2021),</Text>
+    <List>
+      <Item>
+        <Text>— ss. 1(1) to (16),1(19) to (22), 2 to 5, 7, 9 to 19.1, 20(1), 20(3), 21(1), 22(1), 22(3), 22(5), 23(1), 23(3), 24(1), 25(1) in force on assent 17.12.2021</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1(17) and (18) deemed to come into force 29.08.2021 <Emphasis style="italic">see</Emphasis> s. 1(23)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 6(1) deemed to have come into force 24.10.2021 <Emphasis style="italic">see</Emphasis> s. 6(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 8(1) deemed to have come into force 24.10.2021 <Emphasis style="italic">see</Emphasis> s. 8(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 20(4), 22(6), 23(4), 24(2) and 25(2) in force 07.05.2022 <Emphasis style="italic">see</Emphasis> s. 29(1)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 20(2), 21(2), 22(2) and (4) and 23(2) in force 08.05.2022 <Emphasis style="italic">see</Emphasis> s. 29(2)</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

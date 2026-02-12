@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="U-0.6">
+  <Title>Unemployment Assistance Act</Title>
+  <ChapterNumber>R.S.C., 1970, c. U-1</ChapterNumber>
+  <OtherLangTitle>(Assistance-chômage, Loi sur l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Employment and Social Development (2013, c. 40, s. 220)(2005, c. 34, s. 80)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1999, c. 31, s. 221; 2005, c. 34, par. 80(h); 2013, c. 40, subpar. 238(1)(l)(i)</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1996, c. 11, s. 96; 2005, c. 34, par. 80(h); 2013, c. 40, subpar. 238(1)(l)(ii)</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch.</Label>
+    <Text>1974-75-76, c. 58, s. 11; 1996, c. 23, par. 187(j)</Text>
+  </Schedule>
+  <CIF>
+    <Text>CIF, 1996, c. 11, s. 96 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96-70</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 23, s. 187 in force 30.06.96 <Emphasis style="italic">see</Emphasis> s. 190</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 31, s. 221 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 34, s. 80 in force 05.10.2005 <Emphasis style="italic">see</Emphasis> SI/2005-99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40, par. 238(1)(l) in force on assent 12.12.2013</Text>
+  </CIF>
+</Statute>
+</TOPS>

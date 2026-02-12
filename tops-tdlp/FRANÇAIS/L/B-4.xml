@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="B-4">
+  <Title>Lettres de change, Loi sur les</Title>
+  <ChapterNumber>L.R. (1985), ch. B-4</ChapterNumber>
+  <OtherLangTitle>(Bills of Exchange Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Finances; et le ministre de l’Industrie (1995, ch. 1, par. 62(3)) (art. 188-192)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1999, ch. 28, art. 148</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2021, ch. 11, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>163.1</Label>
+    <Text>ajouté, 2007, ch. 6, art. 398</Text>
+  </Section>
+  <Section>
+    <Label>163.2</Label>
+    <Text>ajouté, 2007, ch. 6, art. 398</Text>
+  </Section>
+  <Section>
+    <Label>163.3</Label>
+    <Text>ajouté, 2007, ch. 6, art. 398</Text>
+  </Section>
+  <Section>
+    <Label>163.4</Label>
+    <Text>ajouté, 2007, ch. 6, art. 398</Text>
+  </Section>
+  <Section>
+    <Label>163.5</Label>
+    <Text>ajouté, 2007, ch. 6, art. 398</Text>
+  </Section>
+  <Section>
+    <Label>163.6</Label>
+    <Text>ajouté, 2007, ch. 6, art. 398</Text>
+  </Section>
+  <Section>
+    <Label>164</Label>
+    <Text>2001, ch. 9, art. 586</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe :</Label>
+  </Schedule>
+  <General>
+    <Text>modèle 2, 2000, ch. 12, art. 22</Text>
+  </General>
+  <General>
+    <Text>modèle 10, 2000, ch. 12, art. 24</Text>
+  </General>
+  <CIF>
+    <Text>EEV, 1999, ch. 28, art. 148 en vigueur 28.06.99 <Emphasis style="italic">voir</Emphasis> TR/99‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2000, ch. 12, art. 22 à 24 en vigueur 31.07.2000 <Emphasis style="italic">voir</Emphasis> TR/2000-76</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 9, art. 586 en vigueur 24.10.2001 <Emphasis style="italic">voir</Emphasis> TR/2001-102</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2007, ch. 6, art. 398 en vigueur 20.04.2007 <Emphasis style="italic">voir</Emphasis> TR/2007-49</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2021, ch. 11 (sanction : 03.06.2021), art. 2 en vigueur 03.08.2021 <Emphasis style="italic">voir</Emphasis> art. 6</Text>
+  </CIF>
+</Statute>
+</TOPS>

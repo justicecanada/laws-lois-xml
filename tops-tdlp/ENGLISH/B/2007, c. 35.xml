@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2007, c. 35">
+  <Title>Budget and Economic Statement Implementation Act, 2007</Title>
+  <ChapterNumber>2007, c. 35</ChapterNumber>
+  <OtherLangTitle>(Exécution du budget et de l’énoncé économique de 2007, Loi d’)</OtherLangTitle>
+  <Section>
+    <Label>144</Label>
+    <Text>2013, c. 33, par. 196(1)(a)</Text>
+  </Section>
+  <Section>
+    <Label>174</Label>
+    <Text>repealed, 2015, c. 4, s. 116</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2007, c. 35, ss. 92 to 100 and 130 to 134</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2007, c. 35, s. 144, as amended by 2013, c. 33, par. 196(1)(a) (International Cooperation)</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 2007, c. 35, ss. 173 and 174</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2007, c. 35, in force on assent 14.12.2007, <Emphasis style="italic">except</Emphasis></Text>
+    <List>
+      <Item>
+        <Text>— ss. 136 and 137 in force 01.12.2008 <Emphasis style="italic">see</Emphasis> SI/2008-63</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 141 and 142 (Part 7) in force 31.03.2009 <Emphasis style="italic">see</Emphasis> SI/2009-25</Text>
+      </Item>
+      <Item>
+        <Text>— s. 172 deemed to have come into force 01.04.2010 <Emphasis style="italic">see</Emphasis> s. 175 and <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal>, Part I, Vol. 146, No. 2, p. 26</Text>
+      </Item>
+      <Item>
+        <Text>— s. 174 in force on assent <Emphasis style="italic">but</Emphasis> repealed <Emphasis style="italic">see</Emphasis> 2015, c. 4, s. 116.</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See also</Emphasis> various application provisions throughout</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 33, s. 196 in force on assent 26.06.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 4 (assent: 26.02.2015), s. 116 in force 19.06.2015 <Emphasis style="italic">see</Emphasis> SI/2015-59</Text>
+  </CIF>
+</Statute>
+</TOPS>

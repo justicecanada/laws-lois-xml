@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2015, c. 13, s. 2">
+  <Title>Canadian Victims Bill of Rights Act</Title>
+  <ChapterNumber>2015, c. 13, s. 2</ChapterNumber>
+  <OtherLangTitle>(Charte canadienne des droits des victimes, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Introduced by Minister of Justice and Attorney General of Canada</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2018, c. 16, s. 187</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2019, c. 15, s. 61</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2019, c. 15, s. 62</Text>
+  </Section>
+  <General>
+    <Text>General, 2015, c. 13, s. 2.1 (Parliamentary Review, 23.07.2020)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 2015, c. 13 (assent: 23.04.2015), s. 2 (ss. 1 to 29) and 2.1 in force 23.07.2015 <Emphasis style="italic">see</Emphasis> s. 60(1).</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 16 (assent: 21.06.2018), s. 187 in force 17.10.2018 <Emphasis style="italic">see</Emphasis> SI/2018-52</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 15 (assent: 21.06.2019), s. 61 and 62 in force 20.06.2022 <Emphasis style="italic">see</Emphasis> SI/2022-20</Text>
+  </CIF>
+</Statute>
+</TOPS>

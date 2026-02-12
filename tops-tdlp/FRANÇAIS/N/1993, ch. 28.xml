@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1993, ch. 28">
+  <Title>Nunavut, Loi sur le</Title>
+  <ChapterNumber>1993, ch. 28</ChapterNumber>
+  <OtherLangTitle>(Nunavut Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Affaires du Nord (<Emphasis style="italic">voir</Emphasis> art. 2)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1998, ch. 15, art. 1; 2019, ch. 29, al. 374g)</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2015, ch. 3, al. 172i)</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1999, ch. 3, art. 1; 2017, ch. 33, art. 256</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1998, ch. 15, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>1998, ch. 15, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2012, ch. 19, art. 215</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>1998, ch. 15, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>29.1</Label>
+    <Text>ajouté, 1998, ch. 15, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>1998, ch. 15, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>1998, ch. 15, art. 5; 1999, ch. 3, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>1999, ch. 3, art. 3; 2002, ch. 7, art. 222</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>1999, ch. 3, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>1999, ch. 3, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>1999, ch. 3, art. 6</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>1998, ch. 15, art. 6</Text>
+  </Section>
+  <Heading>
+    <Label>partie II :</Label>
+  </Heading>
+  <Section>
+    <Label>38</Label>
+    <Text>1998, ch. 15, art. 7</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>1998, ch. 15, art. 8; 2017, ch. 26, sous-al. 62f)(i)</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2017, ch. 26, sous-al. 62f)(ii)</Text>
+  </Section>
+  <Section>
+    <Label>50.1</Label>
+    <Text>1998, ch. 15, art. 9</Text>
+  </Section>
+  <Heading>
+    <Label>partie III</Label>
+    <Text>(art. 53 à 69), cesse d’avoir effet le 01.07.99 <Emphasis style="italic">voir</Emphasis> 1993, ch. 28, art. 69</Text>
+  </Heading>
+  <Section>
+    <Label>53</Label>
+    <Text>abrogé, 1998, ch. 15, art. 10</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>1998, ch. 15, al. 42a)</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>1998, ch. 15, al. 42b)</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>1998, ch. 15, al. 42c) et d)</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>2003, ch. 22, al. 224z.62)(A)</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>1998, ch. 15, al. 42e)</Text>
+  </Section>
+  <Heading>
+    <Label>partie IV :</Label>
+  </Heading>
+  <Section>
+    <Label>71</Label>
+    <Text>1998, ch. 15, art. 11</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>1998, ch. 15, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>1998, ch. 15, art. 13</Text>
+  </Section>
+  <Section>
+    <Label>73.1</Label>
+    <Text>ajouté, 1998, ch. 15, art. 14</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>1998, ch. 15, art. 14</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>1998, ch. 15, art. 15</Text>
+  </Section>
+  <Section>
+    <Label>76.01</Label>
+    <Text>ajouté, 1998, ch. 15, art. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.02</Label>
+    <Text>ajouté, 1998, ch. 15, art. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.03</Label>
+    <Text>ajouté, 1998, ch. 15, art. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.04</Label>
+    <Text>ajouté, 1998, ch. 15, art. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.05</Label>
+    <Text>ajouté, 1998, ch. 15, art. 16; abrogé, 2014, ch. 2, art. 43</Text>
+  </Section>
+  <Section>
+    <Label>76.06</Label>
+    <Text>ajouté, 1998, ch. 15, art. 16; 1999, ch. 3, art. 7</Text>
+  </Section>
+  <Section>
+    <Label>76.07</Label>
+    <Text>ajouté, 1998, ch. 15, art. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.08</Label>
+    <Text>ajouté, 1998, ch. 15, art. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.09</Label>
+    <Text>ajouté, 1998, ch. 15, art. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.1</Label>
+    <Text>ajouté, 1998, ch. 15, art. 16; 1999, ch. 3, art. 8(1)(F) et par. (2)</Text>
+  </Section>
+  <Section>
+    <Label>76.11</Label>
+    <Text>ajouté, 1998, ch. 15, art. 16; 1999, ch. 3, art. 9</Text>
+  </Section>
+  <Section>
+    <Label>76.12</Label>
+    <Text>ajouté, 1998, ch. 15, art. 16; 1999, ch. 3, art. 10</Text>
+  </Section>
+  <Section>
+    <Label>76.13</Label>
+    <Text>ajouté, 1998, ch. 15, art. 16</Text>
+  </Section>
+  <Heading>
+    <Label>partie V :</Label>
+  </Heading>
+  <Section>
+    <Label>77.1</Label>
+    <Text>ajouté, 1998, ch. 15, art. 17</Text>
+  </Section>
+  <Section>
+    <Label>77.2</Label>
+    <Text>ajouté, 1998, ch. 15, art. 17; 1999, ch. 3, art. 11</Text>
+  </Section>
+  <Section>
+    <Label>77.3</Label>
+    <Text>ajouté, 1998, ch. 15, art. 17</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe III</Label>
+    <Text>1993, ch. 28, art. 78</Text>
+  </Schedule>
+  <Section>
+    <Label>3</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 1</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 2</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 3</Text>
+  </Section>
+  <Section>
+    <Label>8.1</Label>
+    <Text>ajouté, 1998, ch. 15, art. 18</Text>
+  </Section>
+  <Section>
+    <Label>8.2</Label>
+    <Text>ajouté, 1998, ch. 15, art. 18</Text>
+  </Section>
+  <Section>
+    <Label>8.3</Label>
+    <Text>ajouté, 1998, ch. 15, art. 18</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>abrogé, 1996, ch. 31, art. 92</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 4</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 4</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>abrogé, 1998, ch. 15, art. 19</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 4</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 4</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 4</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 5</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 6</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 6</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 6</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 7</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 7</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 8</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>1998, ch. 15, art. 20</Text>
+  </Section>
+  <Section>
+    <Label>35.1</Label>
+    <Text>ajouté, 1998, ch. 15, art. 20; abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 9</Text>
+  </Section>
+  <Section>
+    <Label>35.2</Label>
+    <Text>ajouté, 1998, ch. 15, art. 20; abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 9</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 9</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>1998, ch. 15, art. 21</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 10</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 10</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 11</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>abrogé, 1998, ch. 15, art. 22</Text>
+  </Section>
+  <Section>
+    <Label>43.1</Label>
+    <Text>ajouté, 1998, ch. 15, art. 23</Text>
+  </Section>
+  <Section>
+    <Label>43.2</Label>
+    <Text>ajouté, 1998, ch. 15, art. 24; 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 12</Text>
+  </Section>
+  <Section>
+    <Label>43.3</Label>
+    <Text>ajouté, 1998, ch. 15, art. 24</Text>
+  </Section>
+  <Section>
+    <Label>43.4</Label>
+    <Text>ajouté, 1998, ch. 15, art. 24</Text>
+  </Section>
+  <Section>
+    <Label>43.5</Label>
+    <Text>ajouté, 1998, ch. 15, art. 24</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>1998, ch. 15, art. 25</Text>
+  </Section>
+  <Section>
+    <Label>45.1</Label>
+    <Text>ajouté, 1998, ch. 15, art. 25</Text>
+  </Section>
+  <Section>
+    <Label>45.2</Label>
+    <Text>ajouté, 1998, ch. 15, art. 25</Text>
+  </Section>
+  <Section>
+    <Label>45.3</Label>
+    <Text>ajouté, 1998, ch. 15, art. 25</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>1998, ch. 15, art. 25</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>abrogé, 1998, ch. 15, art. 26</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>abrogé, 1999, ch. 26, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 13</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 14</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 14</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>abrogé, 1996, ch. 10, art. 249</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>abrogé, 1996, ch. 10, art. 249</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 15</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 15</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 16</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 17</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>abrogé, 1998, ch. 15, art. 27</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>1998, ch. 15, art. 28; 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 18</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 19</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>1996, ch. 30, art. 8; 1998, ch. 15, art. 29; 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 20</Text>
+  </Section>
+  <Section>
+    <Label>85</Label>
+    <Text>1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 21</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 22</Text>
+  </Section>
+  <Section>
+    <Label>87.1</Label>
+    <Text>ajouté, 1998, ch. 15, art. 30; abrogé, 1999, ch. 3, art. 12, n<Sup>o</Sup> 22</Text>
+  </Section>
+  <Section>
+    <Label>88</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 22</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>abrogé, 1998, ch. 15, art. 31</Text>
+  </Section>
+  <Section>
+    <Label>92</Label>
+    <Text>abrogé, 1998, ch. 15, art. 31</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>abrogé, 1998, ch. 15, art. 31</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>abrogé, 1998, ch. 15, art. 31</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>abrogé, 1998, ch. 15, art. 31</Text>
+  </Section>
+  <Section>
+    <Label>96</Label>
+    <Text>abrogé, 1998, ch. 15, art. 31</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>abrogé, 1998, ch. 15, art. 31</Text>
+  </Section>
+  <Section>
+    <Label>98</Label>
+    <Text>abrogé, 1998, ch. 15, art. 31</Text>
+  </Section>
+  <Section>
+    <Label>99</Label>
+    <Text>abrogé, 1998, ch. 15, art. 31</Text>
+  </Section>
+  <Section>
+    <Label>101</Label>
+    <Text>1998, ch. 15, art. 32</Text>
+  </Section>
+  <Section>
+    <Label>105</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 23</Text>
+  </Section>
+  <Section>
+    <Label>108.1</Label>
+    <Text>ajouté, 1998, ch. 15, art. 33</Text>
+  </Section>
+  <Section>
+    <Label>111</Label>
+    <Text>abrogé, 1998, ch. 15, art. 34</Text>
+  </Section>
+  <Section>
+    <Label>112</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 24</Text>
+  </Section>
+  <Section>
+    <Label>113</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 24</Text>
+  </Section>
+  <Section>
+    <Label>114</Label>
+    <Text>abrogé, 1996, ch. 10, art. 250; ajouté, 1998, ch. 15, art. 35</Text>
+  </Section>
+  <Section>
+    <Label>115</Label>
+    <Text>abrogé, 1996, ch. 10, art. 250; ajouté, 1998, ch. 15, art. 35</Text>
+  </Section>
+  <Section>
+    <Label>118</Label>
+    <Text>1998, ch. 15, art. 36(A)</Text>
+  </Section>
+  <Section>
+    <Label>128</Label>
+    <Text>1998, ch. 15, art. 37</Text>
+  </Section>
+  <Section>
+    <Label>129</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 25</Text>
+  </Section>
+  <Section>
+    <Label>131</Label>
+    <Text>1998, ch. 15, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>134</Label>
+    <Text>abrogé, 1998, ch. 15, art. 39</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 26</Text>
+  </Section>
+  <Section>
+    <Label>141</Label>
+    <Text>1998, ch. 15, art. 40</Text>
+  </Section>
+  <Section>
+    <Label>142</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 27</Text>
+  </Section>
+  <Section>
+    <Label>143</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 27</Text>
+  </Section>
+  <Section>
+    <Label>144</Label>
+    <Text>1998, ch. 15, art. 41</Text>
+  </Section>
+  <Section>
+    <Label>145</Label>
+    <Text>abrogé, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 28</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>dispositions de coordination, 1995, ch. 39, art. 136 et 137</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>dispositions générales :</Text>
+  </General>
+  <Transitional>
+    <Text>dispositions transitoires, 1993, ch. 28, art. 70 à 76</Text>
+  </Transitional>
+  <Convention>
+    <Text>
+      <XRefExternal reference-type="act">Loi constitutionnelle de 1867</XRefExternal>, 1998, ch. 15, art. 43-46</Text>
+  </Convention>
+  <Convention>
+    <Text>
+      <XRefExternal reference-type="act">Loi constitutionnelle de 1999 (Nunavut) </XRefExternal>, <Emphasis style="italic">voir</Emphasis>, 1998, ch. 15, partie 2, art. 47</Text>
+  </Convention>
+  <ConditionalAmendment>
+    <Text>modification conditionnelle, 1995, ch. 39, art. 192</Text>
+  </ConditionalAmendment>
+  <ConditionalAmendment>
+    <Text>modifications conditionnelles, 1998, ch. 15, partie 3, art. 48 à 51; al. 50a), abrogé, 1999, ch. 3, art. 81</Text>
+  </ConditionalAmendment>
+  <ConditionalAmendment>
+    <Text>modification conditionnelle, 1999, ch. 3, art. 91</Text>
+  </ConditionalAmendment>
+  <General>
+    <Text>modifications corrélatives, 1993, ch. 28, art. 77</Text>
+  </General>
+  <CIF>
+    <Text>EEV, 1993, ch. 28, art. 1 et 4 en vigueur 20.06.96 <Emphasis style="italic">voir</Emphasis> TR/96‑51; art. 71 à 75 en vigueur 26.11.96 <Emphasis style="italic">voir</Emphasis> TR/96‑102; art. 78 (ann. III, art. 1, 121 et 126) en vigueur 27.11.97 <Emphasis style="italic">voir</Emphasis> TR/97‑136; par. 14(2) en vigueur 01.06.98 <Emphasis style="italic">voir</Emphasis> TR/98‑69; art. 9, 16 et 51 en vigueur 27.11.98 <Emphasis style="italic">voir</Emphasis> TR/98-112; art. 2, 3, 5 à 8, 10 à 13, par. 14(1), art. 15, 17 à 50, 52, 70, 76, 77 et 78 (ann. III, art. 2 à 120, 122 à 125 et 127 à 147) en vigueur 01.04.99 <Emphasis style="italic">voir</Emphasis> par. 79(1); partie III (art. 53 à 69) entre en vigueur à la date fixée par décret du gouverneur en conseil, mais au plus tard six mois après la date de sanction de la présente loi (sanctionnée le 10.06.93) <Emphasis style="italic">voir</Emphasis> par. 79(2); la partie III cesse d’avoir effet à la date fixée par décret du gouverneur en conseil, mais au plus tard trois mois après l’entrée en vigueur de l’art. 3 <Emphasis style="italic">voir</Emphasis> art. 69 (prise d’effet 01.07.99)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 39, art. 192 en vigueur 01.12.98 <Emphasis style="italic">voir</Emphasis> TR/98‑93 et TR/98‑95</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 10, art. 249 et 250 en vigueur 01.07.96 <Emphasis style="italic">voir</Emphasis> TR/96‑53</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 30, art. 8 en vigueur à la sanction 28.11.96</Text>
+  </CIF>
+  <?Pub Caret 0?>
+  <CIF>
+    <Text>EEV, 1996, ch. 31, art. 92 en vigueur 31.01.97 <Emphasis style="italic">voir</Emphasis> TR/97‑21</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1998, ch. 15</Text>
+    <List>
+      <Item>
+        <Text>— en vigueur à la sanction 11.06.98 à l’exception de la partie 2 (art. 43 à 47) qui entre en vigueur à l’entrée en vigueur de l’art. 3 de la <XRefExternal reference-type="act">Loi sur le Nunavut</XRefExternal> (01.04.99) <Emphasis style="italic">voir</Emphasis> par. 52(2)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 78 (ann. III, par. 128(2) de la <XRefExternal reference-type="act">Loi sur le Nunavut</XRefExternal>, édicté par le par. 37(1), est réputé être entré en vigueur 26.11.96 <Emphasis style="italic">voir</Emphasis> par. 37(2)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 2 de la <XRefExternal reference-type="act">Loi sur le Nunavut</XRefExternal>, dans sa version modifiée par l’art. 1, l’art. 50.1 de la <XRefExternal reference-type="act">Loi sur le Nunavut</XRefExternal>, édicté par l’art. 9, et les art. 76.01 à 76.07 et 76.09 de la <XRefExternal reference-type="act">Loi sur le Nunavut</XRefExternal>, édictés par l’art. 16, entrent en vigueur à la sanction de la présente loi 11.06.98 <Emphasis style="italic">voir</Emphasis> par. 52(1)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 3, art. 1 à 6, par. 7(2), art. 8 à 12 et 91 en vigueur à la sanction 11.03.99; par. 7(1) est réputé être entré en vigueur 12.06.98 <Emphasis style="italic">voir</Emphasis> par. 92(1); art. 13 à 90 en vigueur 01.04.99 <Emphasis style="italic">voir</Emphasis> par. 92(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 26, art. 12 est réputé entré en vigueur 31.03.99 <Emphasis style="italic">voir</Emphasis> par. 13(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 7, art. 222 en vigueur 01.04.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 22, art. 224 en vigueur 01.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 19 (sanction : 29.06.2012), art. 215 en vigueur 08.03.2013 <Emphasis style="italic">voir</Emphasis> TR/2013-25</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 2 (sanction : 25.03.2014), art. 43 en vigueur 01.04.2014 <Emphasis style="italic">voir</Emphasis> TR/2014-34</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 3, al. 172i) (<Emphasis style="italic">terminologie</Emphasis>) en vigueur à la sanction 26.02.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 26, al. 62f) en vigueur à la sanction 12.12.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 33 (sanction : 14.12.2017), art. 256 en vigueur 01.10.2018 <Emphasis style="italic">voir</Emphasis> TR/2018-83</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 29 (sanction : 21.06.2019), art. 374 en vigueur 15.07.2019</Text>
+  </CIF>
+</Statute>
+</TOPS>

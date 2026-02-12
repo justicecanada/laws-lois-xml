@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2014, ch. 20, art. 483">
+  <Title>Prêts aux apprentis, Loi sur les</Title>
+  <ChapterNumber>2014, ch. 20, art. 483</ChapterNumber>
+  <OtherLangTitle>(Apprentice Loans Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de l’Emploi et du Développement social (art. 2)</Text>
+  </Minister>
+  <Section>
+    <Label>8</Label>
+    <Text>2022, ch. 19, art. 164</Text>
+  </Section>
+  <Section>
+    <Label>8.1</Label>
+    <Text>ajouté, 2020, ch. 5, art. 56</Text>
+  </Section>
+  <Section>
+    <Label>8.2</Label>
+    <Text>ajouté, 2021, ch. 7, art. 8; 2021, ch. 23, art. 266</Text>
+  </Section>
+  <Section>
+    <Label>8.3</Label>
+    <Text>ajouté, 2022, ch. 19, art. 165</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2022, ch. 19, art. 166</Text>
+  </Section>
+  <General>
+    <Text>disposition générale, 2022, ch. 19, art. 163 (intertitre préc. art. 8)</Text>
+  </General>
+  <Transitional>
+    <Text>Disposition transitoire, 2022, ch. 19, art. 167</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, 2014, ch. 20, art. 483 (sanction : 19.06.2014), art. 1 à 22 en vigueur 02.01.2015 <Emphasis style="italic">voir</Emphasis> TR/2014-100</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV 2020, ch. 5, art. 56 en vigueur à la sanction 25.03.2020</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2021, ch. 7, art. 8 en vigueur à la sanction 06.05.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2021, ch. 23, art. 266 en vigueur à la sanction 29.06.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2022, ch. 19 en vigueur à la sanction 15.12.2022, <Emphasis style="italic">sauf</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>— art. 163 et 164 en vigueur 01.04.2023, <Emphasis style="italic">voir</Emphasis> par. 168(1)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 165 réputé en vigueur 01.04.2021, <Emphasis style="italic">voir</Emphasis> par. 168(3)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 166 en vigueur 09.12.2023 <Emphasis style="italic">voir</Emphasis> TR/2023‑78</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

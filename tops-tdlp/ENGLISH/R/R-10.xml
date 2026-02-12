@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="R-10">
+  <Title>Royal Canadian Mounted Police Act</Title>
+  <ChapterNumber>R.S., 1985, c. R-10</ChapterNumber>
+  <OtherLangTitle>(Gendarmerie royale du Canada, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Public Safety and Emergency Preparedness (2005, c. 10, s. 34)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 1; 2005, c. 10, par. 34(1)(s); 2013, c. 18, ss. 2 and 79; 2024, c. 25, ss. 93 and 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 2; 2013, c. 18, ss. 3 and 77(2); 2024, c. 25, ss. 94 and 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>R.S., c. 8 (2nd Supp.), ss. 3 and 24(E); 2013, c. 18, s. 5; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>6.1</Label>
+    <Text>added, 2013, c. 18, s. 7; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 4; R.S., c. 1 (4th Supp.), s. 45 (Sch. III, items 11(2) &amp; (3))(F); 2013, c. 18, s. 8; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 4; R.S., c. 1 (4th Supp.), s. 45 (Sch. III, item 11(4))(F); 2013, c. 18, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 4; repealed, 2013, c. 18, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>9.1</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>9.2</Label>
+    <Text>added, 2013, c. 18, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>9.3</Label>
+    <Text>added, 2013, c. 18, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>9.4</Label>
+    <Text>added, 2013, c. 18, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>9.5</Label>
+    <Text>added, 2013, c. 18, s. 10; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>9.6</Label>
+    <Text>added, 2013, c. 18, s. 10; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 5; 2013, c. 18, s. 11; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2013, c. 18, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>11.1</Label>
+    <Text>added, 2013, c. 18, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>11.2</Label>
+    <Text>added, 2013, c. 18, s. 11; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 6; 2013, c. 18, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>12.1</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 7; repealed, 2013, c. 18, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>R.S., c. 27 (1st Supp.), s. 203; R.S., c. 8 (2nd Supp.), s. 8</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>repealed, R.S., c. 8 (2nd Supp.), s. 9</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>repealed, R.S., c. 8 (2nd Supp.), s. 10</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>repealed, R.S., c. 8 (2nd Supp.), s. 11</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>20.1</Label>
+    <Text>added, 2013, c. 18, ss. 12 and 13</Text>
+  </Section>
+  <Section>
+    <Label>20.2</Label>
+    <Text>added, 2013, c. 18, s. 13; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 12; 2013, c. 18, s. 14; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 13; 2013, c. 18, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 14; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 24(E); 1993, c. 28. s. 78 (Sch. III, item 130); 2002, c. 7, s. 235(E)</Text>
+  </Section>
+  <Section>
+    <Label>24.1</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 15; 2013, c. 18, ss. 16, 77(5) and 80; 2024, c. 25, ss. 96 and 112(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part II:</Label>
+  </Heading>
+  <Section>
+    <Label>25</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2003, c. 22, s. 216(E); 2013, c. 18, par. 41(a)(E); 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, par. 41(b)(E)</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, par. 41(c)(E)</Text>
+  </Section>
+  <Section>
+    <Label>28.1</Label>
+    <Text>added, 2013, c. 18, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 19 and par. 41(d)(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part III</Label>
+    <Text>(newly designated by R.S., c. 8 (2nd Supp.), s. 16)</Text>
+  </Heading>
+  <Section>
+    <Label>30.1</Label>
+    <Text>added, 2013, c. 18, s. 20; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>30.2</Label>
+    <Text>added, 2013, c. 18, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 1994, c. 26, s. 63(F); 2013, c. 18, s. 21; 2017, c. 9, s. 40; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 1990, c. 8, s. 65; 2002, c. 8, par. 182(1)(<Emphasis style="italic">z</Emphasis>.9); 2013, c. 18, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, par. 41(e)(E); 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, par. 41(f)(E); 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 1994, c. 26, s. 64(F); 2013, c. 18, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>36.1</Label>
+    <Text>added, 2013, c. 18, s. 25; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part IV</Label>
+    <Text>(newly designated by R.S., c. 8 (2nd Supp.), s. 16); 2013, c. 18, s. 26</Text>
+  </Heading>
+  <Section>
+    <Label>36.2</Label>
+    <Text>added, 2013, c. 18, s. 26; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 27; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>39.1</Label>
+    <Text>added, 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>40.1</Label>
+    <Text>added, 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>40.2</Label>
+    <Text>added, 2013, c. 18, s. 29; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>40.3</Label>
+    <Text>added, 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>40.4</Label>
+    <Text>added, 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>40.5</Label>
+    <Text>added, 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>40.6</Label>
+    <Text>added, 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>40.7</Label>
+    <Text>added, 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>40.8</Label>
+    <Text>added, 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 1990, c. 8, s. 66; 2002, c. 8, par. 182(1)(z.9); 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 29; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.1</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>45.11</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 29; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.12</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; repealed, 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>45.13</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; repealed, 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>45.14</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; repealed, 2013, c. 18, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>45.15</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>45.16</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 1990, c. 8, s. 67; 2002, c. 8, par. 182(1)(z.9); 2013, c. 18, s. 31; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.17</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 31; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.171</Label>
+    <Text>added, 2013, c. 18, ss. 32 and 77(6); 2024, c. 25, s. 97</Text>
+  </Section>
+  <Section>
+    <Label>45.172</Label>
+    <Text>added, 2013, c. 18, ss. 32 and 77(6); 2024, c. 25, ss. 97 and 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.173</Label>
+    <Text>added, 2013, c. 18, ss. 32 and 77(6); 2024, c. 25, s. 97</Text>
+  </Section>
+  <Heading>
+    <Label>Part V:</Label>
+    <Text>(newly designated by R.S., c. 8 (2nd Supp.), s. 16); repealed, 2013, c. 18, s. 33; added, 2019, c. 29, s. 222</Text>
+  </Heading>
+  <Section>
+    <Label>45.18</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; repealed, 2013, c. 18, s. 33; added, 2019, c. 29, s. 222; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.19</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 1993, c. 34, s. 111(F); repealed, 2013, c. 18, s. 33; added, 2019, c. 29, s. 222</Text>
+  </Section>
+  <Section>
+    <Label>45.2</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; repealed, 2013, c. 18, s. 33; added, 2019, c. 29, s. 222</Text>
+  </Section>
+  <Section>
+    <Label>45.21</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; repealed, 2013, c. 18, s. 33; added, 2019, c. 29, s. 222</Text>
+  </Section>
+  <Section>
+    <Label>45.22</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; repealed, 2013, c. 18, s. 33; added, 2019, c. 29, s. 222; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.23</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; repealed, 2013, c. 18, s. 33; added, 2019, c. 29, s. 222</Text>
+  </Section>
+  <Section>
+    <Label>45.24</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; repealed, 2013, c. 18, s. 33; added, 2019, c. 29, s. 222; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.25</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; repealed, 2013, c. 18, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>45.26</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 1990, c. 8, s. 68; 2002, c. 8, par. 182(1)(z.9); repealed, 2013, c. 18, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>45.27</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; repealed, 2013, c. 18, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>45.28</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; repealed, 2013, c. 18, s. 33</Text>
+  </Section>
+  <Heading>
+    <Label>Part VI</Label>
+    <Text>(newly designated by R.S., c. 8 (2nd Supp.), s. 16); 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Heading>
+  <Section>
+    <Label>45.29</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2003, c. 22, s. 217(E); 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.3</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.31</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.32</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.33</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.34</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.35</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 1996, c. 15, s. 22; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.351</Label>
+    <Text>added, 2019, c. 13, s. 41; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.36</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.37</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.38</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.39</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.4</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35, c. 29, s. 23; 2024, c. 16, s. 57; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.41</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.42</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.43</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.44</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.45</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 1996, c. 15, s. 23; 2013, c. 18, ss. 34, 35 and 77(24); 2024, c. 16, s. 57; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.46</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.47</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 16; 2013, c. 18, s. 35; 2017, c. 20, s. 173.1; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.48</Label>
+    <Text>added, 2012, c. 19, s. 369; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.49</Label>
+    <Text>added, 2012, c. 19, s. 369; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.5</Label>
+    <Text>added, 2012, c. 19, s. 369; 2013, c. 18, s. 35; 2024, c. 16, s. 57; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.51</Label>
+    <Text>added, 2012, c. 19, s. 369; 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.52</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Heading>
+    <Label>Part VII</Label>
+    <Text>(newly designated by R.S., c. 8 (2nd Supp.), s. 16); 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Heading>
+  <Section>
+    <Label>45.53</Label>
+    <Text>added, 2013, c. 18, s. 35; 2019, c. 13, s. 42; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.54</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.55</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.56</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.57</Label>
+    <Text>added, 2013, c. 18, ss. 35 and 77(13); repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.58</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.59</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.6</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.61</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.62</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.63</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.64</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.65</Label>
+    <Text>added, 2013, c. 18, ss. 35 and 77(16); repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.66</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.67</Label>
+    <Text>added, 2013, c. 18, s. 35; 2019, c. 13, s. 43; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.68</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.69</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.7</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.71</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.72</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.73</Label>
+    <Text>added, 2013, c. 18, ss. 35 and 77(17) and (18); repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.74</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.75</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.76</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.77</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>45.78</Label>
+    <Text>added, 2013, c. 18, s. 35; repealed, 2024, c. 25, s. 98</Text>
+  </Section>
+  <Heading>
+    <Label>PART VII.1</Label>
+    <Text>added, 2013, c. 18, s. 35</Text>
+  </Heading>
+  <Section>
+    <Label>45.79</Label>
+    <Text>added, 2013, c. 18, ss. 35 and 81; 2024, c. 25, ss. 99 and 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.8</Label>
+    <Text>added, 2013, c. 18, s. 35; 2024, c. 25, s. 100</Text>
+  </Section>
+  <Section>
+    <Label>45.81</Label>
+    <Text>added, 2013, c. 18, s. 35; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.82</Label>
+    <Text>added, 2013, c. 18, s. 35; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.83</Label>
+    <Text>added, 2013, c. 18, s. 35; 2024, c. 25, ss. 101 and 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.84</Label>
+    <Text>added, 2013, c. 18, s. 35; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.85</Label>
+    <Text>added, 2013, c. 18, s. 35; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>45.86</Label>
+    <Text>added, 2013, c. 18, s. 35; 2024, c. 25, s. 102</Text>
+  </Section>
+  <Section>
+    <Label>45.87</Label>
+    <Text>added, 2013, c. 18, s. 35</Text>
+  </Section>
+  <Heading>
+    <Label>Part VII.2</Label>
+    <Text>added, 2013, c. 18, s. 78(2)</Text>
+  </Heading>
+  <Section>
+    <Label>45.88</Label>
+    <Text>added, 2013, c. 18, s. 78(2); 2024, c. 25, s. 104</Text>
+  </Section>
+  <Section>
+    <Label>45.89</Label>
+    <Text>added, 2013, c. 18, s. 78(2); 2024, c. 25, s. 105</Text>
+  </Section>
+  <Section>
+    <Label>45.9</Label>
+    <Text>added, 2013, c. 18, s. 78(2); repealed, 2024, c. 25, s. 105</Text>
+  </Section>
+  <Section>
+    <Label>45.91</Label>
+    <Text>added, 2013, c. 18, s. 78(2); repealed, 2024, c. 25, s. 105</Text>
+  </Section>
+  <Section>
+    <Label>45.92</Label>
+    <Text>added, 2013, c. 18, s. 78(2); repealed, 2024, c. 25, s. 105</Text>
+  </Section>
+  <Section>
+    <Label>45.93</Label>
+    <Text>added, 2013, c. 18, s. 78(2); repealed, 2024, c. 25, s. 105</Text>
+  </Section>
+  <Section>
+    <Label>45.94</Label>
+    <Text>added, 2013, c. 18, s. 78(2); repealed, 2024, c. 25, s. 105</Text>
+  </Section>
+  <Section>
+    <Label>45.95</Label>
+    <Text>added, 2013, c. 18, s. 78(2); repealed, 2024, c. 25, s. 105</Text>
+  </Section>
+  <Section>
+    <Label>45.96</Label>
+    <Text>added, 2013, c. 18, s. 78(2); repealed, 2024, c. 25, s. 105</Text>
+  </Section>
+  <Section>
+    <Label>45.97</Label>
+    <Text>added, 2013, c. 18, s. 78(2); repealed, 2024, c. 25, s. 105</Text>
+  </Section>
+  <Section>
+    <Label>45.98</Label>
+    <Text>added, 2013, c. 18, s. 78(2)</Text>
+  </Section>
+  <Section>
+    <Label>45.99</Label>
+    <Text>added, 2013, c. 18, s. 78(2)</Text>
+  </Section>
+  <Section>
+    <Label>45.991</Label>
+    <Text>added, 2013, c. 18, s. 78(2); 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part VIII</Label>
+    <Text>(formerly Part III), re-designated by R.S., c. 8 (2nd Supp.), s. 17</Text>
+  </Heading>
+  <Section>
+    <Label>46</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 18; 2013, c. 18, ss. 36 and 77(21)</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 18</Text>
+  </Section>
+  <Section>
+    <Label>47.01</Label>
+    <Text>added, 2013, c. 18, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>47.1</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 18; 2013, c. 18, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>47.2</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 18; repealed, 2013, c. 18, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>47.3</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 18</Text>
+  </Section>
+  <Section>
+    <Label>47.4</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 18; 2013, c. 18, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>47.5</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 18; 2013, c. 18, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>R.S., c. 8 (2nd Supp.), ss. 19 and 24(E)</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 20; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>R.S., c. 8 (2nd Supp.), s. 21; 2013, c. 18, ss. 40(1) and (2), 77(22), 78(5) and (6), par. 83(a) and 84(a); 2024, c. 25, s. 106</Text>
+  </Section>
+  <Section>
+    <Label>50.1</Label>
+    <Text>added, 2012, c. 19, s. 370; 2013, c. 18, ss. 40(1) and (2), 77(22), par. 83(b) and 84(b); repealed, 2024, c. 25, s. 107</Text>
+  </Section>
+  <Section>
+    <Label>50.2</Label>
+    <Text>added, 2013, c. 18, s. 40(1), repealed, c. 18, ss. 40(2), added, c. 18, s. 77(22); repealed, 2024, c. 25, s. 107</Text>
+  </Section>
+  <Section>
+    <Label>50.3</Label>
+    <Text>added, 2013, c. 18, s. 40, repealed, c. 18, s. 40(2), added, c. 18, s. 77(22); 2024, c. 25, s. 107</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2013, c. 18, ss. 40(1) and (2) and 77(22); 2024, c. 25, s. 107</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2013, c. 18, ss. 40(1) and (2) and 77(22)</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>repealed, R.S., c. 8 (2nd Supp.), s. 22</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch.</Label>
+    <Text>added, R.S., c. 8 (2nd Supp.), s. 23; SOR/91‑510</Text>
+  </Schedule>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2013, c. 18, ss. 77 to 84</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2013, c. 29, s. 23</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, R.S., c. 8 (2nd Supp.), ss. 24 to 25</Text>
+  </General>
+  <General>
+    <Text>General, 2013, c. 18, ss. 4 and 6</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 25, s. 103 (heading Part VII.2)</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2024, c. 25, s. 112(E)</Text>
+  </Terminology>
+  <Transitional>
+    <Text>Transitionals, 2017, c. 9, ss. 61 to 63 and 65</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2019, c. 29, s. 223</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional Provisions, 2024, c. 25, s. 113</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 27 (1st Supp.), s. 203 proclaimed in force 04.12.85 <Emphasis style="italic">see</Emphasis> SI/85‑211</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 8 (2nd Supp.), s. 16 (enactment of Parts II and VI only) proclaimed in force 18.12.86 <Emphasis style="italic">see</Emphasis> SI/87‑23; Act except Part VII, as enacted by s. 16, proclaimed in force 30.06.88 <Emphasis style="italic">see</Emphasis> SI/88‑103; Part VII as enacted by s. 16, proclaimed in force 30.09.88 <Emphasis style="italic">see</Emphasis> SI/88‑214</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 1 (4th Supp.) in force 04.02.88</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1990, c. 8 in force 01.02.92 <Emphasis style="italic">see</Emphasis> SI/92‑6</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 28, s. 78 (Sch. III, item 130) in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 34, s. 111(F) in force on assent 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 26, ss. 63(F) and 64(F) in force on assent 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 15, ss. 22 and 23 in force on assent 20.06.96</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, s. 235 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, s. 182 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, ss. 216 and 217 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 10, s. 34 in force 04.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-29</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 19 (assent: 29.06.2012), ss. 369 and 370 in force 20.08.2012 <Emphasis style="italic">see</Emphasis> SI/2012-68</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 18, ss. 12 and 77 to 84 in force on assent 19.06.2013</Text>
+    <List>
+      <Item>
+        <Text>— ss. 2 to 7, 8(1) and (4), 9 to 11, 13, 14, 15(2), 16 to 41, in force 28.11.2014 <Emphasis style="italic">see</Emphasis> SI/2014-104 [<Emphasis style="italic">Note</Emphasis>: s. 34 deemed in force before s. 35 <Emphasis style="italic">see</Emphasis> s. 77(24)]</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 8(2) and (3) and 15(1) in force on the date on which persons cease to be members, as defined in s. 2(1) of the <XRefExternal reference-type="act">Royal Canadian Mounted Police Act</XRefExternal>, by reason of s. 86(2) which is the date that is published in the <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal> by the <XRefExternal>Treasury Board</XRefExternal> under s. 86(1) of the <XRefExternal reference-type="act">Enhancing Royal Canadian Mounted Police Accountability Act</XRefExternal> (2013, c. 18) <Emphasis style="italic">see</Emphasis> s. 401 and <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal>, Part I, Volume 151, No. 6, p. 672 on February 11, 2017 as modified to 21.05.2020 by <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal>, Part I, Volume 152, No. 14, p. 1134 on April 7, 2018, 21.05.2020 date REVOKED by <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal>, Part I, Vol. 154, No. 18 p. 869 on May 2, 2020</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 29, s. 23 in force on assent 26.06.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 9, ss. 40 in force on assent 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 20 (assent: 22.06.2017), s. 173.1 in force 21.09.2017 <Emphasis style="italic">see</Emphasis> SI/2017-53</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 13 (assent 21.06.2019) ss. 41 to 43 in force 12.07.2019 <Emphasis style="italic">see</Emphasis> SI/2019-67</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019</Text>
+    <List>
+      <Item>
+        <Text>— Division 10 of Part 4 (ss. 222 and 223) in force 10.07.2019 <Emphasis style="italic">see</Emphasis> s. 224 and SI/2019-64</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 16, s. 57 in force on the 60th day after the day on which the <XRefExternal reference-type="act">Countering Foreign Interference Act</XRefExternal> receives royal assent <Emphasis style="italic">see</Emphasis> s. 75 (19.08.2024)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 25, ss. 93 to 107, 112 and 113 come into force on a day or days to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 146 — Not in force</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="N-15">
+  <Title>National Research Council Act</Title>
+  <ChapterNumber>R.S., 1985, c. N-15</ChapterNumber>
+  <OtherLangTitle>(Conseil national de recherches, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Industry (SI/93-235)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1999, c. 31, s. 168; 2013, c. 40, s. 271</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2001, c. 4, s. 108; 2010, c. 12, s. 1757; 2013, c. 40, s. 272; 2018, c. 27, s. 278; 2021, c. 23, s. 260; 2023, c. 26, s. 481</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2023, c. 26, s. 482</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2001, c. 4, s. 109(F); 2004, c. 25, s. 165; 2018, c. 27, s. 279</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>added, 2021, c. 23, s. 261</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2013, c. 40, s. 273</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2013, c. 40, s. 274</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2013, c. 40, s. 275</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>repealed, 1999, c. 31, s. 169; added, 2023, c. 26, s. 483; 2023, c. 26 484</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>repealed, 1999, c. 31, s. 169; added, 2023, c. 26, s. 483</Text>
+  </Section>
+  <Section>
+    <Label>20 and 21</Label>
+    <Text>added, 2023, c. 26, s. 485</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>added, 2023, c. 26, s. 485</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 1999, c. 31, ss. 168 and 169 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 4, ss. 108 and 109 in force 01.06.2001 <Emphasis style="italic">see</Emphasis> SI/2001‑71</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 25, s. 165 in force on assent 15.12.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 12 (assent: 12.07.2010), s. 1757 in force 16.03.2012 <Emphasis style="italic">see</Emphasis> SI/2012-14</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40, ss. 271 to 275 in force on assent 12.12.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 27, ss. 278 and 279 in force on assent 13.12.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2021, c. 23, s. 260 and 261 in force on assent 29.06.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2023, c. 26 in force on assent 22.06.2023, <Emphasis style="italic">except</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>— ss. 481, 482, 484 and 485 in force 22.06.2024 <Emphasis style="italic">see</Emphasis> s. 486</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

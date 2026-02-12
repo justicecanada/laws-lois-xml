@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="R.S., 1985, c. 3 (2nd Supp.)">
+  <Title>Divorce Act</Title>
+  <ChapterNumber>R.S., 1985, c. 3 (2nd Supp.)</ChapterNumber>
+  <OtherLangTitle>(Divorce, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Justice</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>R.S., c. 27 (2nd Supp.), s. 10 (Sch., items 7(1) and (2)); 1990, c. 18, s. 1; 1992, c. 51, s. 46; 1993, c. 28, s. 78 (Sch. III, item 41), this amendment was repealed before it came into force by 1999, c. 3, s. 12 (Sch., item 11); 1997, c. 1, s. 1; 1998, c. 30, par. 13(f) and 15(f); 1999, c. 3, s. 61; 2002, c. 7, s. 158(E); 2005, c. 33, s. 8; 2015, c. 3, s. 76; 2019, c. 16, ss. 1 and 35(a)</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2002, c. 8, par. 183(1)(i); 2019, c. 16, ss. 2 and 35(b)</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1993, c. 8, s. 1; 2002, c. 8, par. 183(1)(i); 2019, c. 16, ss. 3 and 35(c)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2002, c. 8, par. 183(1)(i); 2019, c. 16, ss. 4 and 35(d)</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2019, c. 16, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>6.1</Label>
+    <Text>added, 2019, c. 16, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>6.2</Label>
+    <Text>added, 2019, c. 16, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>6.3</Label>
+    <Text>added, 2019, c. 16, s. 6; 2019, c. 16, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>s.7.1</Label>
+    <Text>added, 2019, c. 16, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>s.7.2</Label>
+    <Text>added, 2019, c. 16, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>s.7.3</Label>
+    <Text>added, 2019, c. 16, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>s.7.4</Label>
+    <Text>added, 2019, c. 16, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>s.7.5</Label>
+    <Text>added, 2019, c. 16, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>s.7.6</Label>
+    <Text>added, 2019, c. 16, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>s.7.7</Label>
+    <Text>added, 2019, c. 16, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>s.7.8</Label>
+    <Text>added, 2019, c. 16, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>repealed, 2019, c. 16, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1997, c. 1, s. 1.1; 2019, c. 16, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>1993, c. 28, s. 78 (Sch. III, item 42), this amendment was repealed before it came into force by 1998, c. 15, s. 22; 1997, c. 1, s. 2; repealed, 2019, c. 16, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>15.1</Label>
+    <Text>added, 1997, c. 1, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>15.2</Label>
+    <Text>added, 1997, c. 1, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>15.3</Label>
+    <Text>added, 1997, c. 1, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.1</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.2</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.3</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.4</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.5</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.6</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.7</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.8</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.9</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.91</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.92</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.93</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.94</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.95</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16.96</Label>
+    <Text>added, 2019, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>1997, c. 1, s. 5; 2007, c. 14, s. 1; 2019, c. 16, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>17.1</Label>
+    <Text>added, 1993, c. 8, s. 2; repealed, 2019, c. 16, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>1993, c. 8, s. 3, c. 28, s. 78 (Sch. III, item 43); 2002, c. 7, s. 159; 2014, c. 2, s. 33; 2019, c. 16, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>18.1</Label>
+    <Text>added, 2019, c. 16, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>18.2</Label>
+    <Text>added, 2019, c. 16, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>18.3</Label>
+    <Text>added, 2019, c. 16, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>1993, c. 8, s. 4; 1997, c. 1, s. 7; 2019, c. 16, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>19.1</Label>
+    <Text>added, 2019, c. 16, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>1997, c. 1, s. 8; 2019, c. 16, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>20.1</Label>
+    <Text>added, 1997, c. 1, s. 9; 1993, c. 28, s. 78 (Sch. III, item 43.1); 1998, c. 15, s. 23; 2002, c. 7, s. 160; 2014, c. 2, s. 34; 2019, c. 16, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>21.1</Label>
+    <Text>added, 1990, c. 18, s. 2; 2019, c. 16, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2019, c. 16, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>22.1</Label>
+    <Text>2019, c. 16, s. 19; 2019, c. 16, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2002, c. 8, par. 183(1)(i); 2019, c. 16, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>23.1</Label>
+    <Text>added, 2019, c. 16, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>23.2</Label>
+    <Text>added, 2019, c. 16, s. 22.1</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>1993, c. 8, s. 5; 2019, c. 16, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>25.01</Label>
+    <Text>added, 2019, c. 16, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>25.1</Label>
+    <Text>added, 1997, c. 1, s. 10; 1999, c. 31, s. 74(F); 2019, c. 16, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>25.2</Label>
+    <Text>added, 2019, c. 16, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2019, c. 16, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>26.1</Label>
+    <Text>added, 1997, c. 1, s. 11; 2019, c. 16, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>1997, c. 1, s. 12; repealed, 2019, c. 16, s. 29; added, 2019, c. 16, ss. 30 and 40</Text>
+  </Section>
+  <Section>
+    <Label>28.1</Label>
+    <Text>added, 2019, c. 16, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>28.2</Label>
+    <Text>added, 2019, c. 16, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>28.3</Label>
+    <Text>added, 2019, c. 16, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>28.4</Label>
+    <Text>added, 2019, c. 16, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>28.5</Label>
+    <Text>added, 2019, c. 16, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>repealed, 1997, c. 1, s. 12; added, 2019, c. 16, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>29.1</Label>
+    <Text>added, 2019, c. 16, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>29.2</Label>
+    <Text>added, 2019, c. 16, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>29.3</Label>
+    <Text>added, 2019, c. 16, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>29.4</Label>
+    <Text>added, 2019, c. 16, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>29.5</Label>
+    <Text>added, 2019, c. 16, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>repealed, 1997, c. 1, s. 12; added, 2019, c. 16, ss. 31 and 41</Text>
+  </Section>
+  <Section>
+    <Label>30.1</Label>
+    <Text>added, 2019, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>30.2</Label>
+    <Text>added, 2019, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>30.3</Label>
+    <Text>added, 2019, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>30.4</Label>
+    <Text>added, 2019, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>30.5</Label>
+    <Text>added, 2019, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>30.6</Label>
+    <Text>added, 2019, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>30.7</Label>
+    <Text>added, 2019, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>30.8</Label>
+    <Text>added, 2019, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>30.9</Label>
+    <Text>added, 2019, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>repealed, 1997, c. 1, s. 12; added, 2019, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>31.1</Label>
+    <Text>added, 2019, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>31.2</Label>
+    <Text>added, 2019, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>31.3</Label>
+    <Text>added, 2019, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>repealed, 2019, c. 16, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>1997, c. 1, s. 14; 2019, c. 16, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>35.1</Label>
+    <Text>added, 1997, c. 1, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>35.2</Label>
+    <Text>2019, c. 16, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>35.3</Label>
+    <Text>2019, c. 16, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>35.4</Label>
+    <Text>2019, c. 16, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>35.5</Label>
+    <Text>2019, c. 16, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>35.6</Label>
+    <Text>2019, c. 16, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>35.7</Label>
+    <Text>2019, c. 16, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>35.8</Label>
+    <Text>2019, c. 16, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>35.9</Label>
+    <Text>2019, c. 16, s. 34</Text>
+  </Section>
+  <Schedule>
+    <Label>Schedule 1</Label>
+    <Text>(renumbered), 2019, c. 16, ss. 36 and 37</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 2</Label>
+    <Text>added, 2019, c. 16, ss. 38 and 39</Text>
+  </Schedule>
+  <General>
+    <Text>General, 1990, c. 18, s. 3</Text>
+  </General>
+  <General>
+    <Text>General, 1997, c. 1, ss. 3, 4, 6 and 13</Text>
+  </General>
+  <General>
+    <Text>General, 2019, c. 16, ss. 11 (heading before s. 15 repealed) and 12 (heading before section 16)</Text>
+  </General>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2019, c. 16, s. 125</Text>
+  </CoordinatingAmendment>
+  <Transitional>
+    <Text>Transitional, R.S., c. 3 (2nd Supp.), ss. 32 to 35</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, R.S., c. 27 (2nd Supp.), s. 11</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 1992, c. 51, s. 67</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 1993, c. 8, s. 19</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 3 (2nd Supp.) proclaimed in force 01.06.86 <Emphasis style="italic">see</Emphasis> SI/86‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 27 (2nd Supp.), s. 10 (Sch., items 7(1) and (2)) proclaimed in force 01.10.87 <Emphasis style="italic">see</Emphasis> SI/87‑221; s. 11 proclaimed in force 02.09.86 <Emphasis style="italic">see</Emphasis> SI/86‑175</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1990, c. 18 in force 12.08.90 <Emphasis style="italic">see</Emphasis> SI/90‑82</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 51, ss. 46 and 67 in force 30.01.93 <Emphasis style="italic">see</Emphasis> SI/93‑11</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 8, ss. 1 to 5 and 19 in force on assent 25.03.93</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 28, s. 78 (Sch. III, item 43) in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1997, c. 1, ss. 1 to 15 in force 01.05.97 <Emphasis style="italic">see</Emphasis> SI/97‑43</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 15, ss. 22 and 23 in force on assent 11.06.98</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 30, par. 13(f) and 15(f) in force 19.04.99 <Emphasis style="italic">see</Emphasis> SI/99-37</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 3, s. 12 (Sch., item 11) in force on assent 11.03.99; s. 61 in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 31, s. 74 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, ss. 158 to 160 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, s. 183 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 33, s. 8 in force on assent 20.07.2005</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 14, s. 1 in force on assent 31.05.2007</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 2 (assent: 25.03.2014), ss. 33 and 34 in force 01.04.2014 <Emphasis style="italic">see</Emphasis> SI/2014-34</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 3, s. 76 in force on assent 26.02.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 16 (assent: 21.06.2019)</Text>
+    <List>
+      <Item>
+        <Text>— ss. 1(1) to (4), (6) and (7), 2 to 6, 8 to 15, 16(2), 17 to 19, 21, 22, 23 to 25, 28(3) and 32 to 35 in force 01.03.2021 <Emphasis style="italic">see</Emphasis> SI/2019-82 as amended by SI/2020-42</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 16(1) and (3), 28(4) and 30 and 36 in force 01.02.2024 <Emphasis style="italic">see</Emphasis> SI/2023-65</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1(5) and ss. 7, 20, 31 and 37 to 41 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day fixed in s. 126(1), which is 01.07.2020 <Emphasis style="italic">see</Emphasis> s. 126(3) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— s. 22.1 in force 01.03.2021 in Manitoba, Yukon and Nunavut <Emphasis style="italic">see</Emphasis> s. 126(3.1) and SI/2021-7</Text>
+      </Item>
+      <Item>
+        <Text>— s. 22.1 in force 01.02.2022 in Ontario and Saskatchewan <Emphasis style="italic">see</Emphasis> s. 126(3.1) and SI/2022-1</Text>
+      </Item>
+      <Item>
+        <Text>— s. 22.1 in force 01.12.2024 in British Columbia <Emphasis style="italic">see</Emphasis> s. 126(3.1) and SI/2024-46</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2017, ch. 20, art. 451">
+  <Title>Frais de service, Loi sur les</Title>
+  <ChapterNumber>2017, ch. 20, art. 451</ChapterNumber>
+  <OtherLangTitle>(Service Fees Act)</OtherLangTitle>
+  <Section>
+    <Label>2</Label>
+    <Text>2017, ch. 20, art. 451; 2023, ch. 26, art. 270</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2017, ch. 20, art. 451; 2023, ch. 26, art. 271</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2017, ch. 20, art. 451; 2023, ch. 26, art. 272</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2017, ch. 20, art. 451; 2023, ch. 26, art. 273</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>2017, ch. 20, art. 451; 2023, ch. 26, art. 274</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2017, ch. 20, art. 451; abrogé, 2023, ch. 26, art. 275</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2017, ch. 20, art. 451; 2023, ch. 26, art. 276</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2017, ch. 20, art. 451; 2023, ch. 26, art. 277</Text>
+  </Section>
+  <Transitional>
+    <Text>disposition transitoire, 2017, ch. 20, art. 452</Text>
+  </Transitional>
+  <Terminology>
+    <Text>terminologie, 2017, ch. 20, art. 454 et 456</Text>
+  </Terminology>
+  <CIF>
+    <Text>EEV, 2017, ch. 20, art. 451; art. 1 à 15 et 19, al. 20(1)a) à f) et h) et par. 20(2) et art. 21, édictés par art. 451, art. 452 et 454 en vigueur à la sanction 22.06.2017</Text>
+    <List>
+      <Item>
+        <Text>— art. 16 à 18, al. 20(1)g), édictés par art. 451, en vigueur 01.04.2018 <Emphasis style="italic">voir</Emphasis> par. 457(1)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 22, édicté par art. 451, en vigueur le 01.05.2019 <Emphasis style="italic">voir</Emphasis> TR/2019-20</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2023, ch. 26 en vigueur à la sanction 22.06.2023, <Emphasis style="italic">sauf</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>— par. 271(2), 272(2), 273(3) et 276(2) en vigueur 01.04.2024 <Emphasis style="italic">voir</Emphasis> art. 279</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

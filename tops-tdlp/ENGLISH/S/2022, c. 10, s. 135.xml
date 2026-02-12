@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2022, c. 10, s. 135">
+  <Title>Select Luxury Items Tax Act,</Title>
+  <ChapterNumber>2022, c. 10, s. 135</ChapterNumber>
+  <OtherLangTitle>(Taxe sur certains biens de luxe, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of National Revenue</Text>
+  </Minister>
+  <Section>
+    <Label>45</Label>
+    <Text>2022, c. 10, s. 135; 2024, c. 15, s. 123; 2024, c. 17, ss. 106 and 111(25)</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2022, c. 10, s. 135; 2024, c. 15, s. 124; 2024, c. 17, ss. 107 and 111(26)</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>2022, c. 10, s. 135; 2024, c. 15, s. 125; 2024, c. 17, ss. 108 and 111(27)</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>2022, c. 10, s. 135; 2024, c. 15, s. 126; 2024, c. 17, ss. 109 and 111(28)</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>2022, c. 10, s. 135; 2024, c. 15, s. 127; 2024, c. 17, ss. 110 and 111(29)</Text>
+  </Section>
+  <Section>
+    <Label>150</Label>
+    <Text>2022, c. 10, s. 135; 2024, c. 15, s. 128</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 2022, c. 10, s. 135 (assent: 23.06.2022)</Text>
+    <List>
+      <Item>
+        <Text>— s. 135 (1) of the <Emphasis style="italic">Select Luxury Items Tax</Emphasis> (ss. 1 to 156), as enacted by s. 135 in <Emphasis style="italic">force 0</Emphasis><Emphasis style="italic">1.09. 2022</Emphasis><Emphasis style="italic">see</Emphasis> s. 135 (2)</Text>
+      </Item>
+      <Item>
+        <Text>— Despite subsection (2), the provisions of the <XRefExternal reference-type="act">Select Luxury Items Tax Act</XRefExternal>, as enacted by s. (1), that set out the tax on subject aircraft in force 01.09.2022 <Emphasis style="italic">see</Emphasis> SI/2022-36</Text>
+      </Item>
+      <Item>
+        <Text>— Despite subsection (2), ss. 107 to 119 and 121 to 129 of the <XRefExternal reference-type="act">Select Luxury Items Tax Act</XRefExternal>, as enacted by subsection (1) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 135(3)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF 2024, c. 15, ss. 123(1), 124(1), 125(1), 126(1), 127(1) and 128(1) in force 28.06.2024 <Emphasis style="italic">see</Emphasis> SI/2024-33</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 17, in force on assent 20.06.2024, <Emphasis style="italic">except</Emphasis></Text>
+    <List>
+      <Item>
+        <Text>— ss. 111(25) to (29) in force 20.06.2024 (Coordinating Amendment — conditions met 28.06.2024 <Emphasis style="italic">see</Emphasis> SI/2024-33)</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

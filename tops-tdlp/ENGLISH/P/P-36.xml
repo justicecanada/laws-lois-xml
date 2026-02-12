@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="P-36">
+  <Title>Public Service Superannuation Act</Title>
+  <ChapterNumber>R.S., 1985, c. P-36</ChapterNumber>
+  <OtherLangTitle>(Pension de la fonction publique, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>President of the Treasury Board</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>2003, c. 22, s. 209</Text>
+  </LongTitle>
+  <Section>
+    <Label>3</Label>
+    <Text>1992, c. 46, s. 1; 1996, c. 18, s. 21; 1999, c. 34, s. 53; 2003, c. 22, s. 210(E) and par. 225(z.19)(E); 2004, c. 7, s. 36 and s. 41(3)(E); 2006, c. 4, s. 204, c. 9, s. 33; 2012, c. 31, s. 475; 2015, c. 36, s. 137; 2017, c. 20, s. 172; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1999, c. 34, s. 54; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1992, c. 46, s. 2; 1999, c. 34, s. 55; 2003, c. 22, par. 225(z.19)(E); 2012, c. 31, s. 476</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>added, 1992, c. 46, s. 3; 1999, c. 34, s. 56; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>5.2</Label>
+    <Text>added, 1992, c. 46, s. 3; 1999, c. 34, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>5.3</Label>
+    <Text>added, 1992, c. 46, s. 3; 1999, c. 34, s. 58; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>5.4</Label>
+    <Text>added, 1992, c. 46, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>5.5</Label>
+    <Text>added, 1992, c. 46, s. 3; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1992, c. 46, s. 4; 1996, c. 18, s. 22; 1999, c. 34, s. 59; 2003, c. 22, par. 224(z.74)(E) and 225(z.19)(E), c. 26, s. 48; 2012, c. 31, s. 477; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1992, c. 46, s. 5; 1996, c. 18, s. 23; 1999, c. 34, s. 60; 2003, c. 22, par. 225(z.19)(E); 2012, c. 31, s. 478</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>1992, c. 46, s. 6; 1999, c. 34, s. 61; 2003, c. 22, par. 225(z.19)(E), c. 26, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>8.1</Label>
+    <Text>added, 1996, c. 18, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1992, c. 46, s. 7; 1996, c. 18, s. 25; 1999, c. 34, s. 62; 2003, c. 22, par. 225(z.19)(E); 2012, c. 31, s. 479</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1992, c. 46, s. 8; 1996, c. 18, s. 26; 1999, c. 26, s. 15, c. 34, s. 63; 2003, c. 22, par. 225(z.19)(E); 2006, c. 4, s. 205; 2012, c. 31, s. 480</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>1989, c. 6, s. 2; 1992, c. 46, s. 9; 1996, c. 18, s. 28; 1999, c. 34, s. 64; 2003, c. 22, par. 225(z.19)(E), c. 26, s. 50; 2012, c. 31, s. 482; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>12.1</Label>
+    <Text>added, 2012, c. 31, s. 483; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>1996, c. 18, s. 30; 1999, c. 34, s. 65; 2003, c. 22, par. 225(z.19)(E); 2012, c. 31, s. 485; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>13.001</Label>
+    <Text>added, 2012, c. 31, s. 486; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>13.01</Label>
+    <Text>added, 1996, c. 18, s. 31; 2003, c. 22, par. 225(z.19)(E), c. 26, s. 51; 2003, c. 26, s. 70(4)(E)</Text>
+  </Section>
+  <Section>
+    <Label>13.02</Label>
+    <Text>added, 1996, c. 18, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>13.03</Label>
+    <Text>added, 1996, c. 18, s. 31; 1999, c. 34, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>13.1</Label>
+    <Text>added, 1992, c. 46, s. 10; 1999, c. 34, s. 67; 2000, c. 12, s. 275; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>repealed, 1992, c. 46, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>1999, c. 34, s. 68; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>1999, c. 34, s. 69; 2012, c. 31, s. 487</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>1999, c. 34, s. 70; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>1999, c. 34, s. 71; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>1999, c. 34, s. 72; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>24.1</Label>
+    <Text>added, 1992, c. 46, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>24.2</Label>
+    <Text>added, 1992, c. 46, s. 12; 1999, c. 34, s. 73; 2003, c. 22, par. 225(z.19)(E); 2012, c. 31, s. 488</Text>
+  </Section>
+  <Section>
+    <Label>24.3</Label>
+    <Text>added, 1992, c. 46, s. 12; 2012, c. 31, s. 488</Text>
+  </Section>
+  <Section>
+    <Label>24.4</Label>
+    <Text>added, 1992, c. 46, s. 12; 1999, c. 34, s. 74; 2012, c. 31, s. 489</Text>
+  </Section>
+  <Section>
+    <Label>24.5</Label>
+    <Text>added, 1992, c. 46, s. 12; 2012, c. 31, s. 490</Text>
+  </Section>
+  <Section>
+    <Label>24.6</Label>
+    <Text>added, 2012, c. 31, s. 490</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>1989, c. 6, s. 3; 1992, c. 46, s. 13; 1999, c. 34, s. 75; 2012, c. 31, s. 491</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>1989, c. 6, s. 4; 1992, c. 46, s. 14; 1999, c. 34, s. 76; 2003, c. 22, par. 225(z.19)(E); 2012, c. 31, s. 492</Text>
+  </Section>
+  <Section>
+    <Label>26.1</Label>
+    <Text>added, 1989, c. 6, s. 5; repealed, 1999, c. 34, s. 77</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>1999, c. 34, s. 78; 2012, c. 31, s. 493</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2003, c. 22, par. 225(z.19)(E); 2012, c. 31, s. 494</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>1992, c. 46, s. 15; 1999, c. 34, s. 79; 2003, c. 22, par. 225(z.19)(E); 2012, c. 31, s. 495</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>1999, c. 34, s. 80; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>1992, c. 46, s. 16; 1999, c. 34, s. 81; 2003, c. 22, par. 225(z.19)(E); 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>1992, c. 46, s. 17; 1999, c. 34, s. 82; 2000, c. 12, s. 276</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>1992, c. 46, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>repealed, 1999, c. 34, s. 83</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>1992, c. 46, s. 18; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>1999, c. 34, s. 84</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>1999, c. 34, s. 85; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>1999, c. 34, s. 86; 2012, c. 31, s. 496; 2024, c. 25, s. 112(E)</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>R.S., c. 32 (2nd Supp.), s. 41 (Sch., item 4); 1992, c. 46, s. 19; 1996, c. 18, s. 32; 1999, c. 34, s. 87; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>40.1</Label>
+    <Text>added, 1992, c. 46, s. 20; 1996, c. 18, s. 33; 1999, c. 34, s. 88; 2001, c. 34, s. 79; 2003, c. 22, par. 225(z.19)(E); 2008, c. 28, s. 157</Text>
+  </Section>
+  <Section>
+    <Label>40.2</Label>
+    <Text>added, 1996, c. 18, s. 33; 1999, c. 34, s. 89; 2003, c. 22, par. 225(z.19)(E); 2012, c. 31, s. 497</Text>
+  </Section>
+  <Section>
+    <Label>40.3</Label>
+    <Text>added, 1996, c. 18, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>1999, c. 34, s. 90</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>1989, c. 6, s. 6; 1992, c. 46, s. 21; 1994, c. 26, s. 60; 1996, c. 18, s. 34; 1999, c. 34, s. 91; 2001, c. 34, s. 80; 2003, c. 22, s. 211(E) and par. 225(z.19)(E); 2008, c. 28, s. 158; 2012, c. 31, s. 498</Text>
+  </Section>
+  <Section>
+    <Label>42.1</Label>
+    <Text>added, 1992, c. 46, s. 22; 1996, c. 18, s. 35; 1999, c. 34, s. 92; 2000, c. 12, s. 277; 2003, c. 22, par. 225(z.19)(E), c. 26, s. 52; 2012, c. 31, s. 499</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>1999, c. 34, s. 93</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>1992, c. 46, s. 23; 1999, c. 34, s. 95</Text>
+  </Section>
+  <Section>
+    <Label>44.1</Label>
+    <Text>added, 1999, c. 34, s. 96</Text>
+  </Section>
+  <Section>
+    <Label>44.2</Label>
+    <Text>added, 1999, c. 34, s. 96</Text>
+  </Section>
+  <Section>
+    <Label>44.3</Label>
+    <Text>added, 1999, c. 34, s. 96</Text>
+  </Section>
+  <Section>
+    <Label>44.4</Label>
+    <Text>added, 1999, c. 34, s. 96; 2019, c. 29, s. 158</Text>
+  </Section>
+  <Section>
+    <Label>44.5</Label>
+    <Text>added, 1999, c. 34, s. 96</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>R.S., c. 13 (2nd Supp.), s. 12; 1999, c. 34, s. 97</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>1992, c. 46, s. 24; 1999, c. 34, s. 97</Text>
+  </Section>
+  <Heading>
+    <Label>Part I.1</Label>
+    <Text>added, 1999, c. 34, s. 97</Text>
+  </Heading>
+  <Section>
+    <Label>46.1</Label>
+    <Text>added, 1999, c. 34, s. 97</Text>
+  </Section>
+  <Section>
+    <Label>46.2</Label>
+    <Text>added, 1999, c. 34, s. 97</Text>
+  </Section>
+  <Section>
+    <Label>46.3</Label>
+    <Text>added, 1999, c. 34, s. 97; 2012, c. 31, s. 500</Text>
+  </Section>
+  <Section>
+    <Label>46.4</Label>
+    <Text>added, 1999, c. 34, s. 97</Text>
+  </Section>
+  <Section>
+    <Label>46.5</Label>
+    <Text>added, 1999, c. 34, s. 97</Text>
+  </Section>
+  <Section>
+    <Label>46.6</Label>
+    <Text>added, 1999, c. 34, s. 97</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>1992, c. 46, s. 25; 1996, c. 16, s. 51; 1999, c. 34, s. 98; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>47.1</Label>
+    <Text>added, 1999, c. 34, s. 99</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>1999, c. 34, s. 100</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>1999, c. 34, s. 100; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>1996, c. 18, s. 36; 1999, c. 34, s. 101; 2003, c. 22, par. 225(z.19)(E), c. 26, s. 53</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>1992, c. 46, s. 26; 1999, c. 34, s. 102; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>1992, c. 46, s. 26; 1996, c. 18, s. 37; 1999, c. 34, s. 103; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>1999, c. 34, s. 104</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>1992, c. 46, s. 27; 1999, c. 34, s. 105; 2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>1992, c. 46, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>1992, c. 46, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>1992, c. 46, s. 29; 1999, c. 34, s. 106(E)</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>2003, c. 22, par. 225(z.19)(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part III</Label>
+    <Text>(ss. 64 to 70), 1992, c. 46, s. 30</Text>
+  </Heading>
+  <Section>
+    <Label>64</Label>
+    <Text>1992, c. 46, s. 30; 1999, c. 34, s. 107</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>1992, c. 46, s. 30; repealed, 1999, c. 34, s. 108</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>1992, c. 46, s. 30; 1999, c. 34, s. 109</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>1992, c. 46, s. 30; repealed, 1999, c. 34, s. 110</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>1992, c. 46, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>69</Label>
+    <Text>1992, c. 46, s. 30; 1999, c. 34, s. 111; 2003, c. 22, par. 225(<Emphasis style="italic">z</Emphasis>.19)(E), c. 26, s. 54</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>1992, c. 46, s. 30; 1999, c. 34, s. 112</Text>
+  </Section>
+  <Heading>
+    <Label>Part IV</Label>
+    <Text>(s. 71), added, 1992, c. 46, s. 30</Text>
+  </Heading>
+  <Section>
+    <Label>71</Label>
+    <Text>added, 1992, c. 46, s. 30; 1999, c. 34, s. 113</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>added, 2003, c. 26, s. 55</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>added, 2008, c. 28, s. 159</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>added, 2008, c. 28, s. 159</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>added, 2008, c. 28, s. 160</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>added, 2008, c. 28, s. 160</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch. I, Part I</Label>
+    <Text>R.S., c. 22 (1st Supp.), s. 11 (Sch., item 6), c. 46 (1st Supp.), s. 10; R.S., c. 15 (2nd Supp.), s. 1 (Sch., item 4), c. 19 (2nd Supp.), s. 54; R.S., c. 9 (3rd Supp.), ss. 1 and 2 (Sch., item 4), SOR/87‑222, SOR/87‑223; c. 7 (4th Supp.), s. 9(1), c. 41 (4th Supp.), s. 55, c. 47 (4th Supp.), s. 52 (Sch., item 9), c. 54 (4th Supp.), s. 32; 1989, c. 3, s. 49; 1990, c. 3, s. 32 (Sch., items 8(1) and (2)), c. 13, s. 27; 1991, c. 6, s. 26, c. 10, ss. 19(1)(e) and 20 (Sch., item 7), c. 16, s. 25, SOR/91‑652, c. 38, ss. 31(1) and 39(1); 1992, c. 1, s. 119, c. 37, s. 80; 1993, c. 1, ss. 11, 22 and 44, c. 31, s. 27, c. 34, s. 107; 1994, c. 26, s. 61; 1995, c. 18, s. 95, c. 29, s. 37; 1996, c. 11, ss. 85 and 86; 1997, c. 6, s. 86, c. 9, ss. 119 and 120; 1998, c. 31, s. 60, c. 35, s. 126; 1999, c. 17, s. 179; 2000, c. 6, ss. 49 and 50, SOR/2000‑168, SOR/2000-246, c. 23, s. 22, SOR/2000-287; 2001, c. 9, s. 592; 2002, c. 17, par. 14(g); SOR/2003-234, 2003, c. 22, ss. 250, 259 and 260, c. 23, s. 83 (Note: s. 83 repealed before coming into force by 2008, c. 22, s. 52); SOR/2004-14, 2004, c. 2, s. 77; 2005, c. 30, Part 13, s. 92, c. 38, s. 128 and par. 138(r); 2008, c. 9, s. 13, c. 22, s. 51; 2009, c. 31, s. 62; 2010, c. 7, s. 12, c. 12, s. 2148.1; SOR/2012-59, c. 19, ss. 503, 591 and 750; 2013, c. 38, ss. 19 and 20, c. 40, s. 461; SOR/2014-188, s. 1, 2014, c. 39, ss. 167, 168 and 380; 2017, c. 20, s. 449; SOR/2018-195, s. 1; 2019, c. 13, ss. 40 and 72; 2019, c. 28, ss. 145 and 146; SOR/2019-301, s. 1; 2023, c. 26, s. 240; 2024, c. 15, s. 215; 2024, c. 33, s. 18</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Sch. I, Part II</Label>
+    <Text>: R.S., c. 18 (3rd Supp.), s. 42, c. 20 (3rd Supp.), s. 39 (Sch., item 6), c. 28 (3rd Supp.), s. 310; R.S., c. 1 (4th Supp.), s. 50, c. 28 (4th Supp.), s. 36(2) (Sch., item 5); 1993, c. 28, s. 78 (Sch. III, item 128), this amendment was amended before it came into force by 1998, c. 15, s. 37; 1994, c. 13, s. 11; 1995, c. 18, ss. 96 and 97; 1996, c. 10, s. 257 and 258, c. 16, s. 52; 1998, c. 9, s. 50; 1999, c. 34, s. 114; 2001, c. 34, s. 81; 2002, c. 7, s. 232; 2003, c. 22, ss. 212(E) and 213; 2005, c. 26, s. 25; 2013, c. 40, ss. 462 and 463; 2017, c. 9, par. 57(2)(a); 2024, c. 16, s. 114</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Sch. I, Part III</Label>
+    <Text>R.S., c. 19 (2nd Supp.), s. 54; SOR/87-223, SOR/87-224; R.S., c. 28 (3rd Supp.), s. 311; R.S., c. 1 (4th Supp.), s. 51, c. 7 (4th Supp.), s. 9(2); 1989, c. 3, s. 50; 1990, c. 3, s. 32 (Sch., items 8(3) and (4)); 1991, c. 10, s. 20 (Sch. item 8), c. 38, ss. 31(2) and 39(2); 1992, c. 1, s. 120; 1993, c. 34, s. 108; 1994, c. 26, s. 62; 1996, c. 16, s. 53; 1999, c. 34, s. 114; SOR/2000-168, SOR/2000‑246; 2001, c. 22, ss. 20 and 21; c. 33, ss. 27 and 28; SOR/2003-234, 2003, c. 22, s. 214(E); SOR/2004-14l; SOR/2018-195, s. 2; SOR/2019-301, s. 2</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Sch. II</Label>
+    <Text>1992, c. 46, s. 31</Text>
+  </Schedule>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2003, c. 26, s. 70(4)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2004, c. 7, s. 41</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 1991, c. 10, s. 19(2)</Text>
+  </General>
+  <General>
+    <Text>General, 1996, c. 18, ss. 27 and 29</Text>
+  </General>
+  <General>
+    <Text>General, 1999, c. 34, s. 94</Text>
+  </General>
+  <General>
+    <Text>General, 2012, c. 31, ss. 481 and 484</Text>
+  </General>
+  <General>
+    <Text>General, 2014, c. 39, ss. 387, 388, 390, 392 to 396 (transfer of pension of certain employees)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 33, s. 19 (Regulation repealed)</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2017, c. 9, par. 57(2)(a)</Text>
+  </Terminology>
+  <Terminology>
+    <Text>Terminology, 2024, c. 25, s. 112(E)</Text>
+  </Terminology>
+  <Transitional>
+    <Text>Transitional, 1989, c. 6, ss. 33 to 35</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 1992, c. 46, s. 108</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 1999, c. 34, s. 229</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2012, c. 31, s. 501 (Regulations may be retroactive)</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 22 (1st Supp.), s. 11 proclaimed in force 09.09.85 <Emphasis style="italic">see</Emphasis> SI/85‑151</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 46 (1st Supp.) in force 29.10.85</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 13 (2nd Supp.), s. 45 proclaimed in force 01.12.86 <Emphasis style="italic">see</Emphasis> SI/86‑213</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 15 (2nd Supp.), s. 1 in force 12.12.88 <Emphasis style="italic">see</Emphasis> SI/88‑239 but original enactment proclaimed in force 07.05.86 <Emphasis style="italic">see</Emphasis> SI/86‑69</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 19 (2nd Supp.), s. 54 proclaimed in force 19.06.86 <Emphasis style="italic">see</Emphasis> SI/86‑109. (<Emphasis style="italic">Note</Emphasis>: ss. 54(2) and (3) effective on the repeal of s. 60(1) <Emphasis style="italic">see</Emphasis> ss. 54(2) and (3). S. 60(1) repealed 01.09.91 <Emphasis style="italic">see</Emphasis> SI/91‑111)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 32 (2nd Supp.), s. 41 in force 01.01.87 <Emphasis style="italic">see</Emphasis> s. 46</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 9 (3rd Supp.), ss. 1 and 2 in force 01.06.94 <Emphasis style="italic">see</Emphasis> SI/94‑63. (<Emphasis style="italic">Note</Emphasis>: <Emphasis style="italic">see also</Emphasis> CIF of the <Emphasis style="italic">Teleglobe Canada Reorganization and</Emphasis><XRefExternal reference-type="act">Divestiture Act</XRefExternal>, S.C. 1987, c. 12. s. 20 in force 28.07.93 <Emphasis style="italic">see</Emphasis> SI/93‑147 and s. 33 in force 29.07.93 <Emphasis style="italic">see</Emphasis> SI/93‑148)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 18 (3rd Supp.), s. 42 proclaimed in force 02.07.87 <Emphasis style="italic">see</Emphasis> SI/87‑146</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 20 (3rd Supp.), s. 39 (Sch., item 6) proclaimed in force 01.08.87 <Emphasis style="italic">see</Emphasis> SI/87‑183</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 28 (3rd Supp.), ss. 310 and 311 proclaimed in force 01.01.88 <Emphasis style="italic">see</Emphasis> SI/88‑26</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 1 (4th Supp.), s. 50 in force 04.02.88</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 7 (4th Supp.), s. 9 in force 01.11.89 <Emphasis style="italic">see</Emphasis> SI/89‑231 but original enactment in force 05.05.88 <Emphasis style="italic">see</Emphasis> SI/88‑84</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 28 (4th Supp.) proclaimed in force 01.01.89 <Emphasis style="italic">see</Emphasis> SI/88‑231</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 41 (4th Supp.), s. 55 in force 15.09.88 <Emphasis style="italic">see</Emphasis> SI/88‑152</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 47 (4th Supp.), s. 52 in force 31.12.88 <Emphasis style="italic">see</Emphasis> SI/89‑3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 54 (4th Supp.), s. 32 in force 30.09.88</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1989, c. 3, ss. 49 and 50 in force 29.03.90 <Emphasis style="italic">see</Emphasis> SI/90‑63</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1989, c. 6, in force 29.06.89</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1990, c. 3 in force 01.07.90 <Emphasis style="italic">see</Emphasis> SI/90‑86</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1990, c. 13, s. 27 in force 14.12.90 <Emphasis style="italic">see</Emphasis> SI/91‑5</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1991, c. 6 in force 09.09.91 <Emphasis style="italic">see</Emphasis> SI/91‑117</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1991, c. 10, s. 19 in force on assent 01.02.91; s. 20 (Sch., items 7 and 8) in force 05.02.2001 <Emphasis style="italic">see</Emphasis> SI/2001‑17</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1991, c. 16 in force 01.12.91 <Emphasis style="italic">see</Emphasis> SI/91‑158</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1991, c. 38, s. 31 in force 26.11.91 <Emphasis style="italic">see</Emphasis> SI/91‑161; s. 39 in force 01.08.93 <Emphasis style="italic">see</Emphasis> SI/93‑153</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 1, ss. 119 and 120 in force on assent 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 37, s. 80 in force 22.12.94 <Emphasis style="italic">see</Emphasis> SI/95‑3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 46,</Text>
+    <List>
+      <Item>
+        <Text>— s. 23 deemed in force 01.04.91 <Emphasis style="italic">see</Emphasis> s. 109(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 25 to 29 and 31 in force 05.10.92 <Emphasis style="italic">see</Emphasis> SI/92‑195</Text>
+      </Item>
+      <Item>
+        <Text>— Part III (ss. 64 to 70), as enacted by s. 30, deemed in force 01.04.91 <Emphasis style="italic">see</Emphasis> s. 109(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1(1), 6(4), 7, 9, 13, 17, 19 to 21, par. 42.1(1)(v) of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal> as enacted by s. 22, s. 24, Part IV of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal>, as enacted by s. 30 and s. 108 in force 20.04.93 <Emphasis style="italic">see</Emphasis> SI/93‑66</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 2(1) and (3), and ss. 5.1(2) and (3) and 5.3 to 5.5 of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal>, as enacted by s. 3, ss. 4(2) and 5(2) and par. 42.1(1)(d) to (h) of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal> as enacted by s. 22, in force 09.9.93 <Emphasis style="italic">see</Emphasis> SI/93‑186</Text>
+      </Item>
+      <Item>
+        <Text>— s. 13.1 of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal>, as enacted by s. 10, s. 26(1) of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal>, as enacted by s. 14 and par. 42.1(1)(j) to (l) of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal>, as enacted by s. 22, in force 10.02.94 <Emphasis style="italic">see</Emphasis> SI/94‑23</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 12, 15 and 16 and par. 42.1(1)(m) to (s) of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal>, as enacted by s. 22, in force 18.03.94 <Emphasis style="italic">see</Emphasis> SI/94‑32</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1(2), 2(2), ss. 5.1(1) and 5.2 of the Public Service Superannuation Act, as enacted by s. 3, ss. 4(1), 5(1) and (3) and 6(1) and (3) and par. 42.1(1)(b), (c), (i) and (u) and ss. 42.1(2) of the Public Service Superannuation Act, as enacted by s. 22, in force 04.07.94 see SI/94‑84</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 2(4), 6(2), 8, 11 and 18 and par. 42.1(1)(a) of the Public Service Superannuation Act, as enacted by s. 22, in force 16.12.94 see SI/94‑146 but despite the previous, ss. 2(4), 6(2), 8, 11 and 18 and par. 42.1(1)(a) of the Public Service Superannuation Act, as enacted by s. 22, are deemed to have come into force 15.12.94 see respectively 2011, c. 24, par. 184(a) and (b)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 42.1(1)(t) and (w) of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal>, as enacted by s. 22 in force 01.12.95 <Emphasis style="italic">see</Emphasis> SI/95‑128</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 1, s. 11 in force 26.03.93 <Emphasis style="italic">see</Emphasis> SI/93‑34; ss. 22 and 44 in force 31.03.93 <Emphasis style="italic">see</Emphasis> SI/93‑57</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 28, s. 78 (Sch. III, item 128(1)) in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 31, s. 27 in force 28.04.94 <Emphasis style="italic">see</Emphasis> SI/94‑59</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 34, ss. 107 and 108 in force on assent 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 13, s. 11 in force on assent 12.05.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 26, ss. 60 to 62 in force on assent 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 18, ss. 95 to 97 in force 15.09.95 <Emphasis style="italic">see</Emphasis> SI/95‑108</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 29, s. 37 in force 01.11.95 <Emphasis style="italic">see</Emphasis> SI/95‑115</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 10, ss. 257 and 258 in force 01.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑53</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 11, ss. 85 and 86 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 16, ss. 51 to 53 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑67</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 18, ss. 21 to 38 in force on assent 20.06.96 <Emphasis style="italic">except</Emphasis> s. 10(9) of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal>, as enacted by s. 25(3), comes into force on 01.01.97 <Emphasis style="italic">see</Emphasis> s. 38(1); s. 40.3(1) of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal>, as enacted by s. 33 in force 15.10.97 <Emphasis style="italic">see</Emphasis> SI/97‑124</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1997, c. 6, s. 86 in force 01.04.97 <Emphasis style="italic">see</Emphasis> SI/97‑37</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1997, c. 9, ss. 119 and 120 in force 31.05.2000 <Emphasis style="italic">see</Emphasis> SI/2000‑42</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 9, s. 50 in force 30.06.98 <Emphasis style="italic">see</Emphasis> SI/98-79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 15, s. 37 in force on assent 11.06.98 (<Emphasis style="italic">Note:</Emphasis> despite s. 79 of the <XRefExternal reference-type="act">Nunavut Act</XRefExternal>, (Sch. III, item 128(2), as enacted by s. 37(1), is deemed to have come into force on 26.11.1996 <Emphasis style="italic">see</Emphasis> s. 37(2))</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 31, s. 60 in force 21.12.98 <Emphasis style="italic">see</Emphasis> SI/99‑4</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 35, s. 126 in force 01.09.99 <Emphasis style="italic">see</Emphasis> SI/99‑75</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 17, s. 179 in force 01.11.99 <Emphasis style="italic">see</Emphasis> SI/99‑111</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 26, s. 15 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 34,</Text>
+    <List>
+      <Item>
+        <Text>— s. 53(1), the definition “child” in s. 3(1) of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal>, as enacted by s. 53(2), ss. 53(3), 54, 61, 62(2), (4) and (5), 64(1) to (3), (5) and (6), 65(1) to (4), 66, 68, 70 to 72, 75 to 77, 80 to 84, 87 to 90, 91(3) to (5), (7) and (8), 92(2) to (6), 93, 94, 95(2) and (3), 97 to 102, 104 to 106, 111 to 113 and 229 in force on assent 14.09.99</Text>
+      </Item>
+      <Item>
+        <Text>— s. 65(5) in force 21.06.99 <Emphasis style="italic">see</Emphasis> s. 230(1)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 95(1) and 96 in force 01.04.2000 <Emphasis style="italic">see</Emphasis> SI/99-138</Text>
+      </Item>
+      <Item>
+        <Text>— s. 103 in force 01.10.99 <Emphasis style="italic">see</Emphasis> s. 230(2)</Text>
+      </Item>
+      <Item>
+        <Text>— the definition “contributor” in s. 3(1) of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal>, as enacted by s. 53(2), ss. 55 to 60, 62(1) and (3), 63, 64(4), 67, 69, 73, 74, 78, 79, 85, 86, 91(1), (2) and (6), 92(1) and 107 to 110 in force 01.01.2000 <Emphasis style="italic">see</Emphasis> SI/99-138</Text>
+      </Item>
+      <Item>
+        <Text>— s. 114 in force 01.10.2000 <Emphasis style="italic">see</Emphasis> SI/99-138</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 6, s. 50 in force 07.06.2000 <Emphasis style="italic">see</Emphasis> SI/2000‑46; s. 49 in force 31.05.2001 <Emphasis style="italic">see</Emphasis> SI/2001-66</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 12, ss. 276 in force 31.07.2000 <Emphasis style="italic">see</Emphasis> SI/2000‑76; ss. 275 and 277 in force 01.01.2012 <Emphasis style="italic">see</Emphasis> SI/2011-118</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 23, s. 22 in force 01.12.2011 <Emphasis style="italic">see</Emphasis> SI/2011-106</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 9, s. 592 in force 24.10.2001 <Emphasis style="italic">see</Emphasis> SI/2001-102</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 22, ss. 20 and 21 in force on assent 14.06.2001</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 33, ss. 27 and 28 in force 21.12.2001 <Emphasis style="italic">see</Emphasis> SI/2002-15</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 34, ss. 79 to 81 in force on assent 18.12.2001</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, s. 232 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 17, s. 14 in force 22.07.2002 <Emphasis style="italic">see</Emphasis> SI/2002-105</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 250 in force 20.11.2003 <Emphasis style="italic">see</Emphasis> SI/2003-178; ss. 259 and 260 in force 01.04.2004 <Emphasis style="italic">see</Emphasis> SI/2004-42; ss. 209 to 214, 224 and 225 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 23, s. 83 comes into force on a day or days to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 85. (<Emphasis style="italic">Note</Emphasis>: s. 83 repealed before coming into force by 2008, c. 22, s. 52)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 26, s. 70 in force on assent 07.11.2003</Text>
+    <List>
+      <Item>
+        <Text>— ss. 48 to 55 in force 01.03.2007 <Emphasis style="italic">see</Emphasis> SI/2007-21</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 2, s. 77 in force 12.01.2006 <Emphasis style="italic">see</Emphasis> SI/2005-42</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 7, s. 41 in force on assent 31.03.2004; s. 36 in force 17.05.2004 <Emphasis style="italic">see</Emphasis> SI/2004-52</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 26, s. 25 in force 05.10.2005 <Emphasis style="italic">see</Emphasis> SI/2005-101</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 30, s. 92 in force 03.10.2005 <Emphasis style="italic">see</Emphasis> SI/2005-92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 38, ss. 128 and 138 in force 12.12.2005 <Emphasis style="italic">see</Emphasis> SI/2005-119</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2006, c. 4, ss. 204 and 205 in force 01.01.2008 <Emphasis style="italic">see</Emphasis> s. 207</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2006, c. 9, s. 33 in force 09.07.2007 <Emphasis style="italic">see</Emphasis> SI/2007-75</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 9 (assent: 13.03.2008), s. 13 in force 10.08.2008 <Emphasis style="italic">see</Emphasis> SI/2008-92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 22 (assent: 18.06.2008), s. 51 in force 16.10.2008 <Emphasis style="italic">see</Emphasis> s. 53</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 28, ss. 157 to 159 in force on assent 18.06.2008; s. 160 repealed before coming into force 31.12.2018 <Emphasis style="italic">see</Emphasis> 2008, c. 20, s. 3 (<XRefExternal reference-type="act">Statutes Repeal Act)</XRefExternal></Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 31, s. 62 in force on assent 15.12.2009</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 7 (assent: 29.06.2010), s. 12 in force 25.11.2010 <Emphasis style="italic">see</Emphasis> SI/2010-87</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 12 (assent: 12.07.2010), s. 2148.1 added by 2014, c. 39, s. 380, in force 13.09.2015 see 2014, c. 39, s. 381(2) and notice of Minister published in <Emphasis style="italic">Canada Gazette, Part I</Emphasis>, No. 39, 26.09.2015, p. 2323.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2011, c. 24, par. 184(a) and (b) in force on assent 15.12.2011</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 19 (assent: 29.06.2012), s. 503 in force 27.07.2012 <Emphasis style="italic">see</Emphasis> SI/2012-61; s. 591 in force 01.04.2013 <Emphasis style="italic">see</Emphasis> SI/2013-36; s. 750 in force 30.09.2012 <Emphasis style="italic">see</Emphasis> SI/2012-75</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 31 (assent: 14.12.2012), ss. 475 to 501 in force 01.01.2013 <Emphasis style="italic">see</Emphasis> s. 514(1)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 38, ss. 19 and 20 in force on assent 12.12.2013.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40 (assent: 12.12.2013), ss. 461 to 463 in force 01.11.2014 <Emphasis style="italic">see</Emphasis> SI/2014-84.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 39 (assent: 16.12.2014), ss. 167 and 168 in force 01.06.2015 <Emphasis style="italic">see</Emphasis> SI/2015-36;</Text>
+    <List>
+      <Item>
+        <Text>— s. 380 in force 13.09.2015 <Emphasis style="italic">see</Emphasis> published notice in <Emphasis style="italic">Canada Gazette, Part I</Emphasis>, No. 39, 26.09.2015, p. 2323 (day on which Atomic Energy of Canada Limited sold, under par. 2141(1)(j) of the <XRefExternal reference-type="act">Jobs and Economic Growth Act</XRefExternal> (2010, c. 12), of the securities of Canadian Nuclear Laboratories Ltd;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 387, 388, 390 and 392 to 396 in force on 26.04.2018 (the date that is published in the <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal> by the Treasury Board under s. 86(1) of the <XRefExternal reference-type="act">Enhancing Royal Canadian Mounted Police Accountability Act</XRefExternal> (2013, c. 18) <Emphasis style="italic">see</Emphasis> s. 401 and <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal>, Part I, Volume 151, No. 6, p. 672 on February 11, 2017).</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 36, s. 137 in force on assent 23.06.2015.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 9, par. 57(2)(a) in force on assent 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 20 (assent: 22.06.2017), s. 172 in force 21.09.2017 <Emphasis style="italic">see</Emphasis> SI/2017-53; s. 449 in force 12.03.2018 <Emphasis style="italic">see</Emphasis> SI/2018-15.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 13 (assent 21.06.2019) ss. 40 and 72 in force 12.07.2019 <Emphasis style="italic">see</Emphasis> SI/2019-67</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 28 (assent: 21.06.2019), ss. 145 and 146 in force 28.08.2019 <Emphasis style="italic">see</Emphasis> SI/2019-86</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2023, c. 26 (assent: 22.06.2023), s. 240 comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 241(1) — Not in force</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF 2024, c. 15, s. 215 in force 15.10.2024 <Emphasis style="italic">see</Emphasis> SI/2024-49</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 16, s. 114 comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 117 — Not in force</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 25, s. 112 comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 146 — Not in force</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 33, s. 18 in force 06.03.2025 <Emphasis style="italic">see</Emphasis> SI/2025–27</Text>
+  </CIF>
+</Statute>
+</TOPS>

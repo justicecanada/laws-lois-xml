@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1998, c. 24">
+  <Title>Mi’kmaq Education Act</Title>
+  <ChapterNumber>1998, c. 24</ChapterNumber>
+  <OtherLangTitle>(Éducation des Mi’kmaq, Les sur l’</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Indian Affairs and Northern Development</Text>
+  </Minister>
+  <Section>
+    <Label>10</Label>
+    <Text>2009, c. 23, s. 333</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch.</Label>
+    <Text>SOR/2005-275; SOR/2011-190; SOR/2014-132</Text>
+  </Schedule>
+  <CIF>
+    <Text>CIF, 1998, c. 24 in force 22.04.99 <Emphasis style="italic">see</Emphasis> SI/99-44</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 23 (assent: 23.06.2009), s. 333 in force 17.10.2011 <Emphasis style="italic">see</Emphasis> SI/2011-87</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2011-190 deemed to have come into force 01.04.2011</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2014-132 deemed in force 01.04.2014</Text>
+  </CIF>
+</Statute>
+</TOPS>

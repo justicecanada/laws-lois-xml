@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1991, ch. 48">
+  <Title>Associations coopératives de crédit, Loi sur les</Title>
+  <ChapterNumber>1991, ch. 48</ChapterNumber>
+  <OtherLangTitle>(Cooperative Credit Associations Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Finances</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1991, ch. 48, al. 496a) et 497a); 1992, ch. 51, art. 31; 1993, ch. 28, art. 78, ann. III, art. 23, cette modification a été abrogée avant son entrée en vigueur par 1999, ch. 3, ann., n<Sup>o</Sup> 4; 1998, ch. 30, al. 13e) et 15e); 1999, ch. 3, art. 24, ch. 28, art. 115; 2000, ch. 12, art. 84; 2001, ch. 9, art. 248, ch. 27, art. 234; 2002, ch. 7, art. 136(A); 2005, ch. 54, art. 140; 2007, ch. 6, art. 135; 2010, ch. 12, art. 2114; 2012, ch. 5, art. 104; 2014, ch. 39, art. 278; 2015, ch. 3, art. 43</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>ajouté, 2005, ch. 54, art. 141</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2001, ch. 9, art. 249</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2001, ch. 9, art. 250</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2001, ch. 9, art. 250</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2001, ch. 9, art. 251</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2007, ch. 6, art. 136</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2007, ch. 6, art. 137</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>abrogé, 2005, ch. 54, art. 142</Text>
+  </Section>
+  <Section>
+    <Label>13.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 252; abrogé, 2014, ch. 39, art. 279</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2001, ch. 9, art. 253</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2005, ch. 54, art. 143</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>1997, ch. 15, art. 116; 2001, ch. 9, art. 254; 2006, ch. 4, art. 200; 2007, ch. 6, art. 138, ch. 29, art. 146 et 150; 2012, ch. 5, art. 105; 2016, ch. 7, art. 122</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2001, ch. 9, art. 256</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2001, ch. 9, art. 256; 2007, ch. 6, art. 139; 2014, ch. 39, art. 280</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2001, ch. 9, art. 257; 2014, ch. 39, art. 281</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2005, ch. 54, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>31.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 258</Text>
+  </Section>
+  <Section>
+    <Label>31.2</Label>
+    <Text>ajouté, 2001, ch. 9, art. 258</Text>
+  </Section>
+  <Section>
+    <Label>31.3</Label>
+    <Text>ajouté, 2001, ch. 9, art. 258</Text>
+  </Section>
+  <Section>
+    <Label>31.4</Label>
+    <Text>ajouté, 2001, ch. 9, art. 258</Text>
+  </Section>
+  <Section>
+    <Label>31.5</Label>
+    <Text>ajouté, 2001, ch. 9, art. 258</Text>
+  </Section>
+  <Section>
+    <Label>31.6</Label>
+    <Text>ajouté, 2001, ch. 9, art. 258; 2007, ch. 6, art. 140; 2010, ch. 12, art. 2115</Text>
+  </Section>
+  <Section>
+    <Label>31.7</Label>
+    <Text>ajouté, 2001, ch. 9, art. 258; 2007, ch. 6, art. 141</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>1998, ch. 1, art. 382; 2001, ch. 9, art. 259; 2007, ch. 6, art. 142</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>1998, ch. 1, art. 382; 2001, ch. 9, art. 259; 2007, ch. 6, art. 142</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>2001, ch. 9, art. 259; abrogé, 2007, ch. 6, art. 142</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>1996, ch. 6, art. 49; 1997, ch. 15, art. 117; 1998, ch. 1, art. 383</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>2001, ch. 9, art. 260; 2007, ch. 6, art. 143; 2014, ch. 39, art. 282</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>1996, ch. 6, art. 50; 2001, ch. 9, art. 261; 2007, ch. 6, art. 143</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>1996, ch. 6, art. 51</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>1996, ch. 6, art. 52; 2001, ch. 9, art. 262</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>1994, ch. 47, art. 50; 2001, ch. 9, art. 263 et 264; 2014, ch. 39, art. 283</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>1998, ch. 1, art. 384; 2001, ch. 9, art. 265; 2007, ch. 6, art. 144; 2014, ch. 39, art. 284</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2001, ch. 9, art. 266</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>2005, ch. 54, art. 145</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>2001, ch. 9, art. 267</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2001, ch. 9, art. 268</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>1996, ch. 6, art. 53</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>2007, ch. 6, art. 145(A)</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>2001, ch. 9, art. 269</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>2005, ch. 54, art. 146; 2007, ch. 6, art. 146(A)</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>2001, ch. 9, art. 270</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>1997, ch. 15, art. 118; 2001, ch. 9, art. 271; 2005, ch. 54, art. 147</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>2005, ch. 54, art. 148(F)</Text>
+  </Section>
+  <Section>
+    <Label>80.1</Label>
+    <Text>ajouté, 2005, ch. 54, art. 149 (<Emphasis style="italic">Remarque</Emphasis> : 2005, ch. 54, art. 149 abrogé par 2007, ch. 6, art. 388); ajouté, 2007, ch. 6, art. 147</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>2007, ch. 6, art. 148</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>2001, ch. 9, art. 272; 2007, ch. 6, art. 149</Text>
+  </Section>
+  <Section>
+    <Label>92</Label>
+    <Text>1999, ch. 31, art. 54</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>2005, ch. 54, art. 150</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>2005, ch. 54, art. 151</Text>
+  </Section>
+  <Section>
+    <Label>100</Label>
+    <Text>2005, ch. 54, art. 152</Text>
+  </Section>
+  <Section>
+    <Label>101</Label>
+    <Text>2005, ch. 54, art. 153(A)</Text>
+  </Section>
+  <Section>
+    <Label>103</Label>
+    <Text>1991, ch. 48, al. 496b)</Text>
+  </Section>
+  <Section>
+    <Label>143</Label>
+    <Text>2005, ch. 54, art. 154</Text>
+  </Section>
+  <Section>
+    <Label>144</Label>
+    <Text>2005, ch. 54, art. 155</Text>
+  </Section>
+  <Section>
+    <Label>145</Label>
+    <Text>2005, ch. 54, art. 156</Text>
+  </Section>
+  <Section>
+    <Label>146</Label>
+    <Text>2005, ch. 54, art. 157</Text>
+  </Section>
+  <Section>
+    <Label>147</Label>
+    <Text>2005, ch. 54, art. 158</Text>
+  </Section>
+  <Section>
+    <Label>148</Label>
+    <Text>1997, ch. 15, art. 119</Text>
+  </Section>
+  <Section>
+    <Label>151</Label>
+    <Text>2001, ch. 9, art. 273(F)</Text>
+  </Section>
+  <Section>
+    <Label>152</Label>
+    <Text>2005, ch. 54, art. 159</Text>
+  </Section>
+  <Section>
+    <Label>153</Label>
+    <Text>2005, ch. 54, art. 160</Text>
+  </Section>
+  <Section>
+    <Label>154</Label>
+    <Text>2001, ch. 9, art. 274; 2005, ch. 54, art. 161</Text>
+  </Section>
+  <Section>
+    <Label>160</Label>
+    <Text>2005, ch. 54, art. 162</Text>
+  </Section>
+  <Section>
+    <Label>161</Label>
+    <Text>2005, ch. 54, art. 163</Text>
+  </Section>
+  <Section>
+    <Label>162</Label>
+    <Text>2005, ch. 54, art. 164</Text>
+  </Section>
+  <Section>
+    <Label>163</Label>
+    <Text>2005, ch. 54, art. 165</Text>
+  </Section>
+  <Section>
+    <Label>166.01</Label>
+    <Text>ajouté, 1997, ch. 15, art. 120; 2005, ch. 54, art. 166</Text>
+  </Section>
+  <Section>
+    <Label>166.02</Label>
+    <Text>ajouté, 1997, ch. 15, art. 120</Text>
+  </Section>
+  <Section>
+    <Label>166.03</Label>
+    <Text>ajouté, 1997, ch. 15, art. 120</Text>
+  </Section>
+  <Section>
+    <Label>166.04</Label>
+    <Text>ajouté, 1997, ch. 15, art. 120; 2005, ch. 54, art. 167</Text>
+  </Section>
+  <Section>
+    <Label>166.05</Label>
+    <Text>ajouté, 1997, ch. 15, art. 120; 2005, ch. 54, art. 168</Text>
+  </Section>
+  <Section>
+    <Label>166.06</Label>
+    <Text>ajouté, 1997, ch. 15, art. 120; 2005, ch. 54, art. 169</Text>
+  </Section>
+  <Section>
+    <Label>166.07</Label>
+    <Text>ajouté, 1997, ch. 15, art. 120; 2005, ch. 54, art. 170</Text>
+  </Section>
+  <Section>
+    <Label>166.071</Label>
+    <Text>ajouté, 2005, ch. 54, art. 170</Text>
+  </Section>
+  <Section>
+    <Label>166.08</Label>
+    <Text>ajouté, 1997, ch. 15, art. 120</Text>
+  </Section>
+  <Section>
+    <Label>167</Label>
+    <Text>2001, ch. 9, art. 275</Text>
+  </Section>
+  <Section>
+    <Label>169</Label>
+    <Text>2001, ch. 9, art. 276; 2007, ch. 6, art. 150</Text>
+  </Section>
+  <Section>
+    <Label>170</Label>
+    <Text>1994, ch. 47, art. 51</Text>
+  </Section>
+  <Section>
+    <Label>172.1</Label>
+    <Text>ajouté, 2005, ch. 54, art. 171</Text>
+  </Section>
+  <Section>
+    <Label>177</Label>
+    <Text>1997, ch. 15, art. 121</Text>
+  </Section>
+  <Section>
+    <Label>178</Label>
+    <Text>1997, ch. 15, art. 122</Text>
+  </Section>
+  <Section>
+    <Label>179</Label>
+    <Text>2001, ch. 9, art. 277</Text>
+  </Section>
+  <Section>
+    <Label>182</Label>
+    <Text>1997, ch. 15, art. 123</Text>
+  </Section>
+  <Section>
+    <Label>183</Label>
+    <Text>2005, ch. 54, art. 172</Text>
+  </Section>
+  <Section>
+    <Label>185</Label>
+    <Text>1997, ch. 15, art. 124</Text>
+  </Section>
+  <Section>
+    <Label>187</Label>
+    <Text>2005, ch. 54, art. 173</Text>
+  </Section>
+  <Section>
+    <Label>188</Label>
+    <Text>2013, ch. 33, art. 109</Text>
+  </Section>
+  <Section>
+    <Label>189.1</Label>
+    <Text>ajouté, 1997, ch. 15, art. 125; 2005, ch. 54, art. 174</Text>
+  </Section>
+  <Section>
+    <Label>199</Label>
+    <Text>1997, ch. 15, art. 126</Text>
+  </Section>
+  <Section>
+    <Label>200</Label>
+    <Text>1997, ch. 15, art. 127; 2001, ch. 9, art. 278</Text>
+  </Section>
+  <Section>
+    <Label>202</Label>
+    <Text>1997, ch. 15, art. 128; 2005, ch. 54, art. 175</Text>
+  </Section>
+  <Section>
+    <Label>203</Label>
+    <Text>1994, ch. 26, art. 26</Text>
+  </Section>
+  <Section>
+    <Label>206</Label>
+    <Text>2005, ch. 54, art. 176</Text>
+  </Section>
+  <Section>
+    <Label>207</Label>
+    <Text>1997, ch. 15, art. 129; 2005, ch. 54, art. 177</Text>
+  </Section>
+  <Section>
+    <Label>208</Label>
+    <Text>2005, ch. 54, art. 178</Text>
+  </Section>
+  <Section>
+    <Label>209</Label>
+    <Text>2005, ch. 54, art. 178</Text>
+  </Section>
+  <Section>
+    <Label>210</Label>
+    <Text>2005, ch. 54, art. 178</Text>
+  </Section>
+  <Section>
+    <Label>211</Label>
+    <Text>2005, ch. 54, art. 179(A)</Text>
+  </Section>
+  <Section>
+    <Label>214</Label>
+    <Text>1996, ch. 6, art. 167f); 2005, ch. 54, art. 180(A)</Text>
+  </Section>
+  <Section>
+    <Label>215</Label>
+    <Text>2001, ch. 9, art. 279; 2005, ch. 54, art. 181</Text>
+  </Section>
+  <Section>
+    <Label>216</Label>
+    <Text>2001, ch. 9, art. 280(F); 2005, ch. 54, art. 181</Text>
+  </Section>
+  <Section>
+    <Label>217</Label>
+    <Text>2005, ch. 54, art. 182</Text>
+  </Section>
+  <Section>
+    <Label>219</Label>
+    <Text>2001, ch. 9, art. 281</Text>
+  </Section>
+  <Section>
+    <Label>220</Label>
+    <Text>2001, ch. 9, art. 282</Text>
+  </Section>
+  <Section>
+    <Label>221</Label>
+    <Text>2001, ch. 9, art. 283; 2005, ch. 54, art. 183; 2007, ch. 6, art. 151</Text>
+  </Section>
+  <Section>
+    <Label>224</Label>
+    <Text>2001, ch. 9, art. 284</Text>
+  </Section>
+  <Section>
+    <Label>226</Label>
+    <Text>2001, ch. 9, art. 285</Text>
+  </Section>
+  <Section>
+    <Label>227</Label>
+    <Text>2005, ch. 54, art. 184</Text>
+  </Section>
+  <Section>
+    <Label>228</Label>
+    <Text>2007, ch. 6, art. 152</Text>
+  </Section>
+  <Section>
+    <Label>229</Label>
+    <Text>2005, ch. 54, art. 185</Text>
+  </Section>
+  <Section>
+    <Label>230</Label>
+    <Text>2001, ch. 9, art. 286</Text>
+  </Section>
+  <Section>
+    <Label>231</Label>
+    <Text>2001, ch. 9, art. 287</Text>
+  </Section>
+  <Section>
+    <Label>232.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 288</Text>
+  </Section>
+  <Section>
+    <Label>233</Label>
+    <Text>1994, ch. 47, art. 52; 2007, ch. 6, art. 153</Text>
+  </Section>
+  <Section>
+    <Label>233.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 289; 2014, ch. 39, art. 285</Text>
+  </Section>
+  <Section>
+    <Label>233.2</Label>
+    <Text>ajouté, 2001, ch. 9, art. 289; 2007, ch. 6, art. 154</Text>
+  </Section>
+  <Section>
+    <Label>233.3</Label>
+    <Text>ajouté, 2001, ch. 9, art. 289</Text>
+  </Section>
+  <Section>
+    <Label>233.4</Label>
+    <Text>ajouté, 2001, ch. 9, art. 289</Text>
+  </Section>
+  <Section>
+    <Label>233.5</Label>
+    <Text>ajouté, 2001, ch. 9, art. 289</Text>
+  </Section>
+  <Section>
+    <Label>234</Label>
+    <Text>2005, ch. 54, art. 186</Text>
+  </Section>
+  <Section>
+    <Label>235</Label>
+    <Text>2007, ch. 6, art. 155(A)</Text>
+  </Section>
+  <Section>
+    <Label>236</Label>
+    <Text>2001, ch. 9, art. 290; 2005, ch. 54, art. 187</Text>
+  </Section>
+  <Section>
+    <Label>237</Label>
+    <Text>2005, ch. 54, art. 188</Text>
+  </Section>
+  <Section>
+    <Label>242</Label>
+    <Text>2001, ch. 9, art. 291; 2005, ch. 54, art. 189; 2007, ch. 6, art. 156</Text>
+  </Section>
+  <Section>
+    <Label>245</Label>
+    <Text>2001, ch. 9, art. 292; 2005, ch. 54, art. 190</Text>
+  </Section>
+  <Section>
+    <Label>251</Label>
+    <Text>2005, ch. 54, art. 191</Text>
+  </Section>
+  <Section>
+    <Label>252</Label>
+    <Text>abrogé, 1997, ch. 15, art. 130</Text>
+  </Section>
+  <Section>
+    <Label>253</Label>
+    <Text>abrogé, 1997, ch. 15, art. 130</Text>
+  </Section>
+  <Section>
+    <Label>254</Label>
+    <Text>abrogé, 1997, ch. 15, art. 130</Text>
+  </Section>
+  <Section>
+    <Label>255</Label>
+    <Text>abrogé, 1997, ch. 15, art. 130</Text>
+  </Section>
+  <Section>
+    <Label>256</Label>
+    <Text>abrogé, 1997, ch. 15, art. 130</Text>
+  </Section>
+  <Section>
+    <Label>257</Label>
+    <Text>abrogé, 1997, ch. 15, art. 130</Text>
+  </Section>
+  <Section>
+    <Label>258</Label>
+    <Text>abrogé, 1997, ch. 15, art. 130</Text>
+  </Section>
+  <Section>
+    <Label>259</Label>
+    <Text>abrogé, 1997, ch. 15, art. 130</Text>
+  </Section>
+  <Section>
+    <Label>260</Label>
+    <Text>2005, ch. 54, art. 192</Text>
+  </Section>
+  <Section>
+    <Label>261</Label>
+    <Text>1997, ch. 15, art. 131; 2005, ch. 54, art. 193</Text>
+  </Section>
+  <Section>
+    <Label>262</Label>
+    <Text>2005, ch. 54, art. 193</Text>
+  </Section>
+  <Section>
+    <Label>262.1</Label>
+    <Text>ajouté, 1997, ch. 15, art. 132; abrogé, 2005, ch. 54, art. 193</Text>
+  </Section>
+  <Section>
+    <Label>263</Label>
+    <Text>2005, ch. 54, art. 193</Text>
+  </Section>
+  <Section>
+    <Label>264</Label>
+    <Text>abrogé, 2005, ch. 54, art. 193</Text>
+  </Section>
+  <Section>
+    <Label>265</Label>
+    <Text>2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>266</Label>
+    <Text>2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>266.1</Label>
+    <Text>ajouté, 2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>267</Label>
+    <Text>2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>268</Label>
+    <Text>2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>269</Label>
+    <Text>2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>270</Label>
+    <Text>1994, ch. 26, art. 27; 1999, ch. 31, art. 55; abrogé, 2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>271</Label>
+    <Text>1999, ch. 31, art. 56; abrogé, 2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>272</Label>
+    <Text>abrogé, 2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>273</Label>
+    <Text>1996, ch. 6, art. 54; abrogé, 2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>274</Label>
+    <Text>abrogé, 2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>275</Label>
+    <Text>abrogé, 2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>276</Label>
+    <Text>abrogé, 2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>277</Label>
+    <Text>abrogé, 2005, ch. 54, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>284</Label>
+    <Text>1991, ch. 48, al. 496c) ; 2007, ch. 6, art. 157</Text>
+  </Section>
+  <Section>
+    <Label>292</Label>
+    <Text>1997, ch. 15, art. 133; 2001, ch. 9, art. 293; 2005, ch. 54, art. 195; 2017, ch. 26, sous-al. 62e)(i)</Text>
+  </Section>
+  <Section>
+    <Label>293</Label>
+    <Text>2005, ch. 54, art. 196</Text>
+  </Section>
+  <Section>
+    <Label>295</Label>
+    <Text>1997, ch. 15, art. 134; 2005, ch. 54, art. 197</Text>
+  </Section>
+  <Section>
+    <Label>296</Label>
+    <Text>1997, ch. 15, art. 135; 2001, ch. 9, art. 294</Text>
+  </Section>
+  <Section>
+    <Label>299</Label>
+    <Text>2001, ch. 9, art. 295; 2005, ch. 54, art. 198</Text>
+  </Section>
+  <Section>
+    <Label>305</Label>
+    <Text>2005, ch. 54, art. 199</Text>
+  </Section>
+  <Section>
+    <Label>307</Label>
+    <Text>2017, ch. 26, sous-al. 62e)(ii)</Text>
+  </Section>
+  <Section>
+    <Label>309</Label>
+    <Text>1999, ch. 31, art. 57(F)</Text>
+  </Section>
+  <Section>
+    <Label>312</Label>
+    <Text>2005, ch. 54, art. 200</Text>
+  </Section>
+  <Section>
+    <Label>314</Label>
+    <Text>1993, ch. 34, art. 53(F)</Text>
+  </Section>
+  <Section>
+    <Label>318</Label>
+    <Text>2005, ch. 54, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>321</Label>
+    <Text>2005, ch. 54, art. 202(F)</Text>
+  </Section>
+  <Section>
+    <Label>324</Label>
+    <Text>1996, ch. 6, al. 167(1)f)</Text>
+  </Section>
+  <Section>
+    <Label>333</Label>
+    <Text>2005, ch. 54, art. 203(F)</Text>
+  </Section>
+  <Section>
+    <Label>338</Label>
+    <Text>2005, ch. 54, art. 204</Text>
+  </Section>
+  <Section>
+    <Label>350</Label>
+    <Text>1996, ch. 6, al. 167(1)f)</Text>
+  </Section>
+  <Section>
+    <Label>353</Label>
+    <Text>2001, ch. 9, art. 296</Text>
+  </Section>
+  <Section>
+    <Label>354</Label>
+    <Text>1993, ch. 34, art. 54; 2001, ch. 9, art. 297; 2007, ch. 6, art. 158</Text>
+  </Section>
+  <Section>
+    <Label>354.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 298; 2007, ch. 6, art. 159</Text>
+  </Section>
+  <Section>
+    <Label>355.1</Label>
+    <Text>ajouté, 1994, ch. 47, art. 53</Text>
+  </Section>
+  <Section>
+    <Label>356</Label>
+    <Text>1997, ch. 15, art. 136</Text>
+  </Section>
+  <Section>
+    <Label>357</Label>
+    <Text>2001, ch. 9, art. 299</Text>
+  </Section>
+  <Section>
+    <Label>358</Label>
+    <Text>2001, ch. 9, art. 300</Text>
+  </Section>
+  <Section>
+    <Label>358.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 300</Text>
+  </Section>
+  <Section>
+    <Label>359</Label>
+    <Text>2001, ch. 9, art. 300</Text>
+  </Section>
+  <Section>
+    <Label>361</Label>
+    <Text>2001, ch. 9, art. 301</Text>
+  </Section>
+  <Section>
+    <Label>362</Label>
+    <Text>2001, ch. 9, art. 302</Text>
+  </Section>
+  <Section>
+    <Label>363</Label>
+    <Text>2001, ch. 9, art. 303</Text>
+  </Section>
+  <Section>
+    <Label>364</Label>
+    <Text>2001, ch. 9, art. 303</Text>
+  </Section>
+  <Section>
+    <Label>364.1</Label>
+    <Text>ajouté, 1993, ch. 44, art. 51; abrogé, 1994, ch. 47, art. 54</Text>
+  </Section>
+  <Section>
+    <Label>365</Label>
+    <Text>1991, ch. 48, al. 497b) et c); abrogé, 1994, ch. 47, art. 54</Text>
+  </Section>
+  <Section>
+    <Label>366</Label>
+    <Text>abrogé, 1994, ch. 47, art. 54</Text>
+  </Section>
+  <Section>
+    <Label>367</Label>
+    <Text>abrogé, 1994, ch. 47, art. 54</Text>
+  </Section>
+  <Section>
+    <Label>368</Label>
+    <Text>2001, ch. 9, art. 304</Text>
+  </Section>
+  <Section>
+    <Label>373</Label>
+    <Text>1994, ch. 47, art. 55</Text>
+  </Section>
+  <Section>
+    <Label>375</Label>
+    <Text>1997, ch. 15, art. 137; 2001, ch. 9, art. 306; 2014, ch. 39, art. 286</Text>
+  </Section>
+  <Section>
+    <Label>375.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 307</Text>
+  </Section>
+  <Section>
+    <Label>376</Label>
+    <Text>1997, ch. 15, art. 138; 2001, ch. 9, art. 307; 2009, ch. 2, art. 276(F); 2012, ch. 5, art. 106</Text>
+  </Section>
+  <Section>
+    <Label>377</Label>
+    <Text>2001, ch. 9, art. 308</Text>
+  </Section>
+  <Section>
+    <Label>378.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 309; 2007, ch. 6, art. 160</Text>
+  </Section>
+  <Section>
+    <Label>378.2</Label>
+    <Text>ajouté, 2007, ch. 6, art. 160</Text>
+  </Section>
+  <Section>
+    <Label>378.3</Label>
+    <Text>ajouté, 2007, ch. 6, art. 160</Text>
+  </Section>
+  <Section>
+    <Label>378.4</Label>
+    <Text>ajouté, 2007, ch. 6, art. 160</Text>
+  </Section>
+  <Section>
+    <Label>379</Label>
+    <Text>1997, ch. 15, art. 139; 2001, ch. 9, art. 310; 2014, ch. 39, art. 287</Text>
+  </Section>
+  <Section>
+    <Label>379.1</Label>
+    <Text>ajouté, 2014, ch. 39, art. 288</Text>
+  </Section>
+  <Section>
+    <Label>380.1</Label>
+    <Text>ajouté, 2012, ch. 19, art. 364</Text>
+  </Section>
+  <Section>
+    <Label>381</Label>
+    <Text>2012, ch. 19, art. 208</Text>
+  </Section>
+  <Section>
+    <Label>382</Label>
+    <Text>2001, ch. 9, art. 311</Text>
+  </Section>
+  <Section>
+    <Label>382.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 311; 2007, ch. 6, art. 161</Text>
+  </Section>
+  <Section>
+    <Label>382.2</Label>
+    <Text>ajouté, 2009, ch. 2, art. 277; 2012, ch. 5, art. 107(A)</Text>
+  </Section>
+  <Section>
+    <Label>383</Label>
+    <Text>2001, ch. 9, art. 311; 2007, ch. 6, art. 162(F)</Text>
+  </Section>
+  <Section>
+    <Label>383.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 311</Text>
+  </Section>
+  <Section>
+    <Label>383.2</Label>
+    <Text>ajouté, 2001, ch. 9, art. 311</Text>
+  </Section>
+  <Section>
+    <Label>385</Label>
+    <Text>2001, ch. 9, art. 312</Text>
+  </Section>
+  <Section>
+    <Label>385.01</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.02</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.03</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2007, ch. 6, art. 163</Text>
+  </Section>
+  <Section>
+    <Label>385.04</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2007, ch. 6, art. 164</Text>
+  </Section>
+  <Section>
+    <Label>385.05</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.06</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.07</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.08</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.09</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2012, ch. 5, art. 108</Text>
+  </Section>
+  <Section>
+    <Label>385.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.11</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2012, ch. 5, art. 109</Text>
+  </Section>
+  <Section>
+    <Label>385.12</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2012, ch. 5, art. 109</Text>
+  </Section>
+  <Section>
+    <Label>385.13</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.131</Label>
+    <Text>ajouté, 2007, ch. 6, art. 165</Text>
+  </Section>
+  <Section>
+    <Label>385.14</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.15</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.16</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2012, ch. 5, art. 110</Text>
+  </Section>
+  <Section>
+    <Label>385.17</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.18</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2012, ch. 5, art. 111</Text>
+  </Section>
+  <Section>
+    <Label>385.19</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2012, ch. 5, art. 112</Text>
+  </Section>
+  <Section>
+    <Label>385.2</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2012, ch. 5, art. 112</Text>
+  </Section>
+  <Section>
+    <Label>385.21</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2012, ch. 5, art. 113</Text>
+  </Section>
+  <Section>
+    <Label>385.22</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2007, ch. 6, art. 166</Text>
+  </Section>
+  <Section>
+    <Label>385.23</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.24</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2012, ch. 5, art. 114</Text>
+  </Section>
+  <Section>
+    <Label>385.241</Label>
+    <Text>ajouté, 2007, ch. 6, art. 167</Text>
+  </Section>
+  <Section>
+    <Label>385.25</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.251</Label>
+    <Text>ajouté, 2007, ch. 6, art. 168</Text>
+  </Section>
+  <Section>
+    <Label>385.252</Label>
+    <Text>ajouté, 2009, ch. 2, art. 278; 2012, ch. 5, art. 115</Text>
+  </Section>
+  <Section>
+    <Label>385.26</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.27</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2007, ch. 9, art. 169; 2012, ch. 5, art. 116</Text>
+  </Section>
+  <Section>
+    <Label>385.28</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2007, ch. 6, art. 170; 2012, ch. 5, art. 117</Text>
+  </Section>
+  <Section>
+    <Label>385.29</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.3</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.31</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313</Text>
+  </Section>
+  <Section>
+    <Label>385.32</Label>
+    <Text>ajouté, 2001, ch. 9, art. 313; 2005, ch. 19, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>386</Label>
+    <Text>1993, ch. 34, art. 55(F); 1997, ch. 15, art. 140; 2001, ch. 9, art. 314; 2007, ch. 6, art. 171; 2008, ch. 28, art. 151</Text>
+  </Section>
+  <Section>
+    <Label>387</Label>
+    <Text>2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>388</Label>
+    <Text>1997, ch. 15, art. 141; 2001, ch. 9, art. 314; 2007, ch. 6, art. 172; 2013, ch. 40, art. 173</Text>
+  </Section>
+  <Section>
+    <Label>389</Label>
+    <Text>2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>390</Label>
+    <Text>1997, ch. 15, art. 142; 1999, ch. 28, art. 116; 2001, ch. 9, art. 314; 2007, ch. 6, art. 173; 2012, ch. 5, art. 118</Text>
+  </Section>
+  <Section>
+    <Label>391</Label>
+    <Text>2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>392</Label>
+    <Text>2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>393</Label>
+    <Text>2001, ch. 9, art. 314; 2007, ch. 6, art. 174</Text>
+  </Section>
+  <Section>
+    <Label>394</Label>
+    <Text>1997, ch. 15, art. 143; 2001, ch. 9, art. 314; 2007, ch. 6, art. 175</Text>
+  </Section>
+  <Section>
+    <Label>395</Label>
+    <Text>1997, ch. 15, art. 144; 2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>396</Label>
+    <Text>1997, ch. 15, art. 145; 2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>397</Label>
+    <Text>1997, ch. 15, art. 146; 2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>398</Label>
+    <Text>2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>399</Label>
+    <Text>2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>400</Label>
+    <Text>2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>401</Label>
+    <Text>2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>402</Label>
+    <Text>2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>403</Label>
+    <Text>1997, ch. 15, art. 147; 2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>404</Label>
+    <Text>2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>405</Label>
+    <Text>1997, ch. 15, art. 148; 2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>406</Label>
+    <Text>1997, ch. 15, art. 149; 2001, ch. 9, art. 314; 2007, ch. 6, art. 176</Text>
+  </Section>
+  <Section>
+    <Label>407</Label>
+    <Text>2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>408</Label>
+    <Text>2001, ch. 9, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>409</Label>
+    <Text>1996, ch. 6, art. 55</Text>
+  </Section>
+  <Section>
+    <Label>409.1</Label>
+    <Text>ajouté, 1997, ch. 15, art. 150</Text>
+  </Section>
+  <Section>
+    <Label>410</Label>
+    <Text>1997, ch. 15, art. 151; 2000, ch. 12, al. 86a); 2001, ch. 9, art. 315</Text>
+  </Section>
+  <Section>
+    <Label>411</Label>
+    <Text>2001, ch. 9, art. 216</Text>
+  </Section>
+  <Section>
+    <Label>412</Label>
+    <Text>2007, ch. 6, art. 177</Text>
+  </Section>
+  <Section>
+    <Label>418</Label>
+    <Text>2001, ch. 9, art. 317; 2007, ch. 6, art. 178</Text>
+  </Section>
+  <Section>
+    <Label>419</Label>
+    <Text>1997, ch. 15, art. 152; 2001, ch. 9, art. 318; 2007, ch. 6, art. 179</Text>
+  </Section>
+  <Section>
+    <Label>420</Label>
+    <Text>1997, ch. 15, art. 153; 2000, ch. 12, al. 86b), c); 2001, ch. 9, art. 319</Text>
+  </Section>
+  <Section>
+    <Label>421</Label>
+    <Text>1997, ch. 15, art. 154</Text>
+  </Section>
+  <Section>
+    <Label>422</Label>
+    <Text>1997, ch. 15, art. 155; 2001, ch. 9, art. 320</Text>
+  </Section>
+  <Section>
+    <Label>423</Label>
+    <Text>1996, ch. 6, art. 56</Text>
+  </Section>
+  <Section>
+    <Label>425</Label>
+    <Text>2001, ch. 9, art. 321</Text>
+  </Section>
+  <Section>
+    <Label>426</Label>
+    <Text>abrogé, 1997, ch. 15, art. 156</Text>
+  </Section>
+  <Section>
+    <Label>427</Label>
+    <Text>abrogé, 1997, ch. 15, art. 156</Text>
+  </Section>
+  <Section>
+    <Label>429</Label>
+    <Text>1997, ch. 15, art. 157</Text>
+  </Section>
+  <Section>
+    <Label>430</Label>
+    <Text>2001, ch. 9, art. 322</Text>
+  </Section>
+  <Section>
+    <Label>431.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 324; abrogé, 2007, ch. 6, art. 180</Text>
+  </Section>
+  <Section>
+    <Label>431.2</Label>
+    <Text>ajouté, 2001, ch. 9, art. 324; abrogé, 2007, ch. 6, art. 180</Text>
+  </Section>
+  <Section>
+    <Label>431.3</Label>
+    <Text>ajouté, 2001, ch. 9, art. 324; abrogé, 2007, ch. 6, art. 180</Text>
+  </Section>
+  <Section>
+    <Label>433</Label>
+    <Text>2001, ch. 9, art. 325</Text>
+  </Section>
+  <Section>
+    <Label>434</Label>
+    <Text>2001, ch. 9, art. 325</Text>
+  </Section>
+  <Section>
+    <Label>435</Label>
+    <Text>1997, ch. 15, art. 158; 2001, ch. 9, art. 326</Text>
+  </Section>
+  <Section>
+    <Label>435.1</Label>
+    <Text>ajouté, 1999, ch. 28, art. 117</Text>
+  </Section>
+  <Section>
+    <Label>435.2</Label>
+    <Text>ajouté, 2001, ch. 9, art. 327; abrogé, 2007, ch. 6, art. 181; ajouté, 2015, ch. 36, art. 238</Text>
+  </Section>
+  <Section>
+    <Label>436</Label>
+    <Text>1994, ch. 26, art. 28; 1996, ch. 6, art. 57</Text>
+  </Section>
+  <Section>
+    <Label>436.1</Label>
+    <Text>ajouté, 1996, ch. 6, art. 57</Text>
+  </Section>
+  <Section>
+    <Label>436.2</Label>
+    <Text>ajouté, 1996, ch. 6, art. 57</Text>
+  </Section>
+  <Section>
+    <Label>436.3</Label>
+    <Text>ajouté, 1996, ch. 6, art. 57; 2001, ch. 9, art. 328</Text>
+  </Section>
+  <Section>
+    <Label>437</Label>
+    <Text>2001, ch. 9, art. 329; 2012, ch. 5, art. 119</Text>
+  </Section>
+  <Section>
+    <Label>438.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 330</Text>
+  </Section>
+  <Section>
+    <Label>440</Label>
+    <Text>abrogé, 1996, ch. 6, art. 58</Text>
+  </Section>
+  <Section>
+    <Label>441</Label>
+    <Text>2001, ch. 9, art. 331</Text>
+  </Section>
+  <Section>
+    <Label>441.01</Label>
+    <Text>ajouté, 2001, ch. 9, art. 332</Text>
+  </Section>
+  <Section>
+    <Label>441.1</Label>
+    <Text>ajouté, 1996, ch. 6, art. 59; 2001, ch. 9, art. 333</Text>
+  </Section>
+  <Section>
+    <Label>441.2</Label>
+    <Text>ajouté, 2001, ch. 9, art. 334</Text>
+  </Section>
+  <Section>
+    <Label>442</Label>
+    <Text>1996, ch. 6, art. 60; 2001, ch. 9, art. 335; 2014, ch. 39, art. 289</Text>
+  </Section>
+  <Section>
+    <Label>443</Label>
+    <Text>abrogé, 1996, ch. 6, art. 61</Text>
+  </Section>
+  <Section>
+    <Label>444</Label>
+    <Text>abrogé, 1996, ch. 6, art. 61</Text>
+  </Section>
+  <Section>
+    <Label>445</Label>
+    <Text>abrogé, 1996, ch. 6, art. 61</Text>
+  </Section>
+  <Section>
+    <Label>446</Label>
+    <Text>1996, ch. 6, art. 62</Text>
+  </Section>
+  <Section>
+    <Label>447</Label>
+    <Text>1996, ch. 6, art. 62</Text>
+  </Section>
+  <Section>
+    <Label>447.1</Label>
+    <Text>ajouté, 1996, ch. 6, art. 62</Text>
+  </Section>
+  <Section>
+    <Label>448</Label>
+    <Text>1996, ch. 6, art. 62</Text>
+  </Section>
+  <Section>
+    <Label>449</Label>
+    <Text>1996, ch. 6, art. 62</Text>
+  </Section>
+  <Section>
+    <Label>450</Label>
+    <Text>1996, ch. 6, art. 63</Text>
+  </Section>
+  <Section>
+    <Label>451</Label>
+    <Text>1996, ch. 6, art. 64(A)</Text>
+  </Section>
+  <Section>
+    <Label>452.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 336</Text>
+  </Section>
+  <Section>
+    <Label>452.2</Label>
+    <Text>ajouté, 2001, ch. 9, art. 336</Text>
+  </Section>
+  <Section>
+    <Label>452.3</Label>
+    <Text>ajouté, 2001, ch. 9, art. 336</Text>
+  </Section>
+  <Section>
+    <Label>452.4</Label>
+    <Text>ajouté, 2001, ch. 9, art. 336</Text>
+  </Section>
+  <Section>
+    <Label>452.5</Label>
+    <Text>ajouté, 2001, ch. 9, art. 336</Text>
+  </Section>
+  <Section>
+    <Label>452.6</Label>
+    <Text>ajouté, 2005, ch. 54, art. 205</Text>
+  </Section>
+  <Section>
+    <Label>455</Label>
+    <Text>2005, ch. 54, art. 206</Text>
+  </Section>
+  <Section>
+    <Label>458</Label>
+    <Text>2005, ch. 54, art. 207(F)</Text>
+  </Section>
+  <Section>
+    <Label>459.1</Label>
+    <Text>ajouté, 1997, ch. 15, art. 159</Text>
+  </Section>
+  <Section>
+    <Label>459.2</Label>
+    <Text>ajouté, 2001, ch. 9, art. 337; 2007, ch. 6, art. 182</Text>
+  </Section>
+  <Section>
+    <Label>459.3</Label>
+    <Text>ajouté, 2007, ch. 6, art. 182</Text>
+  </Section>
+  <Section>
+    <Label>459.4</Label>
+    <Text>ajouté, 2007, ch. 6, art. 182; 2010, ch. 12, art. 1859</Text>
+  </Section>
+  <Section>
+    <Label>459.5</Label>
+    <Text>ajouté, 2007, ch. 6, art. 182</Text>
+  </Section>
+  <Section>
+    <Label>459.6</Label>
+    <Text>ajouté, 2007, ch. 6, art. 182</Text>
+  </Section>
+  <Section>
+    <Label>459.7</Label>
+    <Text>ajouté, 2007, ch. 6, art. 182</Text>
+  </Section>
+  <Section>
+    <Label>459.8</Label>
+    <Text>ajouté, 2007, ch. 6, art. 182</Text>
+  </Section>
+  <Section>
+    <Label>459.81</Label>
+    <Text>ajouté, 2012, ch. 5, art. 120</Text>
+  </Section>
+  <Section>
+    <Label>459.9</Label>
+    <Text>ajouté, 2009, ch. 2, art. 279; 2016, ch. 7, art. 177</Text>
+  </Section>
+  <Section>
+    <Label>461.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 338; 2007, ch. 6, art. 183</Text>
+  </Section>
+  <Section>
+    <Label>461.2</Label>
+    <Text>ajouté, 2007, ch. 6, art. 184; 2012, ch. 5, art. 121</Text>
+  </Section>
+  <Section>
+    <Label>462</Label>
+    <Text>1991, ch. 48, art. 498; 1996, ch. 6, art. 65</Text>
+  </Section>
+  <Section>
+    <Label>463</Label>
+    <Text>1997, ch. 15, art. 160; 1999, ch. 31, art. 58(F); 2001, ch. 9, art. 339; 2005, ch. 54, art. 208; 2014, ch. 39, art. 290</Text>
+  </Section>
+  <Section>
+    <Label>465</Label>
+    <Text>2007, ch. 6, art. 185</Text>
+  </Section>
+  <Section>
+    <Label>466</Label>
+    <Text>1997, ch. 15, art. 161; 2000, ch. 12, art. 85; 2005, ch. 54, art. 209</Text>
+  </Section>
+  <Section>
+    <Label>467</Label>
+    <Text>1997, ch. 15, art. 162</Text>
+  </Section>
+  <Section>
+    <Label>467.1</Label>
+    <Text>ajouté, 2001, ch. 9, art. 340</Text>
+  </Section>
+  <Section>
+    <Label>469</Label>
+    <Text>2001, ch. 9, art. 341</Text>
+  </Section>
+  <Section>
+    <Label>470</Label>
+    <Text>2005, ch. 54, art. 210</Text>
+  </Section>
+  <Heading>
+    <Label>Partie XVI</Label>
+    <Text>abrogée, 2014, ch. 39, art. 291</Text>
+  </Heading>
+  <Section>
+    <Label>472</Label>
+    <Text>1993, ch. 34, art. 56(F); abrogé, 2014, ch. 39, art. 291</Text>
+  </Section>
+  <Section>
+    <Label>473</Label>
+    <Text>abrogé, 2014, ch. 39, art. 291</Text>
+  </Section>
+  <Section>
+    <Label>474</Label>
+    <Text>1997, ch. 15, art. 163; 2001, ch. 9, art. 342; 2005, ch. 54, art. 211; abrogé, 2014, ch. 39, art. 291</Text>
+  </Section>
+  <Section>
+    <Label>475 à 480</Label>
+    <Text>abrogés, 2014, ch. 39, art. 291</Text>
+  </Section>
+  <Heading>
+    <Label>Partie XVII</Label>
+    <Text>abrogée, 2014, ch. 39, art. 292 (<Emphasis style="italic">Remarque</Emphasis>: art. 292 abrogé avant son entrée en vigueur)</Text>
+  </Heading>
+  <Section>
+    <Label>481 à 487</Label>
+    <Text>abrogés, 2014, ch. 39, art. 292 (<Emphasis style="italic">Remarque</Emphasis>: art. 292 abrogé avant son entrée en vigueur)</Text>
+  </Section>
+  <Heading>
+    <Label>partie XVII.1</Label>
+    <Text>ajoutée, 2005, ch. 54, art. 212</Text>
+  </Heading>
+  <Section>
+    <Label>487.01</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <Section>
+    <Label>487.02</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <Section>
+    <Label>487.03</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <Section>
+    <Label>487.04</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <Section>
+    <Label>487.05</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <Section>
+    <Label>487.06</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <Section>
+    <Label>487.07</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <Section>
+    <Label>487.08</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <Section>
+    <Label>487.09</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <Section>
+    <Label>487.1</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <Section>
+    <Label>487.11</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <Section>
+    <Label>487.12</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <Section>
+    <Label>487.13</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <Section>
+    <Label>487.14</Label>
+    <Text>ajouté, 2005, ch. 54, art. 212</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2007, ch. 29, art. 150</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>dispositions générales, 2001, ch. 9, art. 255, 305, 323</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 2014, ch. 39, art. 293 à 297 (résiliation des accords) (<Emphasis style="italic">Remarque</Emphasis>: art. 293 à 297 abrogés avant leur entrée en vigueur) et art. 298 et 299 (dissolution de la Centrale des caisses de crédit du Canada)</Text>
+  </General>
+  <Transitional>
+    <Text>disposition transitoire, 1992, ch. 51, art. 67</Text>
+  </Transitional>
+  <Transitional>
+    <Text>dispositions transitoires, 2015, ch. 36, art. 245 et 252</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, 1991, ch. 48, art. 496 à 498 en vigueur 01.06.92 <Emphasis style="italic">voir</Emphasis> TR/92‑92</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1992, ch. 51, art. 31 et 67 en vigueur 30.01.93 <Emphasis style="italic">voir</Emphasis> TR/93‑11</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1993, ch. 34, art. 53 à 56 en vigueur à la sanction 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1993, ch. 44, art. 51 en vigueur 01.01.94 <Emphasis style="italic">voir</Emphasis> TR/94‑1</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 26, art. 26 à 28 en vigueur la sanction 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 47, art. 50 à 55 en vigueur 01.01.95 <Emphasis style="italic">voir</Emphasis> TR/95‑5</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 6, art. 49 à 65 et 167 en vigueur <Emphasis style="italic">voir</Emphasis> 28.06.96 <Emphasis style="italic">voir</Emphasis> TR/96‑58</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1997, ch. 15, art. 116 en vigueur à la sanction 25.04.97; art. 117 à 123 et 126 à 163 en vigueur 15.06.97 <Emphasis style="italic">voir</Emphasis> TR/97‑65; art. 124 et 125 en vigueur 01.01.98 <Emphasis style="italic">voir</Emphasis> TR/97‑65</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1998, ch. 1, art. 382 à 384 en vigueur 31.12.99 <Emphasis style="italic">voir</Emphasis> TR/99-69</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1998, ch. 30, al. 13e) et 15e) en vigueur 19.04.99 <Emphasis style="italic">voir</Emphasis> TR/99‑37</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 3, art. 12, ann., n<Sup>o</Sup> 4 en vigueur à la sanction 11.03.99; art. 24 en vigueur 01.04.99 <Emphasis style="italic">voir</Emphasis> art. 92</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 28, art. 115 à 117 en vigueur 28.06.99 <Emphasis style="italic">voir</Emphasis> TR199-70</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 31, art. 54 à 58 en vigueur à la sanction 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2000, ch. 12, art. 84 à 86 en vigueur 31.07.2000 <Emphasis style="italic">voir</Emphasis> TR/2000‑76</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 9,</Text>
+    <List>
+      <Item>
+        <Text>— art. 248 à 310</Text>
+      </Item>
+      <Item>
+        <Text>— art. 382 et 382.1 de la <XRefExternal reference-type="act">Loi sur les associations coopératives de crédit</XRefExternal>, édictés par l’art. 311</Text>
+      </Item>
+      <Item>
+        <Text>— art. 312 à 342 en vigueur 24.10.2001 <Emphasis style="italic">voir</Emphasis> TR/2001-102</Text>
+      </Item>
+      <Item>
+        <Text>— art. 383 à 383.2 de la <XRefExternal reference-type="act">Loi sur les associations coopératives de crédit</XRefExternal>, édictés par l’art. 311 en vigueur 01.01.2004<Emphasis style="italic"> voir</Emphasis> TR/2003-181 </Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">Voir aussi</Emphasis> art. 594</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 27, art. 234 en vigueur 28.06.2002 <Emphasis style="italic">voir</Emphasis> TR/2002-97</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 7, art. 136 en vigueur 01.04.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 19, art. 59 en vigueur à la sanction 13.05.2005</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 54,</Text>
+    <List>
+      <Item>
+        <Text>— par. 140(2), art. 143 à 148, par. 152(2), art. 153, 172, 179 à 186, 189 et 200 à 210 en vigueur 27.04.2006 <Emphasis style="italic">voir</Emphasis> TR/2006-68</Text>
+      </Item>
+      <Item>
+        <Text>— par. 140(3), art. 141, 142, 150 et 151, par. 152(1), art. 154 à 165, par. 166(1) et (3), art. 167, 169 à 171, 173 à 178, 187, 188, 190 à 194, 198 et 199 en vigueur 28.11.2006 <Emphasis style="italic">voir</Emphasis> TR/2006-140</Text>
+      </Item>
+      <Item>
+        <Text>— art. 195 à 197, 211 et 212 en vigueur 01.06.2011 <Emphasis style="italic">voir</Emphasis> DORS/2010-229 et l’e<Emphasis style="italic">rratum</Emphasis> TR/2010-86, <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, Partie II, Vol. 144, n<Sup>o</Sup>24, p. 2264 <Emphasis style="italic">re</Emphasis> numéro d’enregistrement</Text>
+      </Item>
+      <Item>
+        <Text>— par. 140(1) et art. 168 abrogés avant leur entrée en vigueur 31.12.2018 <Emphasis style="italic">voir</Emphasis> 2008, ch. 20, art. 3 (<XRefExternal reference-type="act">Loi sur l’abrogation des lois)</XRefExternal>, voir aussi <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, Partie I, Vol. 153, n<Sup>o</Sup> 7, p. 373</Text>
+      </Item>
+      <Item>
+        <Text>— par. 166(2) abrogé avant son entrée en vigueur 31.12.2020 <Emphasis style="italic">voir</Emphasis> 2008, ch. 20, art. 3 (<XRefExternal reference-type="act">Loi sur l’abrogation des lois</XRefExternal>)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 149 abrogé par 2007, ch. 6, art. 388</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2006, ch. 4, art. 200 en vigueur à la sanction 22.06.2006</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2007, ch. 6,</Text>
+    <List>
+      <Item>
+        <Text>— art. 135 à 146, 148 à 159 et 161 à 163 et le par. 164(2), le passage du par. 385.04(3) précédant l’al. a) et l’al. 385.04(3)b) de la <XRefExternal reference-type="act">Loi sur les associations coopératives de crédit</XRefExternal>, édictés par le par. 164(3), les art. 166 et 168 à 185 en vigueur 20.04.2007 <Emphasis style="italic">voir</Emphasis> TR/2007-49</Text>
+      </Item>
+      <Item>
+        <Text>— art. 147, 160 et 388 en vigueur 08.03.2008 <Emphasis style="italic">voir</Emphasis> TR/2008-33</Text>
+      </Item>
+      <Item>
+        <Text>— art. 165 et 167 en vigueur 01.11.2011 <Emphasis style="italic">voir</Emphasis> TR/2011-28</Text>
+      </Item>
+      <Item>
+        <Text>— par. 164(1), al. 385.04(3)a) de la <XRefExternal reference-type="act">Loi sur les associations coopératives de crédit</XRefExternal>, édictés par le par. 164(3), abrogés avant leur entrée en vigueur 31.12.2021, <Emphasis style="italic">voir</Emphasis> 2008, ch. 20, art. 3</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2007, ch. 29, art. 146 et 150 en vigueur à la sanction 22.06.2007 <Emphasis style="italic">mais</Emphasis> art. 146 abrogé et réputé ne pas avoir produit ses effets <Emphasis style="italic">voir</Emphasis> art. 150</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2008, ch. 28, art. 151 en vigueur à la sanction 18.06.2008</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2009, ch. 2, art. 276, 278 et 279 en vigueur à la sanction 12.03.2009; art. 277 en vigueur 01.07.2010 <Emphasis style="italic">voir</Emphasis> TR/2010-31</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2010, ch. 12, art. 1859 en vigueur à la sanction 12.07.2010; art. 2114 et 2115 en vigueur 19.12.2012 <Emphasis style="italic">voir</Emphasis> TR/2012-99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 5, art. 105 en vigueur à la sanction 29.03.2012; art. 104 et 106 à 121 en vigueur 24.05.2012 <Emphasis style="italic">voir</Emphasis> TR/2012-36</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 19, art. 208 en vigueur à la sanction 29.06.2012; art. 364 en vigueur 01.07.2013 <Emphasis style="italic">voir</Emphasis> TR/2013‑61</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 33, art. 109 en vigueur à la sanction 26.06.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 40, art. 173 en vigueur à la sanction 12.12.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 39 (sanction : 16.12.2014)</Text>
+    <List>
+      <Item>
+        <Text>— art. 278 à 291, 298 et 299 en vigueur 15.01.2017 <Emphasis style="italic">voir</Emphasis> TR/2015-30 </Text>
+      </Item>
+      <Item>
+        <Text>— art. 292 à 297 abrogés avant leur entrée en vigueur 31.12.2024 <Emphasis style="italic">voir</Emphasis> 2008, ch. 20, art. 3 (<XRefExternal reference-type="act">Loi sur l’abrogation des lois</XRefExternal>), <Emphasis style="italic">voir</Emphasis> aussi la <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, Partie I, Vol. 159, n<Sup>o</Sup> 25, p. 1248</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 3, art. 43 en vigueur à la sanction 26.02.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 36, art. 238, 245 et 252 en vigueur à la sanction 23.06.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2016, ch. 7, art. 122 et 177 en vigueur à la sanction 22.06.2016</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 26, al. 62e) en vigueur à la sanction 12.12.2017</Text>
+  </CIF>
+</Statute>
+</TOPS>

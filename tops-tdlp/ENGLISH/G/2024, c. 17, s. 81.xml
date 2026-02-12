@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2024, c. 17, s. 81">
+  <Title>Global Minimum Tax Act</Title>
+  <ChapterNumber>2024, c. 17, s. 81</ChapterNumber>
+  <OtherLangTitle>(Impôt minimum mondial, Loi sur l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of National Revenue <Emphasis style="italic">see</Emphasis> s. 2(1)</Text>
+  </Minister>
+  <Section>
+    <Label>54</Label>
+    <Text>2024, c. 17, s. 111(33)</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>2024, c. 17, s. 111(31)</Text>
+  </Section>
+  <Section>
+    <Label>77</Label>
+    <Text>2024, c. 17, s. 111(32)</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 2024, c. 17</Text>
+    <List>
+      <Item>
+        <Text>— s. 81 enacting ss. 1 to 141 of the <XRefExternal reference-type="act">Global Minimum Tax Act</XRefExternal> in force on assent 20.06.2024</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 111(31) and (32) in force on assent (coordinating amendment - conditions met 28.06.2024 <Emphasis style="italic">see</Emphasis> SI/2024-33). <Emphasis style="italic">See also</Emphasis> application provision s. 111(34)</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

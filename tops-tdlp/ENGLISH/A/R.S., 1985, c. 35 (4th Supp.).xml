@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="R.S., 1985, c. 35 (4th Supp.)">
+  <Title>Air Canada Public Participation Act</Title>
+  <ChapterNumber>R.S., 1985, c. 35 (4th Supp.)</ChapterNumber>
+  <OtherLangTitle>(Participation publique au capital d’Air Canada, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Transport (SI/2016‑8)</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>1994, c. 24, s. 34(1)(a)(F)</Text>
+  </LongTitle>
+  <Section>
+    <Label>2</Label>
+    <Text>1994, c. 24, s. 34(1)(a)(F); 1996, c. 10, s. 206</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1994, c. 24, s. 34(1)(a)(F)</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1993, c. 34, s. 3; 1994, c. 24, s. 34(1)(a)(F); 1994, c. 47, s. 220 (Sch. IV, item 1); 2000, c. 15, s. 17; 2001, c. 35, s. 1; 2009, c. 2, s. 469; 2016, c. 8, s. 1; 2018, c. 10, s. 90</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1994, c. 24, s. 34(1)(a)(F)</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2000, c. 15, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>10.1</Label>
+    <Text>added, 2000, c. 15, s. 19; 2007, c. 19, s. 59</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1994, c. 24, s. 34(1)(a)(F)</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1994, c. 24, s. 34(1)(a)(F)</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2016, c. 8, s. 3</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 1994, c. 24, s. 34(2)(F)</Text>
+  </General>
+  <General>
+    <Text>General, 2016, c. 8, s. 2 (despite ss. 173 to 176 of <XRefExternal reference-type="act">Canada Business Corporations Act</XRefExternal>, the Corporation’s directors may amend its articles in accordance with the amendments set out in 2016, c. 8)</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, R.S., c. 35 (4th Supp.), ss. 11 and 12</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2000, c. 15, ss. 9 and 10</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2001, c. 35, s. 2</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2009, c. 2, s. 470</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 35 (4th Supp.), except s. 13 in force 18.08.88 <Emphasis style="italic">see</Emphasis> s. 15; s. 13 proclaimed in force 12.10.88 <Emphasis style="italic">see</Emphasis> SI/88‑201</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SI/89-98, PC 1989-516 of 23.03.1989, repealed by SI/2016-8, PC 2016-62 of 16.02.2016.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 34, s. 3 in force on assent 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 24, s. 34(F) in force on assent 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 47, s. 220 (Sch. IV, item 1) in force 01.01.95 <Emphasis style="italic">see</Emphasis> SI/95‑5</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 10, s. 206 in force 01.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑53</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 15, ss. 9, 10 and 17 to 19 in force 05.07.2000 <Emphasis style="italic">see</Emphasis> SI/2000-59</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 35 in force 02.02.2002 <Emphasis style="italic">see</Emphasis> SI/2002-40</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 19, s. 59 in force on assent 22.06.2007</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 2 (assent: 12.03.2009), Part 15 (ss. 469 to 471) repealed before coming into force <Emphasis style="italic">see</Emphasis> 2018, c. 10, s. 91</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SI/2016-8, P.C. 2016-62 of 16.02.2016</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2016, c. 8, ss. 1 to 3 in force on assent 22.06.2016.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 10 (assent: 23.05.2018), ss. 90 and 91 in force 27.06.2018 <Emphasis style="italic">see</Emphasis> SI/2018-50</Text>
+  </CIF>
+</Statute>
+</TOPS>

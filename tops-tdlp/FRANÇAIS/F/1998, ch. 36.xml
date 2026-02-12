@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1998, ch. 36">
+  <Title>Financement des petites entreprises du Canada, Loi sur le</Title>
+  <ChapterNumber>1998, ch. 36</ChapterNumber>
+  <OtherLangTitle>(Canada Small Business Financing Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre d’État (Petites Entreprises et Tourisme) (TR/2025-84)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2001, ch. 9, art. 587; 2015, ch. 36, art. 161; 2021, ch. 23, art. 204</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2009, ch. 2, art. 265; 2015, ch. 36, art. 162; 2021, ch. 23, art. 205</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2009, ch. 2, art. 266; 2021, ch. 23, art. 206</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2009, ch. 2, art. 267; 2015, ch. 36, art. 163; 2021, ch. 23, art. 207</Text>
+  </Section>
+  <CIF>
+    <Text>EEV, 1998, ch. 36 en vigueur à la sanction 10.12.98</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 9, art. 587 en vigueur 24.10.2001 <Emphasis style="italic">voir</Emphasis> TR/2001-102</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2009, ch. 2 (sanction : 12.03.2009), art. 265 à 267 en vigueur 01.04.2009 <Emphasis style="italic">voir</Emphasis> art. 268</Text>
+  </CIF>
+  <General>
+    <Text>[<Emphasis style="italic">Remarque</Emphasis> : TR/99-32, décret C.P. 1999-472 du 18.03.1999 abrogé <Emphasis style="italic">voir</Emphasis> TR/2013-114]</Text>
+  </General>
+  <CIF>
+    <Text>EEV, 2015, ch. 36, art. 161 à 163 en vigueur à la sanction 23.06.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2021, ch. 23 (sanction : 29.06.2021), par. 204(1), art. 205, par. 206(2) et art. 207 en vigueur à la sanction</Text>
+    <List>
+      <Item>
+        <Text>— par. 204(1), art. 205, par. 206(2) et 207) en vigueur 04.07.2022 <Emphasis style="italic">voir</Emphasis> TR/2022-33</Text>
+      </Item>
+      <Item>
+        <Text>— par. 204(2) et (3) et 206(1) entrent en vigueur à la date fixée par décret du gouverneur en conseil <Emphasis style="italic">voir</Emphasis> art. 208 et TR/2022-33 — non en vigueur</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

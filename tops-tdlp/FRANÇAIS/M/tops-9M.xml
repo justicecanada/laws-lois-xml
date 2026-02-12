@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="tops-9M">
+  <Title>Ministères du gouvernement <Emphasis style="italic">voir</Emphasis></Title>
+  <OtherLangTitle>(Departments of Government)</OtherLangTitle>
+  <Convention>
+    <Text>Gestion des finances publiques, Loi sur la, art. 14, pour le Ministère des Finances</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère de l’Agriculture et de l’Agroalimentaire, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère de l’Emploi et du Développement social, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère de l’Environnement, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère de l’Industrie, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère de la Citoyenneté et de l’Immigration, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère des Finances (pour la <XRefExternal reference-type="act">Loi sur la gestion des finances publiques</XRefExternal>, art. 14 <Emphasis style="italic">voir</Emphasis> Gestion des finances publiques, Loi sur la)</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère de la Justice, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère de la Santé, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère de la Sécurité publique et de la Protection civile, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère des Affaires étrangères, du Commerce et du Développement, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère des Affaires indiennes et du Nord canadien, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère des Anciens combattants, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère des Pêches et Océans, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère des Ressources naturelles, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère des Transports, Loi sur le</Text>
+  </Convention>
+  <Convention>
+    <Text>Ministère des Travaux publics et des Services gouvernementaux, Loi sur le</Text>
+  </Convention>
+</Statute>
+</TOPS>

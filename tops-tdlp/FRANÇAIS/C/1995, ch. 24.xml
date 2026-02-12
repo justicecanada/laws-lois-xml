@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1995, ch. 24">
+  <Title>Commercialisation du CN, Loi sur la</Title>
+  <ChapterNumber>1995, ch. 24</ChapterNumber>
+  <OtherLangTitle>(CN Commercialization Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Transports</Text>
+  </Minister>
+  <Section>
+    <Label>3</Label>
+    <Text>1996, ch. 10, art. 210.1</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2018, ch. 10, art. 60</Text>
+  </Section>
+  <General>
+    <Text>disposition générale, 2018, ch. 10, art. 60.1 (malgré les art. 173 à 176 de la <XRefExternal reference-type="act">Loi canadienne sur les sociétés par actions</XRefExternal>, les administrateurs du CN peuvent modifier les statuts de celui-ci conformément à la modification prévue dans 2018, ch. 10, art. 60)</Text>
+  </General>
+  <Transitional>
+    <Text>dispositions transitoires, 1995, ch. 24, art. 17</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, 1995, ch. 24, <Emphasis style="italic">sauf</Emphasis> art. 18, en vigueur à la sanction 13.07.95; art. 18 en vigueur 28.11.95 <Emphasis style="italic">voir</Emphasis> TR/95‑123</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 10, art. 210.1 en vigueur 01.07.96 <Emphasis style="italic">voir</Emphasis> TR/96‑53</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 10, art. 60 et 60.1 en vigueur à la sanction 23.05.2018</Text>
+  </CIF>
+</Statute>
+</TOPS>

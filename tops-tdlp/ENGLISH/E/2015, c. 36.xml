@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2015, c. 36">
+  <Title>Economic Action Plan 2015 Act, No. 1</Title>
+  <ChapterNumber>2015, c. 36</ChapterNumber>
+  <OtherLangTitle>(Plan d’action économique de 2015, Loi n<Sup>o</Sup> 1)</OtherLangTitle>
+  <Minister>
+    <Text>Introduced by Minister of Finance</Text>
+  </Minister>
+  <Section>
+    <Label>89</Label>
+    <Text>2017, c. 33, s. 217</Text>
+  </Section>
+  <Section>
+    <Label>92</Label>
+    <Text>2017, c. 33, s. 218</Text>
+  </Section>
+  <Section>
+    <Label>253</Label>
+    <Text>2017, c. 9, subpar. 55(1)(s)(i) and (ii); repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>254</Label>
+    <Text>2017, c. 9, subpar. 55(1)(s)(iii); repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>255 and 256</Label>
+    <Text>repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>257</Label>
+    <Text>2017, c. 9, subpar. 55(1)(s)(iv); repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>258 and 259</Label>
+    <Text>repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>260</Label>
+    <Text>2017, c. 9, subpar. 55(1)(s)(v); repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>261</Label>
+    <Text>repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>262</Label>
+    <Text>2017, c. 9, subpar. 55(1)(s)(vi); repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>263 to 266</Label>
+    <Text>repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>267</Label>
+    <Text>2017, c. 9, subpar. 55(1)(s)(vii); repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>268</Label>
+    <Text>2017, c. 9, subpar. 55(1)(s)(viii); repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>269</Label>
+    <Text>repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>270</Label>
+    <Text>2017, c. 9, subpar. 55(1)(s)(ix); repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>271</Label>
+    <Text>2017, c. 9, subpar. 55(1)(s)(ix); repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>272 and 273</Label>
+    <Text>repealed, 2018, c. 24, s. 36</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2015, c. 36, ss. 70, 71 and 228</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2018, c. 27, ss. 211, 239, 260 and 263</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2015, c. 36, ss. 253 to 273 (sick leave and disability programs)</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2017, c. 9, par. 55(1)(s)</Text>
+  </Terminology>
+  <CIF>
+    <Text>CIF, 2015, c. 36, ss. 2 to 19, 29 to 34, 41 to 43, 70 to 72, 80 to 82, 86, 93 to 167, 176, 205, 228, 230 to 273 in force on assent 23.06.2015 [<Emphasis style="italic">Note</Emphasis>: s. 158 repealed by 2016, c. 7, s. 230]</Text>
+    <List>
+      <Item>
+        <Text>— ss. 20 to 28 (<XRefExternal reference-type="act">Regulations</XRefExternal>) in force on assent 23.06.2015</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 35 to 39 and 206 to 227 in force 01.07.2015 <Emphasis style="italic">see respectively</Emphasis> ss. 40 and 229</Text>
+      </Item>
+      <Item>
+        <Text>— [<Emphasis style="italic">Note</Emphasis>: s. 41 enacts the <XRefExternal reference-type="act">Federal Balanced Budget Act</XRefExternal>; (this Act was repealed and deemed never to have come into force <Emphasis style="italic">see</Emphasis> 2016, c. 7, s. 79)]</Text>
+      </Item>
+      <Item>
+        <Text>— [<Emphasis style="italic">Note</Emphasis>: s. 42 enacts the <XRefExternal reference-type="act">Prevention of Terrorist Travel Act</XRefExternal>]</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 44 to 49 in force 05.11.2018 <Emphasis style="italic">see</Emphasis> SI/2018-45</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 54 and 66 in force 24.06.2016 <Emphasis style="italic">see</Emphasis> s. 72(5)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 63 and 68 in force 05.11.2018 <Emphasis style="italic">see</Emphasis> SI/2018-49</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 67 and 69(2) in force 17.06.2019 <Emphasis style="italic">see</Emphasis> SI/2018-100 and s. 72(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 69(1) in force 17.06.2019 <Emphasis style="italic">see</Emphasis> s. 72(6) and SI/2018-100</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 73 to 79 in force 03.01.2016 <Emphasis style="italic">see</Emphasis> s. 80</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 83 to 85 in force 18.05.2017 <Emphasis style="italic">see</Emphasis> SI/2017-27</Text>
+      </Item>
+      <Item>
+        <Text>— s. 87 in force 14.09.2015 <Emphasis style="italic">see</Emphasis> SI/2015-78</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 168, 170, 171(2) and 174 in force 31.07.2018 <Emphasis style="italic">see</Emphasis> SI/2018-47</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 169(1), 171(1) and (3), 172, 173 and 175 in force 18.10.2017 <Emphasis style="italic">see</Emphasis> SI/2017-58</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 177 to 204 in force 01.04.2016 <Emphasis style="italic">see</Emphasis> SI/2016-14</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 50 to 53, 56 to 62, 64, and 65 in force 30.10.2019 <Emphasis style="italic">see</Emphasis> SI/2019-46</Text>
+      </Item>
+      <Item>
+        <Text>— s. 55 repealed before coming into force <Emphasis style="italic">see</Emphasis> s. 136(3) of the <XRefExternal reference-type="act">Canada European Union Comprehensive Economic and Trade Agreement Implementation Act</XRefExternal> (S.C. 2017, c. 6) and SI/2017-47</Text>
+      </Item>
+      <Item>
+        <Text>(<Emphasis style="italic">Note</Emphasis>: s. 53(2) deemed in force after s. 118(4) of the <XRefExternal reference-type="act">Economic Action Plan 2014 Act, No. 2 see</XRefExternal> 2015, c. 36, s. 71(6); s. 58 deemed in force after s. 131 of the <XRefExternal reference-type="act">Economic Action Plan 2014 Act, No. 2 see</XRefExternal> 2015, c. 36, s. 71(7); s. 59 deemed in force after s. 136 of the <XRefExternal reference-type="act">Economic Action Plan 2014 Act, No. 2 see</XRefExternal> 2015, c. 36, s. 71(8); s. 62(1) deemed in force after s. 137(1) of the <XRefExternal reference-type="act">Economic Action Plan 2014 Act, No. 2 see</XRefExternal> 2015, c. 36, s. 71(9); s. 64 deemed in force after s. 139 of the <XRefExternal reference-type="act">Economic Action Plan 2014 Act, No. 2 see</XRefExternal> 2015, c. 36, s. 71(11); s. 65 deemed in force after ss. 129, 136 and 139 of the <XRefExternal reference-type="act">Economic Action Plan 2014 Act, No. 2 see</XRefExternal> 2015, c. 36, s. 71(12))</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 88 to 92 in force 01.09.2020 <Emphasis style="italic">see</Emphasis> SI/2020-49</Text>
+      </Item>
+      <Item>
+        <Text>— s. 169(2) comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 176(2) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See also</Emphasis> various application provisions throughout.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2016, c. 7, s. 79 in force on assent 22.06.2016; s. 230 in force 03.07.2016 <Emphasis style="italic">see</Emphasis> SI/2016-42</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 9, par. 55(1)(s) in force on assent 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 33, ss. 217 and 218 in force on assent 12.12.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 24, s. 36 in force on assent 26.11.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 27, ss. 211, 239 and 260 in force on assent 13.12.2018</Text>
+  </CIF>
+</Statute>
+</TOPS>

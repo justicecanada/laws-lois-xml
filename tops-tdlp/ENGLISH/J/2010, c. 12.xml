@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2010, c. 12">
+  <Title>Jobs and Economic Growth Act</Title>
+  <ChapterNumber>2010, c. 12</ChapterNumber>
+  <OtherLangTitle>(Emploi et la croissance économique, Loi sur l’)</OtherLangTitle>
+  <Section>
+    <Label>58</Label>
+    <Text>2012, c. 31, s. 93</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>2012, c. 31, s. 94</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>2012, c. 31, s. 95</Text>
+  </Section>
+  <Section>
+    <Label>1679</Label>
+    <Text>2011, c. 24, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>1680</Label>
+    <Text>2011, c. 24, s. 178</Text>
+  </Section>
+  <Section>
+    <Label>2073</Label>
+    <Text>2012, c. 31, s. 153</Text>
+  </Section>
+  <Section>
+    <Label>2147</Label>
+    <Text>2014, c. 39, s. 378</Text>
+  </Section>
+  <Section>
+    <Label>2148</Label>
+    <Text>2014, c. 39, s. 379</Text>
+  </Section>
+  <Section>
+    <Label>2148.1</Label>
+    <Text>added, 2014, c. 39, s. 380</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2010, c. 12, ss. 95 and 2135</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2010, c. 12, ss. 54 (Application), 2137 to 2146 (Atomic Energy of Canada Limited) and 2180 to 2183 (payments to certain entities)</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 2010, c. 12, ss. 1778, 1826, 2162, 2163, 2178 and 2195 to 2200</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2010, c. 12, ss. 2 to 22, 26 to 28, 30, 31, 38 to 54, 55(5) and (6), 56(2), 57 to 59, 61 to 63, 64(2) to (7), 65, 66, 67(2) to (4), 68(2), 69(2), 70, 71(2), 72, 73, 74(2), 75 to 89, 95, 96, 103, 1646 to 1649, 1653, 1655, 1657, 1659, 1661, 1664, 1667, 1670, 1683, 1686, 1692, 1694, 1696, 1699, 1711, 1716, 1722, 1724, 1728, 1730, 1732, 1737, 1739, 1742, 1745, 1754, 1756, 1758, 1760, 1762, 1764, 1766, 1768, 1773, 1775, 1783, 1785, 1788, 1789, 1792 to 1794, 1796, 1798, 1799, 1801, 1803, 1810, 1811, 1813(2), 1814, 1816(1) and (3), 1819, 1820(2) to (5), (7), (8) and (10), 1821, 1824, 1825, 1827 to 1833, ss. 1 to 5 and 8 of the <XRefExternal reference-type="act">Payment Card Networks Act</XRefExternal>, as enacted by s. 1834, 1835 to 1861, 1884 to 1888, 1891 to 1893, 2136, 2148 to 2163, 2178 to 2184, 2189, 2195 to 2201 and 2204 to 2208 in force on assent 12.07.2010</Text>
+    <List>
+      <Item>
+        <Text>— ss. 37(1) and 98 deemed to have come into force 01.07.2010 <Emphasis style="italic">see respectively</Emphasis> ss. 37(2) and 103(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 55(1) to (4) and 67(1) deemed in force 17.12.90 <Emphasis style="italic">see respectively</Emphasis> ss. 55(5) and 67(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 56(1) and 60(1) deemed in force 01.04.2007 <Emphasis style="italic">see respectively</Emphasis> ss. 56(2) and 60(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 64(1) deemed never to have come into force and is repealed <Emphasis style="italic">see</Emphasis> par. 95(4)(a)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 68(1), 69(1) and 71(1) deemed in force 23.09.2009 <Emphasis style="italic">see respectively</Emphasis> ss. 68(2), 69(2) and 71(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 74(1) deemed in force 01.01.2010 <Emphasis style="italic">see</Emphasis> s. 74(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 95(4)(e) deemed to have come into force 01.07.2010 <Emphasis style="italic">see</Emphasis> par. 95(4)(f)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 99 to 102 in force 01.09.2010 <Emphasis style="italic">see</Emphasis> SI/2010-55</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 104 to 1644 deemed to have come into force 05.03.2010 <Emphasis style="italic">see</Emphasis> s. 1645</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1650 to 1652, 1654, 1656, 1658, 1660, 1662, 1663, 1665, 1666, 1668, 1669, 1671 to 1682, 1684, 1685, 1687 to 1691, 1693, 1695, 1697, 1698, 1700 to 1710, 1712 to 1715, 1717 to 1721, 1723, 1725 to 1727, 1729, 1731, 1733 to 1736, 1738, 1740, 1741, 1743, 1744, 1746 to 1753, 1755, 1757, 1759, 1761, 1763, 1767, 1769 to 1772 and 1774 in force 16.03.2012 <Emphasis style="italic">see</Emphasis> SI/2012-14</Text>
+      </Item>
+      <Item>
+        <Text>— s. 1765 in force 15.06.2012 <Emphasis style="italic">see</Emphasis> SI/2012-14</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1776 to 1782 and 1784 in force 27.08.2010 <Emphasis style="italic">see</Emphasis> SI/2010-72</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1786, 1790, 1791(1) to (4), 1795, 1812, 1815(2) and (3), 1816(4) to (7), 1817, 1820(1), (9) and (11) in force 01.04.2011 <Emphasis style="italic">see</Emphasis> SI/2011-21</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1787, 1791(5), 1800, 1802, 1805 to 1809, 1813(1), 1815(1), 1818, 1822 and 1823 in force 01.07.2011 <Emphasis style="italic">see</Emphasis> SI/2011-21</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1797 and 1820(12) in force 31.10.2010 <Emphasis style="italic">see</Emphasis> SI/2010‑82</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1804 and 1820(6) in force 01.04.2014 <Emphasis style="italic">see</Emphasis> SI/2015‑19</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1816(2) and 1826 repealed before coming into force <Emphasis style="italic">see</Emphasis> 2010, c. 25, s. 198(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 1820(12) in force 31.10.2010 <Emphasis style="italic">see</Emphasis> SI/2010‑82</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1862 to 1873 and 1876 to 1883 in force 18.06.2014 <Emphasis style="italic">see</Emphasis> s. 1884 as amended by 2014, c. 20, s. 297</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1874 and 1875 in force 14.02.2011 <Emphasis style="italic">see</Emphasis> SI/2011‑13</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1889 and 1890 in force 01.11.2010 <Emphasis style="italic">see</Emphasis> SI/2010-80 and s. 1893</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1894 to 2135 in force 19.12.12 <Emphasis style="italic">see</Emphasis> SI/2012-99</Text>
+      </Item>
+      <Item>
+        <Text>— s. 2018(3) repealed before coming into force <Emphasis style="italic">see</Emphasis> s. 2135(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 2137 to 2147 in force 25.03.2011 <Emphasis style="italic">see</Emphasis> SI/2011-25</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 2185 to 2187 and 2190 to 2194 are deemed in force 01.01.2009 <Emphasis style="italic">see</Emphasis> s. 2208(1)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 2188 in force 23.09.2010 <Emphasis style="italic">see</Emphasis> SI/2010-74 and s. 2208(2), <Emphasis style="italic">but see also </Emphasis><Emphasis style="italic">Erratum</Emphasis>, <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal>, Part II, Vol. 144, No. 22, p. 2002 <Emphasis style="italic">re</Emphasis> P.C. date</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 6 and 7 of the <XRefExternal reference-type="act">Payment Card Networks Act</XRefExternal>, as enacted by s. 1834, come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 850 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 2172 to 2177 repealed before coming into force <Emphasis style="italic">see</Emphasis> s. 2017, c. 20, s. 399(2) and SI/2019-76</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See also</Emphasis> various application provisions throughout</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2011, c. 24, Part 16 (ss. 177 and 178) in force on assent 15.12.2011</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 31, ss. 93 to 95 and 153 in force on assent 14.12.2012</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 20, s. 297 in force on assent 19.06.2014</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 39, s. 379 in force on assent 16.12.2014</Text>
+    <List>
+      <Item>
+        <Text>— s. 378(1) deemed in force 30.05.2014 <Emphasis style="italic">see</Emphasis> s. 381(1)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 378(2) and 380 in force 13.09.2015 <Emphasis style="italic">see</Emphasis> published notice in <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal>, Part I, No. 39, 26.09.2015, p. 2323 (day on which Atomic Energy of Canada Limited sold, under par. 2141(1)(j) of the <XRefExternal reference-type="act">Jobs and Economic Growth Act</XRefExternal> (2010, c. 12), of the securities of Canadian Nuclear Laboratories Ltd.</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

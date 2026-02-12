@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="O-8">
+  <Title>Oil Substitution and Conservation Act</Title>
+  <ChapterNumber>R.S., 1985, c. O-8</ChapterNumber>
+  <OtherLangTitle>(Économie de pétrole et le remplacement du mazout, Loi sur l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Natural Resources</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1994, c. 41, s. 37(1)(t)</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>R.S., c. 30 (1st Supp.), s. 1</Text>
+  </Section>
+  <General>
+    <Text>General, 1994, c. 41, s. 37(2)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, R.S., c. 30 (1st Supp.) in force 28.06.85</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 41, s. 37 in force 12.01.95 <Emphasis style="italic">see</Emphasis> SI/95‑10</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="J-2">
+  <Title>Department of Justice Act</Title>
+  <ChapterNumber>R.S., 1985, c. J-2</ChapterNumber>
+  <OtherLangTitle>(Ministère de la Justice, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Justice and Attorney General of Canada</Text>
+  </Minister>
+  <Section>
+    <Label>3</Label>
+    <Text>2006, c. 9, s. 137</Text>
+  </Section>
+  <Section>
+    <Label>4.1</Label>
+    <Text>added, R.S., c. 31 (1st Supp.), s. 93; 1992, c. 1, s. 144 (Sch. VII, item 38)(F)</Text>
+  </Section>
+  <Section>
+    <Label>4.2</Label>
+    <Text>added, 2018, c. 29, s. 73</Text>
+  </Section>
+  <Transitional>
+    <Text>Transitional, 2018, c. 29, s. 75</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 31 (1st Supp.), s. 93 proclaimed in force 13.08.85 <Emphasis style="italic">see</Emphasis> SI/85‑153</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 1, s. 144 (Sch. VII, item 38)(F) in force on assent 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2006, c. 9, s. 137 in force on assent 12.12.2006</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 29, ss. 73 and 75 come into force on the first anniversary of the day of assent (assented 13.12.2018).</Text>
+  </CIF>
+</Statute>
+</TOPS>

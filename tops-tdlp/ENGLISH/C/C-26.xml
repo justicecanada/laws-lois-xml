@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="C-26">
+  <Title>Carriage by Air Act</Title>
+  <ChapterNumber>R.S., 1985, c. C-26</ChapterNumber>
+  <OtherLangTitle>(Transport aérien, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Transport</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>2001, c. 31, s. 1</Text>
+  </LongTitle>
+  <Section>
+    <Label>1.1</Label>
+    <Text>added, 1999, c. 21, s. 1</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>1999, c. 21, s. 2; 2001, c. 31, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1999, c. 21, s. 3; 2001, c. 31, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1999, c. 21, s. 3; 2001, c. 31, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1999, c. 21, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>repealed, 1999, c. 21, s. 3</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch. II</Label>
+    <Text> </Text>
+  </Schedule>
+  <Section>
+    <Label>1</Label>
+    <Text>2000, c. 12, s. 73</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch. IV</Label>
+    <Text>added, 1999, c. 21, s. 4</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Sch. V</Label>
+    <Text>added, 1999, c. 21, s. 4</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Sch. VI</Label>
+    <Text>added, 2001, c. 31, s. 5</Text>
+  </Schedule>
+  <CIF>
+    <Text>CIF, 1999, c. 21 (assent date 17.06.99) Act in force 15.10.99 <Emphasis style="italic">see</Emphasis> s. 5.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 12, s. 73 in force 31.07.2000 <Emphasis style="italic">see</Emphasis> SI/2000-76</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 31 in force 04.11.2003 <Emphasis style="italic">see</Emphasis> SI/2003-165</Text>
+  </CIF>
+</Statute>
+</TOPS>

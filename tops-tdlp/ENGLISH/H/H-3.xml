@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="H-3">
+  <Title>Hazardous Products Act</Title>
+  <ChapterNumber>R.S., 1985, c. H-3</ChapterNumber>
+  <OtherLangTitle>(Produits dangereux, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Health</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>2014, c. 20, s. 110</Text>
+  </LongTitle>
+  <Section>
+    <Label>2</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 1992, c. 1, s. 145 (Sch. VIII, item 17)(F); 1996, c. 8, s. 25; 2010, c. 21, s. 72; 2014, c. 20, s. 111</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; R.S., c. 15 (4th Supp.), s. 9(2); 1997, c. 9, s. 104, c. 13, s. 61; 2002, c. 28, s. 85; 2004, c. 9, s. 1; repealed, 2010, c. 21, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; repealed, 2010, c. 21, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 2004, c. 9, s. 2; repealed, 2010, c. 21, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>added, 2004, c. 15, s. 67; repealed, 2010, c. 21, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 1996, c. 8, s. 26; repealed, 2010, c. 21, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; repealed, 2010, c. 21, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; repealed, 2010, c. 21, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; repealed, 2010, c. 21, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; repealed, 2010, c. 21, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 1999, c. 31, s. 127(E)</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 1997, c. 9, s. 105, c. 13, s. 62; 2002, c. 28, s. 86; 2010, c. 21, s. 74; 2014, c. 20, s. 113</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 1999, c. 31, s. 128(F); 2014, c. 20, s. 114</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 114</Text>
+  </Section>
+  <Section>
+    <Label>14.1</Label>
+    <Text>added, 2014, c. 20, s. 114</Text>
+  </Section>
+  <Section>
+    <Label>14.2</Label>
+    <Text>added, 2014, c. 20, s. 114</Text>
+  </Section>
+  <Section>
+    <Label>14.3</Label>
+    <Text>added, 2014, c. 20, s. 114</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 1999, c. 31, s. 129; 2014, c. 20, s. 115; 2016, c. 9, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; repealed, 2014, c. 20, s. 116</Text>
+  </Section>
+  <Section>
+    <Label>16.1</Label>
+    <Text>added, 2004, c. 15, s. 68; 2014, c. 20, s. 117</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>, R.S., c. H-3, s. 17; R.S., c. 24 (3rd Supp.), s. 1; repealed, 2014, c. 20, s. 118</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 119</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 120</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 121</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 122; 2016, c. 9, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 123</Text>
+  </Section>
+  <Section>
+    <Label>22.1</Label>
+    <Text>added, 2014, c. 20, s. 123; 2022, c. 17, s. 64</Text>
+  </Section>
+  <Section>
+    <Label>22.2</Label>
+    <Text>added, 2014, c. 20, s. 123</Text>
+  </Section>
+  <Section>
+    <Label>22.3</Label>
+    <Text>added, 2014, c. 20, s. 123</Text>
+  </Section>
+  <Section>
+    <Label>22.4</Label>
+    <Text>added, 2014, c. 20, s. 123</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>R.S., c. 27 (1st Supp.), s. 203; R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 123</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>added, R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 123</Text>
+  </Section>
+  <Section>
+    <Label>24.1</Label>
+    <Text>added, 2014, c. 20, s. 123</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>added, R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 123</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>added, R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 123</Text>
+  </Section>
+  <Section>
+    <Label>26.01</Label>
+    <Text>added, 2016, c. 9, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>26.1</Label>
+    <Text>added, 2014, c. 20, s. 123</Text>
+  </Section>
+  <Section>
+    <Label>26.2</Label>
+    <Text>added, 2014, c. 20, s. 123</Text>
+  </Section>
+  <Section>
+    <Label>26.3</Label>
+    <Text>added, 2014, c. 20, s. 123</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>added, R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 124; 2016, c. 9, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>27.1</Label>
+    <Text>added, 2004, c. 15, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>added, R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 125</Text>
+  </Section>
+  <Section>
+    <Label>28.1</Label>
+    <Text>added, 2014, c. 20, s. 125</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>added, R.S., c. 24 (3rd Supp.), s. 1</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>added, R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 126</Text>
+  </Section>
+  <Section>
+    <Label>30.1</Label>
+    <Text>added, 2014, c. 20, s. 126</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>R.S., c. 24 (3rd Supp.), s. 1; 2014, c. 20, s. 127</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch. I</Label>
+    <Text>SOR/85‑378; SOR/85‑587; SOR/86‑164(F); SOR/86‑943; R.S., c. 24 (3rd Supp.), s. 2(1); SOR/87‑441, SOR/87‑442, SOR/87‑444; R.S., c. 15 (4th Supp.), s. 9(1); SOR/88‑113, SOR/88‑150; SOR/88‑261; SOR/88‑557; SOR/88‑558; 1989, c. 7, s. 2, SOR/89‑256; SOR/89‑324; SOR/89‑441; SOR/89‑442; SOR/89‑447; SOR/90‑38; SOR/90‑219; SOR/90‑246; SOR/93‑235; 1997, c. 13, s. 63; SOR/98‑175; SOR/99-472; SOR/2001-270; SOR/2003-332; SOR/2004-46 <Emphasis style="italic">see also Erratum, </Emphasis><XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal> Part II, Vol. 138, No. 11, p. 969(F), 2004, c. 9, s. 3; SOR/2005-110; SOR/2005-133; SOR/2005-343; SOR/2007-205; SOR/2007-259; repealed, 2010, c. 21, s. 75, SOR/2010‑297; added, 2014, c. 20, s. 128</Text>
+  </Schedule>
+  <Heading>
+    <Label>Part I:</Label>
+  </Heading>
+  <Heading>
+    <Label>item 2</Label>
+    <Text> SOR/2010-225, s. 1</Text>
+  </Heading>
+  <Heading>
+    <Label>item 9</Label>
+    <Text> SOR/2010-225, s. 2</Text>
+  </Heading>
+  <Heading>
+    <Label>item 12</Label>
+    <Text> SOR/2008-190</Text>
+  </Heading>
+  <Heading>
+    <Label>item 16</Label>
+    <Text> added, SOR/2010-53</Text>
+  </Heading>
+  <Heading>
+    <Label>item 17 </Label>
+    <Text>repealed, SOR/2009-109, s. 1</Text>
+  </Heading>
+  <Heading>
+    <Label>item 18</Label>
+    <Text> SOR/2010-225, s. 3</Text>
+  </Heading>
+  <Heading>
+    <Label>item 19 </Label>
+    <Text>added, SOR/2005-343</Text>
+  </Heading>
+  <Heading>
+    <Label>item 33 </Label>
+    <Text>repealed, SOR/2009-192, s. 1</Text>
+  </Heading>
+  <Heading>
+    <Label>item 42 </Label>
+    <Text>added, SOR/2008-89</Text>
+  </Heading>
+  <Heading>
+    <Label>Part II:</Label>
+  </Heading>
+  <Heading>
+    <Label>item 3 </Label>
+    <Text>added, SOR/2009-109, s. 2</Text>
+  </Heading>
+  <Heading>
+    <Label>item 4 </Label>
+    <Text>added, SOR/2009-111, s. 1</Text>
+  </Heading>
+  <Heading>
+    <Label>item 5 </Label>
+    <Text>added, SOR/2010-272, s. 1</Text>
+  </Heading>
+  <Heading>
+    <Label>item 12</Label>
+    <Text> added, SOR/2005-133</Text>
+  </Heading>
+  <Heading>
+    <Label>item 20.1</Label>
+    <Text>SOR/2009-180</Text>
+  </Heading>
+  <Heading>
+    <Label>item 25</Label>
+    <Text> SOR/2010-262, s. 1</Text>
+  </Heading>
+  <Heading>
+    <Label>item 34</Label>
+    <Text> SOR/2008-230</Text>
+  </Heading>
+  <Heading>
+    <Label>item 38</Label>
+    <Text> added, SOR/2010-297, s. 1</Text>
+  </Heading>
+  <Heading>
+    <Label>item 43 </Label>
+    <Text>repealed, SOR/2005-343</Text>
+  </Heading>
+  <Heading>
+    <Label>item 47 </Label>
+    <Text>added, SOR/2009-192, s. 2</Text>
+  </Heading>
+  <Schedule>
+    <Label>Sch. II</Label>
+    <Text>added, R.S., c. 24 (3rd Supp.), s. 2(2); 2014, c. 20, s. 128</Text>
+  </Schedule>
+  <Heading>
+    <Label>item 3 </Label>
+    <Text>SOR/2022-273, s. 1</Text>
+  </Heading>
+  <Heading>
+    <Label>item 19 </Label>
+    <Text>repealed, SOR/2022-273, s. 2</Text>
+  </Heading>
+  <Heading>
+    <Label>item 21 </Label>
+    <Text>added, SOR/2022-273, s. 3</Text>
+  </Heading>
+  <General>
+    <Text>General, R.S., c. 24 (3rd Supp.), s. 57</Text>
+  </General>
+  <General>
+    <Text>General, 1996, c. 8, s. 32(2)</Text>
+  </General>
+  <General>
+    <Text>General, 2014, c. 20, s. 112</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2018, c. 9, s. 77(1)</Text>
+  </Terminology>
+  <Transitional>
+    <Text>Transitional, R.S., c. 24 (3rd Supp.), s. 56</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2014, c. 20, ss. 129 to 138</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 27 (1st Supp.), s. 203 in force 04.12.85 <Emphasis style="italic">see</Emphasis> SI/85-211</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 24 (3rd Supp.), ss. 1, 2, 56 and 57 in force 31.10.88 <Emphasis style="italic">see</Emphasis> s. 58</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 15 (4th Supp.), s. 9 in force 29.12.89 <Emphasis style="italic">see</Emphasis> 1989, c. 7, s. 4</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 1, s. 145 (Sch. VIII, item 17)(F) in force on assent 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 8, ss. 25, 26 and 32 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑69</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1997, c. 9, ss. 104 and 105 in force 31.05.2000 <Emphasis style="italic">see</Emphasis> SI/2000‑42</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1997, c. 13, ss. 61 to 63 in force on assent 25.04.97</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 31, ss. 127 to 129 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 28, ss. 85 and 86 in force 28.06.2006 <Emphasis style="italic">see</Emphasis> SI/2006-93</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 9, ss. 1 to 3 in force 31.12.2004 <Emphasis style="italic">see</Emphasis> s. 4</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 15, ss. 67 to 69 in force 13.10.2004 <Emphasis style="italic">see</Emphasis> SI/2004-137</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 21 (assent: 15.12.2010), ss. 72 to 75 in force 20.06.2011 <Emphasis style="italic">see</Emphasis> SI/2011‑12</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 20 (assent: 19.06.2014), ss. 110 to 138 in force 11.02.2015 <Emphasis style="italic">see</Emphasis> SI/2015-5 <Emphasis style="italic">but</Emphasis></Text>
+    <List>
+      <Item>
+        <Text>[<Emphasis style="italic">Note</Emphasis>: the day, for the purposes of ss. 130, 133 and 135 of the <XRefExternal reference-type="act">Economic Action Plan 2014, No. 1</XRefExternal>, is fixed as 01.06.2017 <Emphasis style="italic">see</Emphasis> SOR/2015-13]; the application date was postponed to 01.06.2018 <Emphasis style="italic">see</Emphasis> SOR/2017-92</Text>
+      </Item>
+      <Item>
+        <Text>[<Emphasis style="italic">Note</Emphasis>: the day, for the purposes of ss. 131, 132, 134, 136 and 137 of the <XRefExternal reference-type="act">Economic Action Plan 2014, No. 1</XRefExternal>, is fixed as 01.06.2018 <Emphasis style="italic">see</Emphasis> SOR/2015-14; the application date was postponed to 01.09.2018 <Emphasis style="italic">see</Emphasis> SOR/2017-93</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2016, c. 9, ss. 13 to 16 in force on assent 12.12.2016</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 9, s. 77 in force on assent 23.05.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 17, (assent: 15.12.2022), s. 64 in force on the 30th day after the day on which the Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2022-273 in force 15.12.2022, <Emphasis style="italic">see</Emphasis> s. 4 and SOR/2022-272, s. 65</Text>
+  </CIF>
+</Statute>
+</TOPS>

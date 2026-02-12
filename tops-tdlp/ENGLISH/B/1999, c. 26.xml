@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1999, c. 26">
+  <Title>Budget Implementation Act, 1999</Title>
+  <ChapterNumber>1999, c. 26</ChapterNumber>
+  <OtherLangTitle>(Exécution du budget de 1999, Loi d’)</OtherLangTitle>
+  <Heading>
+    <Label>Part 5, Division 1</Label>
+    <Text>(ss. 25 to 30):</Text>
+  </Heading>
+  <Section>
+    <Label>25</Label>
+    <Text>repealed, 2000, c. 14, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>repealed, 2000, c. 14, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>repealed, 2000, c. 14, s. 32, c. 30, s. 154 (but <Emphasis style="italic">see</Emphasis> conditional amendment 2000, c. 14, s. 34)</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>repealed, 2000, c. 14, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>repealed, 2000, c. 14, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>repealed, 2000, c. 14, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>2000, c. 19, s. 73</Text>
+  </Section>
+  <ConditionalAmendment>
+    <Text>Conditional amendment, 2000, c. 14, s. 34</Text>
+  </ConditionalAmendment>
+  <CIF>
+    <Text>CIF, 1999, c. 26, in force on assent 17.06.99 <Emphasis style="italic">except</Emphasis></Text>
+    <List>
+      <Item>
+        <Text>— ss. 2 to 11 deemed in force 01.04.99, <Emphasis style="italic">see</Emphasis> s. 13(1);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 12 deemed in force 31.03.99 <Emphasis style="italic">see</Emphasis> s. 13(2);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 20 to 24 in force 27.08.99 <Emphasis style="italic">see</Emphasis> SI/99-100</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">see also</Emphasis> various application provisions throughout.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 14, ss. 32 and 34 in force on assent 29.06.2000</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 19, s. 73(1) deemed in force 17.06.1999 <Emphasis style="italic">see</Emphasis> s. 73(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 30, s. 154(1) deemed in force 17.06.1999 <Emphasis style="italic">see</Emphasis> s. 154(2) (assent date 20.10.2000) <Emphasis style="italic">see also</Emphasis> conditional amendment 2000, c. 14, s. 34</Text>
+  </CIF>
+</Statute>
+</TOPS>

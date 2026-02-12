@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1995, c. 24">
+  <Title>CN Commercialization Act</Title>
+  <ChapterNumber>1995, c. 24</ChapterNumber>
+  <OtherLangTitle>(Commercialisation du CN, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Transport</Text>
+  </Minister>
+  <Section>
+    <Label>3</Label>
+    <Text>1996, c. 10, s. 210.1</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2018, c. 10, s. 60</Text>
+  </Section>
+  <General>
+    <Text>General, 2018, c. 10, s. 60.1 (despite ss. 173 to 176 of the <XRefExternal reference-type="act">Canada Business Corporations Act</XRefExternal>, CN’s directors may amend its articles in accordance with the amendment set out in 2018, c. 10, s. 60</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 1995, c. 24, s. 17</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1995, c. 24, other than s. 18, in force on assent 13.07.95; s. 18 in force 28.11.95 <Emphasis style="italic">see</Emphasis> SI/95‑123</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 10, s. 210.1 in force 01.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑53</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 10, ss. 60 and 60.1 in force on assent 23.05.2018</Text>
+  </CIF>
+</Statute>
+</TOPS>

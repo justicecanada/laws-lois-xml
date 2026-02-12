@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="C-21">
+  <Title>Canadian Payments Act</Title>
+  <ChapterNumber>R.S., 1985, c. C-21</ChapterNumber>
+  <TitleChanged>
+    <Text>(Formerly: Canadian Payments Association Act)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Loi canadienne sur les paiements)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Finance</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>2001, c. 9, s. 217</Text>
+  </LongTitle>
+  <Section>
+    <Label>1</Label>
+    <Text>2001, c. 9, s. 218</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>R.S., c. 18 (3rd Supp.), s. 33; 1991, c. 45, s. 546, c. 48, s. 488; 1999, c. 28, s. 110; 2001, c. 9, s. 219; 2007, c. 6, s. 422; 2014, c. 39, s. 334; 2024, c. 15, s. 219(E)</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>added, 2001, c. 9, s. 220</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1992, c. 1, s. 142 (Sch. V, item 10); 1999, c. 28, s. 111; 2001, c. 9, s. 223; 2007, c. 6, s. 423; 2009, c. 2, s. 256; 2014, c. 39, s. 335; 2024, c. 15, s. 220</Text>
+  </Section>
+  <Section>
+    <Label>4.1</Label>
+    <Text>added, 2014, c. 39, s. 336</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2001, c. 9, s. 224</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2001, c. 9, s. 225</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2001, c. 9, s. 226; 2014, c. 39, s. 337</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1993, c. 34, s. 46(F); 1999, c. 28, s. 112; 2001, c. 9, s. 227; 2003, c. 22, s. 142(E); 2007, c. 6, s. 424; 2012, c. 5, s. 207; 2014, c. 39, s. 337; 2024, c. 15, s. 221(E)</Text>
+  </Section>
+  <Section>
+    <Label>9.1</Label>
+    <Text>added, 2014, c. 39, s. 337; 2019, c. 29, s. 93</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1993, c. 34, s. 47(F); 1999, c. 28, s. 113; repealed, 2001, c. 9, s. 228; added, 2007, c. 6, s. 425</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2014, c. 39, s. 338</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2001, c. 9, s. 229(E); repealed, 2014, c. 39, s. 338</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2001, c. 9, s. 230; repealed, 2014, c. 39, s. 338</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2007, c. 6, s. 426</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2001, c. 9, s. 232(E) and par. 245(a)(E); 2007, c. 6, s. 427(F); 2014, c. 39, s. 339; 2019, c. 29, s. 94</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2001, c. 9, par. 245(b)(E); 2007, c. 6, s. 428; 2014, c. 39, s. 340</Text>
+  </Section>
+  <Section>
+    <Label>16.1</Label>
+    <Text>added, 2014, c. 39, s. 341</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2001, c. 9, s. 233; 2007, c. 6, s. 429; 2012, c. 5, s. 208; 2014, c. 39, s. 342; 2019, c. 29, s. 95; 2024, c. 15, s. 222</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2001, c. 9, s. 234 and par. 245(c)(E); 2007, c. 6, s. 430; 2014, c. 39, s. 344</Text>
+  </Section>
+  <Section>
+    <Label>19.1</Label>
+    <Text>added, 2001, c. 9, s. 235; 2014, c. 39, s. 345</Text>
+  </Section>
+  <Section>
+    <Label>19.2</Label>
+    <Text>added, 2001, c. 9, s. 235</Text>
+  </Section>
+  <Section>
+    <Label>19.3</Label>
+    <Text>added, 2001, c. 9, s. 235; 2014, c. 39, s. 346</Text>
+  </Section>
+  <Section>
+    <Label>19.4</Label>
+    <Text>added, 2001, c. 9, s. 235</Text>
+  </Section>
+  <Section>
+    <Label>19.5</Label>
+    <Text>added, 2014, c. 39, s. 347</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2001, c. 9, s. 237(E) and par. 245(d) and (e)(E); 2007, c. 6, s. 431(F); 2014, c. 39, s. 347; 2024, c. 15, s. 223(F)</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2001, c. 9, s. 238; 2024, c. 15, s. 224</Text>
+  </Section>
+  <Section>
+    <Label>21.1</Label>
+    <Text>added, 2001, c. 9, s. 238</Text>
+  </Section>
+  <Section>
+    <Label>21.2</Label>
+    <Text>added, 2001, c. 9, s. 238; 2007, c. 6, s. 432(F); 2014, c. 39, s. 349; 2019, c. 29, s. 96; 2024, c. 15, s. 225</Text>
+  </Section>
+  <Section>
+    <Label>21.3</Label>
+    <Text>added, 2014, c. 39, s. 350</Text>
+  </Section>
+  <Section>
+    <Label>21.4</Label>
+    <Text>added, 2014, c. 39, s. 350; 2024, c. 15, s. 226</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2014, c. 39, s. 351</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2014, c. 39, s. 351</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2007, c. 6, s. 433(F); 2014, c. 39, s. 351</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2014, c. 39, s. 352</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2014, c. 39, s. 353</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2001, c. 9, s. 239</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>R.S., c. 18 (3rd Supp.), s. 34; 2001, c. 9, s. 239; 2014, c. 39, s. 354</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>1991, c. 48, s. 489; 1997, c. 15, s. 115; 1999, c. 28, s. 114; repealed, 2001, c. 9, s. 240</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>1992, c. 27, s. 90; 1996, c. 6, ss. 163 and 167(1)(c); 2004, c. 25, s. 192</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2018, c. 12, s. 238</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>1993, c. 34, s. 48(E); repealed, 2001, c. 9, s. 241</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>1994, c. 24, s. 34(1)(g)(F); 2001, c. 9, s. 242; 2009, c. 23, ss. 320 and 351; 2014, c. 39, s. 355</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>2001, c. 9, s. 243; 2014, c. 39, s. 356; 2024, c. 15, s. 227(E)</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>added, 2001, c. 9, s. 244</Text>
+  </Section>
+  <Section>
+    <Label>36.1</Label>
+    <Text>added, 2001, c. 9, s. 244</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>added, 2001, c. 9, s. 244</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>added, 2001, c. 9, s. 244</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>added, 2001, c. 9, s. 244</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>added, 2001, c. 9, s. 244; 2024, c. 15, s. 228(E)</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>added, 2001, c. 9, s. 244</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>added, 2001, c. 9, s. 244</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>added, 2001, c. 9, s. 244; 2016, c. 7, s. 170</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>added, 2001, c. 9, s. 244</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>added, 2001, c. 9, s. 244</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>added, 2001, c. 9, s. 244; 2002, c. 8, par. 182(1)(h)</Text>
+  </Section>
+  <Section>
+    <Label>46.1</Label>
+    <Text>added, 2012, c. 5, s. 209</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>added, 2001, c. 9, s. 244</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>added, 2007, c. 6, s. 434</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>added, 2014, c. 39, s. 357; repealed, 2024, c. 15, s. 229</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>added, 2024, c. 15, s. 229</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2009, c. 23, s. 351</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 1994, c. 24, s. 34(2)(F)</Text>
+  </General>
+  <General>
+    <Text>General, 2001, c. 9, ss. 221, 222, 231, 236 and 246</Text>
+  </General>
+  <General>
+    <Text>General, 2014, c. 39, s. 343 and 348</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 2001, c. 9, ss. 247 and 247.1</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2014, c. 39, s. 358</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 18 (3rd Supp.) proclaimed in force 02.07.87 <Emphasis style="italic">see</Emphasis> SI/87‑146</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1991, c. 45, s. 546 in force 01.06.92 <Emphasis style="italic">see</Emphasis> SI/92‑89</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1991, c. 48, ss. 488 and 489 in force 01.06.92 <Emphasis style="italic">see</Emphasis> SI/92‑92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 1, s. 142 (Sch. V, item 10) in force on assent 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 27, s. 90 in force 30.11.92 <Emphasis style="italic">see</Emphasis> SI/92‑194</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 34, ss. 46(F), 47(F) and 48(E) in force on assent 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 24, s. 34(F) in force on assent 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 6, ss. 163 and 167 in force 28.06.96 <Emphasis style="italic">see</Emphasis> SI/96‑58</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1997, c. 15, s. 115 in force 15.10.99 <Emphasis style="italic">see</Emphasis> SI/99-117</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 28, ss. 110 to 114 in force 28.06.99 <Emphasis style="italic">see</Emphasis> SI/99‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 9,</Text>
+    <List>
+      <Item>
+        <Text>— (a) ss. 217 to 222, 223(1), (4) and (5) and 224 to 238;</Text>
+      </Item>
+      <Item>
+        <Text>  (b) s. 28 of the <XRefExternal reference-type="act">Canadian Payments Association Act</XRefExternal> and the heading before s. 28, as enacted by s. 239;</Text>
+      </Item>
+      <Item>
+        <Text>  (c) ss. 241 to 247.1</Text>
+      </Item>
+      <Item>
+        <Text>in force 24.10.2001 <Emphasis style="italic">se</Emphasis> SI/2001-102</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 223(2) and (3) and 240 in force 07.11.2001 <Emphasis style="italic">see</Emphasis> SI/2001-111</Text>
+      </Item>
+      <Item>
+        <Text>— s. 27 of the <XRefExternal reference-type="act">Canadian Payments Association Act</XRefExternal> and the heading before s. 27, as enacted by s. 239 in force 21.06.2002 <Emphasis style="italic">see</Emphasis> SI/2002-99</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, s. 182 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 142 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 25, s. 192 in force on assent 15.12.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 6,</Text>
+    <List>
+      <Item>
+        <Text>— s. 422(5), s. 4(4) of the <XRefExternal reference-type="act">Canadian Payments Act</XRefExternal>, as enacted by s. 423, ss. 424 to 426, 429(1), (2) and (4), 430(1) and 432 to 434 in force 20.04.2007 <Emphasis style="italic">see</Emphasis> SI/2007-49</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 422(1) to (4), s. 4(3) of the <XRefExternal reference-type="act">Canadian Payments Act</XRefExternal>, as enacted by s. 423, ss. 427, 428, 429(3), 430(2) and (3) and 431 in force 01.03.2010 <Emphasis style="italic">see</Emphasis> SI/2010-15</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 2 (assent: 12.03.2009), s. 256 in force 01.07.2009 <Emphasis style="italic">see</Emphasis> SI/2009-57</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 23, s. 351 in force on assent 23.06.2009; s. 320 in force 17.10.2011 <Emphasis style="italic">see</Emphasis> SI/2011-87 [<Emphasis style="italic">Note</Emphasis>: the amendment provided for s. 351 took effect at the coming into force of par. 313(a) which is 31.12.2017 <Emphasis style="italic">see</Emphasis> SI/2018-1]</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 5 (assent: 29.03.2012), ss. 208 and 209 in force 24.05.2012 <Emphasis style="italic">see</Emphasis> SI/2012-36; s. 207 in force 19.12.2012 <Emphasis style="italic">see</Emphasis> SI/2012-99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 39, s. 358 in force on assent 16.12.2014; ss. 334 to 357 in force 04.06.2015 <Emphasis style="italic">see</Emphasis> SI/2015-47.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2016, c. 7, s. 170 in force on assent 22.06.2016.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 12 (assent: 21.06.2018), s. 238 in force 23.06.2019 <Emphasis style="italic">see</Emphasis> SI/2019-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), ss. 93 to 96 in force 02.04.2021 <Emphasis style="bold">see</Emphasis> s. 97 and SI/2021-12</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF 2024, c. 15, in force on assent 20.06.2024, <Emphasis style="italic">except</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>— ss. 219 to 228 in force 25.09.2025 <Emphasis style="italic">see</Emphasis> SI/2025-102</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

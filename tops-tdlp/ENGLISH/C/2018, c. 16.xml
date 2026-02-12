@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2018, c. 16">
+  <Title>Cannabis Act</Title>
+  <ChapterNumber>2018, c. 16</ChapterNumber>
+  <OtherLangTitle>(Cannabis, Loi sur le</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Health (SI/2019-125)</Text>
+  </Minister>
+  <Section>
+    <Label>23</Label>
+    <Text>2023, c. 8, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>2022, c. 17, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>2019, c. 25, s. 400.1; 2022, c. 17, s. 74</Text>
+  </Section>
+  <Section>
+    <Label>147</Label>
+    <Text>2018, c. 16, s. 192</Text>
+  </Section>
+  <Schedule>
+    <Label>Schedule 2 </Label>
+    <Text>SOR/2025-44, s. 1</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 3</Label>
+    <Text>SOR/2019-207, ss. 1 and 2; SOR/2022-252</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 4</Label>
+    <Text>2018, c. 16, s. 193.1; SOR/2019-207, ss. 3-5</Text>
+  </Schedule>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2018, c. 16, s. 192</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2019, c. 25, s. 401</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2018, c. 16, s. 151.1 (review and report)</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 2018, c. 16, s. 152 (commencement day meaning), ss. 153 to 161</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2018, c. 16, ss. 160.1, 161 and 192 in force on assent 21.06.2018;</Text>
+    <List>
+      <Item>
+        <Text>— ss. 1 to 160 and its schedules in force 17.10.2018 <Emphasis style="italic">see</Emphasis> SI/2018-52;</Text>
+      </Item>
+      <Item>
+        <Text>— s 193.1 in force 17.10.2019 <Emphasis style="italic">see</Emphasis> s. 226(2)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 25 (assent: 21.06.2019), s. 400.1 in force 19.09.2019 <Emphasis style="italic">see</Emphasis> s. 406</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2022-252 in force 02.12.2022 <Emphasis style="italic">see</Emphasis> s. 4</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 17, (assent: 15.12.2022), ss. 73 and 74 in force on the 30th day after the day on which the Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2025-44 in force 12.03.2025 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+</Statute>
+</TOPS>

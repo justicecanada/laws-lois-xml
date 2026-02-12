@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1993, ch. 38">
+  <Title>Télécommunications, Loi sur les</Title>
+  <ChapterNumber>1993, ch. 38</ChapterNumber>
+  <OtherLangTitle>(Telecommunications Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de l’Industrie</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1995, ch. 1, al. 62(1)u); 1998, ch. 8, art. 1; 2004, ch. 25, art. 174</Text>
+  </Section>
+  <Section>
+    <Label>4.1</Label>
+    <Text>ajouté, 2023, ch. 23, art. 92</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2004, ch. 25, art. 175</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1999, ch. 31, art. 196(F)</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>1998, ch. 8, art. 2; 2010, ch. 12, art. 2184; 2012, ch. 19, art. 595</Text>
+  </Section>
+  <Section>
+    <Label>16.1</Label>
+    <Text>ajouté, 1998, ch. 8, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>16.2</Label>
+    <Text>ajouté, 1998, ch. 8, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>16.3</Label>
+    <Text>ajouté, 1998, ch. 8, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>16.4</Label>
+    <Text>ajouté, 1998, ch. 8, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>1999, ch. 31, art. 197(F)</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>1998, ch. 8, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>1998, ch. 8, art. 5; 1999, ch. 31, art. 198(F); 2004, ch. 25, art. 176</Text>
+  </Section>
+  <Section>
+    <Label>24.1</Label>
+    <Text>ajouté, 2014, ch. 39, art. 193</Text>
+  </Section>
+  <Section>
+    <Label>24.2</Label>
+    <Text>ajouté, 2024, ch. 10, art. 1</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>1999, ch. 31, art. 199(F)</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2014, ch. 20, art. 239</Text>
+  </Section>
+  <Section>
+    <Label>27.01</Label>
+    <Text>ajouté, 2024, ch. 17, art. 383</Text>
+  </Section>
+  <Section>
+    <Label>27.02</Label>
+    <Text>ajouté, 2024, ch. 17, art. 383</Text>
+  </Section>
+  <Section>
+    <Label>27.03</Label>
+    <Text>ajouté, 2024, ch. 17, art. 383</Text>
+  </Section>
+  <Section>
+    <Label>27.04</Label>
+    <Text>ajouté, 2024, ch. 17, art. 383</Text>
+  </Section>
+  <Section>
+    <Label>27.05</Label>
+    <Text>ajouté, 2024, ch. 17, art. 383</Text>
+  </Section>
+  <Section>
+    <Label>27.1</Label>
+    <Text>ajouté, 2014, ch. 20, par. 240(1), abrogé, ch. 20, par. 240(2)</Text>
+  </Section>
+  <Section>
+    <Label>27.2</Label>
+    <Text>ajouté, 2014, ch. 39, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>1999, ch. 31, art. 200(F)</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>1999, ch. 31, art. 201(F)</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>1999, ch. 31, art. 202(F)</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>1999, ch. 31, art. 203(F)</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2003, ch. 22, al. 224z.81)(A); 2010, ch. 23, art. 88; 2014, ch. 39, art. 195</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>2010, ch. 23, art. 89</Text>
+  </Section>
+  <Section>
+    <Label>41.1</Label>
+    <Text>ajouté, 2005, ch. 50, art. 1; abrogé, 2010, ch. 23, art. 90</Text>
+  </Section>
+  <Section>
+    <Label>41.2</Label>
+    <Text>ajouté, 2005, ch. 50, art. 1; abrogé, 2010, ch. 23, art. 90; 2012, ch. 19, art. 596</Text>
+  </Section>
+  <Section>
+    <Label>41.21</Label>
+    <Text>ajouté, 2012, ch. 19, art. 597</Text>
+  </Section>
+  <Section>
+    <Label>41.3</Label>
+    <Text>ajouté, 2005, ch. 50, art. 1; abrogé, 2010, ch. 23, art. 90; 2012, ch. 19, art. 598</Text>
+  </Section>
+  <Section>
+    <Label>41.4</Label>
+    <Text>ajouté, 2005, ch. 50, art. 1; abrogé, 2010, ch. 23, art. 90; 2012, ch. 19, art. 599</Text>
+  </Section>
+  <Section>
+    <Label>41.41</Label>
+    <Text>ajouté, 2012, ch. 19, art. 600</Text>
+  </Section>
+  <Section>
+    <Label>41.5</Label>
+    <Text>ajouté, 2005, ch. 50, art. 1; abrogé, 2010, ch. 23, art. 90</Text>
+  </Section>
+  <Section>
+    <Label>41.6</Label>
+    <Text>ajouté, 2005, ch. 50, art. 1; abrogé, 2010, ch. 23, art. 90</Text>
+  </Section>
+  <Section>
+    <Label>41.7</Label>
+    <Text>ajouté, 2005, ch. 50, art. 1; abrogé, 2010, ch. 23, art. 90</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>1999, ch. 31, art. 204(F)</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>1999, ch. 31, art. 205(F)</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2004, ch. 25, art. 177</Text>
+  </Section>
+  <Section>
+    <Label>46.1</Label>
+    <Text>ajouté, 1998, ch. 8, art. 6</Text>
+  </Section>
+  <Section>
+    <Label>46.2</Label>
+    <Text>ajouté, 1998, ch. 8, art. 6</Text>
+  </Section>
+  <Section>
+    <Label>46.3</Label>
+    <Text>ajouté, 1998, ch. 8, art. 6</Text>
+  </Section>
+  <Section>
+    <Label>46.4</Label>
+    <Text>ajouté, 1998, ch. 8, art. 6</Text>
+  </Section>
+  <Section>
+    <Label>46.5</Label>
+    <Text>ajouté, 1998, ch. 8, art. 6</Text>
+  </Section>
+  <Section>
+    <Label>46.6</Label>
+    <Text>ajouté, 2021, ch. 23, art. 202</Text>
+  </Section>
+  <Section>
+    <Label>46.7</Label>
+    <Text>ajouté, 2021, ch. 23, art. 202</Text>
+  </Section>
+  <Section>
+    <Label>46.8</Label>
+    <Text>ajouté, 2021, ch. 23, art. 202</Text>
+  </Section>
+  <Section>
+    <Label>46.9</Label>
+    <Text>ajouté, 2021, ch. 23, art. 202</Text>
+  </Section>
+  <Section>
+    <Label>46.91</Label>
+    <Text>ajouté, 2021, ch. 23, art. 202</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2019, ch. 10, art. 162</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2019, ch. 10, art. 163</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>2021, ch. 23, art. 203(F)</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>1999, ch. 31, art. 206(F)</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>2001, ch. 34, al. 32(1)b)(A); 2004, ch. 25, art. 178</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>1998, ch. 8, art. 7</Text>
+  </Section>
+  <Heading>
+    <Label>partie IV.1</Label>
+    <Text>(art. 69.1 à 69.5), ajoutée, 1998, ch. 8, art. 8</Text>
+  </Heading>
+  <Section>
+    <Label>69.1</Label>
+    <Text>ajouté, 1998, ch. 8, art. 8</Text>
+  </Section>
+  <Section>
+    <Label>69.2</Label>
+    <Text>ajouté, 1998, ch. 8, art. 8; 2014, ch. 39, art. 196</Text>
+  </Section>
+  <Section>
+    <Label>69.3</Label>
+    <Text>ajouté, 1998, ch. 8, art. 8; 2014, ch. 39, art. 197</Text>
+  </Section>
+  <Section>
+    <Label>69.4</Label>
+    <Text>ajouté, 1998, ch. 8, art. 8; 2014, ch. 39, art. 198</Text>
+  </Section>
+  <Section>
+    <Label>69.5</Label>
+    <Text>ajouté, 1998, ch. 8, art. 8; abrogé, 2014, ch. 39, art. 199</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>1999, ch. 31, art. 207(F); 2014, ch. 12, art. 137, ch. 39, art. 200, par. 209(2) à (4), (6) et al. 209(8)b); 2019, ch. 10, par. 164(1) à (3)</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>2001, ch. 4, art. 122(F)</Text>
+  </Section>
+  <Section>
+    <Label>72.001</Label>
+    <Text>ajouté, 2014, ch. 39, art. 201; 2019, ch. 10, art. 165</Text>
+  </Section>
+  <Section>
+    <Label>72.002</Label>
+    <Text>ajouté, 2014, ch. 39, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>72.003</Label>
+    <Text>ajouté, 2014, ch. 39, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>72.004</Label>
+    <Text>ajouté, 2014, ch. 39, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>72.005</Label>
+    <Text>ajouté, 2014, ch. 39, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>72.006</Label>
+    <Text>ajouté, 2014, ch. 39, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>72.007</Label>
+    <Text>ajouté, 2014, ch. 39, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>72.008</Label>
+    <Text>ajouté, 2014, ch. 39, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>72.009</Label>
+    <Text>ajouté, 2014, ch. 39, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>72.0091</Label>
+    <Text>ajouté, 2014, ch. 39, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>72.0092</Label>
+    <Text>ajouté, 2014, ch. 39, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>72.0093</Label>
+    <Text>ajouté, 2014, ch. 39, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>72.01</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2; 2014, ch. 12, art. 138</Text>
+  </Section>
+  <Section>
+    <Label>72.02</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2; abrogé, 2014, ch. 39, art. 203</Text>
+  </Section>
+  <Section>
+    <Label>72.03</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>72.04</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>72.05</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2; 2014, ch. 12, art. 139, abrogé, ch. 39, art. 204 et al. 209(8)a)</Text>
+  </Section>
+  <Section>
+    <Label>72.06</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2; 2014, ch. 12, art. 140, abrogé, ch. 39, art. 204</Text>
+  </Section>
+  <Section>
+    <Label>72.07</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>72.08</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2; 2014, ch. 39, art. 205</Text>
+  </Section>
+  <Section>
+    <Label>72.09</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>72.1</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2; 2014, ch. 12, art. 141, abrogé, ch. 39, art. 206</Text>
+  </Section>
+  <Section>
+    <Label>72.11</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2; abrogé, 2014, ch. 39, art. 206</Text>
+  </Section>
+  <Section>
+    <Label>72.12</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>72.13</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>72.14</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2; 2014, ch. 12, art. 142, ch. 39, art. 207</Text>
+  </Section>
+  <Section>
+    <Label>72.15</Label>
+    <Text>ajouté, 2005, ch. 50, art. 2; 2014, ch. 39, art. 207 et al. (13)b), ch. 12, art. 142.1</Text>
+  </Section>
+  <Section>
+    <Label>72.16</Label>
+    <Text>ajouté, 2014, ch. 12, art. 143, ajouté, ch. 39, art. 207</Text>
+  </Section>
+  <Section>
+    <Label>72.17</Label>
+    <Text>ajouté, 2014, ch. 39, art. 207 et al. (16)b), ch. 12, art. 143.1</Text>
+  </Section>
+  <Section>
+    <Label>72.18</Label>
+    <Text>ajouté, 2014, ch. 39, art. 207</Text>
+  </Section>
+  <Section>
+    <Label>72.19</Label>
+    <Text>ajouté, 2014, ch. 39, art. 207</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>1998, ch. 8, art. 9; 2002, ch. 17, art. 30; 2014, ch. 12, art. 144, ch. 39, art. 208</Text>
+  </Section>
+  <Section>
+    <Label>74.1</Label>
+    <Text>ajouté, 1998, ch. 8, art. 10; 2001, ch. 4, art. 123; 2004, ch. 25, art. 179</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>1999, ch. 31, art. 208(F)</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2012, ch. 19, art. 601 (non applicable)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2014, ch. 39, art. 209</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2024, ch. 16, art. 110</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>dispositions générales, 1993, ch. 38, art. 132 et 133 — <Emphasis style="italic">application</Emphasis></Text>
+  </General>
+  <General>
+    <Text>disposition générale, 1995, ch. 1, par. 62(3) et (4)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2014, ch. 39, art. 202</Text>
+  </General>
+  <Transitional>
+    <Text>dispositions transitoires, 1993, ch. 38, art. 75 et 76</Text>
+  </Transitional>
+  <General>
+    <Text>examen, 2005, ch. 50, art. 2.1</Text>
+  </General>
+  <CIF>
+    <Text>EEV, 1993, ch. 38 en vigueur 25.10.93 <Emphasis style="italic">voir</Emphasis> TR/93‑101</Text>
+    <List>
+      <Item>
+        <Text>— art. 3, 88, 89 et 90 à l’égard d’une entreprise canadienne mandataire de Sa Majesté du chef de la Saskatchewan en vigueur 30.06.2000 voir TR/98-109</Text>
+      </Item>
+      <Item>
+        <Text>— <Emphasis style="italic">voir aussi</Emphasis> art. 132 quant aux art. 3, 88, 89 et 90 à l’égard d’une entreprise canadienne mandataire de Sa Majesté du chef du Manitoba</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 1, art. 62 en vigueur 29.03.95 <Emphasis style="italic">voir</Emphasis> TR/95‑48</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1998, ch. 8, art. 1, 3 à 7 et par. 9(1) en vigueur 31.07.98 <Emphasis style="italic">voir</Emphasis> TR/98-87; art. 2 en vigueur 01.10.98 <Emphasis style="italic">voir</Emphasis> TR/98-101; art. 8, par. 9(2) à (4) et art. 10 en vigueur 31.03.2000 <Emphasis style="italic">voir</Emphasis> TR/2000-22</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 31, art. 196 à 208 en vigueur à la sanction 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 4, art. 122 et 123 en vigueur 01.06.2001 <Emphasis style="italic">voir</Emphasis> TR/2001‑71</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 34, art. 32 en vigueur à la sanction 18.12.2001</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 17, art. 30 en vigueur 22.07.2002 <Emphasis style="italic">voir</Emphasis> TR/2002-105</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 22, art. 224 en vigueur 01.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 25, art. 174 à 179 en vigueur à la sanction 15.12.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 50, art. 1 à 2.1 en vigueur 30.06.206 <Emphasis style="italic">voir</Emphasis> TR/2006-70</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2010, ch. 12, art. 2184 en vigueur à la sanction 12.07.2010</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2010, ch. 23 (sanction : 15.12.2010),</Text>
+    <List>
+      <Item>
+        <Text>— art. 88 et par. 89(1) en vigueur 01.07.2014 <Emphasis style="italic">voir</Emphasis> TR/2013-127;</Text>
+      </Item>
+      <Item>
+        <Text>— par. 89(2) et art. 90 entrent en vigueur à la date ou aux dates fixées par décret <Emphasis style="italic">voir</Emphasis> art. 91 — non en vigueur</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 19, art. 595 à 601 en vigueur à la sanction 29.06.2012</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 12 (sanction : 19.06.2014), art. 137 à 144 en vigueur 02.08.2015 <Emphasis style="italic">voir</Emphasis> par. 158(4) et TR/2015-75.</Text>
+    <List>
+      <Item>
+        <Text>[<Emphasis style="italic">Remarque</Emphasis> : par. 137(3) et art. 139 à 142 abrogés avant leur entrée en vigueur <Emphasis style="italic">voir respectivement</Emphasis> 2014, ch. 39, par. 209(4), al. 209(8)a), par. 209(10), al. 209(13)a) et (16)a) en vigueur à la sanction 16.12.2014]</Text>
+      </Item>
+      <Item>
+        <Text>[<Emphasis style="italic">Remarque :</Emphasis> par<Emphasis style="italic">.</Emphasis> 137(5), art. 142.1 et 143.1 ajoutés, <Emphasis style="italic">voir respectivement</Emphasis> 2014, ch. 39, al. 209(8)b), (13)b) et (16)b) en vigueur à la sanction 16.12.2014]</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 20, par. 239(1) et 240(1) en vigueur à la sanction 19.06.2014; par. 239(2) et 240(2) en vigueur 01.07.2015 <Emphasis style="italic">voir</Emphasis> TR/2015-53.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 39, art. 193 à 195, par. 197(3) et art. 199 à 209 en vigueur à la sanction 16.12.2014;</Text>
+    <List>
+      <Item>
+        <Text>— art. 196, par. 197(1), (2) et (4) et art. 198 en vigueur 30.09.2015 <Emphasis style="italic">voir</Emphasis> art. 210.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 10 (sanction : 21.06.2019) art. 162-165 en vigueur 11.07.2019 <Emphasis style="italic">voir</Emphasis> TR/2019-55</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2021, ch. 23, art. 202 et 203 en vigueur à la sanction 29.06.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, DORS /2022-275 en vigueur 15.12.2022</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2023, ch. 23, art. 92, en vigueur à la sanction 22.06.2023</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 10, art. 1 en vigueur à la sanction 20.06.2024</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 17, art. 383 en vigueur 30.10.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-106</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2005, ch. 30, article 85">
+  <Title>Paiements de péréquation compensatoires supplémentaires à la Nouvelle-Écosse et à Terre-Neuve-et-Labrador, Loi sur les</Title>
+  <ChapterNumber>2005, ch. 30, article 85</ChapterNumber>
+  <OtherLangTitle>(Nova Scotia and Newfoundland and Labrador Additional Fiscal Equalization Offset Payments Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Finances</Text>
+  </Minister>
+  <Section>
+    <Label>4</Label>
+    <Text>2007, ch. 29, art. 81; 2015, ch. 4, art. 110; 2024, ch. 20, art. 216</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2015, ch. 4, art. 111</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2014, ch. 13, sous-al. 115g)(i); abrogé, 2015, ch. 4, art. 112</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2021, ch. 23, art. 201</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2007, ch. 29, art. 82; 2014, ch. 13, sous-al. 115g)(ii); 2015, ch. 4, art. 113; 2024, ch. 20, art. 214</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2015, ch. 4, art. 114</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2014, ch. 13, sous-al. 115g)(iii); abrogé, 2015, ch. 4, art. 115</Text>
+  </Section>
+  <Transitional>
+    <Text>disposition transitoire, 2007, ch. 29, art. 83; abrogé, 2007, ch. 35, art. 170</Text>
+  </Transitional>
+  <Transitional>
+    <Text>disposition transitoire, 2007, ch. 35, art. 174</Text>
+  </Transitional>
+  <Terminology>
+    <Text>terminologie, 2024, ch. 20, art. 214 et 216</Text>
+  </Terminology>
+  <CIF>
+    <Text>EEV, 2005, ch. 30, art. 85 en vigueur à la sanction 29.06.2005</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2007, ch. 29 (sanction : 22.06.2007),</Text>
+    <List>
+      <Item>
+        <Text>— art. 81 en vigueur 01.04.2008 <Emphasis style="italic">voir</Emphasis> par. 84(3) tel que modifié par 2007, ch. 35, art. 171</Text>
+      </Item>
+      <Item>
+        <Text>— art. 82 réputé être entré en vigueur 01.04.2010 <Emphasis style="italic">voir</Emphasis> art. 84, modifié par 2007, ch. 35, art. 171, et <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, Vol. 146, n<Sup>o</Sup> 2, p. 26, 14.01.2012</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2007, ch. 35, art. 170, 171 et 174 en vigueur à la sanction 14.12.2007 (<Emphasis style="italic">Remarque</Emphasis> : art. 174 abrogé par 2015, ch. 4, art. 116).</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 13 (sanction : 19.06.2014), al. 115g) en vigueur 31.12.2014 <Emphasis style="italic">voir</Emphasis> TR/2014-103.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 4, art. 117 et 118 en vigueur à la sanction 26.02.2015;</Text>
+    <List>
+      <Item>
+        <Text>— art. 110 à 116 en vigueur 19.06.2015 <Emphasis style="italic">voir</Emphasis> TR/2015-59.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2021, ch. 23, art. 201 en vigueur à la sanction 29.06.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 20, </Text>
+    <List>
+      <Item>
+        <Text>— al. 214(1)h) entre en vigueur à la date de l’adjonction de la définition de « Regulator » à l’art. 2 de la loi intitulée <XRefExternal reference-type="act">Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act</XRefExternal>, ch. C-2 des lois révisées de Terre-Neuve-et-Labrador (1990) <Emphasis style="italic">voir</Emphasis> TR/2025-22 (02.06.2025)</Text>
+      </Item>
+      <Item>
+        <Text>— al. 216(1)h) en vigueur 31.01.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-5</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

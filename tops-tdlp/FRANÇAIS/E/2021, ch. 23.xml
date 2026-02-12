@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2021, ch. 23">
+  <Title>Exécution du budget de 2021, Loi no 1 d’</Title>
+  <ChapterNumber>2021, ch. 23</ChapterNumber>
+  <OtherLangTitle>(Budget Implementation Act, 2021, No. 1)</OtherLangTitle>
+  <Section>
+    <Label>128</Label>
+    <Text>2022, ch. 19, art. 102</Text>
+  </Section>
+  <Section>
+    <Label>175.1</Label>
+    <Text>ajouté, 2023, ch. 26, art. 207</Text>
+  </Section>
+  <Section>
+    <Label>176</Label>
+    <Text>2023, ch. 26, art. 207</Text>
+  </Section>
+  <Section>
+    <Label>345</Label>
+    <Text>2021, ch. 26, art. 26</Text>
+  </Section>
+  <Section>
+    <Label>350.1</Label>
+    <Text>ajouté, 2022, ch. 10, art. 412</Text>
+  </Section>
+  <General>
+    <Text>Disposition générale, 2021, ch. 23, art. 197, 198, 200, 251, 275 et 287 (paiements)</Text>
+  </General>
+  <General>
+    <Text>
+      <Emphasis style="italic">Remarque</Emphasis> : art. 81-99, 116, 267, 297 à 299 et 347 à 360 : règlements</Text>
+  </General>
+  <CoordinatingAmendment>
+    <Text>Dispositions de coordination, 2021, ch. 26, art. 27 et 28</Text>
+  </CoordinatingAmendment>
+  <Transitional>
+    <Text>Disposition transitoire, 2021, ch. 23, art. 238 à 243</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Disposition transitoire, 2022, ch. 10, art. 413</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, 2021, ch. 23, en vigueur à la sanction 29.06.2021, <Emphasis style="italic">sauf</Emphasis> :</Text>
+    <List>
+      <Item>
+        <Text>— par. 3(1) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 3(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 7(1) à (3) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 7(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 8(1) et (2) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 8(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 9(1) réputé en vigueur 19.03.2019 <Emphasis style="italic">voir</Emphasis> par. 9(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 10(2) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 10(4</Text>
+      </Item>
+      <Item>
+        <Text>— par. 11(1) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 11(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 13(2) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 13(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 13(3) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 13(5)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 15(1) et (2) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 15(7</Text>
+      </Item>
+      <Item>
+        <Text>— par. 16(1) réputé en vigueur 27.02.2018 <Emphasis style="italic">voir</Emphasis> par. 16(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 16(2) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 16(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 17(1) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 17(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 17(2) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 17(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 19(9) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 19(11)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 20(1) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 20(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 21(1) réputé en vigueur 01.07.2011 <Emphasis style="italic">voir</Emphasis> par. 21(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 22(1) à (3) réputé en vigueur 01.01.2021 <Emphasis style="italic">voir</Emphasis> par. 22(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 23(1) à (5) réputé en vigueur 01.01.2019 <Emphasis style="italic">voir</Emphasis> par. 23(6)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 24(12) et (24) réputé en vigueur 27.09.2020 <Emphasis style="italic">voir</Emphasis> par. 24(33)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 25(1) et (2) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 25(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 29(1) réputé en vigueur 01.01.2021 <Emphasis style="italic">voir</Emphasis> par. 29(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 30(1) à (10) réputé en vigueur 27.02.2018 <Emphasis style="italic">voir</Emphasis> par. 30(11)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 31(2) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 31(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 32(1) et (2) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 32(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 33(1) à (4) et (6) réputé en vigueur 01.01.2021 <Emphasis style="italic">voir</Emphasis> par. 33(7)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 34(1) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 34(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 35(1) à (4) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 35(5)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 36(1) et (2) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 36(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 36(3) réputé en vigueur 19.03.2019 <Emphasis style="italic">voir</Emphasis> par. 36(5)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 37(1) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 37(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 38(1) à (3) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 38(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 39(2) réputé en vigueur 01.01.2019 <Emphasis style="italic">voir</Emphasis> par. 39(6)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 40(1) réputé en vigueur 01.01.2019 <Emphasis style="italic">voir</Emphasis> par. 40(5)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 40(2) réputé en vigueur 25.03.2020 <Emphasis style="italic">voir</Emphasis> par. 40(6)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 41(1) réputé en vigueur 20.01.2020 <Emphasis style="italic">voir</Emphasis> par. 41(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 42(1) et (3) réputé en vigueur 01.01.2019 <Emphasis style="italic">voir</Emphasis> par. 42(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 43(1) réputé en vigueur 01.01.2019 <Emphasis style="italic">voir</Emphasis> par. 43(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 44(1) réputé en vigueur 01.01.2019 <Emphasis style="italic">voir</Emphasis> par. 44(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 46(1) réputé en vigueur 01.01.2019 <Emphasis style="italic">voir</Emphasis> par. 46(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 49(1) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 49(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 52(1) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> art. 52(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 58(1) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 58(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 61(1) réputé en vigueur 19.03.2019 <Emphasis style="italic">voir</Emphasis> par. 61(8)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 61(2) et (3) réputés en vigueur 01.01.2019 <Emphasis style="italic">voir</Emphasis> par. 61(10)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 61(4) et (7) réputés en vigueur 19.03.2019 <Emphasis style="italic">voir</Emphasis> par. 61(11)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 61(5) réputé en vigueur 02.03.2020 <Emphasis style="italic">voir</Emphasis> par. 61(12)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 61(6) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 61(13)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 63(1) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 63(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 64(1) réputé en vigueur 19.03.2019 <Emphasis style="italic">voir</Emphasis> par. 64(6)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 100(1) et (2) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 100(5),</Text>
+      </Item>
+      <Item>
+        <Text>— par. 100(3) et (4) réputés en vigueur 18.05.2019 <Emphasis style="italic">voir</Emphasis> par. 100(6)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 101(1) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 101(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 102(1) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 102(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 103(1) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 103(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 105(1) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 105(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 186(10) de la <XRefExternal reference-type="act">Loi sur la taxe d’accise</XRefExternal>, édictée par par. 106(3) réputé en vigueur 18.05.2019 <Emphasis style="italic">voir</Emphasis> par. 106(10)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 107(1) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 107(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 108(1) à (4) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 108(7)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 111(1) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 111(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 112(1) et (2) en vigueur 01.07.2021 <Emphasis style="italic">voir</Emphasis> par. 112(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 115(1) à (3) réputés en vigueur 18.05.2019 <Emphasis style="italic">voir</Emphasis> par. 115(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 117(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 117(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 118(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 118(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 119(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 119(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 120(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 120(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 121(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 121(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 122(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 122(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 123(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 123(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 124(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 124(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 125(1) réputé en vigueur 20.04.2021 <Emphasis style="italic">voir</Emphasis> par. 125(2)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 129 à 131 en vigueur à la date fixée par décret du gouverneur en conseil <Emphasis style="italic">voir</Emphasis> par. 139(1) — non en vigueur</Text>
+      </Item>
+      <Item>
+        <Text>— art. 132 en vigueur au deuxième anniversaire de la date d’entrée en vigueur de l’article 212 de la <XRefExternal reference-type="act">Loi n<Sup>o</Sup>1 d’exécution du budget de 2018</XRefExternal> <Emphasis style="italic">voir</Emphasis> 139(2) et TR/2019-17, modifié par TR/2020-36</Text>
+      </Item>
+      <Item>
+        <Text>— art. 140 en vigueur 30.06.2023 <Emphasis style="italic">voir</Emphasis> TR/2023-22</Text>
+      </Item>
+      <Item>
+        <Text>— art. 141 et 142 en vigueur à la date fixée par décret du gouverneur en conseil <Emphasis style="italic">voir</Emphasis> par. 150(2) — non en vigueur</Text>
+      </Item>
+      <Item>
+        <Text>— art. 143 et 144 en vigueur 30.06.2023 <Emphasis style="italic">voir</Emphasis> TR/2023-22</Text>
+      </Item>
+      <Item>
+        <Text>— art. 145 à 148 en vigueur 30.06.2023 <Emphasis style="italic">voir</Emphasis> TR/2023-22</Text>
+      </Item>
+      <Item>
+        <Text>— art. 159 en vigueur 01.07.2024 <Emphasis style="italic">voir</Emphasis> TR/2023-60</Text>
+      </Item>
+      <Item>
+        <Text>— art. 164, 165 et 170 en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> TR/2023-59</Text>
+      </Item>
+      <Item>
+        <Text>— art. 177 édictant les art. 1 à 10, 12 à 16 et 61, par. 62(1), (3) et (4) et art. 63 de la <XRefExternal reference-type="act">Loi sur les activités associées aux paiements de détail </XRefExternal>en vigueur à la sanction 29.06.2021 <Emphasis style="italic">voir</Emphasis> par. 187(1)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 177 édictant les art. 11, 28 à 44, 49 et 51, par. 62(2) et art. 64 à 98 et 101 à 108 de la <XRefExternal reference-type="act">Loi sur les activités associées aux paiements de détail </XRefExternal>en vigueur 01.11.2024 <Emphasis style="italic">voir</Emphasis> TR/2023-70, a)(i)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 177 édictant l’art. 23 de la <XRefExternal reference-type="act">Loi sur les activités associées aux paiements de détail</XRefExternal> en vigueur 16.11.2024 <Emphasis style="italic">voir</Emphasis> TR/2023-70, b)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 177 édictant les art. 17 à 22, 24 à 27, 45 à 48, 50 et 52 à 60 de la <XRefExternal reference-type="act">Loi sur les activités associées aux paiements de détail </XRefExternal>en vigueur 08.09.2025 <Emphasis style="italic">voir</Emphasis> TR/2023-70, (c)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 180 et 181 en vigueur 01.11.2024 <Emphasis style="italic">voir</Emphasis> TR/2023-70</Text>
+      </Item>
+      <Item>
+        <Text>— art. 188 à 190 en vigueur 24.05.2024 <Emphasis style="italic">voir</Emphasis> TR/2024-24</Text>
+      </Item>
+      <Item>
+        <Text>— par. 204(2) et (3) et 206(1) entrent en vigueur à la date fixée par décret du gouverneur en conseil <Emphasis style="italic">voir</Emphasis> art. 208 — non en vigueur</Text>
+      </Item>
+      <Item>
+        <Text>— art. 209 à 211 en vigueur 21.10.2024 <Emphasis style="italic">voir</Emphasis> TR/2024-21</Text>
+      </Item>
+      <Item>
+        <Text>— art. 212 à 217 entrent en vigueur à la date fixée par décret du gouverneur en conseil <Emphasis style="italic">voir</Emphasis> art. 218 — non en vigueur</Text>
+      </Item>
+      <Item>
+        <Text>— art. 220 à 243 en vigueur 05.12.2022 <Emphasis style="italic">voir</Emphasis> TR/2022-59</Text>
+      </Item>
+      <Item>
+        <Text>— art 245, 246 et 247 en vigueur 29.12.2021 <Emphasis style="italic">voir</Emphasis> art. 248</Text>
+      </Item>
+      <Item>
+        <Text>— par. 277(2) et art. 280 en vigueur 01.07.2023 <Emphasis style="italic">voir</Emphasis> TR /2023-20</Text>
+      </Item>
+      <Item>
+        <Text>— art. 289, 290, 291, 292, 293 et 294 réputé en vigueur 19.06.2021 <Emphasis style="italic">voir</Emphasis> art. 301</Text>
+      </Item>
+      <Item>
+        <Text>— art. 295 réputé en vigueur 19.06.2021 <Emphasis style="italic">voir</Emphasis> art. 301</Text>
+      </Item>
+      <Item>
+        <Text>— par. 302(1), 303(1) et (3), 304(1), art. 305, par. 306(1), 307(1) et (3), 308(1), 309(1), 3) et (5), 310(1), (3), (5), (7), (9), (11) et (13), 311(1), 312(1), 313(1), 314(1), 315(1), 316(1) et (3) 317(1), 318(1), art. 319 à 321, par. 322(1), art. 324, 325, 327, 329(1) et 330 en vigueur 26.09.2021 <Emphasis style="italic">voir</Emphasis> par. 339(1)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 302(2), 303(2) et (4), 304(2), 306(2), 307(4), 308(2), 309(2), (4) et (6), 310(2), (4), (6), (8), (10), (12) et (14), 311(2), 312(2) 313(2), 314(2), 315(2), 316(2) et (4), 317(2), 318(2), 322(2) et 329(2) entrent en vigueur 25.09.2022 <Emphasis style="italic">voir</Emphasis> par. 339(2) — non en vigueur;</Text>
+      </Item>
+      <Item>
+        <Text>— par. 307(2) et art. 323 et 336 entrent en vigueur à la date fixée par décret du gouverneur en conseil <Emphasis style="italic">voir</Emphasis> par. 339(3) — non en vigueur;</Text>
+      </Item>
+      <Item>
+        <Text>— art. 326 réputé en vigueur 12.09.2021 <Emphasis style="italic">voir</Emphasis> par. 339(4) ;</Text>
+      </Item>
+      <Item>
+        <Text>— art. 328 en vigueur 26.09.2021 <Emphasis style="italic">voir</Emphasis> TR/2021-57.</Text>
+      </Item>
+      <Item>
+        <Text>— art. 340 à 344 entrent en vigueur à la date fixée par décret du gouverneur en conseil <Emphasis style="italic">voir</Emphasis> art. 339(3) — non en vigueur;</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2021, ch. 26, art. 26 à 28 en vigueur à la sanction 17.12.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2022, ch. 10, art. 412 et 413 en vigueur à la sanction 23.06.2022</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2022, ch. 19, art. 102 en vigueur à la sanction 15.12.2022</Text>
+  </CIF>
+</Statute>
+</TOPS>

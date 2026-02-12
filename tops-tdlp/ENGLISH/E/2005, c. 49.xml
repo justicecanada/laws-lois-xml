@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2005, c. 49">
+  <Title>Energy Costs Assistance Measures Act</Title>
+  <ChapterNumber>2005, c. 49</ChapterNumber>
+  <OtherLangTitle>(Mesures d’aide liées au coût de l’énergie, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Finance</Text>
+  </Minister>
+  <Section>
+    <Label>3</Label>
+    <Text>2005, c. 49, s. 11; 2012, c. 19, par. 694(b); 2013, c. 40, par. 238(1)(e)</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2005, c. 49, s. 11</Text>
+  </CoordinatingAmendment>
+  <CIF>
+    <Text>CIF, 2005, c. 49 in force on assent 25.11.2005</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 19 (assent: 29.06.2012), par. 694(b) in force 01.03.2013 <Emphasis style="italic">see</Emphasis> SI/2013-17.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40, par. 238(1)(e) in force on assent 12.12.2013</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2006, ch. 9, art. 121">
+  <Title>Directeur des poursuites pénales, Loi sur le</Title>
+  <ChapterNumber>2006, ch. 9, art. 121</ChapterNumber>
+  <OtherLangTitle>(Director of Public Prosecutions Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de la Justice et procureur général du Canada</Text>
+  </Minister>
+  <Section>
+    <Label>3</Label>
+    <Text>2014, ch. 12, art. 150; 2018, ch. 31, art. 395</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2014, ch. 12, art. 151; 2018, ch. 31, art. 396</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2014, ch. 12, art. 150; 2018, ch. 31, art. 397</Text>
+  </Section>
+  <Transitional>
+    <Text>dispositions transitoires, 2006, ch. 9, art. 122 à 128</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, 2006, ch. 9, art. 121 à 140 en vigueur à la sanction 12.12.2006</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 12 (sanction : 19.06.2014), art. 150 à 152 en vigueur 01.10.2014 <Emphasis style="italic">voir</Emphasis> TR/2014-75</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 31, art. 395 à 397 - en vigueur le 01.04.2019, <Emphasis style="italic">voir</Emphasis> <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, partie 1, Édition spéciale Vol. 153, n<Sup>o</Sup> 4</Text>
+  </CIF>
+</Statute>
+</TOPS>

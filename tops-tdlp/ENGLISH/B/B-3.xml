@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="B-3">
+  <Title>Bankruptcy and Insolvency Act</Title>
+  <ChapterNumber>R.S., 1985, c. B-3</ChapterNumber>
+  <TitleChanged>
+    <Text>(Formerly: Bankruptcy Act)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Faillite et l’insolvabilité, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Industry</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>1992, c. 27, s. 1</Text>
+  </LongTitle>
+  <Section>
+    <Label>1</Label>
+    <Text>1992, c. 27, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>R.S., c. 31 (1st Supp.), s. 69; 1992, c. 1, s. 145 (Sch. VIII, item 2)(F), c. 27, s. 3; 1995, c. 1, s. 62(1)(a); 1997, c. 12, s. 1; 1999, c. 28, s. 146, c. 31, s. 17; 2000, c. 12, s. 8; 2001, c. 4, s. 25, c. 9, s. 572; 2004, c. 25, s. 7, 2005, c. 3, s. 11; 2005, c. 47, s. 2; 2007, c. 29, s. 91, c. 36, s. 1; 2012, c. 31, s. 414; 2015, c. 3, s. 6(F); 2018, c. 10, s. 82; 2024, c. 15, s. 273</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>added, 1997, c. 12, s. 2; 2004, c. 25, s. 8; 2005, c. 47, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>2.2</Label>
+    <Text>added, 1997, c. 12, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1997, c. 12, s. 3(F); repealed, 2005, c. 47, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2000, c. 12, s. 9; 2004, c. 25, s. 9(F); 2005, c. 47, s. 5; 2007, c. 36, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>4.1</Label>
+    <Text>added, 1992, c. 27, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>4.2</Label>
+    <Text>added, 2019, c. 29, s. 133</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1992, c. 27, s. 5; 1997, c. 12, s. 4; 2001, c. 4, s. 26(E); 2005, c. 47, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1997, c. 12, s. 5; 2005, c. 47, s. 7(E)</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>repealed, 1992, c. 27, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>repealed, 1992, c. 27, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1992, c. 27, s. 7; 2004, c. 25, s. 10; 2005, c. 47, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1992, c. 27, s. 8; 2004, c. 25, s. 11(F)</Text>
+  </Section>
+  <Section>
+    <Label>11.1</Label>
+    <Text>added, 1992, c. 27, s. 8; 2007, c. 36, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>1992, c. 27, s. 9; 1997, c. 12, s. 6; 2005, c. 47, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>13.1</Label>
+    <Text>added, 1992, c. 27, s. 9; 1997, c. 12, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>13.2</Label>
+    <Text>added, 1992, c. 27, s. 9; 1997, c. 12, s. 8; 2004, c. 25, s. 12; 2005, c. 47, s. 10; 2019, c. 29, s. 160</Text>
+  </Section>
+  <Section>
+    <Label>13.3</Label>
+    <Text>added, 1992, c. 27, s. 9; 1997, c. 12, s. 9; 2004, c. 25, s. 13; 2005, c. 47, s. 11; 2007, c. 36, s. 4(F)</Text>
+  </Section>
+  <Section>
+    <Label>13.4</Label>
+    <Text>added, 1992, c. 27, s. 9; 1997, c. 12, s. 10; 2004, c. 25, s. 14(E); 2005, c. 47, s. 12; 2007, c. 36, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>13.5</Label>
+    <Text>added, 1992, c. 27, s. 9; 2005, c. 47, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>13.6</Label>
+    <Text>added, 1997, c. 12, s. 11; 2005, c. 47, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1992, c. 27, s. 9; 2004, c. 25, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>14.01</Label>
+    <Text>added, 1992, c. 27, s. 9; 1997, c. 12, s. 12; 2005, c. 47, s. 14; 2007, c. 36, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>14.02</Label>
+    <Text>added, 1992, c. 27, s. 9; 1997, c. 12, s. 13; 2002, c. 8, par. 182(1)(b); 2005, c. 47, s. 15; 2007, c. 36, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>14.03</Label>
+    <Text>added, 1992, c. 27, s. 9; 1997, c. 12, s. 14, 1999, c. 31, s. 18(E) ; 2005, c. 47, s. 16; 2007, c. 36, s. 8(F)</Text>
+  </Section>
+  <Section>
+    <Label>14.04</Label>
+    <Text>added, 1992, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>14.05</Label>
+    <Text>added, 1992, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>14.06</Label>
+    <Text>added, 1992, c. 27, s. 9; 1997, c. 12, s. 15; 2004, c. 25, s. 16; 2005, c. 47, s. 17; 2007, c. 36, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>14.07</Label>
+    <Text>added, 1992, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>14.08</Label>
+    <Text>added, 1992, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>14.09</Label>
+    <Text>added, 1992, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>14.1</Label>
+    <Text>added, 1992, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>15.1</Label>
+    <Text>added, 1997, c. 12, s. 16; 2004, c. 25, s. 17(F)</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>R.S., c. 31 (1st Supp.), s. 3; 1994, c. 26, s. 7; 1997, c. 12, s. 17; 2004, c. 25, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2004, c. 25, s. 19(F); 2005, c. 47, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>1997, c. 12, s. 18; 2004, c. 25, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2005, c. 47, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>1992, c. 27, s. 10; 1997, c. 12, s. 19; 2005, c. 47, s. 20 (<Emphasis style="italic">Note</Emphasis>: s. 20(3) repealed by 2007, c. 36, s. 95); 2017, c. 26, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>1997, c. 12, s. 20; 2004, c. 25, s. 21; 2019, c. 29, s. 161</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>1992, c. 1, s. 12, c. 27, s. 11; 2005, c. 47, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>1997, c. 12, s. 21; 2005, c. 47, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>1997, c. 12, s. 22(F); 2004, c. 25, s. 22; 2005, c. 47, s. 23; 2007, c. 36, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>1991, c. 46, s. 584; 2005, c. 47, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>2005, c. 47, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>1992, c. 27, s. 12; 2005, c. 47, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>1992, c. 1, s. 13. (<Emphasis style="italic">Note</Emphasis>: 1992, c. 1, s. 13 repealed by 1994, c. 26, s. 46); 1992, c. 27, s. 13; 1997, c. 12, s. 23); 2005, c. 47, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>1992, c. 27, s. 14; 1997, c. 12, s. 24; 2004, c. 25, s. 23; 2005, c. 47, s. 28 and par. 123(a)(E); 2007, c. 36, s. 11(F)</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>2004, c. 25, s. 24(F)</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2005, c. 47, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>1997, c. 12, s. 25; 2004, c. 25, s. 25, 2007, c. 36, s. 12</Text>
+  </Section>
+  <Heading>
+    <Label>Part II</Label>
+    <Text>heading, 2004, c. 25, s. 26</Text>
+  </Heading>
+  <Section>
+    <Label>42</Label>
+    <Text>1997, c. 12, s. 26; 2004, c. 25, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>1992, c. 27, s. 15; 2004, c. 25, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>2004, c. 25, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>1992, c. 1, s. 14; 2004, c. 25, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>1997, c. 12, s. 27(F); 2004, c. 25, s. 29; 2007, c. 36, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>1992, c. 27, s. 16; 2005, c. 47, s. 30 (<Emphasis style="italic">Note:</Emphasis> s. 30(2) repealed by 2007, c. 36, s. 96); 2007, c. 36, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>47.1</Label>
+    <Text>added, 1992, c. 27, s. 16; 2005, c. 47, s. 31 (<Emphasis style="italic">Note:</Emphasis> s. 31(3) repealed by 2007, c. 36, s. 97); 2007, c. 36, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>47.2</Label>
+    <Text>added, 1992, c. 27, s. 16; 2004, c. 25, s. 30; 2005, c. 47, s. 32; 2015, c. 3, s. 7(F)</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>1997, c. 12, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>1992, c. 1, s. 15, c. 27, s. 17; 1997, c. 12, s. 29; 2004, c. 25, s. 31(E); 2005, c. 47, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>1992, c. 27, s. 18; 1997, c. 12, s. 30; 2001, c. 4, s. 27(E); 2004, c. 25, s. 32; 2005, c. 47, s. 34; 2007, c. 36, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>50.1</Label>
+    <Text>added, 1992, c. 27, s. 19; 1997, c. 12, s. 31(F)</Text>
+  </Section>
+  <Section>
+    <Label>50.2</Label>
+    <Text>added, 1992, c. 27, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>50.3</Label>
+    <Text>added, 1992, c. 27, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>50.4</Label>
+    <Text>added, 1992, c. 27, s. 19; 1997, c. 12, s. 32; 2004, c. 25, s. 33(F); 2005, c. 47, s. 35; 2007, c. 36, s. 17; 2017, c. 26, s. 6(E)</Text>
+  </Section>
+  <Section>
+    <Label>50.5</Label>
+    <Text>added, 1992, c. 27, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>50.6</Label>
+    <Text>added, 2005, c. 47, s. 36; 2007, c. 36, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>1992, c. 1, s. 20, c. 27, s. 20; 1999, c. 31, s. 19(F); 2005, c. 47, par. 123(b)(E)</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2005, c. 47, par. 123(c)(E)</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>1992, c. 1, s. 20, c. 27, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>1992, c. 27, s. 22; 2000, c. 30, s. 143; (<Emphasis style="italic">Note</Emphasis>: 2005, c. 47, s. 37 repealed by 2007, c. 36, s. 98 before coming into force); 2007, c. 36, s. 19; 2009, c. 33, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>54.1</Label>
+    <Text>added, 2007, c. 36, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>1992, c. 27, s. 23; 1997, c. 12, s. 33; 2005, c. 47, s. 38; 2017, c. 26, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>57.1</Label>
+    <Text>added, 1997, c. 12, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>1992, c. 1, s. 20, c. 27, s. 23; 1997, c. 12, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>1997, c. 12, s. 36; 2000, c. 12, s. 10; 2007, c. 36, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>1992, c. 27, s. 24; 1997, c. 12, s. 37; 2000, c. 30, s. 144; 2005, c. 47, s. 39; 2007, c. 36, ss. 22 and 99; 2009, c. 33, s. 22; 2012, c. 16, s. 79; 2023, c. 6, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>1992, c. 27, s. 25; 1997, c. 12, s. 38; 2005, c. 47, s. 40; 2017, c. 26, s. 8(E)</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>1992, c. 27, s. 26; 1997, c. 12, s. 39; 2005, c. 47, s. 41; 2007, c. 36, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>62.1</Label>
+    <Text>added, 1992, c. 27, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>1992, c. 27, s. 28; 2004, c. 25, s. 34(F)</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>1992, c. 27, s. 29; 1997, c. 12, s. 40; repealed, 1999, c. 31, s. 20; added, 2005, c. 47, s. 42</Text>
+  </Section>
+  <Section>
+    <Label>64.1</Label>
+    <Text>added, 2005, c. 47, s. 42; 2007, c. 36, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>64.2</Label>
+    <Text>added, 2005, c. 47, s. 42; 2007, c. 36, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>2004, c. 25, s. 35(F)</Text>
+  </Section>
+  <Section>
+    <Label>65.1</Label>
+    <Text>added, 1992, c. 27, s. 30; 1997, c. 12, s. 41; 2001, c. 9, s. 573; 2004, c. 25, s. 36(E); 2005, c. 47, s. 43; 2007, c. 29, s. 92, c. 36, s. 25 (<Emphasis style="italic">but</Emphasis> repealed before coming into force by 2009, c. 31, s. 67); 2012, c. 31, s. 415</Text>
+  </Section>
+  <Section>
+    <Label>65.11</Label>
+    <Text>added, 2005, c. 47, s. 44; 2007, c. 29, s. 93, c. 36, s. 26; 2009, c. 31, s. 63; 2018, c. 27, s. 265(F)</Text>
+  </Section>
+  <Section>
+    <Label>65.12</Label>
+    <Text>added, 2005, c. 47, s. 44</Text>
+  </Section>
+  <Section>
+    <Label>65.13</Label>
+    <Text>added, 2005, c. 47, s. 44; 2007, c. 36, s. 27; 2018, c. 27, s. 266</Text>
+  </Section>
+  <Section>
+    <Label>65.2</Label>
+    <Text>added, 1992, c. 27, s. 30; 1997, c. 12, s. 42; 2004, c. 25, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>65.21</Label>
+    <Text>added, 1997, c. 12, s. 43; 2004, c. 25, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>65.22</Label>
+    <Text>added, 1997, c. 12, s. 43; 2004, c. 25, s. 39(E)</Text>
+  </Section>
+  <Section>
+    <Label>65.3</Label>
+    <Text>added, 1992, c. 27, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>1992, c. 27, s. 31; 1997, c. 12, s. 44; 2005, c. 47, s. 45; 2007, c. 36, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>66.11</Label>
+    <Text>added, 1992, c. 27, s. 32; 1997, c. 12, s. 45; 2005, c. 47, s. 46</Text>
+  </Section>
+  <Section>
+    <Label>66.12</Label>
+    <Text>added, 1992, c. 27, s. 32; 1997, c. 12, s. 46; 2005, c. 47, s. 47(E)</Text>
+  </Section>
+  <Section>
+    <Label>66.13</Label>
+    <Text>added, 1992, c. 27, s. 32; 1999, c. 31, s. 21(E); 2005, c. 47, s. 48</Text>
+  </Section>
+  <Section>
+    <Label>66.14</Label>
+    <Text>added, 1992, c. 27, s. 32; 1997, c. 12, s. 47; 2005, c. 47, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>66.15</Label>
+    <Text>added, 1992, c. 27, s. 32; 1997, c. 12, s. 48</Text>
+  </Section>
+  <Section>
+    <Label>66.16</Label>
+    <Text>added, 1992, c. 27, s. 32; 2005, c. 47, par. 123(d)(E)</Text>
+  </Section>
+  <Section>
+    <Label>66.17</Label>
+    <Text>added, 1992, c. 27, s. 32; 1997, c. 12, s. 49; 2005, c. 47, s. 50</Text>
+  </Section>
+  <Section>
+    <Label>66.18</Label>
+    <Text>added, 1992, c. 27, s. 32; 1997, c. 12, s. 50</Text>
+  </Section>
+  <Section>
+    <Label>66.19</Label>
+    <Text>added, 1992, c. 27, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>66.2</Label>
+    <Text>added, 1992, c. 27, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>66.21</Label>
+    <Text>added, 1992, c. 27, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>66.22</Label>
+    <Text>added, 1992, c. 27, s. 32; 1997, c. 12, s. 51</Text>
+  </Section>
+  <Section>
+    <Label>66.23</Label>
+    <Text>added, 1992, c. 27, s. 32; 1997, c. 12, s. 52</Text>
+  </Section>
+  <Section>
+    <Label>66.24</Label>
+    <Text>added, 1992, c. 27, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>66.25</Label>
+    <Text>added, 1992, c. 27, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>66.251</Label>
+    <Text>added, 1997, c. 12, s. 53</Text>
+  </Section>
+  <Section>
+    <Label>66.26</Label>
+    <Text>added, 1992, c. 27, s. 32; 1997, c. 12, s. 54</Text>
+  </Section>
+  <Section>
+    <Label>66.27</Label>
+    <Text>added, 1992, c. 27, s. 32; 1997, c. 12, s. 55</Text>
+  </Section>
+  <Section>
+    <Label>66.28</Label>
+    <Text>added, 1992, c. 27, s. 32; 2005, c. 47, s. 51; 2007, c. 36, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>66.29</Label>
+    <Text>added, 1992, c. 27, s. 32; 2004, c. 25, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>66.3</Label>
+    <Text>added, 1992, c. 27, s. 32; 1997, c. 12, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>66.31</Label>
+    <Text>added, 1992, c. 27, s. 32; 2005, c. 47, s. 52; 2007, c. 36, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>66.32</Label>
+    <Text>added, 1992, c. 27, s. 32; 2005, c. 47, s. 53(F)</Text>
+  </Section>
+  <Section>
+    <Label>66.33</Label>
+    <Text>added, 1992, c. 27, s. 32; 2004, c. 25, s. 41; repealed, 2005, c. 47, s. 54</Text>
+  </Section>
+  <Section>
+    <Label>66.34</Label>
+    <Text>added, 1992, c. 27, s. 32; 2004, c. 25, s. 42(E); 2005, c. 47, s. 55; 2007, c. 29, s. 94, c. 36, s. 31 (<Emphasis style="italic">Note</Emphasis>: <Emphasis style="italic">but </Emphasis>s. 31 repealed before coming into force by 2007, c. 36, s. 112(7))</Text>
+  </Section>
+  <Section>
+    <Label>66.35</Label>
+    <Text>added, 1992, c. 27, s. 32; 1997, c. 12, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>66.36</Label>
+    <Text>added, 1992, c. 27, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>66.37</Label>
+    <Text>added, 1992, c. 27, s. 32; 2005, c. 47, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>66.38</Label>
+    <Text>added, 1992, c. 27, s. 32; 2005, c. 47, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>66.39</Label>
+    <Text>added, 1992, c. 27, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>66.4</Label>
+    <Text>added, 1992, c. 27, s. 32; 1997, c. 12, s. 58</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>1992, c. 27, s. 33; 1996, c. 23, s. 168; 1997, c. 12, s. 59; 1998, c. 19, s. 250; 2005, c. 47, s. 57; 2007, c. 36, s. 32; 2019, c. 29, s. 134</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>1992, c. 27, s. 34; 1997, c. 12, s. 60; 2005, c. 47, s. 58; 2007, c. 36, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>68.1</Label>
+    <Text>added, 1992, c. 27, s. 35; 1997, c. 12, s. 61; 2005, c. 47, s. 59</Text>
+  </Section>
+  <Section>
+    <Label>69</Label>
+    <Text>1992, c. 27, s. 36; 1997, c. 12, s. 62; 2000, c. 30, s. 145; 2005, c. 3, s. 12; 2005, c. 47, s. 60; 2007, c. 36, s. 34; 2009, c. 33, s. 23; 2012, c. 31, s. 416</Text>
+  </Section>
+  <Section>
+    <Label>69.1</Label>
+    <Text>added, 1992, c. 27, s. 36; 1994, c. 26, s. 8(E); 1997, c. 12, s. 63; 2000, c. 30, s. 146; 2005, c. 3, s. 13; 2005, c. 47, s. 61; 2007, c. 36, s. 35; 2009, c. 33, s. 24; 2012, c. 31, s. 417</Text>
+  </Section>
+  <Section>
+    <Label>69.2</Label>
+    <Text>added, 1992, c. 27, s. 36; 1997, c. 12, s. 64; 2004, c. 25, s. 43(E); 2007, c. 29, s. 95</Text>
+  </Section>
+  <Section>
+    <Label>69.3</Label>
+    <Text>added, 1992, c. 27, s. 36; 2005, c. 3, s. 14; 2005, c. 47, s. 62; 2007, c. 29, s. 96, c. 36, s. 36; 2012, c. 31, s. 418</Text>
+  </Section>
+  <Section>
+    <Label>69.31</Label>
+    <Text>added, 1997, c. 12, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>69.4</Label>
+    <Text>added, 1992, c. 27, s. 36; 1997, c. 12, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>69.41</Label>
+    <Text>added, 1997, c. 12, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>69.42</Label>
+    <Text>added, 2001, c. 9, s. 574</Text>
+  </Section>
+  <Section>
+    <Label>69.5</Label>
+    <Text>added, 1992, c. 27, s. 36; 2000, c. 30, s. 147</Text>
+  </Section>
+  <Section>
+    <Label>69.6</Label>
+    <Text>added, 2007, c. 36, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>1992, c. 27, s. 37; 1997, c. 12, s. 66(F); 2004, c. 25, s. 44; 2005, c. 47, s. 63(E)</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>1997, c. 12, s. 67; 2004, c. 25, s. 44</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>1997, c. 12, s. 68(F); 2004, c. 25, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>72.1</Label>
+    <Text>added, 2018, c. 27, s. 267</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>1997, c. 12, s. 69(F); 2004, c. 25, s. 46; 2015, c. 3, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>1997, c. 12, s. 70; 2004, c. 25, s. 47; 2005, c. 47, s. 64(E)</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>2001, c. 4, s. 28(F); 2004, c. 25, s. 47</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>2004, c. 25, s. 47</Text>
+  </Section>
+  <Section>
+    <Label>77</Label>
+    <Text>1999, c. 31, s. 22(F)</Text>
+  </Section>
+  <Section>
+    <Label>79</Label>
+    <Text>1997, c. 12, s. 71</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>1997, c. 12, s. 71; 2004, c. 25, s. 48</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>2005, c. 47, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>81.1</Label>
+    <Text>added, 1992, c. 27, s. 38; 1999, c. 31, s. 23; 2005, c. 47, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>81.2</Label>
+    <Text>added, 1992, c. 27, s. 38; 1997, c. 12, s. 72(F); 2004, c. 25, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>81.3</Label>
+    <Text>added, 2005, c. 47, s. 67; 2007, c. 36, s. 38; 2009, c. 2, s. 355(F)</Text>
+  </Section>
+  <Section>
+    <Label>81.4</Label>
+    <Text>added, 2005, c. 47, s. 67; 2007, c. 36, s. 38; 2009, c. 2, s. 356(F)</Text>
+  </Section>
+  <Section>
+    <Label>81.5</Label>
+    <Text>added, 2005, c. 47, s. 67; 2012, c. 16, s. 80; 2023, c. 6, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>81.6</Label>
+    <Text>added, 2005, c. 47, s. 67; 2007, c. 36, s. 39; 2012, c. 16, s. 81; 2023, c. 6, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>81.7</Label>
+    <Text>added, 2024, c. 31, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>1993, c. 34, s. 10(E); 2017, c. 6, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>2004, c. 25, s. 50</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>2004, c. 25, s. 51(F)</Text>
+  </Section>
+  <Section>
+    <Label>84.1</Label>
+    <Text>added, 2005, c. 47, s. 68; 2007, c. 29, s. 97, c. 36, s. 40 (<Emphasis style="italic">Note</Emphasis>: but s. 40 repealed by 2007, c. 36, s. 112(10)(a) at its coming into force and deemed never to have had effect); 2009, c. 31, s. 64</Text>
+  </Section>
+  <Section>
+    <Label>84.2</Label>
+    <Text>added, 2005, c. 47, s. 68; 2007, c. 29, s. 98, c. 36, s. 40 (<Emphasis style="italic">Note</Emphasis>: but s. 40 repealed by 2007, c. 36, s. 112(10)(a) at its coming into force and deemed never to have had effect); 2009, c. 31, s. 64</Text>
+  </Section>
+  <Section>
+    <Label>85</Label>
+    <Text>2004, c. 25, s. 52</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>1992, c. 27, s. 39(1). (<Emphasis style="italic">Note</Emphasis>: 1992, c. 27, s. 39(2) repealed by 1994, c. 26, s. 6); 1997, c. 12, s. 73; 2000, c. 30, s. 148; 2005, c. 47, s. 69; 2009, c. 33, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>1992, c. 27, s. 39(1). (<Emphasis style="italic">Note</Emphasis>: 1992, c. 27, s. 39(2) repealed by 1994, c. 26, s. 6); 1997, c. 12, s. 74; 2004, c. 25, s. 53; 2005, c. 47, s. 70</Text>
+  </Section>
+  <Section>
+    <Label>88</Label>
+    <Text>repealed, 1992, c. 27, s. 39(1), added, c. 27, s. 39(2). (<Emphasis style="italic">Note</Emphasis>: 1992, c. 27, s. 39(2) repealed by 1994, c. 26, s. 6); added, 2007, c. 29, s. 99 (<Emphasis style="italic">Note</Emphasis>: but s. 99 repealed at its coming into force and deemed never to have had effect <Emphasis style="italic">see</Emphasis> 2007, c. 36, s. 112(13)); 2009, c. 31, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>89</Label>
+    <Text>repealed, 1992, c. 27, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>90</Label>
+    <Text>repealed, 1992, c. 27, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>R.S., c. 31 (1st Supp.), s. 70; 1992, c. 27, s. 40(F); 1997, c. 12, s. 75; 2000, c. 12, s. 11; 2004, c. 25, s. 54; repealed, 2005, c. 47, s. 71</Text>
+  </Section>
+  <Section>
+    <Label>92</Label>
+    <Text>R.S., c. 31 (1st Supp.), s. 71; 1997, c. 12, s. 76; repealed, 2000, c. 12, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>R.S., c. 31 (1st Supp.), s. 72(E); 1997, c. 12, s. 77; repealed, 2000, c. 12, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>2001, c. 4, s. 29; 2004, c. 25, s. 55(E); repealed, 2005, c. 47, s. 72</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>1997, c. 12, s. 78; 2004, c. 25, s. 56; 2007, c. 29, s. 100, c. 36, ss. 42 and 112(14)</Text>
+  </Section>
+  <Section>
+    <Label>96</Label>
+    <Text>1997, c. 12, s. 79; 2004, c. 25, s. 57; 2005, c. 47, s. 73; 2007, c. 36, s. 43</Text>
+  </Section>
+  <Section>
+    <Label>96.1</Label>
+    <Text>added, 2005, c. 47, s. 73; repealed, 2007, c. 36, s. 43</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>1992, c. 27, s. 41; 1997, c. 12, s. 80; 2004, c. 25, s. 58; 2005, c. 47, s. 74</Text>
+  </Section>
+  <Section>
+    <Label>98</Label>
+    <Text>2004, c. 25, s. 59(E)</Text>
+  </Section>
+  <Section>
+    <Label>98.1</Label>
+    <Text>added, 2005, c. 47, s. 75</Text>
+  </Section>
+  <Section>
+    <Label>99</Label>
+    <Text>2004, c. 25, s. 60</Text>
+  </Section>
+  <Section>
+    <Label>100</Label>
+    <Text>1997, c. 12, s. 81; repealed, 2005, c. 47, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>101</Label>
+    <Text>1997, c. 12, s. 82; 2004, c. 25, s. 61(E); 2019, c. 29, s. 135</Text>
+  </Section>
+  <Section>
+    <Label>101.1</Label>
+    <Text>added, 1992, c. 27, s. 42; 2007, c. 36, s. 44</Text>
+  </Section>
+  <Section>
+    <Label>101.2</Label>
+    <Text>added, 1992, c. 27, s. 42; 1997, c. 12, s. 83; 2004, c. 25, s. 62; repealed, 2007, c. 36, s. 44</Text>
+  </Section>
+  <Section>
+    <Label>102</Label>
+    <Text>1992, c. 1, s. 20, c. 27, s. 43; 1997, c. 12, s. 84; 2005, c. 47, s. 77</Text>
+  </Section>
+  <Section>
+    <Label>104</Label>
+    <Text>1997, c. 12, s. 85; 2005, c. 47, s. 78</Text>
+  </Section>
+  <Section>
+    <Label>105</Label>
+    <Text>2005, c. 47, s. 79 and par. 123(e)(E)</Text>
+  </Section>
+  <Section>
+    <Label>106</Label>
+    <Text>1992, c. 27, s. 44; 2005, c. 47, par. 123(e)(E)</Text>
+  </Section>
+  <Section>
+    <Label>108</Label>
+    <Text>1992, c. 27, s. 45; 2005, c. 47, par. 123(f)(E)</Text>
+  </Section>
+  <Section>
+    <Label>109</Label>
+    <Text>1992, c. 27, s. 46; 1997, c. 12, s. 86; 1999, c. 31, s. 24(F); 2004, c. 25, s. 63; 2005, c. 47, s. 80; 2007, c. 36, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>110</Label>
+    <Text>2005, c. 47, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>113</Label>
+    <Text>R.S., c. 31 (1st Supp.), s. 73; 2000, c. 12, s. 13; 2004, c. 25, s. 64; 2005, c. 47, s. 82</Text>
+  </Section>
+  <Section>
+    <Label>114</Label>
+    <Text>2005, c. 47, par. 123(g)(E)</Text>
+  </Section>
+  <Section>
+    <Label>115</Label>
+    <Text>1992, c. 27, s. 47</Text>
+  </Section>
+  <Section>
+    <Label>115.1</Label>
+    <Text>added, 2007, c. 36, s. 46</Text>
+  </Section>
+  <Section>
+    <Label>116</Label>
+    <Text>2005, c. 47, s. 83</Text>
+  </Section>
+  <Section>
+    <Label>117</Label>
+    <Text>1992, c. 27, s. 48</Text>
+  </Section>
+  <Section>
+    <Label>118</Label>
+    <Text>2005, c. 47, s. 84</Text>
+  </Section>
+  <Section>
+    <Label>120</Label>
+    <Text>1992, c. 27, s. 49; 2001, c. 4, s. 30; 2004, c. 25, s. 65(F); 2005, c. 47, s. 85</Text>
+  </Section>
+  <Section>
+    <Label>121</Label>
+    <Text>1992, c. 27, s. 50; 1997, c. 12, s. 87; 2000, c. 12, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>122</Label>
+    <Text>2004, c. 25, s. 66(E)</Text>
+  </Section>
+  <Section>
+    <Label>124</Label>
+    <Text>2005, c. 47, s. 86</Text>
+  </Section>
+  <Section>
+    <Label>126</Label>
+    <Text>1997, c. 12, s. 88; 2005, c. 47, s. 87</Text>
+  </Section>
+  <Section>
+    <Label>127</Label>
+    <Text>2004, c. 25, s. 67(F)</Text>
+  </Section>
+  <Section>
+    <Label>128</Label>
+    <Text>1992, c. 27, s. 51; 1999, c. 31, s. 25; 2004, c. 25, s. 68(F)</Text>
+  </Section>
+  <Section>
+    <Label>129</Label>
+    <Text>1992, c. 27, s. 52; 2004, c. 25, s. 69(F)</Text>
+  </Section>
+  <Section>
+    <Label>135</Label>
+    <Text>1992, c. 1, s. 20, c. 27, s. 53; 1997, c. 12, s. 89</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>1992, c. 1, s. 143 (Sch. VI, item 2)(E), c. 27, s. 54; 1997, c. 12, s. 90; 2001, c. 4, s. 31; 2004, c. 25, s. 70; 2005, c. 47, s. 88</Text>
+  </Section>
+  <Section>
+    <Label>137</Label>
+    <Text>2000, c. 12, s. 15; 2005, c. 47, s. 89; 2007, c. 36, s. 47</Text>
+  </Section>
+  <Section>
+    <Label>138</Label>
+    <Text>R.S., c. 31 (1st Supp.), s. 74; 2000, c. 12, s. 16; repealed, 2007, c. 36, s. 48</Text>
+  </Section>
+  <Section>
+    <Label>140.1</Label>
+    <Text>added, 2005, c. 47, s. 90; 2007, c. 36, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>144</Label>
+    <Text>2004, c. 25, s. 71</Text>
+  </Section>
+  <Section>
+    <Label>146</Label>
+    <Text>2004, c. 25, s. 72(E); 2007, c. 36, s. 50</Text>
+  </Section>
+  <Section>
+    <Label>147</Label>
+    <Text>2005, c. 47, s. 91</Text>
+  </Section>
+  <Section>
+    <Label>149</Label>
+    <Text>1992, c. 1, s. 20; 1997, c. 12, s. 91; 2005, c. 47, s. 92; 2007, c. 36, s. 51; 2009, c. 33, s. 26; 2022, c. 5, s. 12; 2022, c. 10, s. 137 and s. 173(2); 2024, c. 15, s. 99; 2024, c. 17, ss. 83 and 111(2)</Text>
+  </Section>
+  <Section>
+    <Label>152</Label>
+    <Text>1992, c. 1, s. 20, c. 27, s. 55; 2005, c. 47, s. 93</Text>
+  </Section>
+  <Section>
+    <Label>154</Label>
+    <Text>1992, c. 27, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>155</Label>
+    <Text>1992, c. 1, ss. 16 and 161, c. 27, s. 57; 1997, c. 12, s. 92; 1999, c. 31, s. 26; 2005, c. 47, s. 94</Text>
+  </Section>
+  <Section>
+    <Label>156.1</Label>
+    <Text>added, 2005, c. 47, s. 95</Text>
+  </Section>
+  <Section>
+    <Label>157.1</Label>
+    <Text>added, 1992, c. 27, s. 58; 1997, c. 12, s. 93; 2005, c. 47, s. 96</Text>
+  </Section>
+  <Section>
+    <Label>158</Label>
+    <Text>1992, c. 27, s. 59; 1997, c. 12, s. 94; 2004, c. 25, s. 73; 2017, c. 26, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>159</Label>
+    <Text>1992, c. 27, s. 60</Text>
+  </Section>
+  <Section>
+    <Label>160</Label>
+    <Text>2004, c. 25, s. 74(E)</Text>
+  </Section>
+  <Section>
+    <Label>161</Label>
+    <Text>1997, c. 12, s. 95; 2004, c. 25, s. 75(F); 2005, c. 47, s. 97</Text>
+  </Section>
+  <Section>
+    <Label>162</Label>
+    <Text>2004, c. 25, s. 76(F); 2005, c. 47, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>163</Label>
+    <Text>1997, c. 12, s. 96; 2004, c. 25, s. 77(E)</Text>
+  </Section>
+  <Section>
+    <Label>164</Label>
+    <Text>1997, c. 12, s. 97; 2004, c. 25, s. 78(F)</Text>
+  </Section>
+  <Section>
+    <Label>166</Label>
+    <Text>added, 2005, c. 47, s. 99</Text>
+  </Section>
+  <Section>
+    <Label>167</Label>
+    <Text>2004, c. 25, s. 79(F)</Text>
+  </Section>
+  <Section>
+    <Label>168</Label>
+    <Text>2004, c. 25, s. 80</Text>
+  </Section>
+  <Section>
+    <Label>168.1</Label>
+    <Text>added, 1992, c. 27, s. 61; 1997, c. 12, s. 98; 2004, c. 25, s. 81; 2005, c. 47, s. 100</Text>
+  </Section>
+  <Section>
+    <Label>168.2</Label>
+    <Text>added, 2005, c. 47, s. 100</Text>
+  </Section>
+  <Section>
+    <Label>169</Label>
+    <Text>1992, c. 27, s. 62; 1997, c. 12, s. 99; 2004, c. 25, s. 82; 2005, c. 47, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>170</Label>
+    <Text>1997, c. 12, s. 100; 2005, c. 47, s. 102</Text>
+  </Section>
+  <Section>
+    <Label>170.1</Label>
+    <Text>added, 1997, c. 12, s. 101; 2005, c. 47, s. 103; 2007, c. 36, s. 100</Text>
+  </Section>
+  <Section>
+    <Label>171</Label>
+    <Text>1992, c. 1, s. 20, c. 27, s. 63; 1997, c. 12, s. 102</Text>
+  </Section>
+  <Section>
+    <Label>172</Label>
+    <Text>2005, c. 47, s. 104 (<Emphasis style="italic">Note</Emphasis>: s. 104(3) repealed by 2007, c. 36, s. 101); 2007, c. 36, s. 52</Text>
+  </Section>
+  <Section>
+    <Label>172.1</Label>
+    <Text>added, 2005, c. 47, s. 105; 2007, c. 36, s. 53</Text>
+  </Section>
+  <Section>
+    <Label>173</Label>
+    <Text>1997, c. 12, s. 103</Text>
+  </Section>
+  <Section>
+    <Label>175</Label>
+    <Text>repealed, 2005, c. 47, s. 106 (<Emphasis style="italic">Note</Emphasis>: but s. 106 repealed by 2007, c. 36, s. 102 before coming into force)</Text>
+  </Section>
+  <Section>
+    <Label>177</Label>
+    <Text>R.S., c. 31 (1st Supp.), s. 75; 1997, c. 12, s. 104(F); repealed, 2000, c. 12, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>178</Label>
+    <Text>R.S., c. 3 (2nd Supp.), s. 28; 1992, c. 27, s. 64; 1997, c. 12, s. 105; 1998, c. 21, s. 103; 2000, c. 12, s. 18; 2001, c. 4, s. 32; 2004, c. 25, s. 83; 2005, c. 47, s. 107; 2007, c. 36, s. 54; 2014, c. 20, s. 484</Text>
+  </Section>
+  <Section>
+    <Label>179</Label>
+    <Text>2004, c. 25, s. 84(F); 2005, c. 47, s. 108(E)</Text>
+  </Section>
+  <Section>
+    <Label>180</Label>
+    <Text>2004, c. 25, s. 85(F)</Text>
+  </Section>
+  <Section>
+    <Label>181</Label>
+    <Text>2004, c. 25, s. 86; 2005, c. 47, s. 109</Text>
+  </Section>
+  <Section>
+    <Label>182</Label>
+    <Text>1992, c. 27, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>183</Label>
+    <Text>R.S., c. 27 (2nd Supp.), s. 10 (Sch., item 2); 1990, c. 17, s. 3; 1993, c. 28, s. 78 (Sch. III, item 6), this amendment was repealed before it came into force by 1999, c. 3, s. 12 (Sch., item 3); 1998, c. 30, par. 14(a); 1999, c. 3, s. 15; 2001, c. 4, s. 33; 2002, c. 7, s. 83; 2015, c. 3, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>184</Label>
+    <Text>1993, c. 28, s. 78 (Sch. III, item 7); 2002, c. 7, s. 84</Text>
+  </Section>
+  <Section>
+    <Label>187</Label>
+    <Text>1992, c. 1, s. 20, c. 27, s. 66; 2004, c. 25, s. 87</Text>
+  </Section>
+  <Section>
+    <Label>189</Label>
+    <Text>R.S., c. 31 (1st Supp.), s. 28</Text>
+  </Section>
+  <Section>
+    <Label>191</Label>
+    <Text>R.S., c. 31 (1st Supp.), s. 76(E); 2000, c. 12, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>192</Label>
+    <Text>1992, c. 27, s. 67; 2004, c. 25, s. 88</Text>
+  </Section>
+  <Section>
+    <Label>193</Label>
+    <Text>1992, c. 27, s. 68</Text>
+  </Section>
+  <Section>
+    <Label>195</Label>
+    <Text>1992, c. 27, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>197</Label>
+    <Text>1997, c. 12, s. 106; 2004, c. 25, s. 89; 2005, c. 47, s. 110</Text>
+  </Section>
+  <Section>
+    <Label>198</Label>
+    <Text>1992, c. 27, s. 71; 1997, c. 12, s. 107; 2004, c. 25, s. 90(F)</Text>
+  </Section>
+  <Section>
+    <Label>199</Label>
+    <Text>1992, c. 27, s. 72; 2005, c. 47, s. 111</Text>
+  </Section>
+  <Section>
+    <Label>200</Label>
+    <Text>1992, c. 27, s. 73; 1997, c. 12, s. 108; 2004, c. 25, s. 91(F)</Text>
+  </Section>
+  <Section>
+    <Label>201</Label>
+    <Text>1992, c. 27, s. 74</Text>
+  </Section>
+  <Section>
+    <Label>202</Label>
+    <Text>1992, c. 27, s. 75; 2004, c. 25, s. 92; 2005, c. 47, s. 112</Text>
+  </Section>
+  <Section>
+    <Label>203.1</Label>
+    <Text>added, 1992, c. 27, s. 76; 1997, c. 12, s. 109</Text>
+  </Section>
+  <Section>
+    <Label>203.2</Label>
+    <Text>added, 1992, c. 27, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>204</Label>
+    <Text>1992, c. 27, s. 77; 2004, c. 25, s. 93(E)</Text>
+  </Section>
+  <Section>
+    <Label>204.1</Label>
+    <Text>added, 1992, c. 27, s. 77</Text>
+  </Section>
+  <Section>
+    <Label>204.2</Label>
+    <Text>added, 1992, c. 27, s. 77</Text>
+  </Section>
+  <Section>
+    <Label>204.3</Label>
+    <Text>added, 1992, c. 27, s. 77; 1997, c. 12, s. 110</Text>
+  </Section>
+  <Section>
+    <Label>206</Label>
+    <Text>1997, c. 12, s. 111; 2004, c. 25, s. 94(F)</Text>
+  </Section>
+  <Section>
+    <Label>209</Label>
+    <Text>1997, c. 12, s. 112; 2005, c. 47, s. 113</Text>
+  </Section>
+  <Section>
+    <Label>210</Label>
+    <Text>repealed, 1992, c. 27, s. 78</Text>
+  </Section>
+  <Section>
+    <Label>211</Label>
+    <Text>repealed, 1992, c. 27, s. 78</Text>
+  </Section>
+  <Section>
+    <Label>212</Label>
+    <Text>1992, c. 27, s. 79; 1999, c. 28, s. 147</Text>
+  </Section>
+  <Section>
+    <Label>213</Label>
+    <Text>1996, c. 6, s. 167(1)(b); 2004, c. 25, s. 95</Text>
+  </Section>
+  <Section>
+    <Label>214</Label>
+    <Text>1992, c. 27, s. 80; 1997, c. 12, s. 113</Text>
+  </Section>
+  <Section>
+    <Label>215</Label>
+    <Text>1992, c. 27, s. 80</Text>
+  </Section>
+  <Section>
+    <Label>215.1</Label>
+    <Text>added, 2005, c. 47, s. 114</Text>
+  </Section>
+  <Section>
+    <Label>216</Label>
+    <Text>repealed, 1992, c. 27, s. 80; added, 1997, c. 12, s. 114; repealed, 2007, c. 36, s. 55</Text>
+  </Section>
+  <Section>
+    <Label>218</Label>
+    <Text>R.S., c. 27 (1st Supp.), s. 203</Text>
+  </Section>
+  <Section>
+    <Label>219</Label>
+    <Text>R.S., c. 31 (1st Supp.), s. 77; 2000, c. 12, s. 20; 2007, c. 36, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>220</Label>
+    <Text>1992, c. 1, s. 20, c. 27, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>221</Label>
+    <Text>1992, c. 1, ss. 17 and 20, c. 27, s. 82</Text>
+  </Section>
+  <Section>
+    <Label>224</Label>
+    <Text>1992, c. 1, s. 18, c. 27, s. 83</Text>
+  </Section>
+  <Section>
+    <Label>225</Label>
+    <Text>1992, c. 27, s. 84</Text>
+  </Section>
+  <Section>
+    <Label>226</Label>
+    <Text>1992, c. 27, s. 85</Text>
+  </Section>
+  <Section>
+    <Label>227</Label>
+    <Text>1997, c. 12, s. 115</Text>
+  </Section>
+  <Section>
+    <Label>233</Label>
+    <Text>1997, c. 12, s. 116</Text>
+  </Section>
+  <Section>
+    <Label>234</Label>
+    <Text>1992, c. 1, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>237</Label>
+    <Text>2004, c. 25, s. 96</Text>
+  </Section>
+  <Section>
+    <Label>239</Label>
+    <Text>1992, c. 27, s. 86</Text>
+  </Section>
+  <Section>
+    <Label>239.1</Label>
+    <Text>added, 1992, c. 27, s. 87</Text>
+  </Section>
+  <Section>
+    <Label>239.2</Label>
+    <Text>added, 1992, c. 27, s. 87</Text>
+  </Section>
+  <Section>
+    <Label>240</Label>
+    <Text>1992, c. 27, s. 88</Text>
+  </Section>
+  <Section>
+    <Label>242</Label>
+    <Text>2002, c. 7, s. 85; 2007, c. 36, s. 57</Text>
+  </Section>
+  <Heading>
+    <Label>Part XI</Label>
+    <Text>(ss. 243 to 252)</Text>
+  </Heading>
+  <Section>
+    <Label>243</Label>
+    <Text>added, 1992, c. 27, s. 89; 2005, c. 47, s. 115; 2007, c. 36, s. 58</Text>
+  </Section>
+  <Section>
+    <Label>244</Label>
+    <Text>added, 1992, c. 27, s. 89; 1994, c. 26, s. 9(E); 2005, c. 47, s. 116 (<Emphasis style="italic">Note</Emphasis>: but s. 116 repealed by 2007, c. 36, s. 103 before coming into force)</Text>
+  </Section>
+  <Section>
+    <Label>245</Label>
+    <Text>added, 1992, c. 27, s. 89</Text>
+  </Section>
+  <Section>
+    <Label>246</Label>
+    <Text>added, 1992, c. 27, s. 89</Text>
+  </Section>
+  <Section>
+    <Label>246.1</Label>
+    <Text>added, 2018, c. 27, s. 268</Text>
+  </Section>
+  <Section>
+    <Label>247</Label>
+    <Text>added, 1992, c. 27, s. 89</Text>
+  </Section>
+  <Section>
+    <Label>248</Label>
+    <Text>added, 1992, c. 27, s. 89</Text>
+  </Section>
+  <Section>
+    <Label>249</Label>
+    <Text>added, 1992, c. 27, s. 89</Text>
+  </Section>
+  <Section>
+    <Label>250</Label>
+    <Text>added, 1992, c. 27, s. 89</Text>
+  </Section>
+  <Section>
+    <Label>251</Label>
+    <Text>added, 1992, c. 27, s. 89; 1997, c. 12, s. 117(F)</Text>
+  </Section>
+  <Section>
+    <Label>252</Label>
+    <Text>added, 1992, c. 27, s. 89</Text>
+  </Section>
+  <Heading>
+    <Label>Part XII</Label>
+    <Text>(ss. 253 to 266), added, 1997, c. 12, s. 118</Text>
+  </Heading>
+  <Section>
+    <Label>253</Label>
+    <Text>added, 1997, c. 12, s. 118; 2004, c. 25, s. 97(E); 2005, c. 47, s. 117; 2007, c. 29, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>254</Label>
+    <Text>added, 1997, c. 12, s. 118; 2004, c. 25, s. 98(E); 2007, c. 29, s. 102; 2017, c. 26, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>255</Label>
+    <Text>added, 1997, c. 12, s. 118</Text>
+  </Section>
+  <Section>
+    <Label>256</Label>
+    <Text>added, 1997, c. 12, s. 118; 2004, c. 25, s. 99; 2005, c. 47, s. 118</Text>
+  </Section>
+  <Section>
+    <Label>257</Label>
+    <Text>added, 1997, c. 12, s. 118</Text>
+  </Section>
+  <Section>
+    <Label>258</Label>
+    <Text>added, 1997, c. 12, s. 118</Text>
+  </Section>
+  <Section>
+    <Label>259</Label>
+    <Text>added, 1997, c. 12, s. 118; 2004, c. 25, s. 100; 2015, c. 3, s. 10(F)</Text>
+  </Section>
+  <Section>
+    <Label>260</Label>
+    <Text>added, 1997, c. 12, s. 118</Text>
+  </Section>
+  <Section>
+    <Label>261</Label>
+    <Text>added, 1997, c. 12, s. 118; 2004, c. 25, s. 101(F); 2005, c. 47, s. 119</Text>
+  </Section>
+  <Section>
+    <Label>262</Label>
+    <Text>added, 1997, c. 12, s. 118; 2005, c. 47, s. 120 (<Emphasis style="italic">Note</Emphasis>: s. 120(2) repealed by 2007, c. 36, s. 104 before coming into force)</Text>
+  </Section>
+  <Section>
+    <Label>263</Label>
+    <Text>added, 1997, c. 12, s. 118; 2005, c. 47, s. 121</Text>
+  </Section>
+  <Section>
+    <Label>264</Label>
+    <Text>added, 1997, c. 12, s. 118</Text>
+  </Section>
+  <Section>
+    <Label>265</Label>
+    <Text>added, 1997, c. 12, s. 118</Text>
+  </Section>
+  <Section>
+    <Label>266</Label>
+    <Text>added, 1997, c. 12, s. 118</Text>
+  </Section>
+  <Heading>
+    <Label>Part XIII</Label>
+    <Text>added, 1997, c. 12, s. 118; 2005, c. 2005, c. 47, s.122</Text>
+  </Heading>
+  <Section>
+    <Label>267</Label>
+    <Text>added, 1997, c. 12, s. 118; 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>268</Label>
+    <Text>added, 1997, c. 12, s. 118; 2004, c. 25, s. 102; 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>269</Label>
+    <Text>added, 1997, c. 12, s. 118; 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>270</Label>
+    <Text>added, 1997, c. 12, s. 118; 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>271</Label>
+    <Text>added, 1997, c. 12, s. 118; 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>272</Label>
+    <Text>added, 1997, c. 12, s. 118; 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>273</Label>
+    <Text>added, 1997, c. 12, s. 118; 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>274</Label>
+    <Text>added, 1997, c. 12, s. 118; 2004, c. 25, s. 103; 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>275</Label>
+    <Text>added, 1997, c. 12, s. 118; 2005, c. 47, s. 122; 2007, c. 36, s. 59</Text>
+  </Section>
+  <Section>
+    <Label>276</Label>
+    <Text>added, 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>277</Label>
+    <Text>added, 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>278</Label>
+    <Text>added, 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>279</Label>
+    <Text>added, 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>280</Label>
+    <Text>added, 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>281</Label>
+    <Text>added, 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>282</Label>
+    <Text>added, 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>283</Label>
+    <Text>added, 2005, c. 47, s. 122</Text>
+  </Section>
+  <Section>
+    <Label>284</Label>
+    <Text>added, 2005, c. 47, s. 122; 2007, c. 36, s. 60</Text>
+  </Section>
+  <Heading>
+    <Label>Part XIV</Label>
+    <Text>added, 2005, c. 47, s. 122</Text>
+  </Heading>
+  <Section>
+    <Label>285</Label>
+    <Text>added, 2005, c. 47, s. 122</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2007, s. 36, s. 112</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 1992, c. 27, s. 92</Text>
+  </General>
+  <General>
+    <Text>General, 1995, c. 1, s. 62(3)</Text>
+  </General>
+  <General>
+    <Text>General, 1997, c. 12, s. 119</Text>
+  </General>
+  <General>
+    <Text>General, 2000, c. 12, s. 21 <Emphasis style="italic">re</Emphasis> application</Text>
+  </General>
+  <General>
+    <Text>General, 2005, c. 47, s. 71</Text>
+  </General>
+  <General>
+    <Text>General, 2007, c. 36, s. 41 and 107 (<Emphasis style="italic">re</Emphasis> application)</Text>
+  </General>
+  <General>
+    <Text>General, 2009, c. 31, s. 66 <Emphasis style="italic">re</Emphasis> application</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, R.S., c. 27 (2nd Supp.), s. 11</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 1992, c. 27, s. 39(2); repealed, 1994, c. 26, s. 6</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2001, c. 4, s. 177</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2005, c. 47, s. 133 (<Emphasis style="italic">Note</Emphasis>: s. 133 amended by 2007, c. 36, s. 107); 2005, c. 47, s. 135</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2007, c. 29, s. 117</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2007, c. 36, s. 110</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2009, c. 2, par. 357(b)</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2018, c. 27, s. 270</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2019, c. 29, s. 149</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional Provision, 2024, c. 15, s. 275</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 27 (1st Supp.), s. 203 in force 04.12.85 <Emphasis style="italic">see</Emphasis> SI/85‑211</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 31 (1st Supp.), ss. 3, 28 and 69 to 77 proclaimed in force 15.10.85 <Emphasis style="italic">see</Emphasis> SI/85‑188</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 3 (2nd Supp.), s. 28 proclaimed in force 01.06.86 <Emphasis style="italic">see</Emphasis> SI/86‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 27 (2nd Supp.), s. 10 (Sch., item 2) proclaimed in force 01.10.87 <Emphasis style="italic">see</Emphasis> SI/87‑221; s. 11 proclaimed in force 02.09.86 <Emphasis style="italic">see</Emphasis> SI/86‑175</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1990, c. 17 in force 01.09.90 <Emphasis style="italic">see</Emphasis> SI/90‑106</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1991, c. 46 in force 01.06.92 <Emphasis style="italic">see</Emphasis> SI/92‑90</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 1, ss. 12, 15 to 20, s. 143 (Sch. VI, item 2)(E), s. 145 (Sch. VIII, item 2)(F) and s. 161 in force on assent 28.02.92; s. 13(1) repealed by 1994, c. 26, s. 46; s. 14(1) deemed in force 12.12.88 <Emphasis style="italic">see</Emphasis> ss. 14(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 27, s. 92 in force on assent 23.06.92; s. 5, other than the words “administrators of consumer proposals made under Division II of Part III and persons who provide counselling pursuant to this Act” in par. 5(4)(b) of the <XRefExternal reference-type="act">Bankruptcy Act</XRefExternal>, as enacted by s. 5(4), and other than the words “and of administrators as defined in s. 66.11” in par. 5(4)(c) of the <XRefExternal reference-type="act">Bankruptcy Act</XRefExternal>, as enacted by s. 5(4), ss. 6, 7, 9, 54(1) and (3) in force 01.08.92 see SI/92‑135; ss. 1 to 4, the words “administrators of consumer proposals made under Division II of Part III and persons who provide counselling pursuant to this Act” in par. 5(4)(b) of the <XRefExternal reference-type="act">Bankruptcy and Insolvency Act</XRefExternal>, as enacted by s. 5(4) and the words “and of administrators as defined in s. 66.11” of par. 5(4)(c) of the <XRefExternal reference-type="act">Bankruptcy and Insolvency Act</XRefExternal>, as enacted by ss. 5(4), ss. 8 and 10 to 53, ss. 54(2) and ss. 55 to 91 in force 30.11.92 see SI/92‑194</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 28, s. 78 (Sch., III, item 7) in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 34, s. 10(E) in force on assent 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 26, ss. 6 to 9 and 46 in force on assent 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 1, s. 62 in force 29.03.95 <Emphasis style="italic">see</Emphasis> SI/95‑48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 6, s. 167 in force 28.06.96 <Emphasis style="italic">see</Emphasis> SI/96‑58</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 23, s. 168 in force 30.06.96 <Emphasis style="italic">see</Emphasis> s. 190</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1997, c. 12,</Text>
+    <List>
+      <Item>
+        <Text>— s. 114 in force on assent 25.04.97 <Emphasis style="italic">see</Emphasis> s. 129(2);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1 to 58, s. 59, other than par. 67(1)(b.1) of the <XRefExternal reference-type="act">Bankruptcy and Insolvency Act</XRefExternal>, as enacted by s. 59(1), ss. 61 to 83, s. 84, other than s. 102(3) of the<XRefExternal reference-type="act"> Bankruptcy and Insolvency Act</XRefExternal>, as enacted by s. 84(2), ss. 85 to 97, s. 98, other than par. 168.1(1)(e) of the <XRefExternal reference-type="act">Bankruptcy and Insolvency Act</XRefExternal>, as enacted by s. 98(3), s. 99 and 100, s. 102, s. 103, other than par. 173(1)(m) and (n) of the <XRefExternal reference-type="act">Bankruptcy and Insolvency Act</XRefExternal>, as enacted by s. 103(1), ss. 104 to 113 and ss. 115 to 119 in force 30.09.97 <Emphasis style="italic">see</Emphasis> SI/97‑114;</Text>
+      </Item>
+      <Item>
+        <Text>— par. 67(1)(b.1) of the <XRefExternal reference-type="act">Bankruptcy and Insolvency Act</XRefExternal>, as enacted by s. 59(1), s. 60, s. 102(3) of the <XRefExternal reference-type="act">Bankruptcy and Insolvency Act</XRefExternal>, as enacted by s. 84(2), par. 168.1(1)(e) of the <XRefExternal reference-type="act">Bankruptcy and Insolvency Act</XRefExternal>, as enacted by s. 98(3), s. 101 and par. 173(1)(m) and (n) of the <XRefExternal reference-type="act">Bankruptcy and Insolvency Act</XRefExternal>, as enacted by s. 103(1) in force 30.04.98 <Emphasis style="italic">see</Emphasis> SI/98‑53.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 19, s. 250 in force on assent 18.06.98 <Emphasis style="italic">see</Emphasis> s. 250(2) <Emphasis style="italic">re</Emphasis> application</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 21, s. 103 in force on assent 18.06.98 <Emphasis style="italic">see</Emphasis> s. 103(3) and (4) <Emphasis style="italic">re</Emphasis> application</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 30, par. 14(a) in force 19.04.99 <Emphasis style="italic">see</Emphasis> SI/99-37</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 3, s. 12 (Sch., item 3) in force on assent 11.03.99; s. 15 in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 28, ss. 146 and 147 in force 28.06.99 <Emphasis style="italic">see</Emphasis> SI/99‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 31, ss. 17 to 26 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 12, ss. 8 to 21 in force 31.07.2000 <Emphasis style="italic">see</Emphasis> SI/2000‑76</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 30, ss. 143 to 148 in force on assent 20.10.2000 <Emphasis style="italic">see also</Emphasis> various coming into force provisions throughout</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 4, ss. 25 to 33 and 177 in force 01.06.2001 <Emphasis style="italic">see</Emphasis> SI/2001-71</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 9, ss. 572 to 574 in force 24.10.2001 <Emphasis style="italic">see</Emphasis> SI/2001-102</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, ss. 83 to 85 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, s. 182 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 25, ss. 7 to 103 in force on assent 15.12.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 3, ss. 11 to 14 in force 28.09.2005 <Emphasis style="italic">see</Emphasis> SI/2005-89</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 47,</Text>
+    <List>
+      <Item>
+        <Text>— ss. 2 to 42, 44 to 54, 56, 58, 59, 63 to 66, 68 to 87, 89 to 105 and 108 to 123 in force 18.09.2009 <Emphasis style="italic">see</Emphasis> SI/2009-68</Text>
+      </Item>
+      <Item>
+        <Text>— <Emphasis style="italic">Note</Emphasis>: ss. 20(3), 30(2), 31(3), 37, 104(3), 106, 116, 120(2) repealed by 2007, c. 36 before coming into force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 43, 55, 57, 60 to 62, 67, 88 and 107 in force 07.07.2008 <Emphasis style="italic">see</Emphasis> SI/2008-78</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 133 and 135 in force on assent 25.11.2005.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 29, ss. 91(1), 92 to 102 and 117 in force on assent 22.06.2007; s. 91(2) in force 17.11.2007 <Emphasis style="italic">see</Emphasis> SI/2007-106</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 36 (14.12.2007),</Text>
+    <List>
+      <Item>
+        <Text>— ss. 1(1), 3, 6, 9(3), 12, 13, 14(2), (3), 15(2), (3), 16(2), (3), 17(2), 19 to 22, 34, 35, 37, 42, 44, 46 to 48, 50, 51(1), 55 to 57 and 58(2) in force 18.09.2009 <Emphasis style="italic">see</Emphasis> SI/2009-68</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1(2) to (4), 2, 4, 5, 7, 8, 9(1), (2), 10, 11, 14(1), 15(1), 16(1), 17(1), 18, 23, 24, 26 to 30, 32, 33, 36, 38 to 41, 43, 45, 49, 51(2), 52 to 54, 58(1), (3), 59, 60 and ss. 95 to 104, 107, 109, 110 and 112 in force on assent 14.12.2007</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1(5) to (7) in force 07.07.2008 see SI/2008-78</Text>
+      </Item>
+      <Item>
+        <Text>— s. 25 repealed before coming into force <Emphasis style="italic">see</Emphasis> 2009, c. 31, s. 67</Text>
+      </Item>
+      <Item>
+        <Text>— s. 31 repealed before coming into force <Emphasis style="italic">see</Emphasis> 2007, c. 36, s. 112(7).</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 2, ss. 355, 356 and par. 357(b) in force on assent 12.03.2009</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 31, ss. 63 to 67 in force on assent 15.12.2009</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 33 (assent: 15.12.2009), ss. 21 to 26 in force 01.01.2010 <Emphasis style="italic">see</Emphasis> s. 37(1)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 16 (assent: 28.06.2012), ss. 79 to 81 in force 14.12.2012 <Emphasis style="italic">see</Emphasis> SI/2012-102</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 31 (assent 14.12.2012), ss. 414 to 418 in force 01.04.2013 <Emphasis style="italic">see</Emphasis> SI/2013-26</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 20 (assent: 19.06.2014), s. 484 in force 02.01.2015 <Emphasis style="italic">see</Emphasis> SI/2014-100</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 3, ss. 6 to 10 in force on assent 26.02.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 6 (assent: 16.05.2017), s. 122 in force 21.09.2017 <Emphasis style="italic">see</Emphasis> SI/2017-47</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 26, ss. 5 to 10 in force on assent 12.12.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 10, s. 82 in force on assent 23.05.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 27 (assent: 13.12.2018), ss. 265 to 268 and 270 in force 01.11.2019 <Emphasis style="italic">see</Emphasis> SI/2019-90</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), ss. 133 to 135 in force 01.11.2019 <Emphasis style="italic">see</Emphasis> SI/2019-90</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 5 (assent: 09.06.2022), s. 12(1) in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 12(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 10 (assent: 23.06.2022), ss. 137(1) and 173(2) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 137(2) and 173(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2023, c. 6 on assent 27.04.2023</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 15, in force on assent 20.06.2024, <Emphasis style="italic">except,</Emphasis></Text>
+    <List>
+      <Item>
+        <Text>— s. 99(1) in force 28.06.2024 <Emphasis style="italic">see</Emphasis> SI/2024-33</Text>
+      </Item>
+      <Item>
+        <Text>— s. 273, comes into force on the second anniversary of the day on which the <XRefExternal reference-type="act">Fall Economic Statement Implementation Act 2023</XRefExternal> receives royal assent or an earlier day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 277 — Not in force</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 17, in force on assent 20.06.2024, <Emphasis style="italic">except</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>— s. 111(2) in force 20.06.2024 (Coordinating amendment — conditions met 28.06.2024 <Emphasis style="italic">see</Emphasis> SI/2024-33)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 31, s. 2 in force on assent 12.12.2024</Text>
+  </CIF>
+</Statute>
+</TOPS>

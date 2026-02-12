@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="N-11">
+  <Title>National Housing Act</Title>
+  <ChapterNumber>R.S., 1985, c. N-11</ChapterNumber>
+  <OtherLangTitle>(Habitation, Loi nationale sur l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Infrastructure and Communities (SI/2023-44)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>R.S., c. 20 (2nd Supp.), s. 7; R.S., c. 25 (4th Supp.), s. 1; 1992, c. 1, s. 142 (Sch. V, item 23), c. 32, s. 5; 1994, c. 35, s. 38; 1999, c. 27, s. 1, c. 28, s. 170; 2012, c. 19, s. 350</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>added, 1999, c. 27, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1992, c. 32, s. 6; 1999, c. 27, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>4.1</Label>
+    <Text>added, 1992, c. 32, s. 7; repealed, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 2; 1999, c. 27, s. 3; 2011, c. 15, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1999, c. 27, s. 3</Text>
+  </Section>
+  <Heading>
+    <Label>Part I:</Label>
+  </Heading>
+  <Section>
+    <Label>7</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 3; 1992, c. 32, s. 8(F); 1999, c. 27, s. 3; 2012, c. 19, s. 351; 2016, c. 7, s. 171</Text>
+  </Section>
+  <Section>
+    <Label>7.1</Label>
+    <Text>added, 2012, c. 19, s. 351</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 4; 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>8.1</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 5; repealed, 1999, c. 27, s. 3; added, 2011, c. 15, s. 23; 2012, c. 19, s. 357; 2014, c. 20, s. 316</Text>
+  </Section>
+  <Section>
+    <Label>8.2</Label>
+    <Text>added, 2011, c. 15, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 6; 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>R.S., c. 20 (2nd Supp.), s. 8; R.S., c. 25 (4th Supp.), s. 7; 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1992, c. 32, s. 9; 1999, c. 27, s. 3; 2020, c. 5, s. 47(1), (2); 2024, c. 17, s. 150</Text>
+  </Section>
+  <Section>
+    <Label>11.1</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 8; repealed, 1999, c. 27, s. 3; added, 2020, c. 5, s. 48; added, 2020, c. 5, s. 49; repealed, 2024, c. 17, ss. 151</Text>
+  </Section>
+  <Section>
+    <Label>11.2</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 8; 1992, c. 32. s. 10; repealed, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>11.3</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 8; repealed, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 9; 1992, c. 32, s. 11; 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 9; 1992, c. 32. s. 12; 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>R.S., C. 25 (4th Supp.), s. 9; 1992, c. 32, s. 13; 1999, c. 27, s. 3; 2012, c. 19, s. 352</Text>
+  </Section>
+  <Section>
+    <Label>14.1</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 9; repealed, 1999, c. 27, s. 3; added, 2012, c. 19, s. 353</Text>
+  </Section>
+  <Section>
+    <Label>14.2</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 9; 1992, c. 32. s. 14; repealed, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>14.3</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 9; repealed, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>14.4</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 9; repealed, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>14.5</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 9; 1992, c. 32. s. 15; repealed, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>14.6</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 9; 1992, c. 32, s. 16; repealed, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>14.7</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 9; repealed, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>14.8</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 9; repealed, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>1999, c. 27, s. 3; 2012, c. 19, s. 354</Text>
+  </Section>
+  <Section>
+    <Label>15.1</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 10; 1992, c. 32, s. 18; repealed, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>R.S., c. 25 (4th Supp. s. 11; 1992, c. 32, s. 19; 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 12; 1992, c. 32, s. 20; 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>17.1</Label>
+    <Text>added, 2007, c. 6, s. 440</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 12; repealed, 1992, c. 32, s. 21; added, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 13; 1992, c. 32, s. 22; 1999, c. 27, s. 3; 2012, c. 19, s. 355</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 14; 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>20.1</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 15; 1992, c. 32, s. 23; repealed, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>20.2</Label>
+    <Text>added, 1992, c. 32, s. 24; repealed, 1999, c. 27, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 16; 1992, c. 32, s. 25; 1995, c. 47, s. 1; 1999, c. 27, s. 3</Text>
+  </Section>
+  <Heading>
+    <Label>Part I.1</Label>
+    <Text>(ss. 21.1 to 21.5), added, R.S., c. 8 (1st Supp.), s. 1; repealed, 1999, c. 27, s. 3</Text>
+  </Heading>
+  <Section>
+    <Label>21.1</Label>
+    <Text>added, R.S., c. 8 (1st Supp.), s. 1, c. 25 (4th Supp.), s. 17(E); repealed, 1999, c. 27, s. 3; added, 2011, c. 15, s. 24; 2012, c. 19, s. 358; 2016, c. 7, s. 172</Text>
+  </Section>
+  <Section>
+    <Label>21.2</Label>
+    <Text>added, R.S., c. 8 (1st Supp.), s. 1; repealed, 1999, c. 27, s. 3; added, 2012, c. 19, s. 358; 2016, c. 7, s. 173</Text>
+  </Section>
+  <Section>
+    <Label>21.3</Label>
+    <Text>added, R.S., c. 8 (1st Supp.), s. 1, c. 25 (4th Supp.), s. 18; 1992, c. 32. s. 26; repealed, 1999, c. 27, s. 3; added, 2012, c. 19, s. 358</Text>
+  </Section>
+  <Section>
+    <Label>21.4</Label>
+    <Text>added, R.S., c. 8 (1st Supp.), s. 1, c. 25 (4th Supp.), s. 19; 1992, c. 32. s. 27; repealed, 1999, c. 27, s. 3; added, 2012, c. 19, s. 358</Text>
+  </Section>
+  <Heading>
+    <Label>Part I.1</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Heading>
+  <Section>
+    <Label>21.5</Label>
+    <Text>added, R.S., c. 8 (1st Supp.), s. 1; 1992, c. 32, s. 28; repealed, 1999, c. 27, s. 3; 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.51</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.52</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.53</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.54</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.55</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.56</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.57</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.58</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.59</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.6</Label>
+    <Text>added, 2012, c. 19, ss. 356 and 366</Text>
+  </Section>
+  <Section>
+    <Label>21.61</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.62</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.63</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.64</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.65</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Section>
+    <Label>21.66</Label>
+    <Text>added, 2012, c. 19, s. 356</Text>
+  </Section>
+  <Heading>
+    <Label>Part II:</Label>
+  </Heading>
+  <Section>
+    <Label>22</Label>
+    <Text>1992, c. 32. s. 29; 1999, c. 27, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>1992, c. 32. s. 30; 1999, c. 27, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>1999, c. 27, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>24.1</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 20; repealed, 1999, c. 27, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 21; 1991, c. 47, s. 738; 1999, c. 27, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>repealed, 1999, c. 27, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>1992, c. 32, s. 31; repealed, 1999, c. 27, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>repealed, 1999, c. 27, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>repealed, 1999, c. 27, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>repealed, 1999, c. 27, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>repealed, 1999, c. 27, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>R.S., c. 18 (3rd Supp.), s. 37; 1991, c. 47, s. 739; 1999, c. 27, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 22; 1992, c. 32, s. 32; repealed, 1999, c. 27, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>1992, c. 32, s. 33; repealed, 1999, c. 27, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>repealed, 1992, c. 32, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>repealed, 1992, c. 32, s. 34</Text>
+  </Section>
+  <Heading>
+    <Label>Part III, (</Label>
+    <Text>ss. 38-41)</Text>
+  </Heading>
+  <Heading>
+    <Label>Part IV:</Label>
+    <Text>(s. 42)</Text>
+  </Heading>
+  <Section>
+    <Label>42</Label>
+    <Text>1992, c. 32, s. 35</Text>
+  </Section>
+  <Heading>
+    <Label>Part V</Label>
+    <Text>(ss. 43 to 50), repealed, R.S., c. 25 (4th Supp.), s. 23</Text>
+  </Heading>
+  <Section>
+    <Label>43</Label>
+    <Text>repealed, R.S., c. 25 (4th Supp.), s. 23</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>repealed, R.S., c. 25 (4th Supp.), s. 23</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>repealed, R.S., c. 25 (4th Supp.), s. 23</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>repealed, R.S., c. 25 (4th Supp.), s. 23</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>repealed, R.S., c. 25 (4th Supp.), s. 23</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>repealed, R.S., c. 25 (4th Supp.), s. 23</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>repealed, R.S., c. 25 (4th Supp.), s. 23</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>repealed, R.S., c. 25 (4th Supp.), s. 23</Text>
+  </Section>
+  <Heading>
+    <Label>Part VI:</Label>
+  </Heading>
+  <Section>
+    <Label>51</Label>
+    <Text>R.S., c. 20 (2nd Supp.), s. 9; 1992, c. 32, s. 36; 1999, c. 27, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>1992, c. 32, s. 37; repealed, 1999, c. 27, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>repealed, 1999, c. 27, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>1992, c. 32, s. 38; repealed, 1999, c. 27, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>repealed, 1999, c. 27, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>repealed, 1992, c. 32, s. 39</Text>
+  </Section>
+  <Heading>
+    <Label>Part VII:</Label>
+  </Heading>
+  <Section>
+    <Label>57</Label>
+    <Text>1999, c. 27, s. 8; 2019, c. 29, s. 312</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>1991, c. 47, s. 740; 1999, c. 27, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>repealed, 1999, c. 27, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>1992, c. 32, s. 40; repealed, 1999, c. 27, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>1999, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>1991, c. 47, s. 741; repealed, 1999, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 24; repealed, 1999, c. 27, s. 9</Text>
+  </Section>
+  <Heading>
+    <Label>Part VIII</Label>
+    <Text>repealed, 1999, c. 27, s. 9</Text>
+  </Heading>
+  <Section>
+    <Label>64</Label>
+    <Text>repealed, 1999, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>repealed, 1999, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>repealed, 1999, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>repealed, 1999, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>repealed, 1999, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>69</Label>
+    <Text>R.S., c. 20 (2nd Supp.), s. 10; repealed, 1999, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>repealed, 1999, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>repealed, 1999, c. 27, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>repealed, 1999, c. 27, s. 9</Text>
+  </Section>
+  <Heading>
+    <Label>Part IX:</Label>
+  </Heading>
+  <Section>
+    <Label>75</Label>
+    <Text>1999, c. 27, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>1999, c. 27, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>77</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 25; repealed, 1992, c. 32, s. 41; added, 1999, c. 27, s. 12</Text>
+  </Section>
+  <Heading>
+    <Label>Part X:</Label>
+  </Heading>
+  <Section>
+    <Label>78</Label>
+    <Text>1999, c. 27, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>79</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 26; 1992, c. 32, s. 42; 1999, c. 27, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>1999, c. 27 s. 13</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>repealed, 1999, c. 27, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>repealed, 1999, c. 27, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>repealed, 1999, c. 27, s. 13</Text>
+  </Section>
+  <Heading>
+    <Label>Part XI:</Label>
+  </Heading>
+  <Section>
+    <Label>84</Label>
+    <Text>1992, c. 32, s. 43; 1999, c. 27, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>85</Label>
+    <Text>1999, c. 27, s. 15</Text>
+  </Section>
+  <Heading>
+    <Label>Part XII:</Label>
+  </Heading>
+  <Section>
+    <Label>87</Label>
+    <Text>1999, c. 27, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>88</Label>
+    <Text>1999, c. 27, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>89</Label>
+    <Text>1992, c. 32, s. 44; repealed, 1999, c. 27, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>90</Label>
+    <Text>repealed, 1999, c. 27, s. 16</Text>
+  </Section>
+  <Heading>
+    <Label>Part XIV:</Label>
+  </Heading>
+  <Section>
+    <Label>92</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 27; 1992, c. 32, s. 45; 1999, c. 27, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>1999, c. 27, s. 19(E)</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>repealed, 1999, c. 27, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>R.S., c. 20 (2nd Supp.), s. 11; 1992, c. 32, s. 46; 1999, c. 27, s. 20</Text>
+  </Section>
+  <Heading>
+    <Label>Part XV</Label>
+    <Text>added, 1999, c. 27, s. 20</Text>
+  </Heading>
+  <Section>
+    <Label>96</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 28; 1992, c. 32, s. 47</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>repealed, R.S., c. 25 (4th Supp.), s. 29; added, 1992, c. 32, s. 48</Text>
+  </Section>
+  <Section>
+    <Label>97.1</Label>
+    <Text>added, 1992, c. 32, s. 48</Text>
+  </Section>
+  <Section>
+    <Label>98</Label>
+    <Text>R.S., c. 20 (2nd Supp.), s. 12; repealed, c. 27, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>99</Label>
+    <Text>1992, c. 32, s. 49; 1999, c. 27, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>99.1</Label>
+    <Text>added, R.S., c. 25 (4th Supp.), s. 30</Text>
+  </Section>
+  <Section>
+    <Label>99.2</Label>
+    <Text>added, 1999, c. 27, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>100.1</Label>
+    <Text>added, 1999, c. 27, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>101</Label>
+    <Text>1999, c. 27, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>102</Label>
+    <Text>R.S., c. 25 (4th Supp.), s. 31; 1992, c. 32, s. 50(E)</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2012, c. 19, s. 366</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating Amendments, 2024, c. 17, s. 153 (3) and (3) (conditions never met)</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 1995, c. 47, s. 2</Text>
+  </General>
+  <General>
+    <Text>General, 1999, c. 27, ss. 10, 17 and 37 <Emphasis style="italic">re</Emphasis> regulations</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 17, s. 154 (program)</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, R.S., c. 25 (4th Supp.), ss. 35-37; repealed, 1999, c. 27, s. 36</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 1992, c. 32, ss. 7(2), 20(3) and 51</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 1999, c. 27, ss. 38 to 41</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2012, c. 19, s. 365</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 8 (1st Supp.) proclaimed in force 01.02.85 <Emphasis style="italic">see</Emphasis> SI/85‑24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 20 (2nd Supp.), ss. 7 to 12 proclaimed in force 09.10.86 <Emphasis style="italic">see</Emphasis> SI/86‑193</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 18 (3rd Supp.), s. 37 proclaimed in force 02.07.87 <Emphasis style="italic">see</Emphasis> SI/87‑146</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 25 (4th Supp.) except s. 18 in force 21.07.88; s. 18 deemed in force 01.01.87 <Emphasis style="italic">see</Emphasis> s. 38</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1991, c. 47 in force 01.06.92 <Emphasis style="italic">see</Emphasis> SI/92‑91</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 1, s. 142 (Sch. V, item 23) in force on assent 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 32 in force on assent 23.06.92 <Emphasis style="italic">except</Emphasis> ss. 17 and 18 in force 08.06.93 <Emphasis style="italic">see</Emphasis> SI/93‑90; ss. 19(5), 26(2) and 33(2) deemed in force 01.01.91 <Emphasis style="italic">see</Emphasis> s. 53(2); ss. 25 and 28 deemed in force 01.01.92 <Emphasis style="italic">see</Emphasis> s. 53(3)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 35, s. 38 in force on the day fixed by order of the Governor in Council for the coming into force of the <XRefExternal reference-type="act">Yukon First Nations Land Claims Settlement Act </XRefExternal><Emphasis style="italic">see</Emphasis> s. 40. Act in force 14.02.95 <Emphasis style="italic">see</Emphasis> SI/95‑19</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 47, ss. 1 and 2 in force on assent 15.12.95</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 27, ss. 1 to 24, 36 to 41 in force on assent 17.06.99 <Emphasis style="italic">except</Emphasis> s. 18(2) of the <XRefExternal reference-type="act">National Housing Act</XRefExternal>, as enacted by s. 3, deemed in force 01.01.97 <Emphasis style="italic">see</Emphasis> s. 43</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 28, s. 170 in force 28.06.99 <Emphasis style="italic">see</Emphasis> SI/99‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 6, s. 440 in force 20.04.2007 <Emphasis style="italic">see</Emphasis> SI/2007-49</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2011, c. 15 (assent: 26.06.2011), ss. 22 to 24 in force on 2012, c. 19’s Royal assent date: 29.06.2012, <Emphasis style="italic">see</Emphasis> 2012, c. 19, s. 359</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 19, ss. 350, 351, 353, 355, 356, <Emphasis style="italic">at the exception of</Emphasis> par. 21.52(1)(b), 357 to 359, 365 and 366 in force on assent 29.06.2012</Text>
+    <List>
+      <Item>
+        <Text>— ss. 352 and 354 in force 01.01.2013 <Emphasis style="italic">see</Emphasis> s. 367(1)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 21.52(1)(b), as enacted by s. 356, in force 31.05.2013 <Emphasis style="italic">see</Emphasis> SI/2013-61</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 20, s. 316 in force on assent 19.06.2014</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2016, c. 7, ss. 171 to 173 in force on assent 22.06.2016</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2020 c. 5 (assent: 25.03.2020)</Text>
+    <List>
+      <Item>
+        <Text>— ss. 47(1) and 48 in force on assent</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 47(2) and 49 and 50 repealed, <Emphasis style="italic">see</Emphasis> 2024, c. 17, ss. 153(2) (Coordinating Amendment — condition met 20.06.2024)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 17 in force on assent 20.06.2024, <Emphasis style="italic">except</Emphasis></Text>
+    <List>
+      <Item>
+        <Text>— ss. 153(2) in force on assent (Coordinating amendment - conditions met 20.06.2024 <Emphasis style="italic">see</Emphasis> s. 153(2))</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 153(3) and (4) conditions deemed never to have had its effects</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

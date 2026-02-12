@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1996, ch. 8">
+  <Title>Ministère de la Santé, Loi sur le</Title>
+  <ChapterNumber>1996, ch. 8</ChapterNumber>
+  <OtherLangTitle>(Department of Health Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de la Santé</Text>
+  </Minister>
+  <Section>
+    <Label>4.1</Label>
+    <Text>ajouté, 2006, ch. 5, art. 21</Text>
+  </Section>
+  <Section>
+    <Label>4.2</Label>
+    <Text>ajouté, 2006, ch. 5, art. 21</Text>
+  </Section>
+  <Section>
+    <Label>11.1</Label>
+    <Text>ajouté, 2004, ch. 15, art. 34</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>1996, ch. 8, art. 35b)</Text>
+  </Section>
+  <Transitional>
+    <Text>dispositions transitoires, 1996, ch. 8, art. 13 à 15</Text>
+  </Transitional>
+  <ConditionalAmendment>
+    <Text>modification conditionnelle, 1996, ch. 8, art. 36</Text>
+  </ConditionalAmendment>
+  <CIF>
+    <Text>EEV, 1996, ch. 8 en vigueur 12.07.96 <Emphasis style="italic">voir</Emphasis> TR/96‑69</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 15, art. 34 en vigueur 13.10.2004 <Emphasis style="italic">voir</Emphasis> TR/2004-137</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2006, ch. 5, art. 21 en vigueur 15.12.2006 <Emphasis style="italic">voir</Emphasis> TR/2006‑145</Text>
+  </CIF>
+</Statute>
+</TOPS>

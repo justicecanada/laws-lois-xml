@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1974-75-76, ch. 88">
+  <Title>Halifax, Loi sur la prise en charge des prestations de la Commission de secours d’</Title>
+  <ChapterNumber>1974-75-76, ch. 88</ChapterNumber>
+  <OtherLangTitle>(Halifax Relief Commission Pension Continuation Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Finances</Text>
+  </Minister>
+  <Section>
+    <Label>3</Label>
+    <Text>1995, ch. 18, art. 87; 2000, ch. 34, al. 94g)(F)</Text>
+  </Section>
+  <?Pub Caret 0?>
+  <Section>
+    <Label>5</Label>
+    <Text>1999, ch. 10, art. 42</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>
+      <Emphasis style="italic">voir </Emphasis> Impôt sur le revenu</Text>
+  </Section>
+  <CIF>
+    <Text>EEV, 1974-75-76, ch. 88 proclamé en vigueur 11.06.76 <Emphasis style="italic">voir</Emphasis> TR/76-78</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 18, art. 87 en vigueur 15.09.95 <Emphasis style="italic">voir</Emphasis> TR/95‑108</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 10, art. 42 en vigueur à la sanction 25.03.99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2000, ch. 34, art. 94 en vigueur 27.10.2000 <Emphasis style="italic">voir</Emphasis> TR/2000-105</Text>
+  </CIF>
+</Statute>
+</TOPS>

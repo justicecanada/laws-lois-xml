@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2024, c. 15">
+  <Title>Fall Economic Statement Implementation Act, 2023</Title>
+  <ChapterNumber>2024, c. 15</ChapterNumber>
+  <OtherLangTitle>(Exécution de l’énoncé économique de l’automne 2023, Loi d’)</OtherLangTitle>
+  <Minister>
+    <Text>Introduced by Deputy Minister and Minister of Finance</Text>
+  </Minister>
+  <General>
+    <Text>— ss. 73 to 95, 97, 138 to 142, 160 to 167, 303, 304 and 316: Regulations</Text>
+  </General>
+  <Section>
+    <Label>137</Label>
+    <Text>2024, c. 15, s. 144</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating Amendments, 2024, c. 15, ss. 143, 144, 207 and 305</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating Amendment, 2024, c. 17, s. 111(1)</Text>
+  </CoordinatingAmendment>
+  <Transitional>
+    <Text>Transitional Provisions, 2024, c. 15, ss. 267 to 269, 275, 276, 355 and 364</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF 2024, c. 15 in force on assent 20.06.2024, <Emphasis style="italic">except</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>— s. 2(3) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 2(9)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 2(4) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 2(10)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 2(6) deemed in force 01.04.2023 <Emphasis style="italic">see</Emphasis> s. 2(11)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 4(1), (3), (5), (6) and (8) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 4(10)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 4(2), (4), (7) and (9) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 4(11)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 11(1) and (3) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 11(5)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 11(2) and (4) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 11(6)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 12(1) and (2) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 12(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 14(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 14(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 14(2) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 14(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 16(1) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 16(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 18(1) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 18(9)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 18(2) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 18(10)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 18(3) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 18(11)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 19(1) and (10) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 19(12)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 19(2) and (11) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 19(13)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 25(1), (3) and (5) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 25(8)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 25(2), (4) and (6) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 25(9)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 27(2) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 27(14)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 27(3) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 27(15)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 34(1) and (2) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 34(5)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 34(3) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 34(6)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 35(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 35(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">see also exceptions</Emphasis> in application provision s. 35(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 36(1) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 36(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 38(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 38(1)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">see also</Emphasis> exceptions in application provision s. 38(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 39(1) deemed in force 01.04.2023 <Emphasis style="italic">see</Emphasis> s. 39(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 41(1) deemed in force 04.08.2023 <Emphasis style="italic">see</Emphasis> s. 41(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 42(1) and (2) deemed in force 01.01.2016 <Emphasis style="italic">see</Emphasis> s. 42(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 42(3) deemed in force 01.04.2023 <Emphasis style="italic">see</Emphasis> s. 42(5)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 43(1) deemed in force 28.11.2023 <Emphasis style="italic">see</Emphasis> s. 43(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 44(1) deemed in force 28.11.2023 <Emphasis style="italic">see</Emphasis> s. 44(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 46(1) to (11) deemed in force 01.04.2023 <Emphasis style="italic">see</Emphasis> s. 46(12)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 47(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 47(10)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 47(2) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 47(11)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 47(6) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 47(15)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 48(1) deemed in force 01.04.2023 <Emphasis style="italic">see</Emphasis> s. 48(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 49(1) and (3) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 49(5)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 49(2) and (4) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 49(6)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 50(1) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 50(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 51(1) deemed in force 01.04.2023 <Emphasis style="italic">see</Emphasis> s. 51(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 52(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 52(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 52(2) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 52(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 54(1) deemed in force 01.04.2023 <Emphasis style="italic">see</Emphasis> s. 54(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 55(1) to (3) deemed in force 01.04.2023 <Emphasis style="italic">see</Emphasis> s. 55(6)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 55(4) and (5) deemed in force 04.08.2023 <Emphasis style="italic">see</Emphasis> s. 55(7)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 56(1) and (2) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 56(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 58(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 58(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 61(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 61(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 61(2) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 61(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 67(1) and (9) deemed in force 01.04.2023 <Emphasis style="italic">see</Emphasis> s. 67(11)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 67(2), (3) and (8) in force or deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 67(12)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 67(4) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 67(13)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 67(7) deemed in force 28.03.2023 <Emphasis style="italic">see</Emphasis> s. 67(16)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 68(1) deemed in force 01.01.2024 <Emphasis style="italic">see</Emphasis> s. 68(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 96(1), enacting ss. 1 to 126 of the <XRefExternal reference-type="act">Digital Services Tax Act</XRefExternal>, come into force 28.06.2024 <Emphasis style="italic">see</Emphasis> SI/2024-33</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 98(1), 99(1), 100(1), 101(1), 102(1), 103(1), 104(1), 105(1), 106(1), 107(1), 108(1), 109(1) and (2), 110(1), 111(1), 112(1), 113(1), 114(1), 115(1), 116(1), 117(1), 118(1), 119(1) and (2), 120(1), 121(1), 122(1), 123(1), 124(1), 125(1), 126(1), 127(1) and 128(1) in force 28.06.2024 <Emphasis style="italic">see</Emphasis> SI/2024-33</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 130(1) and (2), 132(1) and (2), 133(1) to (3) and (7) to (14) deemed in force 10.08.2022 <Emphasis style="italic">see respectively</Emphasis> s. 130(3), 132(3) and 133(16)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 133(4) to (6) deemed in force 09.08.2022 <Emphasis style="italic">see</Emphasis> s. 133(17)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 136(1) deemed in force 04.08.2023 <Emphasis style="italic">see</Emphasis> s. 136(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 143(1) in force on assent (Coordinating amendment — conditions met 14.09.2023 <Emphasis style="italic">see</Emphasis> s. 143(2))</Text>
+      </Item>
+      <Item>
+        <Text>— s. 145(1) and 154(1) deemed in force 01.01.2024 <Emphasis style="italic">see respectively</Emphasis> s. 145(2) and s. 154(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 148(1) deemed in force 01.10.2022 <Emphasis style="italic">see</Emphasis> s. s. 148(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 155(1) to (3) deemed in force 01.04.2023 <Emphasis style="italic">see</Emphasis> s. 155(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 186 to 195 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 196 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 197 to 203 in force on the 540th day after the day on which this Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 208 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— s. 209, enacting ss. 1 to 18 of the <XRefExternal reference-type="act">Canada Water Agency Act</XRefExternal> in force 15.10.2024 <Emphasis style="italic">see</Emphasis> SI/2024-49</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 210 to 215 in force 15.10.2024 <Emphasis style="italic">see</Emphasis> SI/2024-49</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 219 to 228 in force 25.09.2025 <Emphasis style="italic">see</Emphasis> SI/2025-102</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 238, 239(1) and (4), 240, 241, 243, 244(2), 245(2), 246, 247(1) and (2), 248(2), (4) and (7), 254, 255, 256(1), 257, 259, 264 et 270 in force on the first anniversary of the day on which this Act receives royal assent (20.06.2025) <Emphasis style="italic">see</Emphasis> s. 272</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 273 and 274 come into force on the second anniversary of the day on which this Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 277 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 278(1), 285, 296, 297, 301 and 302 in force 01.04.2025 <Emphasis style="italic">see</Emphasis> SI/2025-24</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 278(3) and 279 in force 01.10.2025 <Emphasis style="italic">see</Emphasis> SI/2025-2</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 280, 303 and 304 in force on the 60<Sup>th</Sup> day after the day on which this Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 306(3) (19.08.2024)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 307 to 316 in force on the 90<Sup>th</Sup> day after the day on which this Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 317 (18.09.2024)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 318 deemed in force 22.06.2023 <Emphasis style="italic">see</Emphasis> s. 319</Text>
+      </Item>
+      <Item>
+        <Text>— s. 339 comes into force on the second anniversary of the day on which this Act receives royal assent or on an earlier day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 341(1) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— s. 340 comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 341(2) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 342 to 354 and 356 to 363 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 365 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See also</Emphasis> various application provisions throughout</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

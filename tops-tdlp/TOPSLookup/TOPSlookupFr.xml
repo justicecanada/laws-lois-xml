@@ -2,12 +2,12 @@
 <Database>
 <Letter value="A">
 <Statute statuteid="">
-<Title>Abolition de la libération anticipée des criminels, Loi sur l’ voir Loi sur le système correctionnel et la mise en liberté sous condition </Title>
+<Title>Abolition de la libération anticipée des criminels, Loi sur l’voir Loi sur le système correctionnel et la mise en liberté sous condition </Title>
 <ChapterNumber>2011, ch. 11</ChapterNumber>
 <FlicsAlpha>2011, ch. 11</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Abolition du registre des armes d’épaule, Loi sur l’ voir Code criminel et Loi sur les armes à feu </Title>
+<Title>Abolition du registre des armes d’épaule, Loi sur l’voir Code criminel et Loi sur les armes à feu </Title>
 <ChapterNumber>2012, ch. 6</ChapterNumber>
 <FlicsAlpha>2012, ch. 6</FlicsAlpha>
 </Statute>
@@ -31,15 +31,15 @@
 <ChapterNumber>1984, ch. 36</ChapterNumber>
 <FlicsAlpha>1984, ch. 36</FlicsAlpha>
 </Statute>
-<Statute statuteid="174255f">
-<Title>Accise, Loi de 2001 sur l’</Title>
-<ChapterNumber>2002, ch. 22</ChapterNumber>
-<FlicsAlpha>2002, ch. 22</FlicsAlpha>
-</Statute>
 <Statute statuteid="1139795f">
 <Title>Accessibilité, Loi canadienne sur l’</Title>
 <ChapterNumber>2019, ch. 10</ChapterNumber>
 <FlicsAlpha>2019, ch. 10</FlicsAlpha>
+</Statute>
+<Statute statuteid="174255f">
+<Title>Accise, Loi de 2001 sur l’</Title>
+<ChapterNumber>2002, ch. 22</ChapterNumber>
+<FlicsAlpha>2002, ch. 22</FlicsAlpha>
 </Statute>
 <Statute statuteid="178392f">
 <Title>Accise, Loi sur l’</Title>
@@ -50,11 +50,6 @@
 <Title>Accord atlantique Canada — Terre-Neuve-et-Labrador, Loi de mise en oeuvre de l’</Title>
 <ChapterNumber>L.C. 1987, ch. 3</ChapterNumber>
 <FlicsAlpha>L.C. 1987, ch. 3</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Accord-cadre relatif à la gestion des terres de premières nations</Title>
-<ChapterNumber>Accord-cadre relatif à la gestion des terres de p</ChapterNumber>
-<FlicsAlpha>tops-1A</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Accord Canada — États Unis — Mexique, Loi de mise en œuvre de l’</Title>
@@ -86,11 +81,6 @@
 <ChapterNumber>2017, ch. 33, art. 176</ChapterNumber>
 <FlicsAlpha>2017, ch. 33, art. 176</FlicsAlpha>
 </Statute>
-<Statute statuteid="1354929f">
-<Title>Accord en matière de gouvernance conclu avec la Nation des Anishinabes, Loi sur l’</Title>
-<ChapterNumber>2022, ch. 9</ChapterNumber>
-<FlicsAlpha>2022, ch. 9</FlicsAlpha>
-</Statute>
 <Statute statuteid="">
 <Title>Accord concernant la gouvernance de la nation crie d’Eeyou Istchee, Loi sur l’</Title>
 <ChapterNumber>2018, ch. 4</ChapterNumber>
@@ -105,6 +95,66 @@
 <Title>Accord de continuité commerciale Canada — Royaume-Uni, Loi de la mise en oeuvre de l’</Title>
 <ChapterNumber>2021, ch. 1</ChapterNumber>
 <FlicsAlpha>2021, ch. 1</FlicsAlpha>
+</Statute>
+<Statute statuteid="329960f">
+<Title>Accord de Kelowna, Loi de mise en œuvre de l’</Title>
+<ChapterNumber>2008, ch. 23</ChapterNumber>
+<FlicsAlpha>2008, ch. 23</FlicsAlpha>
+</Statute>
+<Statute statuteid="81004f">
+<Title>Accord de libre-échange Canada — AELÉ, Loi de mise en oeuvre de l’</Title>
+<ChapterNumber>2009, ch. 6</ChapterNumber>
+<FlicsAlpha>2009, ch. 6</FlicsAlpha>
+</Statute>
+<Statute statuteid="48275f">
+<Title>Accord de libre-échange Canada — Costa Rica, Loi de mise en oeuvre de l’</Title>
+<ChapterNumber>2001, ch. 28</ChapterNumber>
+<FlicsAlpha>2001, ch. 28</FlicsAlpha>
+</Statute>
+<Statute statuteid="57592f">
+<Title>Accord de libre-échange Canada — États-Unis, Loi de mise en oeuvre de l’</Title>
+<ChapterNumber>1988, ch. 65</ChapterNumber>
+<FlicsAlpha>1988, ch. 65</FlicsAlpha>
+</Statute>
+<Statute statuteid="1437023f">
+<Title>Accord de libre-échange Canada — Ukraine de 2023, Loi de mise en œuvre de l’</Title>
+<ChapterNumber>2024, ch. 3</ChapterNumber>
+<FlicsAlpha>2024, ch. 3</FlicsAlpha>
+</Statute>
+<Statute statuteid="42485f">
+<Title>Accord de libre-échange Canada Chili, Loi de mise en oeuvre de l’</Title>
+<ChapterNumber>1997, ch. 14</ChapterNumber>
+<FlicsAlpha>1997, ch. 14</FlicsAlpha>
+</Statute>
+<Statute statuteid="143648f">
+<Title>Accord de libre-échange Canada Israël, Loi portant mise en oeuvre de l’</Title>
+<ChapterNumber>1996, ch. 33</ChapterNumber>
+<FlicsAlpha>1996, ch. 33</FlicsAlpha>
+</Statute>
+<Statute statuteid="42749f">
+<Title>Accord de libre-échange Canada-Colombie, Loi de mise en oeuvre de l’</Title>
+<ChapterNumber>2010, ch. 4</ChapterNumber>
+<FlicsAlpha>2010, ch. 4</FlicsAlpha>
+</Statute>
+<Statute statuteid="161916f">
+<Title>Accord de libre-échange Canada-Pérou, Loi de mise en oeuvre de l’</Title>
+<ChapterNumber>2009, ch. 16</ChapterNumber>
+<FlicsAlpha>2009, ch. 16</FlicsAlpha>
+</Statute>
+<Statute statuteid="67941f">
+<Title>Accord de libre-échange canadien, Loi sur la mise en œuvre de l’</Title>
+<ChapterNumber>2017, ch. 33, art. 219</ChapterNumber>
+<FlicsAlpha>2017, ch. 33, art. 219</FlicsAlpha>
+</Statute>
+<Statute statuteid="356877f">
+<Title>Accord de libre-échange nord-américain, Loi portant mise en oeuvre de l’</Title>
+<ChapterNumber>1993, ch. 44</ChapterNumber>
+<FlicsAlpha>1993, ch. 44</FlicsAlpha>
+</Statute>
+<Statute statuteid="88393f">
+<Title>Accord de partenariat transpacifique global et progressiste, Loi de mise en oeuvre de l’</Title>
+<ChapterNumber>2018, ch. 23</ChapterNumber>
+<FlicsAlpha>2018, ch. 23</FlicsAlpha>
 </Statute>
 <Statute statuteid="448773f">
 <Title>Accord définitif concernant la Première Nation de Tsawwassen, Loi sur l’</Title>
@@ -136,66 +186,6 @@
 <ChapterNumber>2015, ch. 24</ChapterNumber>
 <FlicsAlpha>2015, ch. 24</FlicsAlpha>
 </Statute>
-<Statute statuteid="329960f">
-<Title>Accord de Kelowna, Loi de mise en œuvre de l’</Title>
-<ChapterNumber>2008, ch. 23</ChapterNumber>
-<FlicsAlpha>2008, ch. 23</FlicsAlpha>
-</Statute>
-<Statute statuteid="81004f">
-<Title>Accord de libre-échange Canada — AELÉ, Loi de mise en oeuvre de l’</Title>
-<ChapterNumber>2009, ch. 6</ChapterNumber>
-<FlicsAlpha>2009, ch. 6</FlicsAlpha>
-</Statute>
-<Statute statuteid="42485f">
-<Title>Accord de libre-échange Canada Chili, Loi de mise en oeuvre de l’</Title>
-<ChapterNumber>1997, ch. 14</ChapterNumber>
-<FlicsAlpha>1997, ch. 14</FlicsAlpha>
-</Statute>
-<Statute statuteid="42749f">
-<Title>Accord de libre-échange Canada-Colombie, Loi de mise en oeuvre de l’</Title>
-<ChapterNumber>2010, ch. 4</ChapterNumber>
-<FlicsAlpha>2010, ch. 4</FlicsAlpha>
-</Statute>
-<Statute statuteid="48275f">
-<Title>Accord de libre-échange Canada — Costa Rica, Loi de mise en oeuvre de l’</Title>
-<ChapterNumber>2001, ch. 28</ChapterNumber>
-<FlicsAlpha>2001, ch. 28</FlicsAlpha>
-</Statute>
-<Statute statuteid="57592f">
-<Title>Accord de libre-échange Canada — États-Unis, Loi de mise en oeuvre de l’</Title>
-<ChapterNumber>1988, ch. 65</ChapterNumber>
-<FlicsAlpha>1988, ch. 65</FlicsAlpha>
-</Statute>
-<Statute statuteid="143648f">
-<Title>Accord de libre-échange Canada Israël, Loi portant mise en oeuvre de l’</Title>
-<ChapterNumber>1996, ch. 33</ChapterNumber>
-<FlicsAlpha>1996, ch. 33</FlicsAlpha>
-</Statute>
-<Statute statuteid="161916f">
-<Title>Accord de libre-échange Canada-Pérou, Loi de mise en oeuvre de l’</Title>
-<ChapterNumber>2009, ch. 16</ChapterNumber>
-<FlicsAlpha>2009, ch. 16</FlicsAlpha>
-</Statute>
-<Statute statuteid="1437023f">
-<Title>Accord de libre-échange Canada — Ukraine de 2023, Loi de mise en œuvre de l’</Title>
-<ChapterNumber>2024, ch. 3</ChapterNumber>
-<FlicsAlpha>2024, ch. 3</FlicsAlpha>
-</Statute>
-<Statute statuteid="67941f">
-<Title>Accord de libre-échange canadien, Loi sur la mise en œuvre de l’</Title>
-<ChapterNumber>2017, ch. 33, art. 219</ChapterNumber>
-<FlicsAlpha>2017, ch. 33, art. 219</FlicsAlpha>
-</Statute>
-<Statute statuteid="356877f">
-<Title>Accord de libre-échange nord-américain, Loi portant mise en oeuvre de l’</Title>
-<ChapterNumber>1993, ch. 44</ChapterNumber>
-<FlicsAlpha>1993, ch. 44</FlicsAlpha>
-</Statute>
-<Statute statuteid="88393f">
-<Title>Accord de partenariat transpacifique global et progressiste, Loi de mise en oeuvre de l’</Title>
-<ChapterNumber>2018, ch. 23</ChapterNumber>
-<FlicsAlpha>2018, ch. 23</FlicsAlpha>
-</Statute>
 <Statute statuteid="94003f">
 <Title>Accord économique et commercial global entre le Canada et l’Union européenne, Loi de mise en œuvre de l’</Title>
 <ChapterNumber>2017, ch. 6</ChapterNumber>
@@ -206,15 +196,35 @@
 <ChapterNumber>2017, ch. 32</ChapterNumber>
 <FlicsAlpha>2017, ch. 32</FlicsAlpha>
 </Statute>
+<Statute statuteid="1354929f">
+<Title>Accord en matière de gouvernance conclu avec la Nation des Anishinabes, Loi sur l’</Title>
+<ChapterNumber>2022, ch. 9</ChapterNumber>
+<FlicsAlpha>2022, ch. 9</FlicsAlpha>
+</Statute>
 <Statute statuteid="173607f">
 <Title>Accord portant création de la Banque européenne pour la reconstruction et le développement, Loi sur l’</Title>
 <ChapterNumber>1991, ch. 12</ChapterNumber>
 <FlicsAlpha>1991, ch. 12</FlicsAlpha>
 </Statute>
+<Statute statuteid="454235f">
+<Title>Accord sur l’Organisation mondiale du commerce, Loi de mise en oeuvre de l’</Title>
+<ChapterNumber>1994, ch. 47</ChapterNumber>
+<FlicsAlpha>1994, ch. 47</FlicsAlpha>
+</Statute>
+<Statute statuteid="1354548f">
+<Title>Accord sur la station lunaire civile Gateway, Loi de mise en oeuvre de l’</Title>
+<ChapterNumber>L.C. 2022, ch. 10, art. 294</ChapterNumber>
+<FlicsAlpha>L.C. 2022, ch. 10, art. 294</FlicsAlpha>
+</Statute>
 <Statute statuteid="83097f">
 <Title>Accord sur la Station spatiale internationale civile, Loi de mise en oeuvre de l’</Title>
 <ChapterNumber>1999, ch. 35</ChapterNumber>
 <FlicsAlpha>1999, ch. 35</FlicsAlpha>
+</Statute>
+<Statute statuteid="172390f">
+<Title>Accord sur les revendications territoriales concernant la région marine d’Eeyou, Loi sur l’</Title>
+<ChapterNumber>2011, ch. 20</ChapterNumber>
+<FlicsAlpha>2011, ch. 20</FlicsAlpha>
 </Statute>
 <Statute statuteid="335444f">
 <Title>Accord sur les revendications territoriales des Inuit du Labrador</Title>
@@ -231,15 +241,10 @@
 <ChapterNumber>1993, ch. 29</ChapterNumber>
 <FlicsAlpha>1993, ch. 29</FlicsAlpha>
 </Statute>
-<Statute statuteid="172390f">
-<Title>Accord sur les revendications territoriales concernant la région marine d’Eeyou, Loi sur l’</Title>
-<ChapterNumber>2011, ch. 20</ChapterNumber>
-<FlicsAlpha>2011, ch. 20</FlicsAlpha>
-</Statute>
-<Statute statuteid="454235f">
-<Title>Accord sur l’Organisation mondiale du commerce, Loi de mise en oeuvre de l’</Title>
-<ChapterNumber>1994, ch. 47</ChapterNumber>
-<FlicsAlpha>1994, ch. 47</FlicsAlpha>
+<Statute statuteid="">
+<Title>Accord-cadre relatif à la gestion des terres de premières nations</Title>
+<ChapterNumber>Accord-cadre relatif à la gestion des terres de p</ChapterNumber>
+<FlicsAlpha>tops-1A</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Accords commerciaux, voir Conventions</Title>
@@ -251,11 +256,6 @@
 <ChapterNumber>L.R. (1985), ch. B-7</ChapterNumber>
 <FlicsAlpha>B-7</FlicsAlpha>
 </Statute>
-<Statute statuteid="1354548f">
-<Title>Accord sur la station lunaire civile Gateway, Loi de mise en oeuvre de l’</Title>
-<ChapterNumber>L.C. 2022, ch. 10, art. 294</ChapterNumber>
-<FlicsAlpha>L.C. 2022, ch. 10, art. 294</FlicsAlpha>
-</Statute>
 <Statute statuteid="">
 <Title>Acquisition de Marine Atlantique S.C.C., voir Marine Atlantique</Title>
 <ChapterNumber>Acquisition de Marine Atlantique S.C.C., voir Mar</ChapterNumber>
@@ -266,15 +266,15 @@
 <ChapterNumber>Acte de l’Amérique du Nord britannique, 1867 (Nou</ChapterNumber>
 <FlicsAlpha>tops-3A</FlicsAlpha>
 </Statute>
-<Statute statuteid="1298210f">
-<Title>Activités associées aux paiements de détail, Loi sur les</Title>
-<ChapterNumber>2021, ch. 23, art. 177</ChapterNumber>
-<FlicsAlpha>2021, ch. 23, art. 177</FlicsAlpha>
-</Statute>
 <Statute statuteid="383198f">
 <Title>Activité physique et le sport, Loi sur l’</Title>
 <ChapterNumber>2003, ch. 2</ChapterNumber>
 <FlicsAlpha>2003, ch. 2</FlicsAlpha>
+</Statute>
+<Statute statuteid="1298210f">
+<Title>Activités associées aux paiements de détail, Loi sur les</Title>
+<ChapterNumber>2021, ch. 23, art. 177</ChapterNumber>
+<FlicsAlpha>2021, ch. 23, art. 177</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Actualisation du droit de la propriété intellectuelle, Loi d’</Title>
@@ -331,15 +331,15 @@
 <ChapterNumber>Affectation de crédits, voir Crédits...</ChapterNumber>
 <FlicsAlpha>tops-5A</FlicsAlpha>
 </Statute>
-<Statute statuteid="1458840f">
-<Title>Agence canadienne de l’eau, Loi sur l’</Title>
-<ChapterNumber>2024, ch. 15, art. 209</ChapterNumber>
-<FlicsAlpha>2024, ch. 15, art. 209</FlicsAlpha>
-</Statute>
 <Statute statuteid="66372f">
 <Title>Agence canadienne d’inspection des aliments, Loi sur l’</Title>
 <ChapterNumber>1997, ch. 6</ChapterNumber>
 <FlicsAlpha>1997, ch. 6</FlicsAlpha>
+</Statute>
+<Statute statuteid="1458840f">
+<Title>Agence canadienne de l’eau, Loi sur l’</Title>
+<ChapterNumber>2024, ch. 15, art. 209</ChapterNumber>
+<FlicsAlpha>2024, ch. 15, art. 209</FlicsAlpha>
 </Statute>
 <Statute statuteid="81122f">
 <Title>Agence canadienne pour l’incitation à la réduction des émissions, Loi sur l’</Title>
@@ -416,15 +416,15 @@
 <ChapterNumber>Aide à l’exécution des ordonnances et des entente</ChapterNumber>
 <FlicsAlpha>tops-9A</FlicsAlpha>
 </Statute>
-<Statute statuteid="265330f">
-<Title>Aide au développement international (institutions financières), Loi d’</Title>
-<ChapterNumber>L.R. (1985), ch. I-18</ChapterNumber>
-<FlicsAlpha>I-18</FlicsAlpha>
-</Statute>
 <Statute statuteid="265313f">
 <Title>Aide au développement international (institutions financières), Loi concernant un décret pris au titre de la Loi d’</Title>
 <ChapterNumber>1997, ch. 19</ChapterNumber>
 <FlicsAlpha>1997, ch. 19</FlicsAlpha>
+</Statute>
+<Statute statuteid="265330f">
+<Title>Aide au développement international (institutions financières), Loi d’</Title>
+<ChapterNumber>L.R. (1985), ch. I-18</ChapterNumber>
+<FlicsAlpha>I-18</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Aide au développement officielle, Loi sur la responsabilité en matière d’, voir Responsabilité en matière d’aide au développement officielle, Loi sur la</Title>
@@ -432,7 +432,7 @@
 <FlicsAlpha>tops-10A</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Aide aux enfants des morts de la guerre (Éducation), Loi sur l’ voir Aide en matière d’éducation aux enfants des anciens combattants décédés, Loi sur l’</Title>
+<Title>Aide aux enfants des morts de la guerre (Éducation), Loi sur l’voir Aide en matière d’éducation aux enfants des anciens combattants décédés, Loi sur l’</Title>
 <ChapterNumber>Aide aux enfants des morts de la guerre (Éducatio</ChapterNumber>
 <FlicsAlpha>tops-11A</FlicsAlpha>
 </Statute>
@@ -441,15 +441,15 @@
 <ChapterNumber>L.R. (1985), ch. C-28</ChapterNumber>
 <FlicsAlpha>C-28</FlicsAlpha>
 </Statute>
-<Statute statuteid="60362f">
-<Title>Aide financière à la Banque Commerciale du Canada, Loi sur l’</Title>
-<ChapterNumber>1985, ch. 9</ChapterNumber>
-<FlicsAlpha>1985, ch. 9</FlicsAlpha>
-</Statute>
 <Statute statuteid="231692f">
 <Title>Aide financière à l’égard d’équipements diagnostiques et médicaux, Loi concernant l’octroi d’une</Title>
 <ChapterNumber>2005, ch. 11, art. 7</ChapterNumber>
 <FlicsAlpha>2005, ch. 11, art. 7</FlicsAlpha>
+</Statute>
+<Statute statuteid="60362f">
+<Title>Aide financière à la Banque Commerciale du Canada, Loi sur l’</Title>
+<ChapterNumber>1985, ch. 9</ChapterNumber>
+<FlicsAlpha>1985, ch. 9</FlicsAlpha>
 </Statute>
 <Statute statuteid="357032f">
 <Title>Aide financière à Terre-Neuve-et-Labrador, Loi relative au supplément d’</Title>
@@ -512,14 +512,14 @@
 <FlicsAlpha>1986, ch. 57</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Aliénation de La société Les Arsenaux canadiens Limitée, voir Société Les Arsenaux</Title>
-<ChapterNumber>Aliénation de La société Les Arsenaux canadiens L</ChapterNumber>
-<FlicsAlpha>tops-16A</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Aliénation de La Société des transports du nord Limitée, voir Société des transports du nord...</Title>
 <ChapterNumber>Aliénation de La Société des transports du nord L</ChapterNumber>
 <FlicsAlpha>tops-17A</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Aliénation de La société Les Arsenaux canadiens Limitée, voir Société Les Arsenaux</Title>
+<ChapterNumber>Aliénation de La société Les Arsenaux canadiens L</ChapterNumber>
+<FlicsAlpha>tops-16A</FlicsAlpha>
 </Statute>
 <Statute statuteid="356735f">
 <Title>Aliénation de Nordion et de Theratronics, Loi autorisant l’</Title>
@@ -626,10 +626,10 @@
 <ChapterNumber>L.R. (1985), ch. C-36</ChapterNumber>
 <FlicsAlpha>C-36</FlicsAlpha>
 </Statute>
-<Statute statuteid="234754f">
-<Title>Arrangements fiscaux entre le gouvernement fédéral et les provinces, Loi sur les</Title>
-<ChapterNumber>S.R.C. 1970, ch. F-6</ChapterNumber>
-<FlicsAlpha>F-6</FlicsAlpha>
+<Statute statuteid="">
+<Title>Arrangements fiscaux entre le gouvernement fédéral et les provinces et sur les contributions fédérales en matière d’enseignement postsecondaire et de santé, voir Arrangements fiscaux entre le gouvernement fédéral et les provinces, Loi sur les</Title>
+<ChapterNumber>Arrangements fiscaux entre le gouvernement fédéra</ChapterNumber>
+<FlicsAlpha>tops-20A</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Arrangements fiscaux entre le gouvernement fédéral et les provinces, Loi de 1964 sur les</Title>
@@ -643,16 +643,16 @@
 </Statute>
 <Statute statuteid="234754f">
 <Title>Arrangements fiscaux entre le gouvernement fédéral et les provinces, Loi sur les</Title>
+<ChapterNumber>S.R.C. 1970, ch. F-6</ChapterNumber>
+<FlicsAlpha>F-6</FlicsAlpha>
+</Statute>
+<Statute statuteid="234754f">
+<Title>Arrangements fiscaux entre le gouvernement fédéral et les provinces, Loi sur les</Title>
 <ChapterNumber>L.R. (1985), ch. F-8</ChapterNumber>
 <FlicsAlpha>F-8</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Arrangements fiscaux entre le gouvernement fédéral et les provinces et sur les contributions fédérales en matière d’enseignement postsecondaire et de santé, voir Arrangements fiscaux entre le gouvernement fédéral et les provinces, Loi sur les</Title>
-<ChapterNumber>Arrangements fiscaux entre le gouvernement fédéra</ChapterNumber>
-<FlicsAlpha>tops-20A</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Arrestation par des citoyens et la légitime défense, Loi sur l’ voir Code criminel</Title>
+<Title>Arrestation par des citoyens et la légitime défense, Loi sur l’voir Code criminel</Title>
 <ChapterNumber>2012, ch. 9</ChapterNumber>
 <FlicsAlpha>2012, ch. 9</FlicsAlpha>
 </Statute>
@@ -696,25 +696,25 @@
 <ChapterNumber>S.R.C. 1952, ch. 49</ChapterNumber>
 <FlicsAlpha>S.R.C. 1952, ch. 49</FlicsAlpha>
 </Statute>
-<Statute statuteid="210224f">
-<Title>Assurance-emploi, Loi sur l’</Title>
-<ChapterNumber>1996, ch. 23</ChapterNumber>
-<FlicsAlpha>1996, ch. 23</FlicsAlpha>
+<Statute statuteid="">
+<Title>Assurance maritime et aérienne, voir Risques de guerre en matière d’assurance maritime et aérienne, Loi sur les</Title>
+<ChapterNumber>Assurance maritime et aérienne, voir Risques de g</ChapterNumber>
+<FlicsAlpha>tops-21A</FlicsAlpha>
 </Statute>
 <Statute statuteid="340230f">
 <Title>Assurance maritime, Loi sur l’</Title>
 <ChapterNumber>1993, ch. 22</ChapterNumber>
 <FlicsAlpha>1993, ch. 22</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Assurance maritime et aérienne, voir Risques de guerre en matière d’assurance maritime et aérienne, Loi sur les</Title>
-<ChapterNumber>Assurance maritime et aérienne, voir Risques de g</ChapterNumber>
-<FlicsAlpha>tops-21A</FlicsAlpha>
-</Statute>
 <Statute statuteid="1478869f">
 <Title>Assurance médicaments, Loi sur l’</Title>
 <ChapterNumber>2024, ch. 24</ChapterNumber>
 <FlicsAlpha>2024, ch. 24</FlicsAlpha>
+</Statute>
+<Statute statuteid="210224f">
+<Title>Assurance-emploi, Loi sur l’</Title>
+<ChapterNumber>1996, ch. 23</ChapterNumber>
+<FlicsAlpha>1996, ch. 23</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Augmentation du rendement des rentes sur l’État, voir Rentes sur l’État, Loi sur l’</Title>
@@ -763,15 +763,15 @@
 <ChapterNumber>2015, ch. 23, art. 29</ChapterNumber>
 <FlicsAlpha>2015, ch. 23, art. 29</FlicsAlpha>
 </Statute>
-<Statute statuteid="23048f">
-<Title>Banque de la Colombie-Britannique, Loi sur la poursuite des activités de la</Title>
-<ChapterNumber>1986, ch. 47</ChapterNumber>
-<FlicsAlpha>1986, ch. 47</FlicsAlpha>
-</Statute>
 <Statute statuteid="143062f">
 <Title>Banque de l’infrastructure du Canada, Loi sur la</Title>
 <ChapterNumber>2017, ch. 20, art. 403</ChapterNumber>
 <FlicsAlpha>2017, ch. 20, art. 403</FlicsAlpha>
+</Statute>
+<Statute statuteid="23048f">
+<Title>Banque de la Colombie-Britannique, Loi sur la poursuite des activités de la</Title>
+<ChapterNumber>1986, ch. 47</ChapterNumber>
+<FlicsAlpha>1986, ch. 47</FlicsAlpha>
 </Statute>
 <Statute statuteid="23151f">
 <Title>Banque du Canada, Loi sur la</Title>
@@ -839,14 +839,14 @@
 <FlicsAlpha>2011, ch. 10</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Bois d’oeuvre, voir Droit à l’exportation de produits de bois d’oeuvre, Loi sur le</Title>
-<ChapterNumber>Bois d’oeuvre, voir Droit à l’exportation de prod</ChapterNumber>
-<FlicsAlpha>tops-4B</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Bois d’oeuvre, Loi de 2006 sur les droits d’exportation de produits de voir Droits d’exportation de produits de bois d’oeuvre, Loi de 2006 sur les</Title>
 <ChapterNumber>Bois d’oeuvre, Loi de 2006 sur les droits d’expor</ChapterNumber>
 <FlicsAlpha>tops-5B</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Bois d’oeuvre, voir Droit à l’exportation de produits de bois d’oeuvre, Loi sur le</Title>
+<ChapterNumber>Bois d’oeuvre, voir Droit à l’exportation de prod</ChapterNumber>
+<FlicsAlpha>tops-4B</FlicsAlpha>
 </Statute>
 <Statute statuteid="421240f">
 <Title>Bonification d’intérêts au profit des petites entreprises, Loi sur la</Title>
@@ -951,6 +951,36 @@
 <FlicsAlpha>tops-3C</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Canadian Northern Alberta, compagnie du chemin de fer (garantie)</Title>
+<ChapterNumber>1910, ch. 6</ChapterNumber>
+<FlicsAlpha>1910, ch. 6</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Canadian Northern Alberta, compagnie du chemin de fer (subvention)</Title>
+<ChapterNumber>1913, ch. 10</ChapterNumber>
+<FlicsAlpha>1913, ch. 10 2B</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Canadian Northern Ontario compagnie du chemin de fer (garantie)</Title>
+<ChapterNumber>1911, ch. 6</ChapterNumber>
+<FlicsAlpha>1911, ch. 6</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Canadian Northern Ontario, (convention avec la Campbellford, etc., Railway Co.)</Title>
+<ChapterNumber>1934, ch. 4</ChapterNumber>
+<FlicsAlpha>1934, ch. 4</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Canadian Northern Ontario, compagnie du chemin de fer (subvention)</Title>
+<ChapterNumber>1913, ch. 10</ChapterNumber>
+<FlicsAlpha>1913, ch. 10 2A</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Canadian Northern Pacific, compagnie du chemin de fer (subvention)</Title>
+<ChapterNumber>1912, ch. 9</ChapterNumber>
+<FlicsAlpha>1912, ch. 9</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Canadian Northern, Actions, débentures 5 % convertibles et imputables sur le revenu de la Compagnie de chemin de fer, Loi sur les charges sur le revenu du</Title>
 <ChapterNumber>1928, ch. 11</ChapterNumber>
 <FlicsAlpha>1928, ch. 11</FlicsAlpha>
@@ -974,36 +1004,6 @@
 <Title>Canadian Northern, réseau du chemin de fer (prêt)</Title>
 <ChapterNumber>1915, ch. 4</ChapterNumber>
 <FlicsAlpha>1915, ch. 4</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Canadian Northern Alberta, compagnie du chemin de fer (garantie)</Title>
-<ChapterNumber>1910, ch. 6</ChapterNumber>
-<FlicsAlpha>1910, ch. 6</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Canadian Northern Alberta, compagnie du chemin de fer (subvention)</Title>
-<ChapterNumber>1913, ch. 10</ChapterNumber>
-<FlicsAlpha>1913, ch. 10 2B</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Canadian Northern Ontario, compagnie du chemin de fer (subvention)</Title>
-<ChapterNumber>1913, ch. 10</ChapterNumber>
-<FlicsAlpha>1913, ch. 10 2A</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Canadian Northern Ontario, (convention avec la Campbellford, etc., Railway Co.)</Title>
-<ChapterNumber>1934, ch. 4</ChapterNumber>
-<FlicsAlpha>1934, ch. 4</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Canadian Northern Ontario compagnie du chemin de fer (garantie)</Title>
-<ChapterNumber>1911, ch. 6</ChapterNumber>
-<FlicsAlpha>1911, ch. 6</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Canadian Northern Pacific, compagnie du chemin de fer (subvention)</Title>
-<ChapterNumber>1912, ch. 9</ChapterNumber>
-<FlicsAlpha>1912, ch. 9</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Canadian Pacific Railway (contrat avec le C.N.R.) (voir Chemins de fer nationaux du Canada (contrat))</Title>
@@ -1075,6 +1075,11 @@
 <ChapterNumber>L.R. (1985), ch. C-47</ChapterNumber>
 <FlicsAlpha>C-47</FlicsAlpha>
 </Statute>
+<Statute statuteid="60390f">
+<Title>Centre canadien d’hygiène et de sécurité au travail, Loi sur le</Title>
+<ChapterNumber>L.R. (1985), ch. C-13</ChapterNumber>
+<FlicsAlpha>C-13</FlicsAlpha>
+</Statute>
 <Statute statuteid="">
 <Title>Centre canadien de gestion, Loi sur le</Title>
 <ChapterNumber>Centre canadien de gestion, Loi sur le</ChapterNumber>
@@ -1085,20 +1090,15 @@
 <ChapterNumber>L.R. (1985), ch. 49 (4e suppl.)</ChapterNumber>
 <FlicsAlpha>L.R. (1985), ch. 49 (4e suppl.)</FlicsAlpha>
 </Statute>
-<Statute statuteid="60390f">
-<Title>Centre canadien d’hygiène et de sécurité au travail, Loi sur le</Title>
-<ChapterNumber>L.R. (1985), ch. C-13</ChapterNumber>
-<FlicsAlpha>C-13</FlicsAlpha>
+<Statute statuteid="1156591f">
+<Title>Centre de la sécurité des télécommunications, Loi sur le</Title>
+<ChapterNumber>2019, ch.13, art. 76</ChapterNumber>
+<FlicsAlpha>2019, ch.13, art. 76</FlicsAlpha>
 </Statute>
 <Statute statuteid="267184f">
 <Title>Centre de recherches pour le développement international, Loi sur le</Title>
 <ChapterNumber>L.R. (1985), ch. I-19</ChapterNumber>
 <FlicsAlpha>I-19</FlicsAlpha>
-</Statute>
-<Statute statuteid="1156591f">
-<Title>Centre de la sécurité des télécommunications, Loi sur le</Title>
-<ChapterNumber>2019, ch.13, art. 76</ChapterNumber>
-<FlicsAlpha>2019, ch.13, art. 76</FlicsAlpha>
 </Statute>
 <Statute statuteid="365076f">
 <Title>Centre national des Arts, Loi sur le</Title>
@@ -1111,14 +1111,14 @@
 <FlicsAlpha>2023, ch. 32 </FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Certitude des titres fonciers des premières nations, Loi sur la</Title>
-<ChapterNumber>2010, ch. 6 voir la Loi sur le développement commercial et industriel des premières nations</ChapterNumber>
-<FlicsAlpha>tops-35C</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Certaines mesures liées à la COVID-19, Loi concernant</Title>
 <ChapterNumber>Certaines mesures liées à la COVID-19, Loi concer</ChapterNumber>
 <FlicsAlpha>tops-8C</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Certitude des titres fonciers des premières nations, Loi sur la</Title>
+<ChapterNumber>2010, ch. 6 voir la Loi sur le développement commercial et industriel des premières nations</ChapterNumber>
+<FlicsAlpha>tops-35C</FlicsAlpha>
 </Statute>
 <Statute statuteid="450043f">
 <Title>Cession du droit au remboursement en matière d’impôt, Loi sur la</Title>
@@ -1150,15 +1150,15 @@
 <ChapterNumber>2017, ch. 30</ChapterNumber>
 <FlicsAlpha>2017, ch. 30</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Charte canadienne des droits et libertés, La</Title>
-<ChapterNumber>L.R. (1985) Appendice II, No 44 voir aussi partie I (art. 1 à 34) de la Loi constitutionnelle de 1982)</ChapterNumber>
-<FlicsAlpha>L.R. (1985) Appendic</FlicsAlpha>
-</Statute>
 <Statute statuteid="74157f">
 <Title>Charte canadienne des droits des victimes, Loi sur la</Title>
 <ChapterNumber>2015, ch. 13, art. 2</ChapterNumber>
 <FlicsAlpha>2015, ch. 13, art. 2</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Charte canadienne des droits et libertés, La</Title>
+<ChapterNumber>L.R. (1985) Appendice II, No 44 voir aussi partie I (art. 1 à 34) de la Loi constitutionnelle de 1982)</ChapterNumber>
+<FlicsAlpha>L.R. (1985) Appendice ll</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Chemin de fer national transcontinental (1903, ch. 71)</Title>
@@ -1171,24 +1171,9 @@
 <FlicsAlpha>tops-9C</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Chemins de fer, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. R-3</ChapterNumber>
-<FlicsAlpha>R-3</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Chemins de fer nationaux du Canada (acquisition de chemins de fer)</Title>
 <ChapterNumber>1929, ch. 13-17</ChapterNumber>
 <FlicsAlpha>1929, ch. 13-17</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Chemins de fer nationaux du Canada (Financement et garantie), Loi de 1970 sur les (Pour de plus amples détails antérieurs à 1970, voir Tableau des lois d’intérêt public des Statuts du Canada de 1970-71-72)</Title>
-<ChapterNumber>Chemins de fer nationaux du Canada (Financement e</ChapterNumber>
-<FlicsAlpha>tops-10C</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Chemins de fer nationaux du Canada, acquisition de la Compagnie de chemin de fer, d’éclairage et de force motrice de Québec</Title>
-<ChapterNumber>1951, ch. 43</ChapterNumber>
-<FlicsAlpha>1951, ch. 43</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Chemins de fer nationaux du Canada (Contrat avec le C.P.R.)</Title>
@@ -1216,14 +1201,29 @@
 <FlicsAlpha>tops-11C</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Chemins de fer nationaux du Canada, Loi de remboursement relative aux (voir aussi Tableau des lois d’intérêt public des Statuts du Canada de 1926-27)</Title>
-<ChapterNumber>Chemins de fer nationaux du Canada, Loi de rembou</ChapterNumber>
-<FlicsAlpha>tops-12C</FlicsAlpha>
+<Title>Chemins de fer nationaux du Canada (Financement et garantie), Loi de 1970 sur les (Pour de plus amples détails antérieurs à 1970, voir Tableau des lois d’intérêt public des Statuts du Canada de 1970-71-72)</Title>
+<ChapterNumber>Chemins de fer nationaux du Canada (Financement e</ChapterNumber>
+<FlicsAlpha>tops-10C</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Chemins de fer nationaux du Canada (Terminus à Toronto)</Title>
 <ChapterNumber>1960, ch. 26</ChapterNumber>
 <FlicsAlpha>1960, ch. 26</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Chemins de fer nationaux du Canada, acquisition de la Compagnie de chemin de fer, d’éclairage et de force motrice de Québec</Title>
+<ChapterNumber>1951, ch. 43</ChapterNumber>
+<FlicsAlpha>1951, ch. 43</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Chemins de fer nationaux du Canada, Loi de remboursement relative aux (voir aussi Tableau des lois d’intérêt public des Statuts du Canada de 1926-27)</Title>
+<ChapterNumber>Chemins de fer nationaux du Canada, Loi de rembou</ChapterNumber>
+<FlicsAlpha>tops-12C</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Chemins de fer, Loi sur les</Title>
+<ChapterNumber>L.R. (1985), ch. R-3</ChapterNumber>
+<FlicsAlpha>R-3</FlicsAlpha>
 </Statute>
 <Statute statuteid="350411f">
 <Title>Cheval national du Canada, Loi sur le</Title>
@@ -1286,6 +1286,11 @@
 <FlicsAlpha>C-46</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Code criminel (aide médicale à mourir), Loi modifiant le</Title>
+<ChapterNumber>2021, ch. 2</ChapterNumber>
+<FlicsAlpha>2021, ch. 2</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Code criminel (armes à feu) et la Loi sur les armes à feu, Loi modifiant le</Title>
 <ChapterNumber>2003, ch. 8</ChapterNumber>
 <FlicsAlpha>2003, ch. 8</FlicsAlpha>
@@ -1296,21 +1301,6 @@
 <FlicsAlpha>2019, ch. 17</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Code criminel et apportant des modifications connexes à d’autres lois (aide médicale à mourir), Loi modifiant le</Title>
-<ChapterNumber>2016, ch. 3</ChapterNumber>
-<FlicsAlpha>2016, ch. 3</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Code criminel (aide médicale à mourir), Loi modifiant le</Title>
-<ChapterNumber>2021, ch. 2</ChapterNumber>
-<FlicsAlpha>2021, ch. 2</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Code criminel et la Loi sur l’identification des criminels et apportant des modifications connexes à d’autres lois (réponse à la COVID-19 et autres mesures), Loi modifiant le</Title>
-<ChapterNumber>Code criminel et la Loi sur l’identification des </ChapterNumber>
-<FlicsAlpha>tops-14C</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Code criminel (Intoxication volontaire extrême), Loi modifiant le,</Title>
 <ChapterNumber>L.C. 2022, ch. 11</ChapterNumber>
 <FlicsAlpha>L.C. 2022, ch. 11</FlicsAlpha>
@@ -1318,12 +1308,22 @@
 <Statute statuteid="">
 <Title>Code criminel (Langue de l’accusé), Loi modifiant le,</Title>
 <ChapterNumber>L.R. (1985), ch. 2 (1er suppl.)</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 2 (</FlicsAlpha>
+<FlicsAlpha>L.R. (1985), ch. 2 (1er suppl.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Code criminel (réforme sur la mise en liberté sous caution), Loi modifiant</Title>
 <ChapterNumber>2023, ch. 30</ChapterNumber>
 <FlicsAlpha>2023, ch. 30</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Code criminel et apportant des modifications connexes à d’autres lois (aide médicale à mourir), Loi modifiant le</Title>
+<ChapterNumber>2016, ch. 3</ChapterNumber>
+<FlicsAlpha>2016, ch. 3</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Code criminel et la Loi sur l’identification des criminels et apportant des modifications connexes à d’autres lois (réponse à la COVID-19 et autres mesures), Loi modifiant le</Title>
+<ChapterNumber>Code criminel et la Loi sur l’identification des </ChapterNumber>
+<FlicsAlpha>tops-14C</FlicsAlpha>
 </Statute>
 <Statute statuteid="84522f">
 <Title>Collège des agents de brevets et des agents de marques de commerce, Loi sur le</Title>
@@ -1446,14 +1446,14 @@
 <FlicsAlpha>2015, ch. 20, art. 2</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Compagnies, Acte des</Title>
-<ChapterNumber>Compagnies, Act</ChapterNumber>
-<FlicsAlpha>tops-17C</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Compagnies de l’État, voir Fonctionnement des sociétés du secteur public, Loi sur le</Title>
 <ChapterNumber>Compagnies de l’État, voir Fonctionnement des soc</ChapterNumber>
 <FlicsAlpha>tops-18C</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Compagnies, Acte des</Title>
+<ChapterNumber>Compagnies, Act</ChapterNumber>
+<FlicsAlpha>tops-17C</FlicsAlpha>
 </Statute>
 <Statute statuteid="402105f">
 <Title>Compensation et le règlement des paiements, Loi sur la</Title>
@@ -1476,14 +1476,14 @@
 <FlicsAlpha>2013, c. 36</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Compression des dépenses publiques, Loi sur la</Title>
-<ChapterNumber>1991, ch. 9</ChapterNumber>
-<FlicsAlpha>1991, ch. 9</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Compression des dépenses publiques, Loi no 2 de 1993</Title>
 <ChapterNumber>1993, ch. 13</ChapterNumber>
 <FlicsAlpha>1993, ch. 13</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Compression des dépenses publiques, Loi sur la</Title>
+<ChapterNumber>1991, ch. 9</ChapterNumber>
+<FlicsAlpha>1991, ch. 9</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Conciliation et travail</Title>
@@ -1590,6 +1590,11 @@
 <ChapterNumber>Contrôle de l’énergie atomique, Loi sur levoir Én</ChapterNumber>
 <FlicsAlpha>tops-20C</FlicsAlpha>
 </Statute>
+<Statute statuteid="">
+<Title>Contrôle de l’énergie atomique, Loi sur levoir Énergie nucléaire, Loi sur l’</Title>
+<ChapterNumber>Contrôle de l’énergie atomique, Loi sur levoir Én</ChapterNumber>
+<FlicsAlpha>tops-34C</FlicsAlpha>
+</Statute>
 <Statute statuteid="180589f">
 <Title>Contrôle des dépenses, Loi sur le</Title>
 <ChapterNumber>2009, ch. 2, art. 393</ChapterNumber>
@@ -1665,15 +1670,15 @@
 <ChapterNumber>Conventions entre le Dominion et les provinces en</ChapterNumber>
 <FlicsAlpha>tops-27C</FlicsAlpha>
 </Statute>
-<Statute statuteid="43846f">
-<Title>Coopératives, Loi canadienne sur les</Title>
-<ChapterNumber>1998, ch. 1</ChapterNumber>
-<FlicsAlpha>1998, ch. 1</FlicsAlpha>
-</Statute>
 <Statute statuteid="99700f">
 <Title>Coopératives de l’énergie, Loi sur les</Title>
 <ChapterNumber>1980-81-82-83, ch. 108</ChapterNumber>
 <FlicsAlpha>1980-81-82-83, ch. 108</FlicsAlpha>
+</Statute>
+<Statute statuteid="43846f">
+<Title>Coopératives, Loi canadienne sur les</Title>
+<ChapterNumber>1998, ch. 1</ChapterNumber>
+<FlicsAlpha>1998, ch. 1</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Copropriété, Loi de validation des ordonnances sur la, voir Ordonnances sur la copropriété, Loi de validation sur les</Title>
@@ -1685,15 +1690,15 @@
 <ChapterNumber>L.R. (1985), ch. C-14</ChapterNumber>
 <FlicsAlpha>C-14</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Corporation de développement du Canada, voir Réorganisation de la Corporation du développement</Title>
-<ChapterNumber>Corporation de développement du Canada, voir Réor</ChapterNumber>
-<FlicsAlpha>tops-29C</FlicsAlpha>
-</Statute>
 <Statute statuteid="1402181f">
 <Title>Corporation d’innovation du Canada, Lois sur les</Title>
 <ChapterNumber>2023, ch. 26, art. 238</ChapterNumber>
 <FlicsAlpha>2023, ch. 26, art. 238</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Corporation de développement du Canada, voir Réorganisation de la Corporation du développement</Title>
+<ChapterNumber>Corporation de développement du Canada, voir Réor</ChapterNumber>
+<FlicsAlpha>tops-29C</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Corps féminin de la Marine royale et le South African Military Nursing Service (Service sud-africain d’infirmières militaires) (Prestations), Loi sur le</Title>
@@ -1725,15 +1730,15 @@
 <ChapterNumber>Cour fédérale, Loi sur la</ChapterNumber>
 <FlicsAlpha>tops-30C</FlicsAlpha>
 </Statute>
-<Statute statuteid="233232f">
-<Title>Cours fédérales, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. F-7</ChapterNumber>
-<FlicsAlpha>F-7</FlicsAlpha>
-</Statute>
 <Statute statuteid="432676f">
 <Title>Cour suprême, Loi sur la</Title>
 <ChapterNumber>L.R. (1985), ch. S-26</ChapterNumber>
 <FlicsAlpha>S-26</FlicsAlpha>
+</Statute>
+<Statute statuteid="233232f">
+<Title>Cours fédérales, Loi sur les</Title>
+<ChapterNumber>L.R. (1985), ch. F-7</ChapterNumber>
+<FlicsAlpha>F-7</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Cours suprêmes des Territoires, Loi sur les</Title>
@@ -1750,11 +1755,6 @@
 <ChapterNumber>Crédit d’impôt à l’emploi, Loi sur le</ChapterNumber>
 <FlicsAlpha>tops-31C</FlicsAlpha>
 </Statute>
-<Statute statuteid="464640f">
-<Title>Crédits, Lois de</Title>
-<ChapterNumber></ChapterNumber>
-<FlicsAlpha>tops-32C</FlicsAlpha>
-</Statute>
 <Statute statuteid="">
 <Title>Crédits à l’exportation (voir Assurance des crédits à l’exportation)</Title>
 <ChapterNumber>Crédits à l’exportation (voir Assurance des crédi</ChapterNumber>
@@ -1764,6 +1764,11 @@
 <Title>Crédits de défense, 1950</Title>
 <ChapterNumber>1950-51, ch. 5</ChapterNumber>
 <FlicsAlpha>1950-51, ch. 5</FlicsAlpha>
+</Statute>
+<Statute statuteid="464640f">
+<Title>Crédits, Lois de</Title>
+<ChapterNumber></ChapterNumber>
+<FlicsAlpha>tops-32C</FlicsAlpha>
 </Statute>
 <Statute statuteid="111547f">
 <Title>Crimes contre l’humanité et les crimes de guerre, Loi sur les</Title>
@@ -1776,14 +1781,14 @@
 <FlicsAlpha>1946, ch. 73</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Contrôle de l’énergie atomique, Loi sur levoir Énergie nucléaire, Loi sur l’</Title>
-<ChapterNumber>Contrôle de l’énergie atomique, Loi sur levoir Én</ChapterNumber>
-<FlicsAlpha>tops-34C</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Cris et les Naskapis du Québec, Loi sur les </Title>
 <ChapterNumber>Cris et les Naskapis du Québec, Loi sur les </ChapterNumber>
 <FlicsAlpha>1984, ch. 18</FlicsAlpha>
+</Statute>
+<Statute statuteid="144250f">
+<Title>Croissance économique et la prospérité Canada-Corée, Loi sur la</Title>
+<ChapterNumber>2014, ch. 28</ChapterNumber>
+<FlicsAlpha>2014, ch. 28</FlicsAlpha>
 </Statute>
 <Statute statuteid="142582f">
 <Title>Croissance économique et la prospérité Canada-Honduras, Loi sur la</Title>
@@ -1794,11 +1799,6 @@
 <Title>Croissance économique et la prospérité Canada-Jordanie, Loi sur la</Title>
 <ChapterNumber>2012, ch. 18</ChapterNumber>
 <FlicsAlpha>2012, ch. 18</FlicsAlpha>
-</Statute>
-<Statute statuteid="144250f">
-<Title>Croissance économique et la prospérité Canada-Corée, Loi sur la</Title>
-<ChapterNumber>2014, ch. 28</ChapterNumber>
-<FlicsAlpha>2014, ch. 28</FlicsAlpha>
 </Statute>
 <Statute statuteid="160810f">
 <Title>Croissance économique et la prospérité Canada-Panama, Loi sur la</Title>
@@ -1832,15 +1832,15 @@
 <ChapterNumber>2011, ch. 4</ChapterNumber>
 <FlicsAlpha>2011, ch. 4</FlicsAlpha>
 </Statute>
-<Statute statuteid="102704f">
-<Title>Déclarations des personnes morales, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. C-43</ChapterNumber>
-<FlicsAlpha>C-43 </FlicsAlpha>
-</Statute>
 <Statute statuteid="">
 <Title>Déclarations des personnes morales et des syndicats, Loi sur les</Title>
 <ChapterNumber>Déclarations des personnes morales et des syndica</ChapterNumber>
 <FlicsAlpha>L.R. (1985), ch. C-43</FlicsAlpha>
+</Statute>
+<Statute statuteid="102704f">
+<Title>Déclarations des personnes morales, Loi sur les</Title>
+<ChapterNumber>L.R. (1985), ch. C-43</ChapterNumber>
+<FlicsAlpha>C-43 </FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Décret de représentation électorale de 2003, Loi sur la date de prise d’effet du</Title>
@@ -1897,6 +1897,11 @@
 <ChapterNumber>2005, ch. 53</ChapterNumber>
 <FlicsAlpha>2005, ch. 53</FlicsAlpha>
 </Statute>
+<Statute statuteid="1372229f">
+<Title>Développement d’une économie verte dans les Prairies, Loi sur le</Title>
+<ChapterNumber>2022, ch. 21</ChapterNumber>
+<FlicsAlpha>2022, ch. 21</FlicsAlpha>
+</Statute>
 <Statute statuteid="227315f">
 <Title>Développement de la pêche, Loi sur le</Title>
 <ChapterNumber>L.R. (1985), ch. F-21</ChapterNumber>
@@ -1911,11 +1916,6 @@
 <Title>Développement des forêts et la recherche sylvicole, Loi sur le</Title>
 <ChapterNumber>Développement des forêts et la recherche sylvicol</ChapterNumber>
 <FlicsAlpha>tops-1D</FlicsAlpha>
-</Statute>
-<Statute statuteid="1372229f">
-<Title>Développement d’une économie verte dans les Prairies, Loi sur le</Title>
-<ChapterNumber>2022, ch. 21</ChapterNumber>
-<FlicsAlpha>2022, ch. 21</FlicsAlpha>
 </Statute>
 <Statute statuteid="234639f">
 <Title>Développement durable, Loi fédérale sur le</Title>
@@ -2035,27 +2035,22 @@
 <Statute statuteid="">
 <Title>Droit pénal, Loi de 1985 modifiant le</Title>
 <ChapterNumber>L.R. (1985), ch. 27 (1er suppl.)</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 27 </FlicsAlpha>
+<FlicsAlpha>L.R. (1985), ch. 27 (1er suppl.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="1504f">
 <Title>Droit pour la sécurité des passagers du transport aérien, Loi sur le</Title>
 <ChapterNumber>2002, ch. 9, art. 5</ChapterNumber>
 <FlicsAlpha>2002, ch. 9, art. 5</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Droits, voir Exonération des droits, Loi sur l’</Title>
-<ChapterNumber>Droits, voir Exonération des droits, Loi sur l’</ChapterNumber>
-<FlicsAlpha>tops-4D</FlicsAlpha>
+<Statute statuteid="421396f">
+<Title>Droits d’exportation de produits de bois d’oeuvre, Loi de 2006 sur les</Title>
+<ChapterNumber>2006, ch. 13</ChapterNumber>
+<FlicsAlpha>2006, ch. 13</FlicsAlpha>
 </Statute>
 <Statute statuteid="250616f">
 <Title>Droits de la personne, Loi canadienne sur les</Title>
 <ChapterNumber>L.R. (1985), ch. H-6</ChapterNumber>
 <FlicsAlpha>H-6</FlicsAlpha>
-</Statute>
-<Statute statuteid="421396f">
-<Title>Droits d’exportation de produits de bois d’oeuvre, Loi de 2006 sur les</Title>
-<ChapterNumber>2006, ch. 13</ChapterNumber>
-<FlicsAlpha>2006, ch. 13</FlicsAlpha>
 </Statute>
 <Statute statuteid="433626f">
 <Title>Droits fonciers issus de traités en Saskatchewan, Loi sur les</Title>
@@ -2072,6 +2067,11 @@
 <ChapterNumber>(voir Conventions Impôt sur le revenu)</ChapterNumber>
 <FlicsAlpha>tops-5D</FlicsAlpha>
 </Statute>
+<Statute statuteid="">
+<Title>Droits, voir Exonération des droits, Loi sur l’</Title>
+<ChapterNumber>Droits, voir Exonération des droits, Loi sur l’</ChapterNumber>
+<FlicsAlpha>tops-4D</FlicsAlpha>
+</Statute>
 </Letter>
 <Letter value="E">
 <Statute statuteid="">
@@ -2084,11 +2084,6 @@
 <ChapterNumber></ChapterNumber>
 <FlicsAlpha>tops-2E</FlicsAlpha>
 </Statute>
-<Statute statuteid="355817f">
-<Title>Eaux navigables canadiennes, Loi sur les</Title>
-<ChapterNumber>2019, ch. 28, art. 46</ChapterNumber>
-<FlicsAlpha>2019, ch. 28, art. 46</FlicsAlpha>
-</Statute>
 <Statute statuteid="363416f">
 <Title>Eaux du Nunavut et le Tribunal des droits de surface du Nunavut, Loi sur les</Title>
 <ChapterNumber>2002, ch. 10</ChapterNumber>
@@ -2098,6 +2093,11 @@
 <Title>Eaux limitrophes internationales, Loi du traité des</Title>
 <ChapterNumber>L.R. (1985), ch. I-17</ChapterNumber>
 <FlicsAlpha>I-17</FlicsAlpha>
+</Statute>
+<Statute statuteid="355817f">
+<Title>Eaux navigables canadiennes, Loi sur les</Title>
+<ChapterNumber>2019, ch. 28, art. 46</ChapterNumber>
+<FlicsAlpha>2019, ch. 28, art. 46</FlicsAlpha>
 </Statute>
 <Statute statuteid="49155f">
 <Title>École de la fonction publique du Canada, Loi sur l’</Title>
@@ -2154,25 +2154,25 @@
 <ChapterNumber>2003, ch. 22, art. 12 et 13</ChapterNumber>
 <FlicsAlpha>2003, ch. 22, art. 12 et 13</FlicsAlpha>
 </Statute>
-<Statute statuteid="1448652f">
-<Title>Emplois durables, Loi canadienne sur les</Title>
-<ChapterNumber>2024, ch. 13</ChapterNumber>
-<FlicsAlpha>2024, ch. 13</FlicsAlpha>
+<Statute statuteid="325886f">
+<Title>Emploi et la croissance économique, Loi sur l’</Title>
+<ChapterNumber>2010, ch. 12</ChapterNumber>
+<FlicsAlpha>2010, ch. 12</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Emploi et la croissance, Loi de 2012 sur l’</Title>
 <ChapterNumber>2012, ch. 31</ChapterNumber>
 <FlicsAlpha>2012, ch. 31</FlicsAlpha>
 </Statute>
-<Statute statuteid="325886f">
-<Title>Emploi et la croissance économique, Loi sur l’</Title>
-<ChapterNumber>2010, ch. 12</ChapterNumber>
-<FlicsAlpha>2010, ch. 12</FlicsAlpha>
-</Statute>
 <Statute statuteid="326965f">
 <Title>Emploi, la croissance et la prospérité économique durable, Loi sur l’</Title>
 <ChapterNumber>2012, ch. 19</ChapterNumber>
 <FlicsAlpha>2012, ch. 19</FlicsAlpha>
+</Statute>
+<Statute statuteid="1448652f">
+<Title>Emplois durables, Loi canadienne sur les</Title>
+<ChapterNumber>2024, ch. 13</ChapterNumber>
+<FlicsAlpha>2024, ch. 13</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Emprunt</Title>
@@ -2199,15 +2199,15 @@
 <ChapterNumber>L.R. (1985), ch. F-10 </ChapterNumber>
 <FlicsAlpha>F-10 </FlicsAlpha>
 </Statute>
-<Statute statuteid="263513f">
-<Title>Enquêtes, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. I-11</ChapterNumber>
-<FlicsAlpha>I-11</FlicsAlpha>
-</Statute>
 <Statute statuteid="">
 <Title>Enquêtes sur les coalitions, Loi relative aux voir Concurrence, Loi sur la</Title>
 <ChapterNumber>Enquêtes sur les coalitions, Loi relative aux voi</ChapterNumber>
 <FlicsAlpha>tops-5E</FlicsAlpha>
+</Statute>
+<Statute statuteid="263513f">
+<Title>Enquêtes, Loi sur les</Title>
+<ChapterNumber>L.R. (1985), ch. I-11</ChapterNumber>
+<FlicsAlpha>I-11</FlicsAlpha>
 </Statute>
 <Statute statuteid="435406f">
 <Title>Enregistrement de renseignements sur les délinquants sexuels, Loi sur l’</Title>
@@ -2240,14 +2240,14 @@
 <FlicsAlpha>1957-58, ch. 26</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Environnement, voir Protection de l’environnement, Loi canadienne sur la</Title>
-<ChapterNumber>Environnement, voir Protection de l’environnement</ChapterNumber>
-<FlicsAlpha>tops-7E</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Environnement canadien, semaine</Title>
 <ChapterNumber>Environnement canadien, semaine</ChapterNumber>
 <FlicsAlpha>tops-8E</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Environnement, voir Protection de l’environnement, Loi canadienne sur la</Title>
+<ChapterNumber>Environnement, voir Protection de l’environnement</ChapterNumber>
+<FlicsAlpha>tops-7E</FlicsAlpha>
 </Statute>
 <Statute statuteid="80789f">
 <Title>Épargne-études, Loi canadienne sur l’</Title>
@@ -2349,11 +2349,6 @@
 <ChapterNumber>2019, ch. 13, art. 49.1</ChapterNumber>
 <FlicsAlpha>2019, ch. 13, art. 49.1</FlicsAlpha>
 </Statute>
-<Statute statuteid="1339558f">
-<Title>Exécution de la mise à jour économique et budgétaire de 2021, Loi d’</Title>
-<ChapterNumber>2022, ch. 5</ChapterNumber>
-<FlicsAlpha>2022, ch. 5</FlicsAlpha>
-</Statute>
 <Statute statuteid="1281353f">
 <Title>Exécution de l’énoncé économique 2020, Loi d’</Title>
 <ChapterNumber>2021, ch. 7</ChapterNumber>
@@ -2368,6 +2363,11 @@
 <Title>Exécution de l’énoncé économique de l’automne 2023</Title>
 <ChapterNumber>2024, ch. 15</ChapterNumber>
 <FlicsAlpha>2024, ch. 15</FlicsAlpha>
+</Statute>
+<Statute statuteid="1339558f">
+<Title>Exécution de la mise à jour économique et budgétaire de 2021, Loi d’</Title>
+<ChapterNumber>2022, ch. 5</ChapterNumber>
+<FlicsAlpha>2022, ch. 5</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Exécution du budget 1991, Loi d’</Title>
@@ -2561,13 +2561,13 @@
 </Statute>
 <Statute statuteid="207399f">
 <Title>Extradition, Loi sur l’</Title>
-<ChapterNumber>L.R. (1985), ch. E-23</ChapterNumber>
-<FlicsAlpha>E-23</FlicsAlpha>
+<ChapterNumber>1999, ch. 18</ChapterNumber>
+<FlicsAlpha>1999, ch. 18</FlicsAlpha>
 </Statute>
 <Statute statuteid="207399f">
 <Title>Extradition, Loi sur l’</Title>
-<ChapterNumber>1999, ch. 18</ChapterNumber>
-<FlicsAlpha>1999, ch. 18</FlicsAlpha>
+<ChapterNumber>L.R. (1985), ch. E-23</ChapterNumber>
+<FlicsAlpha>E-23</FlicsAlpha>
 </Statute>
 </Letter>
 <Letter value="F">
@@ -2671,6 +2671,11 @@
 <ChapterNumber>L.R. (1985), ch. F-30</ChapterNumber>
 <FlicsAlpha>F-30</FlicsAlpha>
 </Statute>
+<Statute statuteid="">
+<Title>Fournir un soutien supplémentaire en réponse à la COVID-19, Loi visant à</Title>
+<ChapterNumber>2021, ch. 26</ChapterNumber>
+<FlicsAlpha>2021, ch. 26</FlicsAlpha>
+</Statute>
 <Statute statuteid="215321f">
 <Title>Foyers familiaux situés dans les réserves et les droits ou intérêts matrimoniaux, Loi sur les</Title>
 <ChapterNumber>2013, ch. 20</ChapterNumber>
@@ -2685,11 +2690,6 @@
 <Title>Frontières provinciales :</Title>
 <ChapterNumber>Frontières provinciales </ChapterNumber>
 <FlicsAlpha>tops-2F</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Fournir un soutien supplémentaire en réponse à la COVID-19, Loi visant à</Title>
-<ChapterNumber>2021, ch. 26, art. 5 </ChapterNumber>
-<FlicsAlpha>2021, ch. 26, art. 5 </FlicsAlpha>
 </Statute>
 </Letter>
 <Letter value="G">
@@ -2764,24 +2764,14 @@
 <FlicsAlpha>G-10</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Grand-Tronc (arbitrage)</Title>
-<ChapterNumber>1921, ch. 21</ChapterNumber>
-<FlicsAlpha>1921, ch. 21</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Grand-Tronc de chemin de fer (acquisition par l’État)</Title>
-<ChapterNumber>Grand-Tronc de chemin de fer (acquisition par l’É</ChapterNumber>
-<FlicsAlpha>tops-1G</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Grand-Tronc de chemin de fer (voir Viaduc de Toronto et Prolongement de l’Intercolonial jusqu’à Montréal)</Title>
-<ChapterNumber>Grand-Tronc de chemin de fer (voir Viaduc de Toro</ChapterNumber>
-<FlicsAlpha>tops-2G</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Grand Trunk Pacific</Title>
 <ChapterNumber>1903, ch. 122 (Voir aussi Chemin de fer national transcontinental)</ChapterNumber>
 <FlicsAlpha>1903, ch. 122</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Grand Trunk Pacific réseau du chemin de fer, prise de possession par l’État</Title>
+<ChapterNumber>Grand Trunk Pacific réseau du chemin de fer, pris</ChapterNumber>
+<FlicsAlpha>tops-4G</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Grand Trunk Pacific, Chemin de fer (achat d’obligations)</Title>
@@ -2809,26 +2799,31 @@
 <FlicsAlpha>1926-27, ch. 7</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Grand Trunk Pacific réseau du chemin de fer, prise de possession par l’État</Title>
-<ChapterNumber>Grand Trunk Pacific réseau du chemin de fer, pris</ChapterNumber>
-<FlicsAlpha>tops-4G</FlicsAlpha>
+<Title>Grand-Tronc (arbitrage)</Title>
+<ChapterNumber>1921, ch. 21</ChapterNumber>
+<FlicsAlpha>1921, ch. 21</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Grand-Tronc de chemin de fer (acquisition par l’État)</Title>
+<ChapterNumber>Grand-Tronc de chemin de fer (acquisition par l’É</ChapterNumber>
+<FlicsAlpha>tops-1G</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Grand-Tronc de chemin de fer (voir Viaduc de Toronto et Prolongement de l’Intercolonial jusqu’à Montréal)</Title>
+<ChapterNumber>Grand-Tronc de chemin de fer (voir Viaduc de Toro</ChapterNumber>
+<FlicsAlpha>tops-2G</FlicsAlpha>
 </Statute>
 </Letter>
 <Letter value="H">
 <Statute statuteid="350468f">
 <Title>Habitation, Loi nationale sur l’</Title>
-<ChapterNumber>S.R.C. 1952, ch. 188</ChapterNumber>
-<FlicsAlpha>S.R.C. 1952, ch. 188</FlicsAlpha>
-</Statute>
-<Statute statuteid="350468f">
-<Title>Habitation, Loi nationale sur l’</Title>
 <ChapterNumber>L.R. (1985), ch. N-11</ChapterNumber>
 <FlicsAlpha>N-11</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Harmonisation du droit fédéral avec le droit civil, Loi d’</Title>
-<ChapterNumber>Harmonisation du droit fédéral avec le droit civi</ChapterNumber>
-<FlicsAlpha>tops-1H</FlicsAlpha>
+<Statute statuteid="350468f">
+<Title>Habitation, Loi nationale sur l’</Title>
+<ChapterNumber>S.R.C. 1952, ch. 188</ChapterNumber>
+<FlicsAlpha>S.R.C. 1952, ch. 188</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Halifax, Loi sur l’activités du port d’</Title>
@@ -2839,6 +2834,11 @@
 <Title>Halifax, Loi sur la prise en charge des prestations de la Commission de secours d’</Title>
 <ChapterNumber>1974-75-76, ch. 88</ChapterNumber>
 <FlicsAlpha>1974-75-76, ch. 88</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Harmonisation du droit fédéral avec le droit civil, Loi d’</Title>
+<ChapterNumber>Harmonisation du droit fédéral avec le droit civi</ChapterNumber>
+<FlicsAlpha>tops-1H</FlicsAlpha>
 </Statute>
 <Statute statuteid="248750f">
 <Title>Hudson Bay Mining and Smelting Co., Limited, Loi concernant l’</Title>
@@ -2868,11 +2868,6 @@
 <FlicsAlpha>1998, ch. 37</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Île-du-Prince-Édouard, Conditions de l’adhésion de</Title>
-<ChapterNumber>1873</ChapterNumber>
-<FlicsAlpha>1873</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Île-du-Prince-Édouard (prolongement du chemin de fer)</Title>
 <ChapterNumber>1907-08, ch. 54</ChapterNumber>
 <FlicsAlpha>1907-08, ch. 54</FlicsAlpha>
@@ -2883,24 +2878,29 @@
 <FlicsAlpha>tops-1I</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Immeubles fédéraux, Loi sur les</Title>
-<ChapterNumber>Immeubles fédéraux, Loi sur les</ChapterNumber>
-<FlicsAlpha>tops-2I</FlicsAlpha>
+<Title>Île-du-Prince-Édouard, Conditions de l’adhésion de</Title>
+<ChapterNumber>1873</ChapterNumber>
+<FlicsAlpha>1873</FlicsAlpha>
 </Statute>
 <Statute statuteid="234392f">
 <Title>Immeubles fédéraux et les biens réels fédéraux, Loi sur les</Title>
 <ChapterNumber>1991, ch. 50</ChapterNumber>
 <FlicsAlpha>1991, ch. 50</FlicsAlpha>
 </Statute>
-<Statute statuteid="267378f">
-<Title>Immigration et la protection des réfugiés, Loi sur l’</Title>
-<ChapterNumber>2001, ch. 27</ChapterNumber>
-<FlicsAlpha>2001, ch. 27</FlicsAlpha>
+<Statute statuteid="">
+<Title>Immeubles fédéraux, Loi sur les</Title>
+<ChapterNumber>Immeubles fédéraux, Loi sur les</ChapterNumber>
+<FlicsAlpha>tops-2I</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Immigration et la Protection des réfugiés, la Loi sur le mariage civil, le Code criminel et d’autres lois en conséquence, Loi modifiant la Loi sur l’</Title>
 <ChapterNumber>2015, ch. 29</ChapterNumber>
 <FlicsAlpha>2015, ch. 29</FlicsAlpha>
+</Statute>
+<Statute statuteid="267378f">
+<Title>Immigration et la protection des réfugiés, Loi sur l’</Title>
+<ChapterNumber>2001, ch. 27</ChapterNumber>
+<FlicsAlpha>2001, ch. 27</FlicsAlpha>
 </Statute>
 <Statute statuteid="23019f">
 <Title>Immunité de la Banque des règlements internationaux, Loi sur l’</Title>
@@ -2922,10 +2922,25 @@
 <ChapterNumber>2024, ch. 17, art. 81</ChapterNumber>
 <FlicsAlpha>2024, ch. 17, art. 81</FlicsAlpha>
 </Statute>
+<Statute statuteid="">
+<Title>Impôt sur le revenu, Loi de 1999 modifiant l’</Title>
+<ChapterNumber>2000, ch. 19</ChapterNumber>
+<FlicsAlpha>2000, ch. 19</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Impôt sur le revenu, Loi de 2000 modifiant l’</Title>
+<ChapterNumber>2001, ch. 17</ChapterNumber>
+<FlicsAlpha>2001, ch. 17</FlicsAlpha>
+</Statute>
 <Statute statuteid="272932f">
 <Title>Impôt sur le revenu, Loi de l’</Title>
 <ChapterNumber>1948, ch. 52 (voir S.R.C. 1952, ch. 148)</ChapterNumber>
 <FlicsAlpha>1948, ch. 52</FlicsAlpha>
+</Statute>
+<Statute statuteid="272932f">
+<Title>Impôt sur le revenu, Loi de l’</Title>
+<ChapterNumber>L.R. (1985), ch. 1 (5e suppl.)</ChapterNumber>
+<FlicsAlpha>L.R. (1985), ch. 1 (5e suppl.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="272932f">
 <Title>Impôt sur le revenu, Loi de l’</Title>
@@ -2942,25 +2957,10 @@
 <ChapterNumber>1970-71-72, ch. 63</ChapterNumber>
 <FlicsAlpha>1970-71-72, ch. 63</FlicsAlpha>
 </Statute>
-<Statute statuteid="272932f">
-<Title>Impôt sur le revenu, Loi de l’</Title>
-<ChapterNumber>L.R. (1985), ch. 1 (5e suppl.)</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 1 (5e suppl.)</FlicsAlpha>
-</Statute>
 <Statute statuteid="">
 <Title>Impôt sur le revenu, Loi de révision des modifications relatives à</Title>
 <ChapterNumber>1994, ch. 7</ChapterNumber>
 <FlicsAlpha>1994, ch. 7</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Impôt sur le revenu, Loi de 1999 modifiant l’</Title>
-<ChapterNumber>2000, ch. 19</ChapterNumber>
-<FlicsAlpha>2000, ch. 19</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Impôt sur le revenu, Loi de 2000 modifiant l’</Title>
-<ChapterNumber>2001, ch. 17</ChapterNumber>
-<FlicsAlpha>2001, ch. 17</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Impôt sur le revenu, Règles concernant l’application de</Title>
@@ -2979,7 +2979,7 @@
 </Statute>
 <Statute statuteid="">
 <Title>Inamovibilité des juges militaires, Loi sur l’</Title>
-<ChapterNumber>2011, ch. 22 (voirLoi sur la défense   nationale)</ChapterNumber>
+<ChapterNumber>2011, ch. 22 (voir Loi sur la défense nationale)</ChapterNumber>
 <FlicsAlpha>2011, ch. 22</FlicsAlpha>
 </Statute>
 <Statute statuteid="56183f">
@@ -3027,11 +3027,6 @@
 <ChapterNumber>S.R.C. 1970, ch. W-4</ChapterNumber>
 <FlicsAlpha>S.R.C. 1970, ch. W-4</FlicsAlpha>
 </Statute>
-<Statute statuteid="323416f">
-<Title>Indiens, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. I-5</ChapterNumber>
-<FlicsAlpha>I-5</FlicsAlpha>
-</Statute>
 <Statute statuteid="">
 <Title>Indiens (Établissements des soldats)</Title>
 <ChapterNumber>Indiens (Établissements des soldats)</ChapterNumber>
@@ -3041,6 +3036,11 @@
 <Title>Indiens, Loi sur la modification et le remplacement de la Loi sur les</Title>
 <ChapterNumber>2014, ch. 38</ChapterNumber>
 <FlicsAlpha>2014, ch. 38</FlicsAlpha>
+</Statute>
+<Statute statuteid="323416f">
+<Title>Indiens, Loi sur les</Title>
+<ChapterNumber>L.R. (1985), ch. I-5</ChapterNumber>
+<FlicsAlpha>I-5</FlicsAlpha>
 </Statute>
 <Statute statuteid="434538f">
 <Title>Infractions en matière de sécurité, Loi sur les</Title>
@@ -3057,15 +3057,15 @@
 <ChapterNumber>L.R. (1985), ch. E-4</ChapterNumber>
 <FlicsAlpha>E-4</FlicsAlpha>
 </Statute>
+<Statute statuteid="">
+<Title>Institutions financières et modifiant le système d’assurance-dépôt, Loi sur les</Title>
+<ChapterNumber>L.R. (1985), ch. 18 (3e suppl.)</ChapterNumber>
+<FlicsAlpha>L.R. (1985), ch. 18 (3e suppl.)</FlicsAlpha>
+</Statute>
 <Statute statuteid="69613f">
 <Title>Instituts de recherche en santé du Canada, Loi sur les</Title>
 <ChapterNumber>2000, ch. 6</ChapterNumber>
 <FlicsAlpha>2000, ch. 6</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Institutions financières et modifiant le système d’assurance-dépôt, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. 18 (3e suppl.)</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 18 </FlicsAlpha>
 </Statute>
 <Statute statuteid="1134946f">
 <Title>Instrument multilatéral relatif aux conventions fiscales, Loi sur l’</Title>
@@ -3097,15 +3097,15 @@
 <ChapterNumber>L.R. (1985), ch. I-15</ChapterNumber>
 <FlicsAlpha>I-15</FlicsAlpha>
 </Statute>
-<Statute statuteid="272360f">
-<Title>Interprétation, Loi d’</Title>
-<ChapterNumber>L.R. (1985), ch. I-21</ChapterNumber>
-<FlicsAlpha>I-21</FlicsAlpha>
-</Statute>
 <Statute statuteid="323249f">
 <Title>Interprétation des conventions en matière d’impôts sur le revenu, Loi sur l’</Title>
 <ChapterNumber>L.R. (1985), ch. I-4</ChapterNumber>
 <FlicsAlpha>I-4</FlicsAlpha>
+</Statute>
+<Statute statuteid="272360f">
+<Title>Interprétation, Loi d’</Title>
+<ChapterNumber>L.R. (1985), ch. I-21</ChapterNumber>
+<FlicsAlpha>I-21</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Inuvialuit de la région ouest de l’Arctique, voir Règlement des revendications des Inuvialuit de la région ouest de l’Arctique, Loi sur le</Title>
@@ -3164,15 +3164,15 @@
 <ChapterNumber>2023, ch. 10</ChapterNumber>
 <FlicsAlpha>2023, ch. 10</FlicsAlpha>
 </Statute>
-<Statute statuteid="350303f">
-<Title>Journée de la fête nationale des Acadiens et des Acadiennes, Loi sur la</Title>
-<ChapterNumber>2003, ch. 11</ChapterNumber>
-<FlicsAlpha>2003, ch. 11</FlicsAlpha>
-</Statute>
 <Statute statuteid="78579f">
 <Title>Journée de l’enfant, Loi sur la</Title>
 <ChapterNumber>1993, ch. 18</ChapterNumber>
 <FlicsAlpha>1993, ch. 18</FlicsAlpha>
+</Statute>
+<Statute statuteid="350303f">
+<Title>Journée de la fête nationale des Acadiens et des Acadiennes, Loi sur la</Title>
+<ChapterNumber>2003, ch. 11</ChapterNumber>
+<FlicsAlpha>2003, ch. 11</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Journée des anciens combattants de la guerre de Corée</Title>
@@ -3363,15 +3363,15 @@
 <ChapterNumber>2011, ch. 25</ChapterNumber>
 <FlicsAlpha>2011, ch. 25</FlicsAlpha>
 </Statute>
-<Statute statuteid="197656f">
-<Title>Licences d’exportation et d’importation, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. E-19</ChapterNumber>
-<FlicsAlpha>E-19</FlicsAlpha>
-</Statute>
 <Statute statuteid="1521467f">
 <Title>Libre-échange et la mobilité de la main-d’œuvre au Canada, Loi sur le</Title>
 <ChapterNumber>2025, ch. 2, art. 2</ChapterNumber>
 <FlicsAlpha>2025, ch. 2, art. 2</FlicsAlpha>
+</Statute>
+<Statute statuteid="197656f">
+<Title>Licences d’exportation et d’importation, Loi sur les</Title>
+<ChapterNumber>L.R. (1985), ch. E-19</ChapterNumber>
+<FlicsAlpha>E-19</FlicsAlpha>
 </Statute>
 <Statute statuteid="248626f">
 <Title>Lieux et monuments historiques, Loi sur les</Title>
@@ -3383,15 +3383,15 @@
 <ChapterNumber>1974-75-76, ch. 78</ChapterNumber>
 <FlicsAlpha>1974-75-76, ch. 78</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Liquidations, Loi sur les</Title>
-<ChapterNumber>Liquidations, Loi sur les</ChapterNumber>
-<FlicsAlpha>tops-2L</FlicsAlpha>
-</Statute>
 <Statute statuteid="454337f">
 <Title>Liquidations et les restructurations, Loi sur les</Title>
 <ChapterNumber>L.R. (1985), ch. W-11</ChapterNumber>
 <FlicsAlpha>W-11</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Liquidations, Loi sur les</Title>
+<ChapterNumber>Liquidations, Loi sur les</ChapterNumber>
+<FlicsAlpha>tops-2L</FlicsAlpha>
 </Statute>
 <Statute statuteid="330650f">
 <Title>Lobbying, Loi sur le</Title>
@@ -3409,6 +3409,16 @@
 <FlicsAlpha>1993, ch. 12</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Loi canadienne sur l’épargne-études, voir Épargne-études, Loi canadienne sur l’</Title>
+<ChapterNumber>Loi canadienne sur l’épargne-études, voir Épargne</ChapterNumber>
+<FlicsAlpha>tops-5L</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Loi canadienne sur l’évaluation environnementale voir Évaluation environnementale</Title>
+<ChapterNumber>Loi canadienne sur l’évaluation environnementale </ChapterNumber>
+<FlicsAlpha>tops-8L</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Loi canadienne sur la protection de l’environnement (1999) voir Protection de l’environnement …</Title>
 <ChapterNumber>Loi canadienne sur la protection de l’environneme</ChapterNumber>
 <FlicsAlpha>tops-3L</FlicsAlpha>
@@ -3417,11 +3427,6 @@
 <Title>Loi canadienne sur la santé, voir Santé ...</Title>
 <ChapterNumber>Loi canadienne sur la santé, voir Santé ...</ChapterNumber>
 <FlicsAlpha>tops-4L</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Loi canadienne sur l’épargne-études, voir Épargne-études, Loi canadienne sur l’</Title>
-<ChapterNumber>Loi canadienne sur l’épargne-études, voir Épargne</ChapterNumber>
-<FlicsAlpha>tops-5L</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Loi canadienne sur les coopératives, voir Coopératives ...</Title>
@@ -3438,25 +3443,20 @@
 <ChapterNumber>L.R. (1985), ch. C-21</ChapterNumber>
 <FlicsAlpha>C-21</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Loi canadienne sur l’évaluation environnementale voir Évaluation environnementale</Title>
-<ChapterNumber>Loi canadienne sur l’évaluation environnementale </ChapterNumber>
-<FlicsAlpha>tops-8L</FlicsAlpha>
-</Statute>
 <Statute statuteid="90421f">
 <Title>Loi concernant les modifications constitutionnelles (veto)</Title>
 <ChapterNumber>1996, ch. 1</ChapterNumber>
 <FlicsAlpha>1996, ch. 1</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Loi constitutionnelle de 1867</Title>
-<ChapterNumber>Loi constitutionnelle de 1867</ChapterNumber>
-<FlicsAlpha>tops-9L</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Loi constitutionelle de 1867 (représentation électorale), Loi modifiant la (L.C. 2022, ch. 6</Title>
 <ChapterNumber>Loi constitutionelle de 1867 (représentation élec</ChapterNumber>
 <FlicsAlpha>tops-10L</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Loi constitutionnelle de 1867</Title>
+<ChapterNumber>Loi constitutionnelle de 1867</ChapterNumber>
+<FlicsAlpha>tops-9L</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Loi constitutionnelle de 1982 (voir aussi L.R. (1985), Appendice II, no 44)</Title>
@@ -3466,7 +3466,7 @@
 <Statute statuteid="">
 <Title>Loi constitutionnelle de 1999 (Nunavut)</Title>
 <ChapterNumber>1998, ch. 15, partie 2, art. 47</ChapterNumber>
-<FlicsAlpha>1998, ch. 15, partie</FlicsAlpha>
+<FlicsAlpha>1998, ch. 15, partie 2, art. 47</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Loi corrective de 1987</Title>
@@ -3504,9 +3504,14 @@
 <FlicsAlpha>2017, ch. 26</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Loi de crédits, voir Crédits ...</Title>
-<ChapterNumber>Loi de crédits, voir Crédits ...</ChapterNumber>
-<FlicsAlpha>tops-12L</FlicsAlpha>
+<Title>Loi d’harmonisation du droit fédéral avec le droit civil voir Harmonisation du droit fédéral avec le droit civil Loi d’</Title>
+<ChapterNumber>Loi d’harmonisation du droit fédéral avec le droi</ChapterNumber>
+<FlicsAlpha>tops-22L</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Loi d’urgence sur les approvisionnements d’énergie, voir Approvisionnements d’énergie, Loi d’urgence sur les</Title>
+<ChapterNumber>Loi d’urgence sur les approvisionnements d’énergi</ChapterNumber>
+<FlicsAlpha>tops-23L</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Loi de 1970 concernant l’ordre public (mesures provisoires), voir Ordre public ...</Title>
@@ -3564,14 +3569,9 @@
 <FlicsAlpha>tops-21L</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Loi d’harmonisation du droit fédéral avec le droit civil voir Harmonisation du droit fédéral avec le droit civil Loi d’</Title>
-<ChapterNumber>Loi d’harmonisation du droit fédéral avec le droi</ChapterNumber>
-<FlicsAlpha>tops-22L</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Loi d’urgence sur les approvisionnements d’énergie, voir Approvisionnements d’énergie, Loi d’urgence sur les</Title>
-<ChapterNumber>Loi d’urgence sur les approvisionnements d’énergi</ChapterNumber>
-<FlicsAlpha>tops-23L</FlicsAlpha>
+<Title>Loi de crédits, voir Crédits ...</Title>
+<ChapterNumber>Loi de crédits, voir Crédits ...</ChapterNumber>
+<FlicsAlpha>tops-12L</FlicsAlpha>
 </Statute>
 <Statute statuteid="198217f">
 <Title>Loi électorale du Canada</Title>
@@ -3594,14 +3594,14 @@
 <FlicsAlpha>1998, ch. 10</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Loi modifiant la législation relative aux pensions de retraite voir Législation relative aux pensions de retraite, Loi modifiant la</Title>
-<ChapterNumber>1989, ch. 6</ChapterNumber>
-<FlicsAlpha>tops-26L</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Loi médicale du Canada</Title>
 <ChapterNumber>S.R.C. 1952, ch. 27</ChapterNumber>
 <FlicsAlpha>S.R.C. 1952, ch. 27</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Loi modifiant la législation relative aux pensions de retraite voir Législation relative aux pensions de retraite, Loi modifiant la</Title>
+<ChapterNumber>1989, ch. 6</ChapterNumber>
+<FlicsAlpha>tops-26L</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Loi modificative et rectificative (2003)</Title>
@@ -3623,15 +3623,15 @@
 <ChapterNumber>L.R. (1985), ch. 41 (4e suppl.)</ChapterNumber>
 <FlicsAlpha>L.R. (1985), ch. 41 (4e suppl.)</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Loi sur l’organisation du gouvernement (organismes fédéraux) voir Organisation du gouvernement...</Title>
-<ChapterNumber>Loi sur l’organisation du gouvernement (organisme</ChapterNumber>
-<FlicsAlpha>tops-25L</FlicsAlpha>
-</Statute>
 <Statute statuteid="415902f">
 <Title>Loi référendaire</Title>
 <ChapterNumber>1992, ch. 30</ChapterNumber>
 <FlicsAlpha>1992, ch. 30</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Loi sur l’organisation du gouvernement (organismes fédéraux) voir Organisation du gouvernement...</Title>
+<ChapterNumber>Loi sur l’organisation du gouvernement (organisme</ChapterNumber>
+<FlicsAlpha>tops-25L</FlicsAlpha>
 </Statute>
 <Statute statuteid="417758f">
 <Title>Lois révisées du Canada (1985), Loi sur les</Title>
@@ -3700,15 +3700,15 @@
 <ChapterNumber>1991, ch. 25</ChapterNumber>
 <FlicsAlpha>1991, ch. 25</FlicsAlpha>
 </Statute>
-<Statute statuteid="83427f">
-<Title>Mariage civil, Loi sur le</Title>
-<ChapterNumber>2005, ch. 33</ChapterNumber>
-<FlicsAlpha>2005, ch. 33</FlicsAlpha>
-</Statute>
 <Statute statuteid="346714f">
 <Title>Mariage (degrés prohibés), Loi sur le</Title>
 <ChapterNumber>1990, ch. 46</ChapterNumber>
 <FlicsAlpha>1990, ch. 46</FlicsAlpha>
+</Statute>
+<Statute statuteid="83427f">
+<Title>Mariage civil, Loi sur le</Title>
+<ChapterNumber>2005, ch. 33</ChapterNumber>
+<FlicsAlpha>2005, ch. 33</FlicsAlpha>
 </Statute>
 <Statute statuteid="340166f">
 <Title>Marine Atlantique S.C.C., Loi autorisant l’acquisition de</Title>
@@ -3755,6 +3755,11 @@
 <ChapterNumber>2005, ch. 49</ChapterNumber>
 <FlicsAlpha>2005, ch. 49</FlicsAlpha>
 </Statute>
+<Statute statuteid="208414f">
+<Title>Mesures d’urgence, Loi sur les</Title>
+<ChapterNumber>L.R. (1985), ch. 22 (4e suppl.)</ChapterNumber>
+<FlicsAlpha>L.R. (1985), ch. 22 (4e suppl.)</FlicsAlpha>
+</Statute>
 <Statute statuteid="">
 <Title>Mesures de réformes équitables concernant les réfugiés, Loi sur des</Title>
 <ChapterNumber>2010, ch. 8 voir Immigration et la protection des réfugiés, Loi sur l’</ChapterNumber>
@@ -3774,11 +3779,6 @@
 <Title>Mesures de transparence dans le secteur extractif, Loi sur les</Title>
 <ChapterNumber>2014, ch. 39, art. 376</ChapterNumber>
 <FlicsAlpha>2014, ch. 39, art. 376</FlicsAlpha>
-</Statute>
-<Statute statuteid="208414f">
-<Title>Mesures d’urgence, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. 22 (4e suppl.)</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 22 (4e suppl.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="423831f">
 <Title>Mesures économiques spéciales, Loi sur les</Title>
@@ -3818,7 +3818,7 @@
 <Statute statuteid="249683f">
 <Title>Ministère de l’Emploi et du Développement social, Loi sur le</Title>
 <ChapterNumber>2005, ch. 34 </ChapterNumber>
-<FlicsAlpha>2005, ch. 34</FlicsAlpha>
+<FlicsAlpha>H-5.7</FlicsAlpha>
 </Statute>
 <Statute statuteid="173357f">
 <Title>Ministère de l’Environnement, Loi sur le</Title>
@@ -3915,6 +3915,11 @@
 <ChapterNumber>1996, ch. 16</ChapterNumber>
 <FlicsAlpha>1996, ch. 16</FlicsAlpha>
 </Statute>
+<Statute statuteid="1466160f">
+<Title>Ministère du Logement, de l’Infrastructure et des Collectivités, Loi sur le</Title>
+<ChapterNumber>2024, ch. 15, art. 323</ChapterNumber>
+<FlicsAlpha>2024, ch. 15, art. 323</FlicsAlpha>
+</Statute>
 <Statute statuteid="68063f">
 <Title>Ministère du Patrimoine canadien, Loi sur le</Title>
 <ChapterNumber>1995, ch. 11</ChapterNumber>
@@ -3924,11 +3929,6 @@
 <Title>Ministères du gouvernement voir</Title>
 <ChapterNumber>Ministères du gouvernement voir</ChapterNumber>
 <FlicsAlpha>tops-9M</FlicsAlpha>
-</Statute>
-<Statute statuteid="1466160f">
-<Title>Ministère du Logement, de l’Infrastructure et des Collectivités, Loi sur le</Title>
-<ChapterNumber>2024, ch. 15, art. 323</ChapterNumber>
-<FlicsAlpha>2024, ch. 15, art. 323</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Ministre des Finances à faire certains versements, Loi autorisant le (voir Versements, Loi autorisant le Ministre des Finances à faire certains)</Title>
@@ -3968,7 +3968,7 @@
 <Statute statuteid="">
 <Title>Modification législative (Charte canadienne des droits et libertés), Loi de</Title>
 <ChapterNumber>L.R. (1985), ch. 31 (1er suppl.)</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 31 </FlicsAlpha>
+<FlicsAlpha>L.R. (1985), ch. 31 (1er suppl.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="71356f">
 <Title>Mois du patrimoine juif canadien, Loi sur le</Title>
@@ -3990,15 +3990,20 @@
 <ChapterNumber>2019, ch. 5</ChapterNumber>
 <FlicsAlpha>2019, ch. 5</FlicsAlpha>
 </Statute>
+<Statute statuteid="418750f">
+<Title>Monnaie royale canadienne, Loi sur la</Title>
+<ChapterNumber>L.R. (1985), ch. R-9</ChapterNumber>
+<FlicsAlpha>R-9</FlicsAlpha>
+</Statute>
 <Statute statuteid="">
 <Title>Monnaie, Loi sur la</Title>
 <ChapterNumber>L.R. (1985), ch. C-52</ChapterNumber>
 <FlicsAlpha>C-52</FlicsAlpha>
 </Statute>
-<Statute statuteid="418750f">
-<Title>Monnaie royale canadienne, Loi sur la</Title>
-<ChapterNumber>L.R. (1985), ch. R-9</ChapterNumber>
-<FlicsAlpha>R-9</FlicsAlpha>
+<Statute statuteid="">
+<Title>Montréal et Toronto Vente de réserves militaires</Title>
+<ChapterNumber>1908, ch. 51</ChapterNumber>
+<FlicsAlpha>1908, ch. 51</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Montréal, Avances au Havre de</Title>
@@ -4015,25 +4020,20 @@
 <ChapterNumber>1929, ch. 12</ChapterNumber>
 <FlicsAlpha>1929, ch. 12</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Montréal et Toronto Vente de réserves militaires</Title>
-<ChapterNumber>1908, ch. 51</ChapterNumber>
-<FlicsAlpha>1908, ch. 51</FlicsAlpha>
-</Statute>
 <Statute statuteid="350331f">
 <Title>Monument national de l’Holocauste, Loi sur le</Title>
 <ChapterNumber>2011, ch. 13</ChapterNumber>
 <FlicsAlpha>2011, ch. 13</FlicsAlpha>
 </Statute>
-<Statute statuteid="1137239f">
-<Title>Moratoire relatif aux pétroliers, Loi sur le</Title>
-<ChapterNumber>2019, ch. 26 </ChapterNumber>
-<FlicsAlpha>2019, ch. 26 </FlicsAlpha>
-</Statute>
 <Statute statuteid="237889f">
 <Title>Morand, Monsieur le juge Donald Raymond, pension à jouissance</Title>
 <ChapterNumber>1978-79, ch. 8</ChapterNumber>
 <FlicsAlpha>1978-79, ch. 8</FlicsAlpha>
+</Statute>
+<Statute statuteid="1137239f">
+<Title>Moratoire relatif aux pétroliers, Loi sur le</Title>
+<ChapterNumber>2019, ch. 26 </ChapterNumber>
+<FlicsAlpha>2019, ch. 26 </FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Mount Royal Tunnel and Terminal Co., Ltd.</Title>
@@ -4108,14 +4108,14 @@
 <FlicsAlpha>L.R. (1985), ch. 32 (2e suppl.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>North-Fraser, Commissaires du Havre de</Title>
-<ChapterNumber>North-Fraser, Commissaires du Havre de</ChapterNumber>
-<FlicsAlpha>tops-1N</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Northern Alberta Railways</Title>
 <ChapterNumber>Northern Alberta Railways</ChapterNumber>
 <FlicsAlpha>tops-2N</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>North-Fraser, Commissaires du Havre de</Title>
+<ChapterNumber>North-Fraser, Commissaires du Havre de</ChapterNumber>
+<FlicsAlpha>tops-1N</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Northumberland, détroit de voir Ouvrage de franchissement du détroit de Northumberland, Loi sur l’</Title>
@@ -4164,6 +4164,11 @@
 <ChapterNumber>1997, ch. 40</ChapterNumber>
 <FlicsAlpha>1997, ch. 40</FlicsAlpha>
 </Statute>
+<Statute statuteid="1156042f">
+<Title>Office de surveillance des activités en matière de sécurité nationale et de renseignement, Loi sur l’</Title>
+<ChapterNumber>2019, ch. 13, art. 2</ChapterNumber>
+<FlicsAlpha>2019, ch. 13, art. 2</FlicsAlpha>
+</Statute>
 <Statute statuteid="463583f">
 <Title>Office des droits de surface du Yukon, Loi sur l’</Title>
 <ChapterNumber>1994, ch. 43</ChapterNumber>
@@ -4173,11 +4178,6 @@
 <Title>Offices de commercialisation des produits de ferme, voir Offices des produits agricoles, Loi sur les</Title>
 <ChapterNumber>Offices de commercialisation des produits de ferm</ChapterNumber>
 <FlicsAlpha>tops-1O</FlicsAlpha>
-</Statute>
-<Statute statuteid="1156042f">
-<Title>Office de surveillance des activités en matière de sécurité nationale et de renseignement, Loi sur l’</Title>
-<ChapterNumber>2019, ch. 13, art. 2</ChapterNumber>
-<FlicsAlpha>2019, ch. 13, art. 2</FlicsAlpha>
 </Statute>
 <Statute statuteid="231716f">
 <Title>Offices des produits agricoles, Loi sur les</Title>
@@ -4230,6 +4230,11 @@
 <FlicsAlpha>F-26</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Organisation du gouvernement (organismes fédéraux), Loi sur l’, (voir le ministère ou le sujet en cause)</Title>
+<ChapterNumber>1995, ch. 29</ChapterNumber>
+<FlicsAlpha>1995, ch. 29</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Organisation du gouvernement, Loi de 1966 sur l’, (voir le ministère ou le sujet en cause)</Title>
 <ChapterNumber>1966-67, ch. 25</ChapterNumber>
 <FlicsAlpha>1966-67, ch. 25</FlicsAlpha>
@@ -4242,17 +4247,12 @@
 <Statute statuteid="">
 <Title>Organisation du gouvernement, Loi de 1970 sur l’, (voir le ministère en cause)</Title>
 <ChapterNumber>S.R.C. 1970, ch. 14 (2e suppl.)</ChapterNumber>
-<FlicsAlpha>S.R.C. 1970, ch. 14 </FlicsAlpha>
+<FlicsAlpha>S.R.C. 1970, ch. 14 (2e suppl.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Organisation du gouvernement, Loi de 1979 sur l’, (voir le ministère ou le sujet en cause)</Title>
 <ChapterNumber>1978-79, ch. 13</ChapterNumber>
 <FlicsAlpha>1978-79, ch. 13</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Organisation du gouvernement (organismes fédéraux), Loi sur l’, (voir le ministère ou le sujet en cause)</Title>
-<ChapterNumber>1995, ch. 29</ChapterNumber>
-<FlicsAlpha>1995, ch. 29</FlicsAlpha>
 </Statute>
 <Statute statuteid="153363f">
 <Title>Organisations à but non lucratif, Loi canadienne sur les</Title>
@@ -4271,10 +4271,10 @@
 </Statute>
 </Letter>
 <Letter value="P">
-<Statute statuteid="">
-<Title>Paiements, Loi canadienne sur les voir Loi canadienne sur les paiements</Title>
-<ChapterNumber>Paiements, Loi canadienne sur les voir Loi canadi</ChapterNumber>
-<FlicsAlpha>tops-1P</FlicsAlpha>
+<Statute statuteid="1155792f">
+<Title>Paiement rapide des travaux de construction, Loi fédérale sur le</Title>
+<ChapterNumber>2019, ch. 29, art. 387</ChapterNumber>
+<FlicsAlpha>2019, ch. 29, art. 387</FlicsAlpha>
 </Statute>
 <Statute statuteid="402420f">
 <Title>Paiements à une fiducie établie en vue de fournir du financement à des provinces et à des territoires pour le développement des collectivités, Loi concernant des</Title>
@@ -4301,15 +4301,15 @@
 <ChapterNumber>Paiements provisoires relatifs au grain des Prair</ChapterNumber>
 <FlicsAlpha>tops-2P</FlicsAlpha>
 </Statute>
-<Statute statuteid="1155792f">
-<Title>Paiement rapide des travaux de construction, Loi fédérale sur le</Title>
-<ChapterNumber>2019, ch. 29, art. 387</ChapterNumber>
-<FlicsAlpha>2019, ch. 29, art. 387</FlicsAlpha>
-</Statute>
 <Statute statuteid="346338f">
 <Title>Paiements versés en remplacement d’impôts, Loi sur les</Title>
 <ChapterNumber>L.R. (1985), ch. M-13</ChapterNumber>
 <FlicsAlpha>M-13</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Paiements, Loi canadienne sur les voir Loi canadienne sur les paiements</Title>
+<ChapterNumber>Paiements, Loi canadienne sur les voir Loi canadi</ChapterNumber>
+<FlicsAlpha>tops-1P</FlicsAlpha>
 </Statute>
 <Statute statuteid="329984f">
 <Title>Parc de Kingsmere, Loi sur le</Title>
@@ -4321,15 +4321,15 @@
 <ChapterNumber>1932, ch. 55</ChapterNumber>
 <FlicsAlpha>1932, ch. 55</FlicsAlpha>
 </Statute>
-<Statute statuteid="419756f">
-<Title>Parc marin du Saguenay — Saint-Laurent</Title>
-<ChapterNumber>1997, ch. 37</ChapterNumber>
-<FlicsAlpha>1997, ch. 37</FlicsAlpha>
-</Statute>
 <Statute statuteid="">
 <Title>Parc Major’s Hill, Vente d’une partie au Grand-Tronc de chemin de fer du</Title>
 <ChapterNumber>1907-08, ch. 44</ChapterNumber>
 <FlicsAlpha>1907-08, ch. 44</FlicsAlpha>
+</Statute>
+<Statute statuteid="419756f">
+<Title>Parc marin du Saguenay — Saint-Laurent</Title>
+<ChapterNumber>1997, ch. 37</ChapterNumber>
+<FlicsAlpha>1997, ch. 37</FlicsAlpha>
 </Statute>
 <Statute statuteid="418122f">
 <Title>Parc urbain national de la Rouge, Loi sur le</Title>
@@ -4411,20 +4411,15 @@
 <ChapterNumber>L.R. (1985), ch. L-8</ChapterNumber>
 <FlicsAlpha>L-8</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Pension, Loi de 1985 sur les normes de prestation de, voir Normes de prestation de pension, Loi de 1985 sur les</Title>
-<ChapterNumber>Pension, Loi de 1985 sur les normes de prestation</ChapterNumber>
-<FlicsAlpha>tops-3P</FlicsAlpha>
-</Statute>
 <Statute statuteid="168326f">
 <Title>Pension spéciale du service diplomatique, Loi sur la</Title>
 <ChapterNumber>L.R. (1985), ch. D-2</ChapterNumber>
 <FlicsAlpha>D-2</FlicsAlpha>
 </Statute>
-<Statute statuteid="404637f">
-<Title>Pensions, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. P-6</ChapterNumber>
-<FlicsAlpha>P-6</FlicsAlpha>
+<Statute statuteid="">
+<Title>Pension, Loi de 1985 sur les normes de prestation de, voir Normes de prestation de pension, Loi de 1985 sur les</Title>
+<ChapterNumber>Pension, Loi de 1985 sur les normes de prestation</ChapterNumber>
+<FlicsAlpha>tops-3P</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Pensions du service public, Loi sur la mise au point des</Title>
@@ -4440,6 +4435,11 @@
 <Title>Pensions publiques, Loi sur les rapports relatifs aux, voir Rapports relatifs aux pensions publiques...</Title>
 <ChapterNumber>Pensions publiques, Loi sur les rapports relatifs</ChapterNumber>
 <FlicsAlpha>tops-4P</FlicsAlpha>
+</Statute>
+<Statute statuteid="404637f">
+<Title>Pensions, Loi sur les</Title>
+<ChapterNumber>L.R. (1985), ch. P-6</ChapterNumber>
+<FlicsAlpha>P-6</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Petro-Canada Limitée voir Société Petro-Canada Limitée, Loi sur la</Title>
@@ -4531,16 +4531,6 @@
 <ChapterNumber>2012, ch. 31, art. 179</ChapterNumber>
 <FlicsAlpha>2012, ch. 31, art. 179</FlicsAlpha>
 </Statute>
-<Statute statuteid="33053f">
-<Title>Ponts, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. B-8</ChapterNumber>
-<FlicsAlpha>B-8</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Ponts :</Title>
-<ChapterNumber>Ponts </ChapterNumber>
-<FlicsAlpha>tops-8P</FlicsAlpha>
-</Statute>
 <Statute statuteid="264139f">
 <Title>Ponts et tunnels internationaux, Loi sur les</Title>
 <ChapterNumber>2007, ch. 1</ChapterNumber>
@@ -4550,6 +4540,16 @@
 <Title>Ponts nécessaires au parachèvement de l’autoroute 30, Loi sur les</Title>
 <ChapterNumber>2005, ch. 37</ChapterNumber>
 <FlicsAlpha>2005, ch. 37</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Ponts :</Title>
+<ChapterNumber>Ponts </ChapterNumber>
+<FlicsAlpha>tops-8P</FlicsAlpha>
+</Statute>
+<Statute statuteid="33053f">
+<Title>Ponts, Loi sur les</Title>
+<ChapterNumber>L.R. (1985), ch. B-8</ChapterNumber>
+<FlicsAlpha>B-8</FlicsAlpha>
 </Statute>
 <Statute statuteid="227557f">
 <Title>Ports de pêche et de plaisance, Loi sur les</Title>
@@ -4601,20 +4601,15 @@
 <ChapterNumber>2014, ch. 5</ChapterNumber>
 <FlicsAlpha>2014, ch. 5</FlicsAlpha>
 </Statute>
-<Statute statuteid="1248545f">
-<Title>Prestations canadiennes de relance économique, Loi sur les</Title>
-<ChapterNumber>2020, ch. 12, art. 2</ChapterNumber>
-<FlicsAlpha>2020, ch. 12, art. 2</FlicsAlpha>
+<Statute statuteid="1231329f">
+<Title>Prestation canadienne d’urgence pour étudiants, Loi sur la</Title>
+<ChapterNumber>2020, ch. 7</ChapterNumber>
+<FlicsAlpha>2020, ch. 7</FlicsAlpha>
 </Statute>
 <Statute statuteid="1227604f">
 <Title>Prestation canadienne d’urgence, Loi sur la</Title>
 <ChapterNumber>2020, ch. 5, art. 8</ChapterNumber>
 <FlicsAlpha>2020, ch. 5, art. 8</FlicsAlpha>
-</Statute>
-<Statute statuteid="1231329f">
-<Title>Prestation canadienne d’urgence pour étudiants, Loi sur la</Title>
-<ChapterNumber>2020, ch. 7</ChapterNumber>
-<FlicsAlpha>2020, ch. 7</FlicsAlpha>
 </Statute>
 <Statute statuteid="1400416f">
 <Title>Prestation canadienne pour les personnes handicapées, Loi sur la</Title>
@@ -4626,15 +4621,30 @@
 <ChapterNumber>2021, ch. 26, art. 5</ChapterNumber>
 <FlicsAlpha>2021, ch. 26, art. 5</FlicsAlpha>
 </Statute>
-<Statute statuteid="330119f">
-<Title>Prestations d’adaptation pour les travailleurs, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. L-1</ChapterNumber>
-<FlicsAlpha>L-1</FlicsAlpha>
-</Statute>
 <Statute statuteid="1368456f">
 <Title>Prestation dentaire, Loi sur la</Title>
 <ChapterNumber>2022, c. 14, art. 2</ChapterNumber>
 <FlicsAlpha>2022, c. 14, art. 2</FlicsAlpha>
+</Statute>
+<Statute statuteid="1368691f">
+<Title>Prestation pour logement locatif, Loi sur la</Title>
+<ChapterNumber>2022, c. 14, art. 3</ChapterNumber>
+<FlicsAlpha>2022, c. 14, art. 3</FlicsAlpha>
+</Statute>
+<Statute statuteid="451291f">
+<Title>Prestation universelle pour la garde d’enfants, Loi sur la</Title>
+<ChapterNumber>2006, ch. 4, art. 168</ChapterNumber>
+<FlicsAlpha>2006, ch. 4, art. 168</FlicsAlpha>
+</Statute>
+<Statute statuteid="1248545f">
+<Title>Prestations canadiennes de relance économique, Loi sur les</Title>
+<ChapterNumber>2020, ch. 12, art. 2</ChapterNumber>
+<FlicsAlpha>2020, ch. 12, art. 2</FlicsAlpha>
+</Statute>
+<Statute statuteid="330119f">
+<Title>Prestations d’adaptation pour les travailleurs, Loi sur les</Title>
+<ChapterNumber>L.R. (1985), ch. L-1</ChapterNumber>
+<FlicsAlpha>L-1</FlicsAlpha>
 </Statute>
 <Statute statuteid="83863f">
 <Title>Prestations de guerre pour les civils, Loi sur les</Title>
@@ -4656,20 +4666,10 @@
 <ChapterNumber>S.R.C. 1952, ch. 258</ChapterNumber>
 <FlicsAlpha>S.R.C. 1952, ch. 258</FlicsAlpha>
 </Statute>
-<Statute statuteid="1368691f">
-<Title>Prestation pour logement locatif, Loi sur la</Title>
-<ChapterNumber>2022, c. 14, art. 3</ChapterNumber>
-<FlicsAlpha>2022, c. 14, art. 3</FlicsAlpha>
-</Statute>
-<Statute statuteid="451291f">
-<Title>Prestation universelle pour la garde d’enfants, Loi sur la</Title>
-<ChapterNumber>2006, ch. 4, art. 168</ChapterNumber>
-<FlicsAlpha>2006, ch. 4, art. 168</FlicsAlpha>
-</Statute>
 <Statute statuteid="227092f">
 <Title>Prêts agricoles, Loi canadienne sur les</Title>
 <ChapterNumber>L.R. (1985), ch. 25 (3e suppl.)</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 25 (3e suppl.)</FlicsAlpha>
+<FlicsAlpha>F-2.7</FlicsAlpha>
 </Statute>
 <Statute statuteid="4894f">
 <Title>Prêts aux apprentis, Loi sur les</Title>
@@ -4689,7 +4689,7 @@
 <Statute statuteid="">
 <Title>Prêts destinés aux améliorations agricoles et à la commercialisation selon la formule coopérative, Loi sur les</Title>
 <ChapterNumber>Prêts destinés aux améliorations agricoles et à l</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 25 </FlicsAlpha>
+<FlicsAlpha>L.R. (1985), ch. 25 (3e suppl.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="133980f">
 <Title>Preuve au Canada, Loi sur la</Title>
@@ -4827,14 +4827,14 @@
 <FlicsAlpha>tops-17P</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Protection des eaux navigables, Loi sur la</Title>
-<ChapterNumber>Protection des eaux navigables, Loi sur la</ChapterNumber>
-<FlicsAlpha>N-22</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Protection des collectivités et des personnes victimes d’exploitation, Loi sur la voir Code criminal et d’autres lois — 2014, ch. 25</Title>
 <ChapterNumber>2014, ch. 25</ChapterNumber>
 <FlicsAlpha>2014, ch. 25</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Protection des eaux navigables, Loi sur la</Title>
+<ChapterNumber>Protection des eaux navigables, Loi sur la</ChapterNumber>
+<FlicsAlpha>N-22</FlicsAlpha>
 </Statute>
 <Statute statuteid="393354f">
 <Title>Protection des fonctionnaires divulgateurs d’actes répréhensibles, Loi sur la</Title>
@@ -4871,15 +4871,15 @@
 <ChapterNumber>2008, ch. 16</ChapterNumber>
 <FlicsAlpha>2008, ch. 16</FlicsAlpha>
 </Statute>
-<Statute statuteid="387670f">
-<Title>Protection des renseignements personnels, Loi sur la</Title>
-<ChapterNumber>L.R. (1985), ch. P-21</ChapterNumber>
-<FlicsAlpha>P-21</FlicsAlpha>
-</Statute>
 <Statute statuteid="407050f">
 <Title>Protection des renseignements personnels et les documents électroniques, Loi sur la</Title>
 <ChapterNumber>2000, ch. 5</ChapterNumber>
 <FlicsAlpha>2000, ch. 5</FlicsAlpha>
+</Statute>
+<Statute statuteid="387670f">
+<Title>Protection des renseignements personnels, Loi sur la</Title>
+<ChapterNumber>L.R. (1985), ch. P-21</ChapterNumber>
+<FlicsAlpha>P-21</FlicsAlpha>
 </Statute>
 <Statute statuteid="390891f">
 <Title>Protection des services aériens, Loi sur la</Title>
@@ -4913,6 +4913,11 @@
 <ChapterNumber>Quarantaine, Loi sur la mise en voir Mise en quar</ChapterNumber>
 <FlicsAlpha>tops-1Q</FlicsAlpha>
 </Statute>
+<Statute statuteid="">
+<Title>Québec et Saguenay, chemin de fer</Title>
+<ChapterNumber>1916, ch. 22</ChapterNumber>
+<FlicsAlpha>1916, ch. 22 B</FlicsAlpha>
+</Statute>
 <Statute statuteid="409920f">
 <Title>Québec, Acte pour pourvoir à la nomination d’un gardien de port pour le Havre de</Title>
 <ChapterNumber>1871, ch. 33</ChapterNumber>
@@ -4922,11 +4927,6 @@
 <Title>Québec, Avances aux commissaires du havre de</Title>
 <ChapterNumber>1919, ch. 53</ChapterNumber>
 <FlicsAlpha>1919, ch. 53</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Québec et Saguenay, chemin de fer</Title>
-<ChapterNumber>1916, ch. 22</ChapterNumber>
-<FlicsAlpha>1916, ch. 22 B</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Québec, Montmorency et Charlevoix, chemin de fer</Title>
@@ -4960,25 +4960,25 @@
 <ChapterNumber>2007, ch. 31</ChapterNumber>
 <FlicsAlpha>2007, ch. 31</FlicsAlpha>
 </Statute>
-<Statute statuteid="1483861f">
-<Title>Reconnaissance de la Nation haïda, Loi sur la</Title>
-<ChapterNumber>2024, ch. 29</ChapterNumber>
-<FlicsAlpha>2024, ch. 29</FlicsAlpha>
-</Statute>
 <Statute statuteid="270845f">
 <Title>Reconnaissance de l’internement de personnes d’origine ukrainienne, Loi portant</Title>
 <ChapterNumber>2005, ch. 52</ChapterNumber>
 <FlicsAlpha>2005, ch. 52</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Recyclage des produits de la criminalité, Loi sur le</Title>
-<ChapterNumber>Recyclage des produits de la criminalité, Loi sur</ChapterNumber>
-<FlicsAlpha>tops-1R</FlicsAlpha>
+<Statute statuteid="1483861f">
+<Title>Reconnaissance de la Nation haïda, Loi sur la</Title>
+<ChapterNumber>2024, ch. 29</ChapterNumber>
+<FlicsAlpha>2024, ch. 29</FlicsAlpha>
 </Statute>
 <Statute statuteid="388644f">
 <Title>Recyclage des produits de la criminalité et le financement des activités terroristes, Loi sur le</Title>
 <ChapterNumber>2000, ch. 17</ChapterNumber>
 <FlicsAlpha>2000, ch. 17</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Recyclage des produits de la criminalité, Loi sur le</Title>
+<ChapterNumber>Recyclage des produits de la criminalité, Loi sur</ChapterNumber>
+<FlicsAlpha>tops-1R</FlicsAlpha>
 </Statute>
 <Statute statuteid="415838f">
 <Title>Réduction de la paperasse, Loi sur la</Title>
@@ -5098,7 +5098,7 @@
 <Statute statuteid="">
 <Title>Relations de travail au Parlement, Loi sur les</Title>
 <ChapterNumber>L.R. (1985), ch. 33 (2e suppl.)</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 33 </FlicsAlpha>
+<FlicsAlpha>L.R. (1985), ch. 33 (2e suppl.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Relations de travail dans la fonction publique, Loi sur les voir Relations de travail dans le secteur public fédéral, Loi sur les</Title>
@@ -5140,15 +5140,15 @@
 <ChapterNumber>L.R. (1985), ch. W-5</ChapterNumber>
 <FlicsAlpha>W-5</FlicsAlpha>
 </Statute>
-<Statute statuteid="241848f">
-<Title>Rentes sur l’État, Loi sur l’augmentation des</Title>
-<ChapterNumber>1974-75-76, ch. 83</ChapterNumber>
-<FlicsAlpha>1974-75-76, ch. 83</FlicsAlpha>
-</Statute>
 <Statute statuteid="241734f">
 <Title>Rentes sur l’État, Loi relative aux</Title>
 <ChapterNumber>S.R. 1970, ch. G-6</ChapterNumber>
 <FlicsAlpha>S.R. 1970, ch. G-6</FlicsAlpha>
+</Statute>
+<Statute statuteid="241848f">
+<Title>Rentes sur l’État, Loi sur l’augmentation des</Title>
+<ChapterNumber>1974-75-76, ch. 83</ChapterNumber>
+<FlicsAlpha>1974-75-76, ch. 83</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Renvoi de criminels étrangers, Loi accélérant le voir Loi sur l’immigration et la protection des réfugiés</Title>
@@ -5181,6 +5181,16 @@
 <FlicsAlpha>1991, ch. 52</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Réorganisation judiciaire de l’Ontario (1989), Loi sur la</Title>
+<ChapterNumber>1990, ch. 17</ChapterNumber>
+<FlicsAlpha>1990, ch. 17</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Réorganisation judiciaire de l’Ontario, Loi sur la</Title>
+<ChapterNumber>L.R. (1985), ch. 11 (1er suppl.)</ChapterNumber>
+<FlicsAlpha>L.R. (1985), ch. 11 (1er suppl.)</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Réorganisation judiciaire de la Colombie-Britannique, Loi sur la</Title>
 <ChapterNumber>1990, ch. 16</ChapterNumber>
 <FlicsAlpha>1990, ch. 16</FlicsAlpha>
@@ -5191,19 +5201,9 @@
 <FlicsAlpha>1992, ch. 51</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Réorganisation judiciaire de l’Ontario, Loi sur la</Title>
-<ChapterNumber>L.R. (1985), ch. 11 (1er suppl.)</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 11 </FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Réorganisation judiciaire de l’Ontario (1989), Loi sur la</Title>
-<ChapterNumber>1990, ch. 17</ChapterNumber>
-<FlicsAlpha>1990, ch. 17</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Réorganisation judiciaire du Québec, Loi sur la</Title>
 <ChapterNumber>L.R. (1985), ch. 40 (4e suppl.)</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 40 </FlicsAlpha>
+<FlicsAlpha>L.R. (1985), ch. 40 (4e suppl.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="386349f">
 <Title>Réparation consécutive à une interruption des services postaux, Loi de</Title>
@@ -5225,25 +5225,25 @@
 <ChapterNumber>1974-75-76, ch. 13</ChapterNumber>
 <FlicsAlpha>1974-75-76, ch. 13</FlicsAlpha>
 </Statute>
-<Statute statuteid="417304f">
-<Title>Représentation électorale, Loi de 1985 sur la</Title>
-<ChapterNumber>1986, ch. 8</ChapterNumber>
-<FlicsAlpha>1986, ch. 8</FlicsAlpha>
+<Statute statuteid="">
+<Title>Représentation des territoires du Nord-Ouest, Loi sur la</Title>
+<ChapterNumber>1974-75-76, ch. 28</ChapterNumber>
+<FlicsAlpha>1974-75-76, ch. 28</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Représentation électorale de 2003, Loi sur la date de prise d’effet du décret de (voir Décret de représentation électorale de 2003, Loi sur la date de prise d’effet du)</Title>
 <ChapterNumber>Représentation électorale de 2003, Loi sur la dat</ChapterNumber>
 <FlicsAlpha>tops-9R</FlicsAlpha>
 </Statute>
+<Statute statuteid="417304f">
+<Title>Représentation électorale, Loi de 1985 sur la</Title>
+<ChapterNumber>1986, ch. 8</ChapterNumber>
+<FlicsAlpha>1986, ch. 8</FlicsAlpha>
+</Statute>
 <Statute statuteid="">
 <Title>Représentation équitable, Loi sur la (voir Loi constitutionnelle de 1867 et Loi sur la révision des limites des circonscriptions électorales)</Title>
 <ChapterNumber>2011, ch. 26</ChapterNumber>
 <FlicsAlpha>2011, ch. 26</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Représentation des territoires du Nord-Ouest, Loi sur la</Title>
-<ChapterNumber>1974-75-76, ch. 28</ChapterNumber>
-<FlicsAlpha>1974-75-76, ch. 28</FlicsAlpha>
 </Statute>
 <Statute statuteid="417463f">
 <Title>Reprise des services ferroviaires, Loi sur la</Title>
@@ -5290,15 +5290,15 @@
 <ChapterNumber>2009, ch. 17</ChapterNumber>
 <FlicsAlpha>2009, ch. 17</FlicsAlpha>
 </Statute>
-<Statute statuteid="355757f">
-<Title>Réserves indiennes du Nouveau-Brunswick</Title>
-<ChapterNumber>1959, ch. 47</ChapterNumber>
-<FlicsAlpha>1959, ch. 47</FlicsAlpha>
-</Statute>
 <Statute statuteid="324834f">
 <Title>Réserves indiennes de la Nouvelle-Écosse</Title>
 <ChapterNumber>1959, ch. 50</ChapterNumber>
 <FlicsAlpha>1959, ch. 50</FlicsAlpha>
+</Statute>
+<Statute statuteid="355757f">
+<Title>Réserves indiennes du Nouveau-Brunswick</Title>
+<ChapterNumber>1959, ch. 47</ChapterNumber>
+<FlicsAlpha>1959, ch. 47</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Résidence du premier ministre (Nouveau titre voir Résidences officielles)</Title>
@@ -5309,11 +5309,6 @@
 <Title>Résidences officielles, Loi sur les</Title>
 <ChapterNumber>L.R. (1985), ch. O-4</ChapterNumber>
 <FlicsAlpha>O-4</FlicsAlpha>
-</Statute>
-<Statute statuteid="232166f">
-<Title>Responsabilité, Loi fédérale sur la</Title>
-<ChapterNumber>2006, ch. 9</ChapterNumber>
-<FlicsAlpha>F-5.5</FlicsAlpha>
 </Statute>
 <Statute statuteid="134867f">
 <Title>Responsabilité civile de l’État et le contentieux administratif, Loi sur la</Title>
@@ -5354,6 +5349,11 @@
 <Title>Responsabilité et l’indemnisation en matière nucléaire, Loi sur la</Title>
 <ChapterNumber>2015, ch. 4, art. 120</ChapterNumber>
 <FlicsAlpha>2015, ch. 4, art. 120</FlicsAlpha>
+</Statute>
+<Statute statuteid="232166f">
+<Title>Responsabilité, Loi fédérale sur la</Title>
+<ChapterNumber>2006, ch. 9</ChapterNumber>
+<FlicsAlpha>F-5.5</FlicsAlpha>
 </Statute>
 <Statute statuteid="59771f">
 <Title>Ressources en eau du Canada, Loi sur les</Title>
@@ -5435,25 +5435,25 @@
 <ChapterNumber>L.R. (1985), ch. S-20</ChapterNumber>
 <FlicsAlpha>S-20</FlicsAlpha>
 </Statute>
-<Statute statuteid="340096f">
-<Title>Risques de guerre en matière d’assurance maritime, Loi sur les</Title>
-<ChapterNumber>S.R.C. 1970, ch. W-3</ChapterNumber>
-<FlicsAlpha>S.R.C. 1970, ch. W-3</FlicsAlpha>
-</Statute>
 <Statute statuteid="">
 <Title>Risques de guerre en matière d’assurance maritime et aérienne, Loi sur les</Title>
 <ChapterNumber>Risques de guerre en matière d’assurance maritime</ChapterNumber>
 <FlicsAlpha>tops-15R</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Rivière Pigeon (voir Ponts)</Title>
-<ChapterNumber>Rivière Pigeon (voir Ponts)</ChapterNumber>
-<FlicsAlpha>tops-16R</FlicsAlpha>
+<Statute statuteid="340096f">
+<Title>Risques de guerre en matière d’assurance maritime, Loi sur les</Title>
+<ChapterNumber>S.R.C. 1970, ch. W-3</ChapterNumber>
+<FlicsAlpha>S.R.C. 1970, ch. W-3</FlicsAlpha>
 </Statute>
 <Statute statuteid="1132566f">
 <Title>Rivière Ottawa, Acte concernant certains travaux sur la</Title>
 <ChapterNumber>1870, ch. 24</ChapterNumber>
 <FlicsAlpha>1870, ch. 24</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Rivière Pigeon (voir Ponts)</Title>
+<ChapterNumber>Rivière Pigeon (voir Ponts)</ChapterNumber>
+<FlicsAlpha>tops-16R</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Rocheuses orientales, Loi sur la conservation des forêts des</Title>
@@ -5468,14 +5468,14 @@
 </Letter>
 <Letter value="S">
 <Statute statuteid="">
-<Title>Saint-Jean, Quais et bâtiments dans le port de</Title>
-<ChapterNumber>1910, ch. 53</ChapterNumber>
-<FlicsAlpha>1910, ch. 53</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Saint-Jean et Québec, Chemin de fer</Title>
 <ChapterNumber>Saint-Jean et Québec, Chemin de fer</ChapterNumber>
 <FlicsAlpha>tops-1S</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Saint-Jean, Quais et bâtiments dans le port de</Title>
+<ChapterNumber>1910, ch. 53</ChapterNumber>
+<FlicsAlpha>1910, ch. 53</FlicsAlpha>
 </Statute>
 <Statute statuteid="241310f">
 <Title>Saisie-arrêt et la distraction de pensions, Loi sur la</Title>
@@ -5487,20 +5487,15 @@
 <ChapterNumber>2012, ch. 24</ChapterNumber>
 <FlicsAlpha>2012, ch. 24</FlicsAlpha>
 </Statute>
-<Statute statuteid="9538f">
-<Title>Sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire, Loi sur les</Title>
-<ChapterNumber>1995, ch. 40</ChapterNumber>
-<FlicsAlpha>1995, ch. 40</FlicsAlpha>
-</Statute>
 <Statute statuteid="418616f">
 <Title>Sanction royale, Loi sur la</Title>
 <ChapterNumber>2002, ch. 15</ChapterNumber>
 <FlicsAlpha>2002, ch. 15</FlicsAlpha>
 </Statute>
-<Statute statuteid="147805f">
-<Title>Santé, Loi canadienne sur la</Title>
-<ChapterNumber>L.R. (1985), ch. C-6</ChapterNumber>
-<FlicsAlpha>C-6</FlicsAlpha>
+<Statute statuteid="9538f">
+<Title>Sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire, Loi sur les</Title>
+<ChapterNumber>1995, ch. 40</ChapterNumber>
+<FlicsAlpha>1995, ch. 40</FlicsAlpha>
 </Statute>
 <Statute statuteid="246979f">
 <Title>Santé des animaux, Loi sur la</Title>
@@ -5510,7 +5505,12 @@
 <Statute statuteid="">
 <Title>Santé des non-fumeurs, Loi sur la</Title>
 <ChapterNumber>L.R. (1985), ch. 15 (4e suppl.)</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 15 </FlicsAlpha>
+<FlicsAlpha>L.R. (1985), ch. 15 (4e suppl.)</FlicsAlpha>
+</Statute>
+<Statute statuteid="147805f">
+<Title>Santé, Loi canadienne sur la</Title>
+<ChapterNumber>L.R. (1985), ch. C-6</ChapterNumber>
+<FlicsAlpha>C-6</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Saskatchewan, Loi de la (1905, ch. 42) (voir aussi S.R. 1970, Appendice II, No 20)</Title>
@@ -5577,15 +5577,15 @@
 <ChapterNumber>2011, ch. 1</ChapterNumber>
 <FlicsAlpha>2011, ch. 1</FlicsAlpha>
 </Statute>
-<Statute statuteid="1144979f">
-<Title>Sécurité nationale, Loi de 2017 sur les</Title>
-<ChapterNumber>2019, ch. 13</ChapterNumber>
-<FlicsAlpha>2019, ch. 13</FlicsAlpha>
-</Statute>
 <Statute statuteid="414544f">
 <Title>Sécurité ferroviaire, Loi sur la</Title>
 <ChapterNumber>L.R. (1985), ch. 32 (4e suppl.)</ChapterNumber>
 <FlicsAlpha>L.R. (1985), ch. 32 (4e suppl.)</FlicsAlpha>
+</Statute>
+<Statute statuteid="1144979f">
+<Title>Sécurité nationale, Loi de 2017 sur les</Title>
+<ChapterNumber>2019, ch. 13</ChapterNumber>
+<FlicsAlpha>2019, ch. 13</FlicsAlpha>
 </Statute>
 <Statute statuteid="391814f">
 <Title>Sécurité publique, Loi de 2002 sur la</Title>
@@ -5647,11 +5647,6 @@
 <ChapterNumber>2002, ch. 8</ChapterNumber>
 <FlicsAlpha>2002, ch. 8</FlicsAlpha>
 </Statute>
-<Statute statuteid="1466052f">
-<Title>Services bancaires axés sur les consommateurs, Loi sur les</Title>
-<ChapterNumber>2024, ch. 17, art. 198 </ChapterNumber>
-<FlicsAlpha>2024, ch. 17, art. 198 </FlicsAlpha>
-</Statute>
 <Statute statuteid="76f">
 <Title>Service canadien d’appui aux tribunaux administratifs, Loi sur le</Title>
 <ChapterNumber>2014, ch. 20, art. 376</ChapterNumber>
@@ -5671,6 +5666,11 @@
 <Title>Service public, Loi sur la mise au point des pensions de certains membres du</Title>
 <ChapterNumber>Service public, Loi sur la mise au point des pens</ChapterNumber>
 <FlicsAlpha>tops-9S</FlicsAlpha>
+</Statute>
+<Statute statuteid="1466052f">
+<Title>Services bancaires axés sur les consommateurs, Loi sur les</Title>
+<ChapterNumber>2024, ch. 17, art. 198 </ChapterNumber>
+<FlicsAlpha>2024, ch. 17, art. 198 </FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Services ferroviaires, Loi de 2007 sur le maintien des voir Maintien des services ferroviaires, Loi de 2007</Title>
@@ -5702,6 +5702,11 @@
 <ChapterNumber>1984, ch. 11</ChapterNumber>
 <FlicsAlpha>1984, ch. 11</FlicsAlpha>
 </Statute>
+<Statute statuteid="160998f">
+<Title>Société canadienne d’hypothèques et de logement, Loi sur la</Title>
+<ChapterNumber>L.R. (1985), ch. C-7</ChapterNumber>
+<FlicsAlpha>C-7</FlicsAlpha>
+</Statute>
 <Statute statuteid="72936f">
 <Title>Société canadienne de la Croix-Rouge, Loi sur la</Title>
 <ChapterNumber>1909, ch. 68</ChapterNumber>
@@ -5711,11 +5716,6 @@
 <Title>Société canadienne des postes, Loi sur la</Title>
 <ChapterNumber>L.R. (1985), ch. C-10</ChapterNumber>
 <FlicsAlpha>C-10</FlicsAlpha>
-</Statute>
-<Statute statuteid="160998f">
-<Title>Société canadienne d’hypothèques et de logement, Loi sur la</Title>
-<ChapterNumber>L.R. (1985), ch. C-7</ChapterNumber>
-<FlicsAlpha>C-7</FlicsAlpha>
 </Statute>
 <Statute statuteid="81267f">
 <Title>Société d’assurance-dépôts du Canada, Loi sur la</Title>
@@ -5727,15 +5727,15 @@
 <ChapterNumber>Société de développement de l’industrie cinématog</ChapterNumber>
 <FlicsAlpha>tops-11S</FlicsAlpha>
 </Statute>
-<Statute statuteid="76883f">
-<Title>Société de développement du Cap-Breton, Loi sur la</Title>
-<ChapterNumber>L.R. (1985), ch. C-25</ChapterNumber>
-<FlicsAlpha>C-25</FlicsAlpha>
-</Statute>
 <Statute statuteid="76845f">
 <Title>Société de développement du Cap-Breton à aliéner ses biens et prévoyant la dissolution de celle-ci, Loi autorisant la</Title>
 <ChapterNumber>2000, ch. 23</ChapterNumber>
 <FlicsAlpha>2000, ch. 23</FlicsAlpha>
+</Statute>
+<Statute statuteid="76883f">
+<Title>Société de développement du Cap-Breton, Loi sur la</Title>
+<ChapterNumber>L.R. (1985), ch. C-25</ChapterNumber>
+<FlicsAlpha>C-25</FlicsAlpha>
 </Statute>
 <Statute statuteid="357233f">
 <Title>Société des transports du nord Limitée, Loi autorisant l’aliénation de la</Title>
@@ -5812,6 +5812,11 @@
 <ChapterNumber>1994, ch. 16</ChapterNumber>
 <FlicsAlpha>1994, ch. 16</FlicsAlpha>
 </Statute>
+<Statute statuteid="430779f">
+<Title>St. Peter, Réserve de</Title>
+<ChapterNumber>1916, ch. 24</ChapterNumber>
+<FlicsAlpha>1916, ch. 24</FlicsAlpha>
+</Statute>
 <Statute statuteid="68248f">
 <Title>Station canadienne de recherche dans l’Extrême-Arctique, Loi sur la</Title>
 <ChapterNumber>2014, ch. 39, art. 145</ChapterNumber>
@@ -5857,15 +5862,15 @@
 <ChapterNumber>1964-65, ch. 48</ChapterNumber>
 <FlicsAlpha>1964-65, ch. 48</FlicsAlpha>
 </Statute>
-<Statute statuteid="430779f">
-<Title>St. Peter, Réserve de</Title>
-<ChapterNumber>1916, ch. 24</ChapterNumber>
-<FlicsAlpha>1916, ch. 24</FlicsAlpha>
-</Statute>
 <Statute statuteid="1449043f">
 <Title>Stratégie nationale relative au racisme environnemental et à la justice environnementale, Loi sur la</Title>
 <ChapterNumber>2024, ch. 11 </ChapterNumber>
 <FlicsAlpha>2024, ch. 11 </FlicsAlpha>
+</Statute>
+<Statute statuteid="355238f">
+<Title>Stratégie nationale sur l’élimination sûre et écologique des lampes contenant du mercure, Loi relative à la</Title>
+<ChapterNumber>2017, ch. 16</ChapterNumber>
+<FlicsAlpha>2017, ch. 16</FlicsAlpha>
 </Statute>
 <Statute statuteid="355176f">
 <Title>Stratégie nationale sur la maladie d’Alzheimer et d’autres démences, Loi relative à une</Title>
@@ -5876,11 +5881,6 @@
 <Title>Stratégie nationale sur le logement, Loi sur la</Title>
 <ChapterNumber>2019, ch. 29, art. 313</ChapterNumber>
 <FlicsAlpha>2019, ch. 29, art. 313</FlicsAlpha>
-</Statute>
-<Statute statuteid="355238f">
-<Title>Stratégie nationale sur l’élimination sûre et écologique des lampes contenant du mercure, Loi relative à la</Title>
-<ChapterNumber>2017, ch. 16</ChapterNumber>
-<FlicsAlpha>2017, ch. 16</FlicsAlpha>
 </Statute>
 <Statute statuteid="1483507f">
 <Title>Stratégie nationale sur les soins oculaires, Loi sur la</Title>
@@ -6019,14 +6019,14 @@
 </Statute>
 </Letter>
 <Letter value="T">
-<Statute statuteid="">
-<Title>Tabac, Loi sur le</Title>
-<ChapterNumber>Tabac, Loi sur le</ChapterNumber>
-<FlicsAlpha>1997, ch. 13 </FlicsAlpha>
-</Statute>
 <Statute statuteid="438582f">
 <Title>Tabac et les produits de vapotage, Loi sur le</Title>
 <ChapterNumber>1997, ch. 13</ChapterNumber>
+<FlicsAlpha>T-11.5</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Tabac, Loi sur le</Title>
+<ChapterNumber>Tabac, Loi sur le</ChapterNumber>
 <FlicsAlpha>1997, ch. 13</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
@@ -6036,23 +6036,23 @@
 </Statute>
 <Statute statuteid="139166f">
 <Title>Tarif des douanes</Title>
-<ChapterNumber>L.R. (1985), ch. 41 (3e suppl.)</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 41 (3e suppl.)</FlicsAlpha>
-</Statute>
-<Statute statuteid="139166f">
-<Title>Tarif des douanes</Title>
 <ChapterNumber>1997, ch. 36</ChapterNumber>
 <FlicsAlpha>1997, ch. 36</FlicsAlpha>
 </Statute>
-<Statute statuteid="237977f">
-<Title>Tarification de la pollution causée par les gaz à effet de serre, Loi sur la</Title>
-<ChapterNumber>2018, ch. 12, art. 186</ChapterNumber>
-<FlicsAlpha>2018, ch. 12, art. 186</FlicsAlpha>
+<Statute statuteid="139166f">
+<Title>Tarif des douanes</Title>
+<ChapterNumber>L.R. (1985), ch. 41 (3e suppl.)</ChapterNumber>
+<FlicsAlpha>L.R. (1985), ch. 41 (3e suppl.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="386042f">
 <Title>Tarif postal, Loi concernant certaines dispositions du</Title>
 <ChapterNumber>1979, ch. 1</ChapterNumber>
 <FlicsAlpha>1979, ch. 1</FlicsAlpha>
+</Statute>
+<Statute statuteid="237977f">
+<Title>Tarification de la pollution causée par les gaz à effet de serre, Loi sur la</Title>
+<ChapterNumber>2018, ch. 12, art. 186</ChapterNumber>
+<FlicsAlpha>2018, ch. 12, art. 186</FlicsAlpha>
 </Statute>
 <Statute statuteid="180900f">
 <Title>Taxe d’accise, Loi sur la</Title>
@@ -6064,25 +6064,15 @@
 <ChapterNumber>1973-74, ch. 53</ChapterNumber>
 <FlicsAlpha>1973-74, ch. 53</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Taxes de vente et d’accise, Loi de 1999 modifiant les</Title>
-<ChapterNumber>2000, ch. 30</ChapterNumber>
-<FlicsAlpha>2000, ch. 30</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Taxes de vente et d’accise, Loi de 2001 modifiant les</Title>
-<ChapterNumber>2001, ch. 15</ChapterNumber>
-<FlicsAlpha>2001, ch. 15</FlicsAlpha>
+<Statute statuteid="1352087f">
+<Title>Taxe sur certains biens de luxe, Loi sur la</Title>
+<ChapterNumber>2022, ch. 10, art. 135</ChapterNumber>
+<FlicsAlpha>2022, ch. 10, art. 135</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Taxe sur le tabac, Loi de 2001 modifiant la</Title>
 <ChapterNumber>2001, ch. 16</ChapterNumber>
 <FlicsAlpha>2001, ch. 16</FlicsAlpha>
-</Statute>
-<Statute statuteid="1352087f">
-<Title>Taxe sur certains biens de luxe, Loi sur la</Title>
-<ChapterNumber>2022, ch. 10, art. 135</ChapterNumber>
-<FlicsAlpha>2022, ch. 10, art. 135</FlicsAlpha>
 </Statute>
 <Statute statuteid="1339867f">
 <Title>Taxe sur les logements sous-utilisés, Loi sur</Title>
@@ -6098,6 +6088,16 @@
 <Title>Taxe sur les services numériques, Loi sur la</Title>
 <ChapterNumber>2024, ch. 15, art. 96</ChapterNumber>
 <FlicsAlpha>2024, ch. 15, art. 96</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Taxes de vente et d’accise, Loi de 1999 modifiant les</Title>
+<ChapterNumber>2000, ch. 30</ChapterNumber>
+<FlicsAlpha>2000, ch. 30</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Taxes de vente et d’accise, Loi de 2001 modifiant les</Title>
+<ChapterNumber>2001, ch. 15</ChapterNumber>
+<FlicsAlpha>2001, ch. 15</FlicsAlpha>
 </Statute>
 <Statute statuteid="448912f">
 <Title>Télécommunications, Loi sur les</Title>
@@ -6140,11 +6140,6 @@
 <FlicsAlpha>tops-2T</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Terre-Neuve, voir Aide financière...</Title>
-<ChapterNumber>Terre-Neuve, voir Aide financière...</ChapterNumber>
-<FlicsAlpha>tops-3T</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Terre-Neuve, Conditions de l’union de Terre-Neuve au Canada</Title>
 <ChapterNumber>Terre-Neuve, Conditions de l’union de Terre-Neuve</ChapterNumber>
 <FlicsAlpha>1949, ch. 1</FlicsAlpha>
@@ -6158,6 +6153,11 @@
 <Title>Terre-Neuve, Parc national de (établissement)</Title>
 <ChapterNumber>1955, ch. 37, art. 3 </ChapterNumber>
 <FlicsAlpha>1955, ch. 37, art. 3 </FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Terre-Neuve, voir Aide financière...</Title>
+<ChapterNumber>Terre-Neuve, voir Aide financière...</ChapterNumber>
+<FlicsAlpha>tops-3T</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Terres des Indiens (règlement des différends)</Title>
@@ -6194,6 +6194,11 @@
 <ChapterNumber>2010, ch. 6 voir la Loi sur le développement commercial et industriel des premières nations</ChapterNumber>
 <FlicsAlpha>2010, ch. 6</FlicsAlpha>
 </Statute>
+<Statute statuteid="">
+<Title>Titres royaux (Canada) Loi de 1947 sur les</Title>
+<ChapterNumber>1947, ch. 72 voir aussi Titres royaux</ChapterNumber>
+<FlicsAlpha>1947, ch. 72</FlicsAlpha>
+</Statute>
 <Statute statuteid="1402496f">
 <Title>Titres royaux de 2023, Loi sur les</Title>
 <ChapterNumber>2023, ch, 26, art. 510</ChapterNumber>
@@ -6205,11 +6210,6 @@
 <FlicsAlpha>R-12</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Titres royaux (Canada) Loi de 1947 sur les</Title>
-<ChapterNumber>1947, ch. 72 voir aussi Titres royaux</ChapterNumber>
-<FlicsAlpha>1947, ch. 72</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Tlicho, Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple voir Revendications territoriales et l’autonomie gouvernementale du peuple tlicho, Loi sur les</Title>
 <ChapterNumber>Tlicho, Loi sur les revendications territoriales </ChapterNumber>
 <FlicsAlpha>tops-6T</FlicsAlpha>
@@ -6217,12 +6217,22 @@
 <Statute statuteid="">
 <Title>Tolérance zéro face aux pratiques culturelles barbares, Loi sur la</Title>
 <ChapterNumber>Tolérance zéro face aux pratiques culturelles bar</ChapterNumber>
-<FlicsAlpha>2015, ch. 29</FlicsAlpha>
+<FlicsAlpha>tops-16T</FlicsAlpha>
 </Statute>
 <Statute statuteid="263619f">
 <Title>Topographies de circuits intégrés, Loi sur les</Title>
 <ChapterNumber>1990, ch. 37</ChapterNumber>
 <FlicsAlpha>1990, ch. 37</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Toronto Terminals Railway Company, La</Title>
+<ChapterNumber>S.R.C. 1906, ch. 170</ChapterNumber>
+<FlicsAlpha>S.R.C. 1906, ch. 170</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Toronto, La convention entre les commissaires du havre de, la Toronto Terminals Ry. Co., les Chemins de fer nationaux et le Pacifique-Canadien</Title>
+<ChapterNumber>1955, ch. 42</ChapterNumber>
+<FlicsAlpha>1955, ch. 42</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Toronto, Loi de 1925 sur les commissaires du havre de</Title>
@@ -6250,16 +6260,6 @@
 <FlicsAlpha>1951 (2e sess.), ch. 26</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Toronto, La convention entre les commissaires du havre de, la Toronto Terminals Ry. Co., les Chemins de fer nationaux et le Pacifique-Canadien</Title>
-<ChapterNumber>1955, ch. 42</ChapterNumber>
-<FlicsAlpha>1955, ch. 42</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Toronto Terminals Railway Company, La</Title>
-<ChapterNumber>S.R.C. 1906, ch. 170</ChapterNumber>
-<FlicsAlpha>S.R.C. 1906, ch. 170</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Toronto, Vente de réserves militaires</Title>
 <ChapterNumber>Toronto, Vente de réserves militaires</ChapterNumber>
 <FlicsAlpha>tops-7T</FlicsAlpha>
@@ -6268,16 +6268,6 @@
 <Title>Toronto, Viaduc de</Title>
 <ChapterNumber>Toronto, Viaduc de</ChapterNumber>
 <FlicsAlpha>tops-8T</FlicsAlpha>
-</Statute>
-<Statute statuteid="433460f">
-<Title>Traitements, Loi sur les</Title>
-<ChapterNumber>L.R. (1985), ch. S-3</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. S-3</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Traitements minimums fixés par statut, Loi sur les</Title>
-<ChapterNumber>S.R.C. 1970, ch. S-3</ChapterNumber>
-<FlicsAlpha>S-3</FlicsAlpha>
 </Statute>
 <Statute statuteid="1400935f">
 <Title>Traité concernant l’autonomie gouvernementale et la reconnaissance de la Nation Dakota de Whitecap / Wapaha Ska Dakota Oyate, Loi sur le</Title>
@@ -6295,14 +6285,24 @@
 <FlicsAlpha>1998, ch. 32</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Traités de commerce, 1928</Title>
-<ChapterNumber>Traités de commerce, 1928</ChapterNumber>
-<FlicsAlpha>tops-10T</FlicsAlpha>
+<Title>Traitements minimums fixés par statut, Loi sur les</Title>
+<ChapterNumber>S.R.C. 1970, ch. S-3</ChapterNumber>
+<FlicsAlpha>S-3</FlicsAlpha>
+</Statute>
+<Statute statuteid="433460f">
+<Title>Traitements, Loi sur les</Title>
+<ChapterNumber>L.R. (1985), ch. S-3</ChapterNumber>
+<FlicsAlpha>L.R. (1985), ch. S-3</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Traités de commerce (voir Conventions)</Title>
 <ChapterNumber>Commerce et sujets connexes)</ChapterNumber>
 <FlicsAlpha>tops-15T</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Traités de commerce, 1928</Title>
+<ChapterNumber>Traités de commerce, 1928</ChapterNumber>
+<FlicsAlpha>tops-10T</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Traités de paix :</Title>
@@ -6367,12 +6367,12 @@
 <Statute statuteid="">
 <Title>Transports routiers, Loi de 1987 sur les</Title>
 <ChapterNumber>Transports routiers, Loi de 1987 sur les</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 29 </FlicsAlpha>
+<FlicsAlpha>L.R. (1985), ch. 29 (3e suppl.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="345101f">
 <Title>Transports routiers, Loi sur les</Title>
 <ChapterNumber>L.R. (1985), ch. 29 (3e suppl.)</ChapterNumber>
-<FlicsAlpha>L.R. (1985), ch. 29 (3e suppl.)</FlicsAlpha>
+<FlicsAlpha>M-12.01</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Trenton, Havre de</Title>
@@ -6487,15 +6487,15 @@
 </Statute>
 </Letter>
 <Letter value="Y">
-<Statute statuteid="461214f">
-<Title>Yukon, Loi sur le</Title>
-<ChapterNumber>2002, ch. 7</ChapterNumber>
-<FlicsAlpha>2002, ch. 7</FlicsAlpha>
-</Statute>
 <Statute statuteid="">
 <Title>Yukon, frontière (voir Frontières provinciales)</Title>
 <ChapterNumber>Yukon, frontière (voir Frontières provinciales)</ChapterNumber>
 <FlicsAlpha>tops-1Y</FlicsAlpha>
+</Statute>
+<Statute statuteid="461214f">
+<Title>Yukon, Loi sur le</Title>
+<ChapterNumber>2002, ch. 7</ChapterNumber>
+<FlicsAlpha>2002, ch. 7</FlicsAlpha>
 </Statute>
 </Letter>
 <Letter value="Z">

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1993, ch. 41">
+  <Title>Abrogation de la Loi sur les titres de biens-fonds, Loi d’</Title>
+  <ChapterNumber>1993, ch. 41</ChapterNumber>
+  <OtherLangTitle>(Land Titles Repeal Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Affaires indiennes et du Nord canadien</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2002, ch. 7, art. 196</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2002, ch. 7, art. 197</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2002, ch. 7, art. 198; 2014, ch. 2, art. 44</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2002, ch. 7, art. 199; 2014, ch. 2, art. 45</Text>
+  </Section>
+  <CIF>
+    <Text>EEV, 1993, ch. 41 en vigueur à la sanction 23.06.93 <Emphasis style="italic">voir aussi</Emphasis> TR/93‑151</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 7, art. 196 à 199 en vigueur 01.04.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 2 (sanction : 25.03.2014), art. 44 et 45 en vigueur 01.04.2014 <Emphasis style="italic">voir</Emphasis> TR/2014-34</Text>
+  </CIF>
+</Statute>
+</TOPS>

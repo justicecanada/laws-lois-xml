@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="S-21">
+  <Title>Publication des lois, Loi sur la</Title>
+  <ChapterNumber>L.R. (1985), ch. S-21</ChapterNumber>
+  <OtherLangTitle>(Statutes Act, Publication of)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Travaux publics et des Services gouvernementaux</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1996, ch. 16, al. 60(1)q)</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1999, ch. 31, art. 194</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>abrogé, 1999, ch. 31, art. 195</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2003, ch. 22, art. 215(A)</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1996, ch. 16, par. 61(2)</Text>
+  </Section>
+  <CIF>
+    <Text>EEV, 1996, ch. 16, art. 60 et 61 en vigueur 12.07.96 <Emphasis style="italic">voir</Emphasis> TR/96‑67</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 31, art. 194 et 195 en vigueur à la sanction 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 22, art. 215 en vigueur 01.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-24</Text>
+  </CIF>
+</Statute>
+</TOPS>

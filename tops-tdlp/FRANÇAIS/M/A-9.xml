@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="A-9">
+  <Title>Ministère de l’Agriculture et de l’Agroalimentaire, Loi sur le</Title>
+  <ChapterNumber>L.R. (1985), ch. A-9</ChapterNumber>
+  <TitleChanged>
+    <Text>(Ancienne appellation : Ministère de l’Agriculture, Loi sur le)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Department of Agriculture and Agri-Food Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de l’Agriculture et de l’Agroalimentaire</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Titre intégral</Label>
+    <Text>1994, ch. 38, art. 1</Text>
+  </LongTitle>
+  <Section>
+    <Label>1</Label>
+    <Text>1994, ch. 38, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>1994, ch. 38, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1994, ch. 38, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1989, ch. 27, art. 20; 1994, ch. 38, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>5.01</Label>
+    <Text>ajouté, 1994, ch. 38, art. 6</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>ajouté, 1988, ch. 65, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1992, ch. 1, art. 6; abrogé, 1994, ch. 38, art. 7</Text>
+  </Section>
+  <Transitional>
+    <Text>dispositions transitoires, 1994, ch. 38, art. 8 à 10</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, 1988, ch. 65, art. 46 en vigueur 01.01.89 <Emphasis style="italic">voir</Emphasis> TR/89‑9</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1989, ch. 27, art. 20 en vigueur 23.02.90 <Emphasis style="italic">voir</Emphasis> TR/90‑41</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1992, ch. 1, art. 6 en vigueur à la sanction 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 38, art. 1 à 10 en vigueur 12.01.95 <Emphasis style="italic">voir</Emphasis> TR/95‑9</Text>
+  </CIF>
+</Statute>
+</TOPS>

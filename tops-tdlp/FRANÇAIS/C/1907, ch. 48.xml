@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1907, ch. 48">
+  <Title>Chemin de fer national transcontinental (1903, ch. 71)</Title>
+  <ChapterNumber>1907, ch. 48</ChapterNumber>
+  <OtherLangTitle>(National Transcontinental Railway (1903, c. 71))</OtherLangTitle>
+  <Section>
+    <Label>7</Label>
+    <Text>1904, ch. 24, art. 8</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1904, ch. 24, art. 11; 1912, ch. 39, art. 1; 1914, ch. 43, art. 1; 1915, ch. 18, art. 1</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>1912, ch. 39, art. 2</Text>
+  </Section>
+  <Convention>
+    <List>
+      <Item>
+        <Text>1907, ch. 48 — loi connexe</Text>
+      </Item>
+      <Item>
+        <Text>1909, ch. 26 — loi connexe</Text>
+      </Item>
+      <Item>
+        <Text>1912, ch. 37 et 38 — loi connexe</Text>
+      </Item>
+      <Item>
+        <Text>1913, ch. 34 — loi connexe</Text>
+      </Item>
+      <Item>
+        <Text>1914, ch. 3 — loi connexe</Text>
+      </Item>
+    </List>
+  </Convention>
+</Statute>
+</TOPS>

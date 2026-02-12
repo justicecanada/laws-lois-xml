@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="I-18">
+  <Title>International Development (Financial Institutions) Assistance Act</Title>
+  <ChapterNumber>R.S., 1985, c. I-18</ChapterNumber>
+  <OtherLangTitle>(Aide au développement international (institutions financières), Loi d’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Foreign Affairs</Text>
+  </Minister>
+  <Section>
+    <Label>3</Label>
+    <Text>1995, c. 5, s. 25(1)(s); 1998, c. 21, s. 125; 2024, c. 17, s. 174</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>1998, c. 21, s. 126</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch.</Label>
+    <Text>SOR/94‑722; SOR/96‑510; SOR/98-523</Text>
+  </Schedule>
+  <General>
+    <Text>General, 1995, c. 5, s. 25(2)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 1995, c. 5, s. 25 in force 13.05.95 <Emphasis style="italic">see</Emphasis> SI/95‑65</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 21, ss. 125 and 126 in force on assent 18.06.98</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 17, s. 174 in force on assent 20.06.2024</Text>
+  </CIF>
+</Statute>
+</TOPS>

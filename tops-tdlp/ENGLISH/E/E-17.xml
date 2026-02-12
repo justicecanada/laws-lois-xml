@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="E-17">
+  <Title>Explosives Act</Title>
+  <ChapterNumber>R.S., 1985, c. E-17</ChapterNumber>
+  <OtherLangTitle>(Explosifs, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Natural Resources</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>1993, c. 32, s. 1; 2004, c. 15, s. 35</Text>
+  </LongTitle>
+  <Section>
+    <Label>2</Label>
+    <Text>1993, c. 32, s. 2; 1994, c. 41, ss. 37(1)(l) and 38(1)(d); 1995, c. 35, s. 1; 1996, c. 10, s. 227; 2004, c. 15, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1993, c. 28, s. 78 (Sch. III, item 55), this amendment was repealed before it came into force by 1998, c. 15, s. 26; 1993, c. 32, s. 3; 1995, c. 35, s. 2; 1998, c. 15, s. 26; 2004, c. 15, s. 37; 2015, c. 3, s. 82(F)</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2004, c. 15, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>6.1</Label>
+    <Text>added, 1995, c. 35, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>6.2</Label>
+    <Text>added, 2004, c. 15, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1993, c. 32, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1993, c. 32, s. 5; 2001, c. 4, s. 80(E); 2004, c. 15, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1993, c. 32, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>10.1</Label>
+    <Text>added, 1993, c. 32, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1993, c. 32, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1993, c. 32, s. 8; 2004, c. 15, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>14.1</Label>
+    <Text>added, 1993, c. 32, s. 8; 2004, c. 15, s. 42</Text>
+  </Section>
+  <Section>
+    <Label>14.2</Label>
+    <Text>added, 1993, c. 32, s. 8; 2004, c. 15, s. 42</Text>
+  </Section>
+  <Section>
+    <Label>14.3</Label>
+    <Text>added, 1993, c. 32, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>14.4</Label>
+    <Text>added, 1993, c. 32, s. 8; 2004, c. 15, s. 43(E)</Text>
+  </Section>
+  <Section>
+    <Label>14.5</Label>
+    <Text>added, 1993, c. 32, s. 8; 2004, c. 15, s. 44</Text>
+  </Section>
+  <Section>
+    <Label>14.6</Label>
+    <Text>added, 1993, c. 32, s. 8; 2004, c. 15, s. 44</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>1989, c. 3, s. 42</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>1993, c. 32, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>1993, c. 32, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>1993, c. 32, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>1993, c. 32, s. 10; 2004, c. 15, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>1993, c. 32, s. 11; 2004, c. 15, s. 45; 2004, c. 25, ss. 139(E) and 208(E)</Text>
+  </Section>
+  <Section>
+    <Label>21.1</Label>
+    <Text>added, 2004, c. 15, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>1993, c. 32, s. 12; 2004, c. 15, s. 46</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>1993, c. 32, s. 12; 2004, c. 15, s. 47</Text>
+  </Section>
+  <Section>
+    <Label>23.1</Label>
+    <Text>added, 1993, c. 32, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2004, c. 15, s. 48</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>1993, c. 32, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>1993, c. 32, s. 14; 2004, c. 15, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2004, c. 15, s. 50(F)</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2004, c. 15, s. 51</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>1995, c. 39, s. 170; 2004, c. 15, s. 51</Text>
+  </Section>
+  <General>
+    <Text>General, 1994, c. 41, ss. 37(2) and 38(2)</Text>
+  </General>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2004, c. 25, s. 208</Text>
+  </CoordinatingAmendment>
+  <CIF>
+    <Text>CIF, 1989, c. 3, s. 42 in force 29.03.90 <Emphasis style="italic">see</Emphasis> SI/90‑63</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 32, ss. 1 to 14 in force on assent 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 41, ss. 37 and 38 in force 12.01.95 <Emphasis style="italic">see</Emphasis> SI/95‑10</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 35, ss. 1 to 3 in force 11.09.96 <Emphasis style="italic">see</Emphasis> SI/96‑83</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 39, s. 170 in force 01.12.98 <Emphasis style="italic">see</Emphasis> SI/98-93 and SI/98-95</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 10, s. 227 in force 01.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑53</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 15, s. 26 in force on assent 11.06.98</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 4, s. 80 in force 01.06.2001 <Emphasis style="italic">see</Emphasis> SI/2001‑71</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 15, s. 36(1), the definition of “restricted component” in s. 2 of the <XRefExternal reference-type="act">Explosives Act</XRefExternal>, as enacted by s. 36(2), par. 5(<Emphasis style="italic">a</Emphasis>.31) of the <XRefExternal reference-type="act">Explosives Act</XRefExternal>, as enacted by ss. 37(1), s. 37(4) and (6), ss. 41 to 49 and s. 29 of the <XRefExternal reference-type="act">Explosives Act</XRefExternal>, as enacted by s. 51, in force 01.06.2008 <Emphasis style="italic">see</Emphasis> SI/2008-29;</Text>
+    <List>
+      <Item>
+        <Text>— s. 35, the definitions “illicit manufacture”, “illicit trafficking” and “transit” in s. 2 of the <XRefExternal reference-type="act">Explosives Act</XRefExternal>, as enacted by s. 36(2), par. 5(a.2), (a.3) and (a.4) of the <XRefExternal reference-type="act">Explosives Act</XRefExternal>, as enacted by s. 37(1), ss. 37(3) and (5), 38(2) and (4), 39 and 50 in force 01.02.2014 <Emphasis style="italic">see</Emphasis> SI/2013-123;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 37(2), 38(1), (3) and (5), and s. 28 of the <XRefExternal reference-type="act">Explosives Act</XRefExternal>, as enacted by s. 51, repealed before coming into force 31.12.2014 <Emphasis style="italic">see</Emphasis> 2008, c. 20, s. 3 (<XRefExternal reference-type="act">Statutes Repeal Act</XRefExternal>) <Emphasis style="italic">see also </Emphasis><XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal>, Part I, Vol. 149, No. 6, 07.02.2015, pp. 181-182;</Text>
+      </Item>
+      <Item>
+        <Text>— s. 40 in force 01.02.2015 <Emphasis style="italic">see</Emphasis> SI/2013-123.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 25, ss. 139 and 208 in force on assent 15.12.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 3, s. 82 in force on assent 26.02.2015.</Text>
+  </CIF>
+</Statute>
+</TOPS>

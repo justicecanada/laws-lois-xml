@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="A-17">
+  <Title>Auditor General Act</Title>
+  <ChapterNumber>R.S., 1985, c. A-17</ChapterNumber>
+  <OtherLangTitle>(Vérificateur général, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>President of the Treasury Board</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>1995, c. 43, s. 1</Text>
+  </LongTitle>
+  <Section>
+    <Label>2</Label>
+    <Text>1995, c. 43, s. 2; 1999, c. 31, s. 8; 2005, c. 30, s. 32; 2006, c. 9, s. 301; 2008, c. 33, s. 15; 2019, c.2, s. 10.1</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>added, 2005, c. 30, s. 33; 2006, c. 9, s. 302</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2006, c. 9, s. 110; 2011, c. 15, s. 17 ; 2022, c. 10, s. 246</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2003, c. 22, par. 225(c)(E)</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1994, c. 32, ss. 1 and 2; 1995, c. 43, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>7.1</Label>
+    <Text>added, 2005, c. 30, s. 34; 2006, c. 9, s. 304</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>1994, c. 32, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2003, c. 22, par. 224(d)(E)</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2003, c. 22, s. 90(E)</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>1992, c. 54, s. 79; 2003, c. 22, ss. 91 and 227</Text>
+  </Section>
+  <Section>
+    <Label>15.1</Label>
+    <Text>added, 1995, c. 43, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2003, c. 22, s. 92</Text>
+  </Section>
+  <Section>
+    <Label>16.1</Label>
+    <Text>added, 2003, c. 22, s. 92</Text>
+  </Section>
+  <Section>
+    <Label>16.2</Label>
+    <Text>added, 2003, c. 22, s. 228</Text>
+  </Section>
+  <Section>
+    <Label>18.1</Label>
+    <Text>added, 2006, c. 9, s. 305</Text>
+  </Section>
+  <Section>
+    <Label>18.2</Label>
+    <Text>added, 2006, c. 9, s. 305</Text>
+  </Section>
+  <Section>
+    <Label>21.1</Label>
+    <Text>added, 1995, c. 43, s. 5; 2008, c. 33, s. 16; 2010, c. 16, s. 5; 2019, c. 2, s. 10.2</Text>
+  </Section>
+  <Section>
+    <Label>21.2</Label>
+    <Text>added, 2021, c. 22, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>added, 1995, c. 43, s. 5; 2019, c.2, s. 10.3</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>added, 1995, c. 43, s. 5; 2008, c. 33, s. 17; 2010, c. 16, s. 6; 2019, c.2, s. 10.4</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>added, 1995, c. 43, s. 5; repealed, 2008, c. 33, s. 18</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch.</Label>
+    <Text>added, 1995, c. 43, s. 5; 1998, c. 31, s. 49; 1999, c. 17, s. 108; 2005, c. 26, s. 19, c. 38, par. 138(b); SOR/2007‑165; repealed, 2008, c. 33, s. 19</Text>
+  </Schedule>
+  <General>
+    <Text>General, 2005, c. 30, s. 31</Text>
+  </General>
+  <General>
+    <Text>General, 2006, c. 9, s. 303</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 2005, c. 38, s. 16 as amended by par. 144(8)(a)(E) and s. 19(1)</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2006, c. 9, s. 120</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1992, c. 54, s. 79 in force 01.06.93 <Emphasis style="italic">see</Emphasis> SI/93‑58</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 32, ss. 1 to 3 in force on assent 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 43, ss. 1 to 5 in force on assent 15.12.95</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 31, s. 49 in force 21.12.98 <Emphasis style="italic">see</Emphasis> SI/99-4</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 17, s. 108 in force 01.11.99 <Emphasis style="italic">see</Emphasis> SI/99‑111</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 31, s. 8 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, ss. 90 to 92, 224 and 225 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24; ss. 227 and 228 in force 31.12.2005 <Emphasis style="italic">see</Emphasis> SI/2005-122</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 26, s. 19 in force 05.10.2005 <Emphasis style="italic">see</Emphasis> SI/2005-101</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 30, ss. 31 to 34 in force on assent 29.06.2005</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 38, ss. 16, 19 and 138 in force 12.12.2005 <Emphasis style="italic">see</Emphasis> SI/2005-119</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2006, c. 9, ss. 110, 120 and 301 to 305 in force on assent 12.12.2006</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 33, ss. 15 to 19 in force on assent 26.06.2008</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 16, ss. 5 and 6 in force on assent 15.12.2010</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2011, c. 15, s. 17 in force on assent 26.06.2011</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 2 (assent: 28.02.2019), ss. 10.1 to 10.4 in force 01.12.2020 <Emphasis style="italic">see</Emphasis> SI/2019-32</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2021, c. 22, s. 28 in force on assent 29.06.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 10 (assent: 23.06.2022), s. 246 in force 26.07.2022 <Emphasis style="italic">see</Emphasis> SI/2022-35</Text>
+  </CIF>
+</Statute>
+</TOPS>

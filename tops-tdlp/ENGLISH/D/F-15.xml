@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="F-15">
+  <Title>Department of Fisheries and Oceans Act</Title>
+  <ChapterNumber>R.S., 1985, c. F-15</ChapterNumber>
+  <OtherLangTitle>(Ministère des Pêches et Océans, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Fisheries and Oceans</Text>
+  </Minister>
+  <Section>
+    <Label>4</Label>
+    <Text>2015, c. 20, s. 4; 2019, c. 13, s. 122</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 2015, c. 20 (assent: 18.06.2015), s. 4 in force 01.08.2015 <Emphasis style="italic">see</Emphasis> SI/2015-64.</Text>
+  </CIF>
+</Statute>
+</TOPS>

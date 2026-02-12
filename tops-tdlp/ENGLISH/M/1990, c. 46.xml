@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1990, c. 46">
+  <Title>Marriage (Prohibited Degrees) Act</Title>
+  <ChapterNumber>1990, c. 46</ChapterNumber>
+  <OtherLangTitle>(Mariage (degrés prohibés), Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Justice and Attorney General of Canada</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2005, c. 33, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2005, c. 33, s. 14</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 1990, c. 46 (assent: 17.12.90), the Act in force 17.12.91 <Emphasis style="italic">see</Emphasis> s. 6</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 33, ss. 13 and 14 in force on assent 20.07.2005</Text>
+  </CIF>
+</Statute>
+</TOPS>

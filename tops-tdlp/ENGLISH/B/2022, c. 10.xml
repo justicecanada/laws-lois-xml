@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2022, c. 10">
+  <Title>Budget Implementation Act, 2022, No. 1</Title>
+  <ChapterNumber>2022, c. 10</ChapterNumber>
+  <OtherLangTitle>(Exécution du budget de 2022, Loi n<Sup>o</Sup> 1 d’)</OtherLangTitle>
+  <Section>
+    <Label>237</Label>
+    <Text>2024, c. 17, s. 149</Text>
+  </Section>
+  <Section>
+    <Label>266</Label>
+    <Text>2023, c. 29, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>434</Label>
+    <Text>repealed, 2023, c. 29, s. 19</Text>
+  </Section>
+  <General>
+    <Text>
+      <Emphasis style="italic">Notes</Emphasis>:</Text>
+  </General>
+  <General>
+    <Text>— ss. 34 to 48 and 98 to 127: Orders and Regulations;</Text>
+  </General>
+  <General>
+    <Text>— s. 178: repeal of the <XRefExternal reference-type="act">Safe Drinking Water for First Nations Act</XRefExternal>, 2013, c. 21</Text>
+  </General>
+  <General>
+    <Text>General, 2022, c. 10, ss. 174 to 176 (Various measures), ss. 180 (payments), 304 (heading before s. 8.1), 335 (heading of Part I), 355 (heading before s. 27 of English version), 357 (heading before s. 28), 391 (heading before s. 25) and 395 (heading of Part II)</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2022, c. 10, s. 371</Text>
+  </Terminology>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2022, c. 10, ss. 48 to 51, 173, 189, 232, 299 to 300, 375, 413, 424 and 434</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating Amendment, 2023, c. 29, s. 20</Text>
+  </CoordinatingAmendment>
+  <Transitional>
+    <Text>Transitional Provisions, 2022, c. 10, ss. 207 to 211, 280, 372, 374, 406, 411 and 427</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2022, c. 10 in force on assent 23.06.2022, <Emphasis style="italic">except</Emphasis>:</Text>
+    <List>
+      <Item>
+        <Text>— ss. 3(1) and (2) deemed in force for taxation years ending on or after 19.04.2021 <Emphasis style="italic">see</Emphasis> s. 3(3);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 4(1) and (2) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 4(3);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 8(1) deemed in force 25.03.2020 <Emphasis style="italic">see</Emphasis> s. 8(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 9(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 9(2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 10(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 10(2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 12(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 12(2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 14(1) deemed in force 11.04.2020 <Emphasis style="italic">see</Emphasis> s. 14(2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 22(1) deemed in force 29.06.2021 <Emphasis style="italic">see</Emphasis> s. 22(2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 26(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 26(2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 27(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 27(2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 28(1) to (3) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 28(4);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 29(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 29(2);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 30(1) and (2) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 30(3);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 31(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 31(2);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 32(1) and (2) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 32(3);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 158.35, 158.51 to 158.53, 158.68 and 158.69, (as enacted by s. 59) in force 01.10. 2022 <Emphasis style="italic">see</Emphasis> s. 128(1);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 158.42 to 158.47 and 158.49, s. 158.5(2), ss. 158.54 to 158.56, 158.6 and 158.61 (as enacted by s. 59 in force 01.10.2022 <Emphasis style="italic">see</Emphasis> s. 128(3));</Text>
+      </Item>
+      <Item>
+        <Text>— s. 63(1) in force 01.10.2022 <Emphasis style="italic">see</Emphasis> s. 128 (3);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 64(2), ss. 65 to 69, in force 01.10.2022 <Emphasis style="italic">see</Emphasis> s. 128 (1);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 70(2) and (4) in force 01.10.2022 <Emphasis style="italic">see s</Emphasis>s. 128 (1);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 71, 72 and 75 in force 01.10.2022 <Emphasis style="italic">see</Emphasis> s. 128 (1);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 81(2) and 82 in force 01.10.2022 <Emphasis style="italic">see</Emphasis> s. 128 (1);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 87 to 93 in force 01.10.2022 <Emphasis style="italic">see</Emphasis> s. 128 (1);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 94 to 97 in force 01.10.2022 <Emphasis style="italic">see</Emphasis> s. 128 (1);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 129(1) deemed in force 30.06.2022 <Emphasis style="italic">see</Emphasis> s. 129 (2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 130 (1) deemed in force 30.06.2022 <Emphasis style="italic">see</Emphasis> s. 130 (2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 133(1) deemed in force 01.07.2022 <Emphasis style="italic">see</Emphasis> s. 133 (2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 135 (1) of the <Emphasis style="italic">Select Luxury Items Tax</Emphasis> (ss. 1 to 156), as enacted by s. 135 in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 135 (2);</Text>
+      </Item>
+      <Item>
+        <Text>— Despite subsection (2), the provisions of the <XRefExternal reference-type="act">Select Luxury Items Tax Act</XRefExternal>, as enacted by s. (1), that set out the tax on subject aircraft in force 01.09.2022 <Emphasis style="italic">see</Emphasis> SI/2022-36;</Text>
+      </Item>
+      <Item>
+        <Text>— Despite s. (2), ss. 107 to 119 and 121 to 129 of the <XRefExternal reference-type="act">Select Luxury Items Tax Act</XRefExternal>, as enacted by s. (1) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 135(3);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 136(1) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 136(2);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 137(1) and 173(2) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 137(2) and 173(2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 139(1) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 139(2);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 140(1) and 173(4) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 140(2);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 141(1) and 173(5) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 141(2) and 173(5);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 142(1) and 173(6) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 142(2) and 173(6);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 143(1) and 173(7) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 143(2) and 173(7);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 144(1) and 173(8) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 144(2) and 173(8);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 145(1) and 173(9) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 145(2) and 173(9);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 145(1) and 173(9) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 145(2) and 173(9);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 146(1) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 146(2);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 147(1) and 173(10) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 147(2) and 173(10);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 148(1), (2), 173(11) and (12) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 148(3), 173(11 and (12);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 149(1) and 173(13) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 149(2) and 173(13);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 150(1) and 173(14) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 150(2) and 173(14);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 151(1) and 173(15) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 151(2) and 173(15);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 152(1) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 152(2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 153(1) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 153(2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 154(1) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 154(2);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 155(1) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 155(2);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 156(1) and 173(16) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 156(2) and 173(16);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 157(1) and 173(17); in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 157(2) and 173(17);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 158(1) and 173(18) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 158(2) and 173(18);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 159(1) and 173(19) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 159(2) and 173(19);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 160(1) and 173(20) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 160(2) and 173(20);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 161(1) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 161(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 162(1) and 173(21) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 162(2) and 173(21);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 163(1) and 173(22) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 163(2) and 173(22);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 164(1), (2), 173(23) and 173(24) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 164(3), 173(23 and 173(24);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 165(1) and 173(25) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 165(2) and 173(25);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 166(1) and 173(26) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 166(2) and 173(26);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 168(1) and 173(27 in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 168(2) and 173(27);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 169(1) and 173(28) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 169(2) and 173(28);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 170 (1) and 173(29) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 170(2) and 173(29);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 171 (1) and 173(30) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> ss. 171(2) and 173(30);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 172(1) in force 01.09.2022 <Emphasis style="italic">see</Emphasis> s. 172(2);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 186 and 188 (1) come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 190(1) — Not in force;</Text>
+      </Item>
+      <Item>
+        <Text>— s. 187 comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 190(2) — Not in force;</Text>
+      </Item>
+      <Item>
+        <Text>— s. 233 in force 01.01.2023 <Emphasis style="italic">see</Emphasis> s. 234;</Text>
+      </Item>
+      <Item>
+        <Text>— s. 235 in force 01.01.2023 <Emphasis style="italic">see</Emphasis> s. 237(1);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 236 comes into force on the fourth anniversary of the day on which s. 235 comes into force <Emphasis style="italic">see</Emphasis> s. 237(2) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 238 to 253 (Division 13) in force 26.07.2022 <Emphasis style="italic">see</Emphasis> SI/2022-35;</Text>
+      </Item>
+      <Item>
+        <Text>— s. 257 in force 23.06.2023 <Emphasis style="italic">see</Emphasis> s. 275;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 276 to 280 (Division 16) in force 30.12.2022 <Emphasis style="italic">see</Emphasis> SI/2022-58;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1 to 12 as enacted by s. 294 in force 26.10.2022 <Emphasis style="italic">see</Emphasis> SI/2022-51;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 295 to 297 in force 26.10.2022 <Emphasis style="italic">see</Emphasis> SI/2022-51;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 302, 304 to 306 and 308 to 328 in force 19.02.2024 <Emphasis style="italic">see</Emphasis> SI/2024-8;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 303, 329 and 330 in force 21.10.2024 <Emphasis style="italic">see</Emphasis> SI/2024-21;</Text>
+      </Item>
+      <Item>
+        <Text>— s. 307 in force 01.01.2026 <Emphasis style="italic">see</Emphasis> SI/2024-50 — Not in force;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 333(3), (4) and 371 (terminology) to 373 (transitional provision) in force 23.09.2022 <Emphasis style="italic">see</Emphasis> SI/2022-46;</Text>
+      </Item>
+      <Item>
+        <Text>— s. 380 deemed in force 29.06.2021 <Emphasis style="italic">see</Emphasis> s. 381;</Text>
+      </Item>
+      <Item>
+        <Text>— s. 382 deemed in force 15.03 2020 <Emphasis style="italic">see</Emphasis> s. 386;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 409 and 411 in force 15.09.2022 <Emphasis style="italic">see</Emphasis> s. 414(1);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 415 to 421 in force 05.05.2023, in accordance with s. 114(4) of the <Emphasis style="italic">Canada Pension Plan</Emphasis><Emphasis style="italic"> see</Emphasis> 2022, c. 10, s. 422 and SI/2023-14;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 423 to 425 in force on assent;</Text>
+      </Item>
+      <Item>
+        <Text>— s. 426 comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 429 — Not in force;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 430 and 434 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 435 — Not in force;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 431 to 433 in force 22.01.2024 <Emphasis style="italic">see</Emphasis> SI/2023-62.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2023, c. 29, s. 19 in force 22.01.2024 <Emphasis style="italic">see</Emphasis> SI/2023-79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 17, s. 149 in force on assent 20.06.2024</Text>
+  </CIF>
+</Statute>
+</TOPS>

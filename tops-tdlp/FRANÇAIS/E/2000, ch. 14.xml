@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2000, ch. 14">
+  <Title>Exécution du budget de 2000, Loi d’</Title>
+  <ChapterNumber>2000, ch. 14</ChapterNumber>
+  <OtherLangTitle>(Budget Implementation Act, 2000)</OtherLangTitle>
+  <Section>
+    <Label>10</Label>
+    <Text>abrogé, 2015, ch. 36, art. 160</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2002, ch. 22, art. 321</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>abrogé, 2017, ch. 20, al. 368(3)c)</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe</Label>
+    <Text>DORS/2001-114, DORS/2001-523; DORS/2002-376; DORS/2003-356; DORS/2005-362</Text>
+  </Schedule>
+  <ConditionalAmendment>
+    <Text>modifications conditionnelles, 2000, ch. 14, art. 10, 34 et 43, abrogé avant d’avoir produit ses effets, 2017, ch. 20, al. 368(3)c)</Text>
+  </ConditionalAmendment>
+  <CIF>
+    <Text>EEV, 2000, ch. 14 en vigueur à la sanction 29.06.2000 <Emphasis style="italic">sauf</Emphasis> :</Text>
+    <List>
+      <Item>
+        <Text>— art. 2 à 6 en vigueur 31.12.2000 <Emphasis style="italic">voir</Emphasis> art. 11;</Text>
+      </Item>
+      <Item>
+        <Text>— art. 12 à 15 sont réputés entrer en vigueur 01.04.2000 <Emphasis style="italic">voir</Emphasis> art. 16;</Text>
+      </Item>
+      <Item>
+        <Text>— partie 3 (art. 17 à 21) en vigueur 17.07.2000 <Emphasis style="italic">voir</Emphasis> TR/2000-62;</Text>
+      </Item>
+      <Item>
+        <Text>— art. 42 en vigueur 31.12.2000 <Emphasis style="italic">voir</Emphasis> art. 44;</Text>
+      </Item>
+      <Item>
+        <Text>— art. 45 en vigueur 31.01.2001 <Emphasis style="italic">voir</Emphasis> TR/2001-19.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 22, art. 321 en vigueur 01.07.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-47</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 36, art. 160 en vigueur à la sanction 23.06.2015</Text>
+  </CIF>
+</Statute>
+</TOPS>

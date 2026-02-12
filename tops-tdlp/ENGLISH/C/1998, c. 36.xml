@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1998, c. 36">
+  <Title>Canada Small Business Financing Act</Title>
+  <ChapterNumber>1998, c. 36</ChapterNumber>
+  <OtherLangTitle>(Financement des petites entreprises du Canada, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of State (Small Business and Tourism) (SI/2025-84)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2001, c. 9, s. 587; 2015, c. 36, s. 161; 2021, c. 23, s. 204</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2009, c. 2, s. 265; 2015, c. 36, s. 162; 2021, c. 23, s. 205</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2009, c. 2, s. 266; 2021, c. 23, s. 206</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2009, c. 2, s. 267; 2015, c. 36, s. 163; 2021, c. 23, s. 207</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 1998, c. 36 in force on assent 10.12.98</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 9, s. 587 in force 24.10.2001 <Emphasis style="italic">see</Emphasis> SI/2001-102</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 2 (assent: 12.03.2009), ss. 265 to 267 in force 01.04.2009 <Emphasis style="italic">see</Emphasis> s. 268</Text>
+  </CIF>
+  <General>
+    <Text>[<Emphasis style="italic">Note</Emphasis>: SOR/1999-32, Order in Council, P.C. 1999-472 of 18.03.1999, repealed, <Emphasis style="italic">see</Emphasis> SI/2013-114]</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 2015, c. 36, ss. 161 to 163 in force on assent 23.06.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2021, c. 23 (assent: 29.06.2021), ss. 204(1), 205, 206(2) and 207 in force on assent</Text>
+    <List>
+      <Item>
+        <Text>— ss. 204(1), 205, 206(2), 207 in force 04.07.2022 <Emphasis style="italic">see</Emphasis> SI-2022-33</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 204(2) and (3) and 206(1) come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 208 and SI-2022-33 — Not in force</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1993, c. 28">
+  <Title>Nunavut Act</Title>
+  <ChapterNumber>1993, c. 28</ChapterNumber>
+  <OtherLangTitle>(Nunavut, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Northern Affairs (<Emphasis style="italic">see</Emphasis> s. 2)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1998, c. 15, s. 1; 2019, c. 29, s. 374(g)</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2015, c. 3, par. 172(i)</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1999, c. 3, s. 1; 2017, c. 33, s. 256</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1998, c. 15, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>1998, c. 15, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2012, c. 19, s. 215</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>1998, c. 15, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>29.1</Label>
+    <Text>added, 1998, c. 15, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>1998, c. 15, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>1998, c. 15, s. 5; 1999, c. 3, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>1999, c. 3, s. 3; 2002, c. 7, s. 222</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>1999, c. 3, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>1999, c. 3, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>1999, c. , s. 6</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>1998, c. 15, s. 6</Text>
+  </Section>
+  <Heading>
+    <Label>Part II:</Label>
+  </Heading>
+  <Section>
+    <Label>38</Label>
+    <Text>1998, c. 15, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>1998, c. 15, s. 8; 2017, c. 26, subpar. 62(f)(i)</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2017, c. 26, subpar. 62(f)(ii)</Text>
+  </Section>
+  <Section>
+    <Label>50.1</Label>
+    <Text>1998, c. 15, s. 9</Text>
+  </Section>
+  <Heading>
+    <Label>Part III</Label>
+    <Text>(ss. 53 to 68), repealed, 1993, c. 28, s. 69, effective 01.07.99</Text>
+  </Heading>
+  <Section>
+    <Label>53</Label>
+    <Text>repealed, 1998, c. 15, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>1998, c. 15, s. 42(a)</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>1998, c. 15, s. 42(b)</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>1998, c. 15, s. 42(c) and (d)</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>2003, c. 22, par. 224(<Emphasis style="italic">z</Emphasis>.62)(E)</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>1998, c. 15, s. 42(e)</Text>
+  </Section>
+  <Heading>
+    <Label>Part IV:</Label>
+  </Heading>
+  <Section>
+    <Label>71</Label>
+    <Text>1998, c. 15, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>1998, c. 15, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>1998, c. 15, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>73.1</Label>
+    <Text>added, 1998, c. 15, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>1998, c. 15, s.14</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>1998, c. 15, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>76.01</Label>
+    <Text>added, 1998, c. 15, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.02</Label>
+    <Text>added, 1998, c. 15, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.03</Label>
+    <Text>added, 1998, c. 15, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.04</Label>
+    <Text>added, 1998, c. 15, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.05</Label>
+    <Text>added, 1998, c. 15, s. 16; repealed, 2014, c. 2, s. 43</Text>
+  </Section>
+  <Section>
+    <Label>76.06</Label>
+    <Text>added, 1998, c. 15, s. 16; 1999, c. 3, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>76.07</Label>
+    <Text>added, 1998, c. 15, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.08</Label>
+    <Text>added, 1998, c. 15, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.09</Label>
+    <Text>added, 1998, c. 15, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>76.1</Label>
+    <Text>added, 1998, c. 15, s. 16; 1999, c. 3, s. 8(1)(F) and (2)</Text>
+  </Section>
+  <Section>
+    <Label>76.11</Label>
+    <Text>added, 1998, c. 15, s. 16; 1999, c. 3, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>76.12</Label>
+    <Text>added, 1998, c. 15, s. 16; 1999, c. 3, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>76.13</Label>
+    <Text>added, 1998, c. 15, s. 16</Text>
+  </Section>
+  <Heading>
+    <Label>Part V:</Label>
+  </Heading>
+  <Section>
+    <Label>77.1</Label>
+    <Text>added, 1998, c. 15, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>77.2</Label>
+    <Text>added, 1998, c. 15, s. 17; 1999, c. 3, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>77.3</Label>
+    <Text>added, 1998, c. 15, s. 17</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch. III:</Label>
+    <Text>1993, c. 28, s. 78</Text>
+  </Schedule>
+  <Section>
+    <Label>3</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 1)</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 2)</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 3)</Text>
+  </Section>
+  <Section>
+    <Label>8.1</Label>
+    <Text>added, 1998, c. 15, s.18</Text>
+  </Section>
+  <Section>
+    <Label>8.2</Label>
+    <Text>added, 1998, c. 15, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>8.3</Label>
+    <Text>added, 1998, c. 15, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>repealed, 1996, c. 31, s. 92</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 4)</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 4)</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>repealed, 1998, c. 15, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 4)</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 4)</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 4)</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>1999, c. 3, s. 12 (Sch., item 5)</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 6)</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 6)</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 6)</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 7)</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 7)</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 8)</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>1998, c. 15, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>35.1</Label>
+    <Text>added, 1998, c. 15, s. 20; repealed, 1999, c. 3, s. 12 (Sch., item 9)</Text>
+  </Section>
+  <Section>
+    <Label>35.2</Label>
+    <Text>added, 1998, c. 15, s. 20; repealed, 1999, c. 3, s. 12 (Sch., item 9)</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 9)</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>1998, c. 15, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 10)</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 10)</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 11)</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>repealed, 1998, c. 15, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>43.1</Label>
+    <Text>added, 1998, c. 15, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>43.2</Label>
+    <Text>added, 1998, c. 15, s. 24; 1999, c. 3, s. 12 (Sch., item 12)</Text>
+  </Section>
+  <Section>
+    <Label>43.3</Label>
+    <Text>added, 1998, c. 15, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>43.4</Label>
+    <Text>added, 1998, c. 15, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>43.5</Label>
+    <Text>added, 1998, c. 15, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>1998, c. 15, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>45.1</Label>
+    <Text>added, 1998, c. 15, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>45.2</Label>
+    <Text>added, 1998, c. 15, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>45.3</Label>
+    <Text>added, 1998, c. 15, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>1998, c. 15, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>repealed, 1998, c. 15, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>repealed, 1999, c. 26, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 13)</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 14)</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 14)</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>repealed, 1996, c. 10, s. 249</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>repealed, 1996, c. 10, s. 249</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 15)</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 15)</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 16)</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 17)</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>repealed, 1998, c. 15, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>1998, c. 15, s. 28; 1999, c. 3, s. 12 (Sch., item 18)</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 19)</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>1996, c. 30, s. 8; 1998, c. 15, s. 29; 1999, c. 3, s. 12 (Sch., item 20)</Text>
+  </Section>
+  <Section>
+    <Label>85</Label>
+    <Text>1999, c. 3, s. 12 (Sch., item 21)</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 22)</Text>
+  </Section>
+  <Section>
+    <Label>87.1</Label>
+    <Text>added, 1998, c. 15, s. 30; repealed, 1999, c. 3, s. 12 (Sch., item 22)</Text>
+  </Section>
+  <Section>
+    <Label>88</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 22)</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>repealed, 1998, c. 15, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>92</Label>
+    <Text>repealed, 1998, c. 15, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>repealed, 1998, c. 15, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>repealed, 1998, c. 15, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>repealed, 1998, c. 15, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>96</Label>
+    <Text>repealed, 1998, c. 15, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>repealed, 1998, c. 15, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>98</Label>
+    <Text>repealed, 1998, c. 15, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>99</Label>
+    <Text>repealed, 1998, c. 15, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>101</Label>
+    <Text>1998, c. 15, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>105</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 23)</Text>
+  </Section>
+  <Section>
+    <Label>108.1</Label>
+    <Text>added, 1998, c. 15, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>111</Label>
+    <Text>repealed, 1998, c. 15, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>112</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 24)</Text>
+  </Section>
+  <Section>
+    <Label>113</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 24)</Text>
+  </Section>
+  <Section>
+    <Label>114</Label>
+    <Text>repealed, 1996, c. 10, s. 250; added, 1998, c. 15, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>115</Label>
+    <Text>repealed, 1996, c. 10, s. 250; added, 1998, c. 15, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>118</Label>
+    <Text>1998,c. 15, s. 36(E)</Text>
+  </Section>
+  <Section>
+    <Label>128</Label>
+    <Text>1998, c. 15, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>129</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 25)</Text>
+  </Section>
+  <Section>
+    <Label>131</Label>
+    <Text>1998, c. 15, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>134</Label>
+    <Text>repealed, 1998, c. 15, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>1999, c. 3, s. 12 (Sch., item 26)</Text>
+  </Section>
+  <Section>
+    <Label>141</Label>
+    <Text>1998, c. 15, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>142</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 27)</Text>
+  </Section>
+  <Section>
+    <Label>143</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 27)</Text>
+  </Section>
+  <Section>
+    <Label>144</Label>
+    <Text>1998, c. 15, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>145</Label>
+    <Text>repealed, 1999, c. 3, s. 12 (Sch., item 28)</Text>
+  </Section>
+  <ConditionalAmendment>
+    <Text>Conditional amendment, 1995, c. 39, s. 192</Text>
+  </ConditionalAmendment>
+  <ConditionalAmendment>
+    <Text>Conditional amendments, 1998, c. 15, Part 3, ss. 48 to 51; par. 50(a), repealed, 1999, c. 3, s. 81</Text>
+  </ConditionalAmendment>
+  <ConditionalAmendment>
+    <Text>Conditional amendment, 1999, c. 3, s. 91</Text>
+  </ConditionalAmendment>
+  <General>
+    <Text>Consequential amendment, 1993, c. 28, s. 77</Text>
+  </General>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 1995, c. 39, ss. 136 and 137</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General:</Text>
+    <Text>
+      <XRefExternal reference-type="act">Constitution Act, 1867</XRefExternal>, 1998, c. 15, ss. 43-46</Text>
+    <Text>
+      <XRefExternal reference-type="act">Constitutional Act, 1999 (Nunavut)</XRefExternal>, 1998, c. 15, Part 2, s. 47</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 1993, c. 28, ss. 70 to 76</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1993, c. 28, ss. 1 and 4 in force 20.06.96 <Emphasis style="italic">see</Emphasis> SI/96‑51; ss. 71 to 75 in force 26.11.96 <Emphasis style="italic">see</Emphasis> SI/96‑102; s. 78 (Sch. III, ss. 1, 121 and 126) in force 27.11.97 <Emphasis style="italic">see</Emphasis> SI/97‑136; s. 14(2) in force 01.06.98 <Emphasis style="italic">see</Emphasis> SI/98-69; ss. 9, 16, and 51 in force 27.11.98 <Emphasis style="italic">see</Emphasis> SI/98-112; ss. 2, 3, 5 to 8, 10 to 14(1), 15, 17 to 50, 52, 70, 76, 77 and 78 (Sch. III, ss. 2 to 120, 122 to 125, 127 to 147), in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 79(1). Part III, (ss. 53 to 69) in force on the day that is six months after the day on which this Act is assented to (assented to 10.06.93) <Emphasis style="italic">see</Emphasis> s. 79(2); Part III is repealed on the day that is three months after the day on which s. 3 comes into force or on such earlier day as the Governor in Council may fix by order <Emphasis style="italic">see</Emphasis> s. 69, effective 01.07.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 39, s. 192 in force 01.12.98 <Emphasis style="italic">see</Emphasis> SI/98-93 and SI/98-95</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 10, ss. 249 and 250 in force 01.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑53</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 30, s. 8 in force on assent 28.11.96</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 31, s. 92 in force 31.01.97 <Emphasis style="italic">see</Emphasis> SI/97‑21</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 15</Text>
+    <List>
+      <Item>
+        <Text>— Act in force on assent 11.06.98 except Part 2 (ss. 43 to 47) which comes into force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 52(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 78 (Sch. III, s. 128(2)) of the <XRefExternal reference-type="act">Nunavut Act</XRefExternal>, as enacted by s. 37(1), deemed in force 26.11.96 <Emphasis style="italic">see</Emphasis> s. 37(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 2 of the <XRefExternal reference-type="act">Nunavut Act</XRefExternal>, as amended by s. 1, s. 50.1 of the <XRefExternal reference-type="act">Nunavut Act</XRefExternal>, as enacted by s. 9, and ss. 76.01 to 76.07 and 76.09 of the <XRefExternal reference-type="act">Nunavut Act</XRefExternal>, as enacted by s. 16, in force 11.06.98 <Emphasis style="italic">see</Emphasis> s. 52(1)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 3, ss. 1 to 6, 7(2), 8 to 12 and 91 in force on assent 11.03.99; s. 7(1) deemed in force 12.06.98 <Emphasis style="italic">see</Emphasis> s. 92(1); ss. 13 to 90 in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 92(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 26, s. 12 deemed in force 31.03.99 <Emphasis style="italic">see</Emphasis> s. 13(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, s. 222 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 224 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 19 (assent: 29.06.2012), s. 215 in force 08.03.2013 <Emphasis style="italic">see</Emphasis> SI/2013-25</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 2 (assent: 25.03.2014), s. 43 in force 01.04.2014 <Emphasis style="italic">see</Emphasis> SI/2014-34</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 3, par. 172(i) (<Emphasis style="italic">terminology</Emphasis>) in force on assent 26.02.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 26, par. 62(f) in force on assent 12.12.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 33 (assent: 14.12.2017), s. 256 in force 01.10.2018 <Emphasis style="italic">see</Emphasis> SI/2018-83</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), s. 374 in force 15.07.2019</Text>
+  </CIF>
+</Statute>
+</TOPS>

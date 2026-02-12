@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1998, ch. 24">
+  <Title>Éducation des Mi’kmaq, Loi sur l’</Title>
+  <ChapterNumber>1998, ch. 24</ChapterNumber>
+  <OtherLangTitle>(Mi’kmaq Education Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Affaires indiennes et du Nord canadien</Text>
+  </Minister>
+  <Section>
+    <Label>10</Label>
+    <Text>2009, ch. 23, art. 333</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe</Label>
+    <Text>DORS/2005-275; DORS/2011-190; DORS/2014‑132</Text>
+  </Schedule>
+  <CIF>
+    <Text>EEV, 1998, ch. 24 en vigueur 22.04.99 <Emphasis style="italic">voir</Emphasis> TR/99-44</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2009, ch. 23 (sanction : 23.06.2009), art. 333 en vigueur 17.10.2011 <Emphasis style="italic">voir</Emphasis> TR/2011-87</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, DORS/2011-190 réputé entré en vigueur 01.04.2011.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, DORS/2014-132 réputé entré en vigueur 01.04.2014.</Text>
+  </CIF>
+</Statute>
+</TOPS>

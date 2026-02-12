@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="tops-1H">
+  <Title>Harmonisation du droit fédéral avec le droit civil, Loi d’</Title>
+  <OtherLangTitle>(Federal Law — Civil Law Harmonization Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de la Justice</Text>
+  </Minister>
+  <Section>
+    <Label>Loi n</Label>
+    <Text>
+      <Emphasis style="bold">
+        <Sup>o</Sup>
+      </Emphasis> <Emphasis style="bold">1 — 2001, ch. 4</Emphasis></Text>
+  </Section>
+  <Section>
+    <Label>Loi n</Label>
+    <Text>
+      <Emphasis style="bold">
+        <Sup>o</Sup>
+      </Emphasis> <Emphasis style="bold">2 — 2004, ch. 25</Emphasis></Text>
+  </Section>
+  <Section>
+    <Label>Loi n</Label>
+    <Text>
+      <Emphasis style="bold">
+        <Sup>o</Sup>
+      </Emphasis> <Emphasis style="bold">3 — 2011, ch. 21</Emphasis></Text>
+  </Section>
+  <Section>
+    <Label>207</Label>
+    <Text>abrogé, 2012, ch. 31, art. 404</Text>
+  </Section>
+  <CIF>
+    <Text>EEV, 2012, ch. 31, art. 404 en vigueur à la sanction 14.12.2012</Text>
+  </CIF>
+</Statute>
+</TOPS>

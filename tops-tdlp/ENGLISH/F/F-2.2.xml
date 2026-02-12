@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="F-2.2">
+  <Title>Farm Credit Canada Act</Title>
+  <ChapterNumber>1993, c. 14</ChapterNumber>
+  <TitleChanged>
+    <Text>(Formerly: Farm Credit Corporation Act)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Financement agricole Canada, Loi sur)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Agriculture and Agri-Food</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>2001, c. 22, s. 1</Text>
+  </LongTitle>
+  <Section>
+    <Label>1</Label>
+    <Text>2001, c. 22, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>2001, c. 22, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2001, c. 22, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1994, c. 38, s. 25(1)(j); 2001, c. 22, s. 5; 2003, c. 15, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1994, c. 38, s. 25(1)(j); 2006, c. 9, s. 255</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2001, c. 22, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2006, c. 9, s. 256</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1997, c. 26, s. 93; 2003, c. 15, s. 42; 2004, c. 22, s. 28; 2020, c. 5, s. 53</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2001, c. 22, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>1994, c. 38, s. 25(1)(j)</Text>
+  </Section>
+  <General>
+    <Text>General, 1994, c. 38, s. 25(2)</Text>
+  </General>
+  <General>
+    <Text>General, 2001, c. 22, s. 22 <Emphasis style="italic">re</Emphasis> Regulations and other Instruments</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 1993, c. 14, s. 18(2)</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2001, c. 22, ss. 8 and 9</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1993, c. 14 in force on assent 02.04.93</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 38, s. 25 in force 12.01.95 <Emphasis style="italic">see</Emphasis> SI/95‑9</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1997, c. 26, s. 93 in force on assent 25.04.97</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 22, ss. 1 to 9 and 22 in force on assent 14.06.2001</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 15, s. 41 and 42 in force on assent 19.06.2003</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 22, s. 28 in force on assent 14.05.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2006, c. 9, ss. 255 and 256 in force on assent 12.12.2006</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF 2020, c. 5, s. 53 in force on assent (25.03.2020)</Text>
+  </CIF>
+</Statute>
+</TOPS>

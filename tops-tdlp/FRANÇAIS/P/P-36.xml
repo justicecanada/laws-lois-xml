@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="P-36">
+  <Title>Pension de la fonction publique, Loi sur la</Title>
+  <ChapterNumber>L.R. (1985), ch. P-36</ChapterNumber>
+  <OtherLangTitle>(Public Service Superannuation Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le président du Conseil du Trésor</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Titre intégral</Label>
+    <Text>2003, ch. 22, art. 209</Text>
+  </LongTitle>
+  <Section>
+    <Label>3</Label>
+    <Text>1992, ch. 46, art. 1; 1996, ch. 18, art. 21; 1999, ch. 34, art. 53; 2003, ch. 22, art. 210(A) et al. 225z.19)(A); 2004, ch. 7, art. 36 et par. 41(3)(A); 2006, ch. 4, art. 204, ch. 9, art. 33; 2012, ch. 31, art. 475; 2015, ch. 36, art. 137; 2017, ch. 20, art. 172; 2024, ch. 25, art. 112(A)</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1999, ch. 34, art. 54; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1992, ch. 46, art. 2; 1999, ch. 34, art. 55; 2003, ch. 22, al. 225z.19)(A); 2012, ch. 31, art. 476</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>ajouté, 1992, ch. 46, art. 3; 1999, ch. 34, art. 56; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>5.2</Label>
+    <Text>ajouté, 1992, ch. 46, art. 3; 1999, ch. 34, art. 57</Text>
+  </Section>
+  <Section>
+    <Label>5.3</Label>
+    <Text>ajouté, 1992, ch. 46, art. 3; 1999, ch. 34, art. 58; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>5.4</Label>
+    <Text>ajouté, 1992, ch. 46, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>5.5</Label>
+    <Text>ajouté, 1992, ch. 46, art. 3; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1992, ch. 46, art. 4; 1996, ch. 18, art. 22; 1999, ch. 34, art. 59; 2003, ch. 22, al. 224z.74)(A) et 225z.19)(A), ch. 26, art. 48; 2012, ch. 31, art. 477; 2024, ch. 25, art. 112(A)</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1992, ch. 46, art. 5; 1996, ch. 18, art. 23; 1999, ch. 34, art. 60; 2003, ch. 22, al. 225z.19)(A); 2012, ch. 31, art. 478</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>1992, ch. 46, art. 6; 1999, ch. 34, art. 61; 2003, ch. 22, al. 225z.19)(A), ch. 26, art. 49</Text>
+  </Section>
+  <Section>
+    <Label>8.1</Label>
+    <Text>ajouté, 1996, ch. 18, art. 24</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1992, ch. 46, art. 7; 1996, ch. 18, art. 25; 1999, ch. 34, art. 62; 2003, ch. 22, al. 225z.19)(A); 2012, ch. 31, art. 479</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1992, ch. 46, art. 8; 1996, ch. 18, art. 26; 1999, ch. 26, art. 15, ch. 34, art. 63; 2003, ch. 22, al. 225z.19)(A); 2006, ch. 4, art. 205; 2012, ch. 31, art. 480</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>1989, ch. 6, art. 2; 1992, ch. 46, art. 9; 1996, ch. 18, art. 28; 1999, ch. 34, art. 64; 2003, ch. 22, al. 225z.19)(A), ch. 26, art. 50; 2012, ch. 31, art. 482; 2024, ch. 25, art. 112(A)</Text>
+  </Section>
+  <Section>
+    <Label>12.1</Label>
+    <Text>ajouté, 2012, ch. 31, art. 483; 2024, ch. 25, art. 112(A)</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>1996, ch. 18, art. 30; 1999, ch. 34, art. 65; 2003, ch. 22, al. 225z.19)(A); 2012, ch. 31, art. 485; 2024, ch. 25, art. 112(A)</Text>
+  </Section>
+  <Section>
+    <Label>13.001</Label>
+    <Text>ajouté, 2012, ch. 31, art. 486; 2024, ch. 25, art. 112(A)</Text>
+  </Section>
+  <Section>
+    <Label>13.01</Label>
+    <Text>ajouté, 1996, ch. 18, art. 31; 2003, ch. 22, al. 225z.19)(A), ch. 26, art. 51; 2003, ch. 26, par. 70(4)(A)</Text>
+  </Section>
+  <Section>
+    <Label>13.02</Label>
+    <Text>ajouté, 1996, ch. 18, art. 31</Text>
+  </Section>
+  <Section>
+    <Label>13.03</Label>
+    <Text>ajouté, 1996, ch. 18, art. 31; 1999, ch. 34, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>13.1</Label>
+    <Text>ajouté, 1992, ch. 46, art. 10; 1999, ch. 34, art. 67, 2000, ch. 12, art. 275; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>abrogé, 1992, ch. 46, art. 11</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2003, ch. 22, al.225 z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>1999, ch. 34, art. 68; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>1999, ch. 34, art. 69; 2012, ch. 31, art. 487</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>1999, ch. 34, art. 70; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>1999, ch. 34, art. 71; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>1999, ch. 34, art. 72; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>24.1</Label>
+    <Text>ajouté, 1992, ch. 46, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>24.2</Label>
+    <Text>ajouté, 1992, ch. 46, art. 12; 1999, ch. 34, art. 73; 2003, ch. 22, al. 225z.19)(A); 2012, ch. 31, art. 488</Text>
+  </Section>
+  <Section>
+    <Label>24.3</Label>
+    <Text>ajouté, 1992, ch. 46, art. 12; 2012, ch. 31, art. 488</Text>
+  </Section>
+  <Section>
+    <Label>24.4</Label>
+    <Text>ajouté, 1992, ch. 46, art. 12; 1999, ch. 34, art. 74; 2012, ch. 31, art. 489</Text>
+  </Section>
+  <Section>
+    <Label>24.5</Label>
+    <Text>ajouté, 1992, ch. 46, art. 12; 2012, ch. 31, art. 490</Text>
+  </Section>
+  <Section>
+    <Label>24.6</Label>
+    <Text>ajouté, 2012, ch. 31, art. 490</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>1989, ch. 6, art. 3; 1992, ch. 46, art. 13; 1999, ch. 34, art. 75; 2012, ch. 31, art. 491</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>1989, ch. 6, art. 4; 1992, ch. 46, art. 14; 1999, ch. 34, art. 76; 2003, ch. 22, al. 225z.19)(A); 2012, ch. 31, art. 492</Text>
+  </Section>
+  <Section>
+    <Label>26.1</Label>
+    <Text>ajouté, 1989, ch. 6, art. 5; abrogé, 1999, ch. 34, art. 77</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>1999, ch. 34, art. 78; 2012, ch. 31, art. 493</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2003, ch. 22, al. 225z.19)(A); 2012, ch. 31, art. 494</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>1992, ch. 46, art. 15; 1999, ch. 34, art. 79; 2003, ch. 22, al. 225z.19)(A); 2012, ch. 31, art. 495</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>1999, ch. 34, art. 80; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>1992, ch. 46, art. 16; 1999, ch. 34, art. 81; 2003, ch. 22, al. 225z.19)(A); 2024, ch. 25, art. 112(A)</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>1992, ch. 46, art. 17; 1999, ch. 34, art. 82; 2000, ch. 12, art. 276</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>1992, ch. 46, art. 17</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>abrogé, 1999, ch. 34, art. 83</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>1992, ch. 46, art. 18; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>1999, ch. 34, art. 84</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>1999, ch. 34, art. 85; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>1999, ch. 34, art. 86; 2012, ch. 31, art. 496; 2024, ch. 25, art. 112(A)</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>L.R., ch. 32 (2<Sup>e</Sup> suppl.), art. 41, ann., n<Sup>o</Sup> 4; 1992, ch. 46, art. 19; 1996, ch. 18, art. 32; 1999, ch. 34, art. 87; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>40.1</Label>
+    <Text>ajouté, 1992, ch. 46, art. 20; 1996, ch. 18, art. 33; 1999, ch. 34, art. 88; 2001, ch. 34, art. 79; 2003, ch. 22, al. 225z.19)(A); 2008, ch. 28, art. 157</Text>
+  </Section>
+  <Section>
+    <Label>40.2</Label>
+    <Text>ajouté, 1996, ch. 18, art. 33; 1999, ch. 34, art. 89; 2003, ch. 22, al. 225z.19)(A); 2012, ch. 31, art. 497</Text>
+  </Section>
+  <Section>
+    <Label>40.3</Label>
+    <Text>ajouté, 1996, ch. 18, art. 33</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>1999, ch. 34, art. 90</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>1989, ch. 6, art. 6; 1992, ch. 46, art. 21; 1994, ch. 26, art. 60; 1996, ch. 18, art. 34; 1999, ch. 34, art. 91; 2001, ch. 34, art. 80; 2003, ch. 22, art. 211(A) et al. 225z.19)(A); 2008, ch. 28, art. 158; 2012, ch. 31, art. 498</Text>
+  </Section>
+  <Section>
+    <Label>42.1</Label>
+    <Text>ajouté, 1992, ch. 46, art. 22; 1996, ch. 18, art. 35; 1999, ch. 34, art. 92; 2000, ch. 12, art. 277; 2003, ch. 22, al. 225z.19)(A), ch. 26, art. 52; 2012, ch. 31, art. 499</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>1999, ch. 34, art. 93</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>1992, ch. 46, art. 23; 1999, ch. 34, art. 95</Text>
+  </Section>
+  <Section>
+    <Label>44.1</Label>
+    <Text>ajouté, 1999, ch. 34, art. 96</Text>
+  </Section>
+  <Section>
+    <Label>44.2</Label>
+    <Text>ajouté, 1999, ch. 34, art. 96</Text>
+  </Section>
+  <Section>
+    <Label>44.3</Label>
+    <Text>ajouté, 1999, ch. 34, art. 96</Text>
+  </Section>
+  <Section>
+    <Label>44.4</Label>
+    <Text>ajouté, 1999, ch. 34, art. 96; 2019, ch. 29, art. 158</Text>
+  </Section>
+  <Section>
+    <Label>44.5</Label>
+    <Text>ajouté, 1999, ch. 34, art. 96</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>L.R., ch. 13 (2<Sup>e</Sup> suppl.), art. 12; 1999, ch. 34, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>1992, ch. 46, art. 24; 1999, ch. 34, art. 97</Text>
+  </Section>
+  <Heading>
+    <Label>partie I.1</Label>
+    <Text>ajoutée, 1999, ch. 34, art. 97</Text>
+  </Heading>
+  <Section>
+    <Label>46.1</Label>
+    <Text>ajouté, 1999, ch. 34, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>46.2</Label>
+    <Text>ajouté, 1999, ch. 34, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>46.3</Label>
+    <Text>ajouté, 1999, ch. 34, art. 97; 2012, ch. 31, art. 500</Text>
+  </Section>
+  <Section>
+    <Label>46.4</Label>
+    <Text>ajouté, 1999, ch. 34, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>46.5</Label>
+    <Text>ajouté, 1999, ch. 34, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>46.6</Label>
+    <Text>ajouté, 1999, ch. 34, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>1992, ch. 46, art. 25; 1996, ch. 16, art. 51; 1999, ch. 34, art. 98; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>47.1</Label>
+    <Text>ajouté, 1999, ch. 34, art. 99</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>1999, ch. 34, art. 100</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>1999, ch. 34, art. 100; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>1996, ch. 18, art. 36; 1999, ch. 34, art. 101; 2003, ch. 22, al. 225z.19)(A), ch. 26, art. 53</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>1992, ch. 46, art. 26; 1999, ch. 34, art. 102; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>1992, ch. 46, art. 26; 1996, ch. 18, art. 37; 1999, ch. 34, art. 103; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>1999, ch. 34, art. 104</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>1992, ch. 46, art. 27; 1999, ch. 34, art. 105; 2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>1992, ch. 46, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>1992, ch. 46, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>1992, ch. 46, art. 29; 1999, ch. 34, art. 106(A)</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>2003, ch. 22, al. 225z.19)(A)</Text>
+  </Section>
+  <Heading>
+    <Label>partie III</Label>
+    <Text>(art. 64 à 70), 1992, ch. 46, art. 30</Text>
+  </Heading>
+  <Section>
+    <Label>64</Label>
+    <Text>1992, ch. 46, art. 30; 1999, ch. 34, art. 107</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>1992, ch. 46, art. 30; abrogé, 1999, ch. 34, art. 108</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>1992, ch. 46, art. 30; 1999, ch. 34, art. 109</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>1992, ch. 46, art. 30; abrogé, 1999, ch. 34, art. 110</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>1992, ch. 46, art. 30</Text>
+  </Section>
+  <Section>
+    <Label>69</Label>
+    <Text>1992, ch. 46, art. 30; 1999, ch. 34, art. 111; 2003, ch. 22, al. 225z.19)(A), ch. 26, art. 54</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>1992, ch. 46, art. 30; 1999, ch. 34, art. 112</Text>
+  </Section>
+  <Heading>
+    <Label>partie IV</Label>
+    <Text>(art. 71), ajoutée, 1992, ch. 46, art. 30</Text>
+  </Heading>
+  <Section>
+    <Label>71</Label>
+    <Text>ajouté, 1992, ch. 46, art. 30; 1999, ch. 34, art. 113</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>ajouté, 2003, ch. 26, art. 55</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>ajouté, 2008, ch. 28, art. 159</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>ajouté, 2008, ch. 28, art. 159</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>ajouté, 2008, ch. 28, art. 160</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>ajouté, 2008, ch. 28, art. 160</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe I, partie I</Label>
+    <Text>L.R., ch. 22 (1<Sup>er</Sup> suppl.), art. 11, ann., n<Sup>o</Sup> 6, ch. 46 (1<Sup>er</Sup> suppl.), art. 10; L.R., ch. 15 (2<Sup>e</Sup> suppl.), art. 1, ann., n<Sup>o</Sup> 4, ch. 19 (2<Sup>e</Sup> suppl.), art. 54; DORS/87-222, DORS/87-223; L.R., ch. 9 (3<Sup>e</Sup> suppl.), art. 1b) et art. 2, ann., n<Sup>o</Sup> 4; L.R., ch. 7 (4<Sup>e</Sup> suppl.), par. 9(1), ch. 41 (4<Sup>e</Sup> suppl.), art. 55, ch. 47 (4<Sup>e</Sup> suppl.), art. 52, ann., n<Sup>o</Sup> 9, ch. 54 (4<Sup>e</Sup> suppl.), art. 32; 1989, ch. 3, art. 49; 1990, ch. 3, art. 32, ann., par. 8(1) et (2), ch. 13, art. 27; 1991, ch. 6, art. 26, ch. 10, al. 19(1)e) et art. 20, ann., n<Sup>o</Sup> 7, ch. 16, art. 25, DORS/91-652, ch. 38, par. 31(1) et 39(1); 1992, ch. 1, art. 119, ch. 37, art. 80; 1993, ch. 1, art. 11, 22 et 44, ch. 31, art. 27, ch. 34, art. 107; 1994, ch. 26, art. 61; 1995, ch. 18, art. 95, ch. 29, art. 37; 1996, ch. 11, art. 85 et 86; 1997, ch. 6, art. 86, ch. 9, art. 119 et 120; 1998, ch. 31, art. 60, ch. 35, art. 126; 1999, ch. 17, art. 179; 2000, ch. 6, art. 49 et 50, DORS/2000-168, DORS/2000‑246, ch. 23, art. 22, DORS/2000-287; 2001, ch. 9, art. 592; 2002, ch. 17, al. 14g); DORS/2003-234, 2003, ch. 22, art. 250, 259 et 260, ch. 23, art. 83 (<Emphasis style="italic">Remarque</Emphasis> : art. 83 abrogé avant d’entrer en vigueur par 2008, ch. 22, art. 52); DORS/2004-14, 2004, ch. 2, art. 77; 2005, ch. 30, partie 13, art. 92, ch. 38, art. 128 et al. 138r); 2008, ch. 9, art. 13, ch. 22, art. 51; 2009, ch. 31, art. 62; 2010, ch. 7, art. 12; ch. 12, art. 2148.1; DORS/2012-59, ch. 19, art. 503, 591 et 750; 2013, ch. 38, art. 19 et 20, ch. 40, art. 461; DORS/2014-188, art. 1, 2014, ch. 39, art. 167, 168 et 380; 2017, ch. 20, art. 449; DORS/2018-195, art. 1; 2019, ch. 13, art. 40 et 72; 2019, ch. 28, art. 145 et 146; DORS/2019-301; 2023, ch. 26, 240; 2024, ch. 15, art. 215; 2024, ch. 33, art. 18</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe I, partie II</Label>
+    <Text>L.R., ch. 18 (3<Sup>e</Sup> suppl.), art. 42, ch. 20 (3<Sup>e</Sup> suppl.), art. 39, ann., n<Sup>o</Sup> 6, ch. 28 (3<Sup>e</Sup> suppl.), art. 310; L.R., ch. 1 (4<Sup>e</Sup> suppl.), art. 50, ch. 28 (4<Sup>e</Sup> suppl.), par. 36(2), ann., n<Sup>o</Sup> 5; 1993, ch. 28, art. 78, ann. III, art. 128, cette modification a été modifiée avant son entrée en vigueur par 1998, ch. 15, art. 37; 1994, ch. 13, art. 11; 1995, ch. 18, art. 96 et 97; 1996, ch. 10, art. 257 et 258, ch. 16, art. 52; 1998, ch. 9, art. 50; 1999, ch. 34, art. 114; 2001, ch. 34, art. 81; 2002, ch. 7, art. 232; 2003, ch. 22, art. 212(A), 213; 2005, ch. 26, art. 25; 2013, ch. 40, art. 462 et 463; 2017, ch. 9, al. 57(2)a); 2024, ch. 16, art. 114</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe I, partie III</Label>
+    <Text>L.R., ch. 19 (2<Sup>e</Sup> suppl.), art. 54; DORS/87-223, DORS/87-224; L.R., ch. 28 (3<Sup>e</Sup> suppl.), art. 311; L.R., ch. 1 (4<Sup>e</Sup> suppl.), art. 51; ch. 7 (4<Sup>e</Sup> suppl.), par. 9(2); 1989, ch. 3, art. 50; 1990, ch. 3, art. 32, ann., par. 8(3) et (4); 1991, ch. 10, art. 20, ann., n<Sup>o</Sup> 8, ch. 38, par. 31(2) et 39(2); 1992, ch. 1, art. 120; 1993, ch. 34, art. 108; 1994, ch. 26, art. 62; 1996, ch. 16, art. 53; 1999, ch. 34, art. 114; DORS/2000-168; DORS/2000-246; 2001, ch. 22, art. 20 et 21, ch. 33, art. 27 et 28; DORS/2003-234, 2003, ch. 22, art. 214(A); DORS/2004-14; DORS/2018-195, art. 2; DORS/2019-301</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe II</Label>
+    <Text>1992, ch. 46, art. 31</Text>
+  </Schedule>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2003, ch. 26, par. 70(4)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>dispositions de coordination, 2004, ch. 7, art. 41</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>dispositions générales, 1991, ch. 10, par. 19(2)</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 1996, ch. 18, art. 27 et 29</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 1999, ch. 34, art. 94</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 2012, ch. 31, art. 481 et 484</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 2014, ch. 39, art. 387, 388, 390 et 392 à 396 (transfert de la pension de certains employés)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 33, art. 19 (Règlement abrogé)</Text>
+  </General>
+  <Transitional>
+    <Text>dispositions transitoires, 1989, ch. 6, art. 33 à 35</Text>
+  </Transitional>
+  <Transitional>
+    <Text>disposition transitoire, 1992, ch. 46, art. 108</Text>
+  </Transitional>
+  <Transitional>
+    <Text>disposition transitoire, 1999, ch. 34, art. 229</Text>
+  </Transitional>
+  <Transitional>
+    <Text>disposition transitoire, 2012, ch. 31, art. 501 (règlements peuvent avoir un effet rétroactif)</Text>
+  </Transitional>
+  <Terminology>
+    <Text>terminologie, 2017, ch. 9, al. 57(2)a)</Text>
+  </Terminology>
+  <CIF>
+    <Text>EEV, L.R., ch. 22 (1<Sup>er</Sup> suppl.), art. 11 en vigueur 09.09.85 <Emphasis style="italic">voir</Emphasis> TR/85‑151</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 46 (1<Sup>er</Sup> suppl.) en vigueur 29.10.85</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 13 (2<Sup>e</Sup> suppl.), art. 45 en vigueur 01.12.86 <Emphasis style="italic">voir</Emphasis> TR/86‑213</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 15 (2<Sup>e</Sup> suppl.), art. 1 en vigueur 12.12.88 <Emphasis style="italic">voir</Emphasis> TR/89-239 mais le texte original en vigueur 07.05.86 <Emphasis style="italic">voir</Emphasis> TR/86‑69</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 19 (2<Sup>e</Sup> suppl.), art. 54 en vigueur 19.06.86 <Emphasis style="italic">voir</Emphasis> TR/86‑109</Text>
+    <List>
+      <Item>
+        <Text>(<Emphasis style="italic">Remarque</Emphasis> : par. 54(2) et (3) en vigueur dès l’abrogation du par. 60(1) <Emphasis style="italic">voir</Emphasis> par. 54(2) et (3). Par. 60(1) abrogé 01.09.91 <Emphasis style="italic">voir</Emphasis> TR/91‑111)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 32 (2<Sup>e</Sup> suppl.), art. 41 en vigueur 01.01.87 <Emphasis style="italic">voir</Emphasis> art. 46</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 9 (3<Sup>e</Sup> suppl.), art. 1 et 2 en vigueur 01.06.94 <Emphasis style="italic">voir</Emphasis> TR/94‑63 <Emphasis style="italic">voir aussi</Emphasis> l’entrée en vigueur de la <XRefExternal reference-type="act">Loi sur la réorganisation et l’aliénation de Téléglobe Canada</XRefExternal>, L.C. 1987, ch. 12, art. 20 en vigueur 28.07.93 <Emphasis style="italic">voir</Emphasis> TR/93‑147 et art. 33 en vigueur 29.07.93 <Emphasis style="italic">voir</Emphasis> TR/93‑148</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 18 (3<Sup>e</Sup> suppl.), art. 42 en vigueur 02.07.87 <Emphasis style="italic">voir</Emphasis> TR/87‑146</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 20 (3<Sup>e</Sup> suppl.), art. 39 (Ann., n<Sup>o</Sup> 6) en vigueur 01.08.87 <Emphasis style="italic">voir</Emphasis> TR/87‑183</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 28 (3<Sup>e</Sup> suppl.), art. 310 et 311 en vigueur 01.01.88 <Emphasis style="italic">voir</Emphasis> TR/88‑26</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 1 (4<Sup>e</Sup> suppl.), art. 50 en vigueur 04.02.88</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 7 (4<Sup>e</Sup> suppl.), art. 9 en vigueur 01.11.89 <Emphasis style="italic">voir</Emphasis> TR/89-231 mais le texte original en vigueur 05.05.88 <Emphasis style="italic">voir</Emphasis> TR/88‑84</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 28 (4<Sup>e</Sup> suppl.) en vigueur 01.01.89 <Emphasis style="italic">voir</Emphasis> TR/88‑231</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 41 (4<Sup>e</Sup> suppl.), art. 55 en vigueur 15.09.88 <Emphasis style="italic">voir</Emphasis> TR/88‑152</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 47 (4<Sup>e</Sup> suppl.), art. 52 en vigueur 31.12.88 <Emphasis style="italic">voir</Emphasis> TR/89‑3</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, L.R., ch. 54 (4<Sup>e</Sup> suppl.), art. 32 en vigueur 30.09.88</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1989, ch. 3, art. 49 et 50 en vigueur 29.03.90 <Emphasis style="italic">voir</Emphasis> TR/90‑63</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1989, ch. 6 en vigueur 29.06.89</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1990, ch. 3, en vigueur 01.07.90 <Emphasis style="italic">voir</Emphasis> TR/90‑86</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1990, ch. 13, art. 27 en vigueur 14.12.90 <Emphasis style="italic">voir</Emphasis> TR/91‑5</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1991, ch. 6 en vigueur 09.09.91 <Emphasis style="italic">voir</Emphasis> TR/91‑117</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1991, ch. 10, art. 19 en vigueur à la sanction 01.02.91; art. 20, ann., art. 7 et 8 en vigueur 05.02.2001 <Emphasis style="italic">voir</Emphasis> TR/2001‑17</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1991, ch. 16 en vigueur 01.12.91 <Emphasis style="italic">voir</Emphasis> TR/91‑158</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1991, ch. 38, art. 31 en vigueur 26.11.91 <Emphasis style="italic">voir</Emphasis> TR/91‑161; art. 39 en vigueur 01.08.93 <Emphasis style="italic">voir</Emphasis> TR/93‑153</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1992, ch. 1, art. 119 et 120 en vigueur à la sanction 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1992, ch. 37, art. 80 en vigueur 22.12.94 <Emphasis style="italic">voir</Emphasis> TR/95‑3</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1992, ch. 46,</Text>
+    <List>
+      <Item>
+        <Text>— par. 1(1), 6(4), art. 7, 9, 13, 17, 19 à 21, al. 42.1(1)v) de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édicté par l’art. 22, art. 24, la partie IV de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édictée par l’art. 30 et art. 108 en vigueur 20.04.93 <Emphasis style="italic">voir</Emphasis> TR/93‑66;</Text>
+      </Item>
+      <Item>
+        <Text>— par. 1(2) et 2(2), par. 5.1(1) et art. 5.2 de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édictés par l’art. 3, par. 4(1), 5(1) et (3) et 6(1) et (3) et al. 42.1(1)b), c), i) et u) et par. 42.1(2) de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édictés par l’art. 22 en vigueur 04.07.94 <Emphasis style="italic">voir</Emphasis> TR/94‑84;</Text>
+      </Item>
+      <Item>
+        <Text>— par. 2(1) et (3), par. 5.1(2) et (3) et les art. 5.3 à 5.5 de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édictés par l’art. 3, les par. 4(2) et 5(2) et les al. 42.1(1)d) à h) de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édictés par l’art. 22 en vigueur 09.09.93 <Emphasis style="italic">voir</Emphasis> TR/93‑186;</Text>
+      </Item>
+      <Item>
+        <Text>— par. 2(4) et 6(2) et art. 8, 11 et 18 de la Loi, al. 42.1(1)a) de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édicté par l’art. 22 de la Loi en vigueur 16.12.94 <Emphasis style="italic">voir</Emphasis> TR/94‑146 <Emphasis style="italic">mais malgré ce qui précède</Emphasis>, par. 2(4) et 6(2) et art. 8, 11 et 18 de la Loi, al. 42.1(1)a) de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édicté par l’art. 22 de la Loi sont réputés être entrés en vigueur 15.12.94 <Emphasis style="italic">voir respectivement</Emphasis> 2011, ch. 24, al. 184a) et b)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 12, 15 et 16 et al. 42.1(1)m) à s) de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édicté par l’art. 22, en vigueur 18.03.94 <Emphasis style="italic">voir</Emphasis> TR/94‑32</Text>
+      </Item>
+      <Item>
+        <Text>— art. 13.1 de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édicté par l’art. 10, par. 26(1) de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édicté par l’art. 14 et al. 42.1(1)j) à l) de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édicté par l’art. 22 en vigueur 10.02.94 <Emphasis style="italic">voir</Emphasis> TR/94‑23;</Text>
+      </Item>
+      <Item>
+        <Text>— art. 23 est réputé être entré en vigueur 01.04.91 <Emphasis style="italic">voir</Emphasis> par. 109(2);</Text>
+      </Item>
+      <Item>
+        <Text>— art. 25 à 29 et 31 en vigueur 05.10.92 <Emphasis style="italic">voir</Emphasis> TR/92‑195;</Text>
+      </Item>
+      <Item>
+        <Text>— la partie III (art. 64 à 70), édictée par l’art. 30, est réputée entrée en vigueur 01.04.91 <Emphasis style="italic">voir</Emphasis> par. 109(3);</Text>
+      </Item>
+      <Item>
+        <Text>— al. 42.1(1)t), et w) de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édictés par l’art. 22 en vigueur 01.12.95 <Emphasis style="italic">voir</Emphasis> TR/95‑128.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1993, ch. 1, art. 11 en vigueur 26.03.93 <Emphasis style="italic">voir</Emphasis> TR/93‑34; art. 22 et 44 en vigueur 31.03.93 <Emphasis style="italic">voir</Emphasis> TR/93‑57</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1993, ch. 28, art. 78 (ann. III, par. 128(1)) en vigueur 01.04.99 <Emphasis style="italic">voir</Emphasis> art. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1993, ch. 31, art. 27 en vigueur 28.04.94 <Emphasis style="italic">voir</Emphasis> TR/94‑59</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1993, ch. 34, art. 107 et 108 en vigueur à la sanction 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 13, art. 11 en vigueur à la sanction 12.05.94</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 26, art. 60 à 62 en vigueur à la sanction 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 18, art. 95 à 97 en vigueur 15.09.95 <Emphasis style="italic">voir</Emphasis> TR/95‑108</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 29, art. 37 en vigueur 01.11.95 <Emphasis style="italic">voir</Emphasis> TR/95‑115</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 10, art. 257 et 258 en vigueur 01.07.96 <Emphasis style="italic">voir</Emphasis> TR/96‑53</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 11, art. 85 et 86 en vigueur 12.07.96 <Emphasis style="italic">voir</Emphasis> TR/96‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 16, art. 51 à 53 en vigueur 12.07.96 <Emphasis style="italic">voir</Emphasis> TR/96‑67</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 18, art. 21 à 38 en vigueur à la sanction 20.06.96 <Emphasis style="italic">sauf</Emphasis> par. 10(9) de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édicté par le par. 25(3) de la présente loi, entre en vigueur 01.01.97 <Emphasis style="italic">voir</Emphasis> par. 38(1); par. 40.3(1) de la <XRefExternal reference-type="act">Loi sur la pension de la fonction publique</XRefExternal>, édicté par l’art. 33 de la présente loi en vigueur 15.10.97 <Emphasis style="italic">voir</Emphasis> TR/97‑124</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1997, ch. 6, art. 86 en vigueur 01.04.97 <Emphasis style="italic">voir</Emphasis> TR/97‑37</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1997, ch. 9, art. 119 et 120 en vigueur 31.05.2000 <Emphasis style="italic">voir</Emphasis> TR/2000‑42</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1998, ch. 9, art. 50 en vigueur 30.06.98 <Emphasis style="italic">voir</Emphasis> TR/98‑79</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1998, ch. 15, art. 37 en vigueur à la sanction 11.06.98 (<Emphasis style="italic">Remarque</Emphasis><Emphasis style="bold"><Emphasis style="italic"> :</Emphasis></Emphasis> Malgré l’art. 79 de la <XRefExternal reference-type="act">Loi sur le Nunavut</XRefExternal>, l’ann. III, par. 128(2) édicté par le par. 37(1) est réputé être entré en vigueur le 26.11.1996 <Emphasis style="italic">voir</Emphasis> par. 37(2))</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1998, ch. 31, art. 60 en vigueur 21.12.98 <Emphasis style="italic">voir</Emphasis> TR/99‑4</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1998, ch. 35, art. 126 en vigueur 01.09.99 <Emphasis style="italic">voir</Emphasis> TR/99‑75</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 17, art. 179 en vigueur 01.11.99 <Emphasis style="italic">voir</Emphasis> TR/99-111</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 26, art. 15 en vigueur à la sanction 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 34,</Text>
+    <List>
+      <Item>
+        <Text>— par. 53(1), la définition « enfant » au par. 3(1) de la <XRefExternal reference-type="act">Loi sur pension de la fonction publique</XRefExternal>, édictée par le par. 53(2), par. 53(3), art. 54, 61, par. 62(2), (4) et (5), 64(1) à (3), (5) et (6), 65(1) à (4), art. 66, 68, 70 à 72, 75 à 77, 80 à 84, 87 à 90, par. 91(3) à (5), (7) et (8), 92(2) à (6), art. 93 et 94, par. 95(2) et (3), art. 97 à 102, 104 à 106, 111 à 113 et 229 en vigueur à la sanction 14.09.99</Text>
+      </Item>
+      <Item>
+        <Text>— la définition de « contributeur » au par. 3(1) de la <XRefExternal reference-type="act">Loi sur pension de la fonction publique</XRefExternal>, édictée par le par. 53(2), art. 55 à 60, par. 62(1) et (3), art. 63, par. 64(4), art. 67, 69, 73, 74, 78, 79, 85 et 86, par. 91(1), (2) et (6), par. 92(1), art. 107 à 110 en vigueur 01.01.2000 <Emphasis style="italic">voir</Emphasis> TR/99-138;</Text>
+      </Item>
+      <Item>
+        <Text>— par. 65(5) en vigueur 21.06.99 <Emphasis style="italic">voir</Emphasis> par. 230(1);</Text>
+      </Item>
+      <Item>
+        <Text>— par. 95(1) et art. 96 en vigueur 01.04.2000 <Emphasis style="italic">voir</Emphasis> TR/99‑138;</Text>
+      </Item>
+      <Item>
+        <Text>— art. 103 en vigueur 01.10.99 <Emphasis style="italic">voir</Emphasis> par. 230(2);</Text>
+      </Item>
+      <Item>
+        <Text>— art. 114 en vigueur 01.10.2000 <Emphasis style="italic">voir</Emphasis> TR/99-138</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">Voir aussi</Emphasis> l’art. 231</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2000, ch. 6, art. 50 en vigueur 07.06.2000 <Emphasis style="italic">voir</Emphasis> TR/2000‑46; art. 49 en vigueur 31.05.2001 <Emphasis style="italic">voir</Emphasis> TR/2001‑66</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2000, ch. 12, art. 276 en vigueur 31.07.2000 <Emphasis style="italic">voir</Emphasis> TR/2000‑76; art. 275 et 277 en vigueur 01.01.2012 <Emphasis style="italic">voir</Emphasis> TR/2011-118</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2000, ch. 23, art. 22 en vigueur 01.12.2011 <Emphasis style="italic">voir</Emphasis> TR/2011-106</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 9, art. 592 en vigueur 24.10.2001 <Emphasis style="italic">voir</Emphasis> TR/2001-102</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 22, art. 20 et 21 en vigueur à la sanction 14.06.2001</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 33, art. 27 et 28 en vigueur 21.12.2001 <Emphasis style="italic">voir</Emphasis> TR/2002-15</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 34, art.79 à 81 en vigueur à la sanction 18.12.2001</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 7, art. 232 en vigueur 01.04.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 17, art. 14 en vigueur 22.07.2002 <Emphasis style="italic">voir</Emphasis> TR/2002-105</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 22, art. 250 en vigueur 20.11.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-178; art. 259 et 260 en vigueur 01.04.2004 <Emphasis style="italic">voir</Emphasis> TR/2004-42; art. 209 à 214, 224 et 225 en vigueur 01.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 23, art. 83 entre en vigueur à la date ou aux dates fixées par décret <Emphasis style="italic">voir</Emphasis> art. 85. (<Emphasis style="italic">Remarque</Emphasis> : art. 83 abrogé avant d’entrer en vigueur par 2008, ch. 22, art. 52)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 26, art. 70 en vigueur à la sanction 07.11.2003</Text>
+    <List>
+      <Item>
+        <Text>— art. 48 à 55 en vigueur 01.03.2007 <Emphasis style="italic">voir</Emphasis> TR/2007-21</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 2, art. 77 en vigueur 12.01.2006 <Emphasis style="italic">voir</Emphasis> TR/2005-42</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 7, art. 41 en vigueur à la sanction 31.03.2004; art. 36 en vigueur 17.05.2004 <Emphasis style="italic">voir</Emphasis> TR/2004‑52</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 26, art. 25 en vigueur 05.10.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-101</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 30, art. 92 en vigueur 03.10.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-92</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 38, art. 128 et 138 en vigueur 12.12.2005 <Emphasis style="italic">voir</Emphasis> TR/2005‑119</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2006, ch. 4, art. 204 et 205 en vigueur 01.01.2008 <Emphasis style="italic">voir</Emphasis> art. 207</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2006, ch. 9, art. 33 en vigueur 09.07.2007 <Emphasis style="italic">voir</Emphasis> TR/2007-75</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2008, ch. 9 (sanction : 13.03.2008), art. 13 en vigueur 10.08.2008 <Emphasis style="italic">voir</Emphasis> TR/2008-92</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2008, ch. 22 (sanction : 18.06.2008), art. 51 en vigueur 16.10.2008 <Emphasis style="italic">voir</Emphasis> art. 53</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2008, ch. 28, art. 160, abrogé avant leur entrée en vigueur 31.12.2018 voir 2008, ch. 20, art. 3 (<XRefExternal reference-type="act">Loi sur l’abrogation des lois</XRefExternal>), voir aussi <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, Partie I, Vol. 153, n<Sup>o</Sup> 7, p.373</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2008, ch. 28, art. 157 à 159 en vigueur à la sanction 18.06.2008</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2009, ch. 31, art. 62 en vigueur à la sanction 15.12.2009</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2010, ch. 7 (sanction : 29.06.2010), art. 12 en vigueur 25.11.2010 <Emphasis style="italic">voir</Emphasis> TR/2010-87</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2010, ch. 12 (sanction : 12.07.2010), art. 2148.1 ajouté par 2014, ch. 39, art. 380 en vigueur 13.09.2015 <Emphasis style="italic">voir</Emphasis> 2014, ch. 39, par. 381(2) et l’avis publié par le ministre dans la <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, partie I, n<Sup>o</Sup> 39, 26.09.2015, p. 2323.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2011, ch. 24, al. 184a) et b) en vigueur à la sanction 15.12.2011</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 19 (sanction : 29.06.2012), art. 503 en vigueur 27.07.2012 <Emphasis style="italic">voir</Emphasis> TR/2012-61; art. 591 en vigueur 01.04.2013 <Emphasis style="italic">voir</Emphasis> TR/2013-36; art. 750 en vigueur 30.09.2012 <Emphasis style="italic">voir</Emphasis> TR/2012-75.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 31 (sanction : 14.12.2012), art. 475 à 501 en vigueur 01.01.2013 <Emphasis style="italic">voir</Emphasis> par. 514(1).</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 38, art. 19 et 20 en vigueur à la sanction 12.12.2013.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 40 (sanction : 12.12.2013), art. 461 à 463 en vigueur 01.11.2014 <Emphasis style="italic">voir</Emphasis> TR/2014-84.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 39 (sanction : 16.12.2014), art. 167 et 168 en vigueur 01.06.2015 <Emphasis style="italic">voir</Emphasis> TR/2015-36;</Text>
+    <List>
+      <Item>
+        <Text>— art. 380 en vigueur 13.09.2015 <Emphasis style="italic">voir</Emphasis> l’avis publié dans la <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, Partie I, n<Sup>o</Sup> 39, 26.09.2015, p. 2323, (date à laquelle Énergie atomique du Canada limitée a disposé, par vente, en vertu de l’al. 2141(1)j) de la <XRefExternal reference-type="act">Loi sur l’emploi et la croissance économique</XRefExternal> (2010, ch. 12), de tous ses titres de la société Laboratoires Nucléaires Canadiens Ltée.</Text>
+      </Item>
+      <Item>
+        <Text>— art. 387, 388, 390 et 392 à 396 en vigueur 26.04.2018 (la date publiée dans la <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, par le Conseil du Trésor en vertu de l’article 86 de la <XRefExternal reference-type="act">Loi visant à accroitre la responsabilité de la Gendarmerie royale du Canada</XRefExternal> (2013, ch. 18) <Emphasis style="italic">voir</Emphasis> art. 401 et la <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, Partie I, Vol. 151, No. 6, p. 672 (11 février 2017).</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 36, art. 137 en vigueur à la sanction 23.06.2015.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 9, al. 57(2)a) en vigueur à la sanction 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 20 (sanction : 22.06.2017), art. 172 en vigueur 21.09.2017 <Emphasis style="italic">voir</Emphasis> TR/2017-53; art. 449 en vigueur 12.03.2018 <Emphasis style="italic">voir</Emphasis> TR/2018-15.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 13, (sanction : 21.06.2019) art. 40 et 72 en vigueur 12.07.2019 — <Emphasis style="italic">voir</Emphasis> TR/2019-67</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch.28 (sanction : 21.06.2019) art. 145 and 146 en vigueur 28.08.2019 — <Emphasis style="italic">voir</Emphasis> TR/2019-86</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2023, ch. 26 (sanction : 22.06.2023), art. 240 entre en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> par. 241(1) — non en vigueur</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 15, art. 215 en vigueur 15.10.2024 <Emphasis style="italic">voir</Emphasis> TR/2024-49</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 16, art. 114 entre en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> art. 117 — non en vigueur</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 25, art. 112 entre en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> art. 146 — non en vigueur</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 33, art. 18 en vigueur 06.03.2025<Emphasis style="italic">voir</Emphasis> TR/2025–27</Text>
+  </CIF>
+</Statute>
+</TOPS>

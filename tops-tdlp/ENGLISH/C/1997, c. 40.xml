@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1997, c. 40">
+  <Title>Canada Pension Plan Investment Board Act</Title>
+  <ChapterNumber>1997, c. 40</ChapterNumber>
+  <OtherLangTitle>(Office d’investissement du régime de pensions du Canada, Loi sur l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Finance</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1999, c. 3, s. 19; 2002, c. 7, s. 112(E); 2003, c. 5, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2003, c. 22, par. 224(s)(E); 2009, c. 23, s. 317</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2003, c. 5, s. 13; 2016, c. 14, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>6.1</Label>
+    <Text>added, 2003, c. 5, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2013, c. 40, s. 277</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2003, c. 5, s. 15; repealed, 2009, c. 31, s. 44</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2016, c. 14, s. 58; 2017, c. 26, subpar. 62(i)(i)</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2017, c. 26, subpar. 62(i)(ii)</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>2003, c. 5, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2003, c. 5, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>2009, c. 31, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>2003, c. 5, s. 18; 2016, c. 14, s. 60</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>2016, c. 14, s. 61</Text>
+  </Section>
+  <Section>
+    <Label>57.1</Label>
+    <Text>added, 2016, c. 14, s. 61</Text>
+  </Section>
+  <General>
+    <Text>General, 2016, c. 14, s. 59</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 2003, c. 5, s. 19</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitionals, 2016, c. 14, s. 62 to 64 (<Emphasis style="italic">Note</Emphasis>: Minister of Employment and Social Development (s. 62))</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1997, c. 40,</Text>
+    <List>
+      <Item>
+        <Text>— ss. 60, 62 to 68, 72, 73, 75, 77(2), 78 to 80, 82, 85, 85.1, 90(2) of the <XRefExternal reference-type="act">Canada Pension Plan</XRefExternal> as enacted by s. 86, s. 90.2 of the <XRefExternal reference-type="act">Canada Pension Plan</XRefExternal> as enacted by s. 87, ss. 88, 95, 99, 102 to 105, s. 44(3) of the O<XRefExternal reference-type="act">ld Age Security Act</XRefExternal> as enacted by s. 106 and s. 44.2 of the <XRefExternal reference-type="act">Old Age Security Act </XRefExternal>as enacted by s. 107 in force on assent 18.12.97</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 58 and 59, 61, 69 to 71, 74 and 76, 77(1), 81, 83, 92 to 94 and 96 to 98 in force 01.01.98 <Emphasis style="italic">see</Emphasis> SI/98‑24</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1 to 57, 89 to 91 and 108 and 109 in force 01.04.98 <Emphasis style="italic">see</Emphasis> SI/98‑24</Text>
+      </Item>
+      <Item>
+        <Text>— s. 84, s. 90(3) of the <XRefExternal reference-type="act">Canada Pension Plan</XRefExternal> as enacted by s. 86, s. 90.1 of the <XRefExternal reference-type="act">Canada Pension Plan</XRefExternal> as enacted by s. 87, ss. 100 and 101, s. 44(4) of the <XRefExternal reference-type="act">Old Age Security Act </XRefExternal>as enacted by s. 106 and s. 44.1 of the O<XRefExternal reference-type="act">ld Age Security</XRefExternal> Act as enacted by s. 107 in force 01.04.2010 see SI/2010-16</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 3, s. 19 in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, s. 112 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 5,</Text>
+    <List>
+      <Item>
+        <Text>— s. 12(1), ss. 13 and 15 to 17, s. 18(1) and s. 19 in force 01.04.2004 <Emphasis style="italic">see</Emphasis> SI/2004-31</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 12(2), 14 and 18(2) in force 01.04.2007 <Emphasis style="italic">see</Emphasis> s. 20(2).</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 224 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 23 (assent: 23.06.2009), s. 317(1) in force 17.10.2011 <Emphasis style="italic">see</Emphasis> SI/2011-87; s. 317(2) in force 31.12.2017 <Emphasis style="italic">see</Emphasis> SI/2018-1.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 31, s. 45(1) deemed to have come into force 01.04.1998 <Emphasis style="italic">see</Emphasis> s. 46; ss. 44 and 45(2) in force 31.12.2011 <Emphasis style="italic">see</Emphasis> SI/2011-116</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40, s. 277 in force 09.10.2014 <Emphasis style="italic">see</Emphasis> SI/2014-82.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2016, c. 14 (assent: 15.12.2016), ss. 57 to 64 in force 03.03.2017 <Emphasis style="italic">see</Emphasis> SI/2017-19;</Text>
+    <List>
+      <Item>
+        <Text>— ss. 67 and 69 repealed by 2018, c. 12, s. 39 and 40;</Text>
+      </Item>
+      <Item>
+        <Text>— <Emphasis style="italic">Note</Emphasis>: s. 114(2) of the <XRefExternal reference-type="act">Canada Pension Plan</XRefExternal> does not apply in respect of the amendments to that Act contained in this Part <Emphasis style="italic">see</Emphasis> s. 65(1).</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 26, par. 62(i) in force on assent 12.12.2017.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 12, ss. 39 and 40 in force on assent 21.06.2018</Text>
+  </CIF>
+</Statute>
+</TOPS>

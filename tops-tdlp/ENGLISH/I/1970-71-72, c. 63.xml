@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1970-71-72, c. 63">
+  <Title>Income Tax Act, An Act to amend</Title>
+  <ChapterNumber>1970-71-72, c. 63</ChapterNumber>
+  <OtherLangTitle>(Impôt sur le revenu, Loi de l’ (loi modificative))</OtherLangTitle>
+  <Heading>
+    <Label>Part I</Label>
+    <Text>repealed, <Emphasis style="italic">see</Emphasis> R.S., Schedule (5th Supp.) for extent of repeal and 1994, c. 21, s. 122 <Emphasis style="italic">see also</Emphasis> Table of Public Statutes dated 31.12.93 for amendments prior to repeal</Text>
+  </Heading>
+  <Heading>
+    <Label>Part II</Label>
+    <Text>(consequential amendments)</Text>
+  </Heading>
+  <Heading>
+    <Label>Part III</Label>
+    <Text>repealed, <Emphasis style="italic">see</Emphasis><XRefExternal reference-type="act">Income Tax Application Rules, 1971</XRefExternal></Text>
+  </Heading>
+  <Heading>
+    <Label>Part IV</Label>
+    <Text>amendments to pre-1972 <XRefExternal reference-type="act">Income Tax Act</XRefExternal></Text>
+  </Heading>
+  <Transitional>
+    <Text>Transitional, R.S., c. 2 (5th Supp.), ss. 69 to 78 <Emphasis style="italic">re</Emphasis> application</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., Schedule (5th Supp.) in force 01.03.94 <Emphasis style="italic">see</Emphasis> SI/94‑19</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 2 (5th Supp.), ss. 69 to 78 in force 01.03.94 <Emphasis style="italic">see</Emphasis> SI/94‑19</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 21, s. 122 deemed in force 01.03.94</Text>
+  </CIF>
+</Statute>
+</TOPS>

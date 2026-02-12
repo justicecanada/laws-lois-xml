@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2001, c. 17">
+  <Title>Income Tax Amendments Act, 2000</Title>
+  <ChapterNumber>2001, c. 17</ChapterNumber>
+  <OtherLangTitle>(Impôt sur le revenu, Loi de 2000 modifiant l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Finance</Text>
+  </Minister>
+  <Section>
+    <Label>53</Label>
+    <Text>2013, c. 34, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>2013, c. 34, s. 25</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 2001, c. 17 in force on assent 14.06.2001 <Emphasis style="italic">see also</Emphasis> various coming into force provisions throughout</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 34, ss. 24 and 25 deemed to have come into force 14.06.2001</Text>
+  </CIF>
+</Statute>
+</TOPS>

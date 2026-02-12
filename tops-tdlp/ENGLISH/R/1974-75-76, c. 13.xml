@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1974-75-76, c. 13">
+  <Title>Representation Act, 1974</Title>
+  <ChapterNumber>1974-75-76, c. 13</ChapterNumber>
+  <OtherLangTitle>(Représentation (1974), Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>President of the Privy Council</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>(<Emphasis style="italic">consequential amendments</Emphasis>)</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1976-77, c. 28, s. 38, <XRefExternal reference-type="act">Constitution Act, 1982</XRefExternal>, Sch., item 28</Text>
+  </Section>
+  <Section>
+    <Label>6, 7</Label>
+    <Text>1976-77, c. 28, s. 38</Text>
+  </Section>
+</Statute>
+</TOPS>

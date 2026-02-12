@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="E-13.7">
+  <Title>Exchequer Court Act</Title>
+  <ChapterNumber>R.S.C. 1970, c. E-11</ChapterNumber>
+  <OtherLangTitle>(Cour de l’Échiquier, Loi sur la)</OtherLangTitle>
+  <Repeal>
+    <Text>ACT REPEALED <Emphasis style="bold">EXCEPT</Emphasis> ss. 26 to 28 R.S.C. 1970, c. 10 (2nd Supp.), s. 64(1)</Text>
+  </Repeal>
+  <Section>
+    <Label>26</Label>
+    <Text>R.S.C. 1970, c. 10 (2nd Supp.), s. 64(2); 1987, c. 34, s. 368 (Sch., item 6); 1996, c. 10, s. 223</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>1996, c. 10, s. 224</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>R.S.C. 1970, c. 10 (2nd Supp.), s. 64(2)</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, R.S.C. 1970, c. 10 (2nd Supp.) in force 01.06.71 <Emphasis style="italic">see</Emphasis> SOR/71‑241</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1987, c. 34, s. 368 (Sch., item 6) in force 01.01.88 <Emphasis style="italic">see</Emphasis> SI/88‑26</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 10, ss. 223 and 224 in force 01.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑53</Text>
+  </CIF>
+</Statute>
+</TOPS>

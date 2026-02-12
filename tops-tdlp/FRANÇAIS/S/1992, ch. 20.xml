@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1992, ch. 20">
+  <Title>Système correctionnel et la mise en liberté sous condition, Loi sur le</Title>
+  <ChapterNumber>1992, ch. 20</ChapterNumber>
+  <OtherLangTitle>(Corrections and Conditional Release Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de la Sécurité publique et de la Protection civile (2005, ch. 10, art. 34)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, al. 34(1)e); 2008, ch. 6, art. 56; 2012, ch. 1, art. 52, sous-al. 160b)(i) et art. 196; 2015, ch. 13, art. 45; 2019, ch. 27, art. 1</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>ajouté, 1997, ch. 17, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>3.1</Label>
+    <Text>ajouté, 2012, ch. 1, art. 54</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1995, ch. 42, art. 2(F); 2012, ch. 1, art. 54 et sous-al. 160b)(ii); 2019, ch. 27, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1997, ch. 17, art. 13; 2024, ch. 17, art. 385</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1995, ch. 42, art. 3; 1997, ch. 17, art. 14</Text>
+  </Section>
+  <Section>
+    <Label>11.1</Label>
+    <Text>1995, ch. 42, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1995, ch. 42, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2002, ch. 1, art. 172; 2015, ch. 3, al. 172g)</Text>
+  </Section>
+  <Section>
+    <Label>15.1</Label>
+    <Text>ajouté, 2012, ch. 1, art. 55; 2019, ch. 27, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>15.2</Label>
+    <Text>ajouté, 2012, ch. 1, art. 55</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>1995, ch. 22, art. 13, ann. II, art. 1, ch. 42, art. 6; 2012, ch. 1, art. 56</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>1995, ch. 22, art. 13, ann. II, art. 2, ch. 42, art. 7(F); 1998, ch. 35, art. 108; 2000, ch. 24, art. 34; 2013, ch. 24, al. 127a); 2014, ch. 36, art. 1</Text>
+  </Section>
+  <Section>
+    <Label>17.1</Label>
+    <Text>ajouté, 2014, ch. 36, art. 1.1</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>1995, ch. 22, art. 13, ann. II, art. 3, ch. 42, art. 8 et sous-al. 71a)(i)(F); 1998, ch. 35, art. 109; 2000, ch. 24, art. 35; 2013, ch. 24, al. 127b)</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2016, ch. 3, art. 8; 2019, ch. 27, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>19.1</Label>
+    <Text>ajouté, 2019, ch. 27, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>1995, ch. 42, art. 9(F)</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>1995, ch. 42, sous-al. 71a)(ii); 2012, ch. 1, sous-al. 160b)(iii)</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2012, ch. 1, art. 57; 2015, ch. 13, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>26.1</Label>
+    <Text>ajouté, 2015, ch. 13, art. 47</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>1995, ch. 42, art. 10(F)</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2012, ch. 1, art. 58; 2019, ch. 27, art. 6</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>1995, ch. 42, art. 11; 2019, ch. 27, art. 7</Text>
+  </Section>
+  <Section>
+    <Label>29.01</Label>
+    <Text>ajouté, 2019, ch. 27, art. 7</Text>
+  </Section>
+  <Section>
+    <Label>29.1</Label>
+    <Text>ajouté, 2019, ch. 27, art. 8</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2012, ch. 1, art. 59; 2019, ch. 27, art. 9(F)</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2012, ch. 1, art. 60; 2019, ch. 27, art. 10</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2019, ch. 27, art. 10</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>1995, ch. 42, art. 12; 2019, ch. 27, art. 10</Text>
+  </Section>
+  <Section>
+    <Label>34 à 36</Label>
+    <Text>2019, ch. 27, art. 10</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2012, ch. 1, art. 61; 2019, ch. 27, art. 10</Text>
+  </Section>
+  <Section>
+    <Label>37.1 à 37.91</Label>
+    <Text>ajoutés, 2019, ch. 27, art. 10</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2012, ch. 1, art. 62</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>2012, ch. 1, art. 63; 2019, ch. 27, art. 11</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>1995, ch. 42, art. 13(F); 2019, ch. 27, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>1995, ch. 42, art. 14(F); 2019, ch. 27, art. 13(F)</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2019, ch. 27, art. 14</Text>
+  </Section>
+  <Section>
+    <Label>48.1</Label>
+    <Text>ajouté, 2019, ch. 27, art. 15</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2019, ch. 27, art. 16; 2022, ch. 10, art. 299</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>1995, ch. 42, art. 15</Text>
+  </Section>
+  <Section>
+    <Label>57.1</Label>
+    <Text>ajouté, 2012, ch. 1, art. 64</Text>
+  </Section>
+  <Section>
+    <Label>58.1</Label>
+    <Text>ajouté, 2024, ch. 17, art. 386; abrogé, 2024, ch. 17, art. 387</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>2019, ch. 27, art. 17(F)</Text>
+  </Section>
+  <Section>
+    <Label>60.1</Label>
+    <Text>ajouté, 2019, ch. 27, art. 18</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2012, ch. 1, art. 65; 2019, ch. 27, art. 19(F)</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>2019, ch. 27, art. 20(F)</Text>
+  </Section>
+  <Section>
+    <Label>64.1</Label>
+    <Text>ajouté, 2019, ch. 27, art. 21</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>2019, ch. 27, art. 22; 2022, ch. 10, art. 300</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>1995, ch. 42, sous-al. 71a)(iii)(F) et (iv)(F)</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>1995, ch. 42, art. 16</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>1995, ch. 42, art. 17(F)</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>1995, ch. 42, art. 18(F)</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>1995, ch. 42, art. 19(F)</Text>
+  </Section>
+  <Section>
+    <Label>78</Label>
+    <Text>1995, ch. 42, art. 20</Text>
+  </Section>
+  <Section>
+    <Label>79</Label>
+    <Text>2019, ch. 27, art. 23</Text>
+  </Section>
+  <Section>
+    <Label>79.1</Label>
+    <Text>ajouté, 2019, ch. 27, art. 23</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>2019, ch. 27, art. 23</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>1995, ch. 42, art. 21(F); 2019, ch. 27, art. 24</Text>
+  </Section>
+  <Section>
+    <Label>82 et 83</Label>
+    <Text>2019, ch. 27, art. 25</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>2012, ch. 1, art. 66, 2019, ch. 27, art. 25</Text>
+  </Section>
+  <Section>
+    <Label>84.1</Label>
+    <Text>ajouté, 1997, ch. 17, art. 15; 2019, ch. 27, art. 25</Text>
+  </Section>
+  <Section>
+    <Label>85</Label>
+    <Text>2019, ch. 27, art. 26</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>2019, ch. 27, art. 27</Text>
+  </Section>
+  <Section>
+    <Label>86.1 à 86.4</Label>
+    <Text>ajouté, 2019, ch. 27, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>2019, ch. 27, art. 29</Text>
+  </Section>
+  <Section>
+    <Label>89.1</Label>
+    <Text>ajouté, 2019, ch. 27, art. 30</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>1995, ch. 42, art. 22(F)</Text>
+  </Section>
+  <Section>
+    <Label>91.1</Label>
+    <Text>2013, ch. 3, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>91.2</Label>
+    <Text>2013, ch. 3, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>1995, ch. 42, art. 23; 2011, ch. 11, art. 2; 2012, ch. 1, art. 67(F)</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>1995, ch. 42, art. 24; 2012, ch. 1, art. 68</Text>
+  </Section>
+  <Section>
+    <Label>94.1</Label>
+    <Text>ajouté, 2024, ch. 17, art. 388; abrogé, 2024, ch. 17, art. 389</Text>
+  </Section>
+  <Section>
+    <Label>94.2</Label>
+    <Text>ajouté, 2024, ch. 17, art. 388; abrogé, 2024, ch. 17, art. 389</Text>
+  </Section>
+  <Section>
+    <Label>94.3</Label>
+    <Text>ajouté, 2024, ch. 17, art. 388; abrogé, 2024, ch. 17, art. 389</Text>
+  </Section>
+  <Section>
+    <Label>94.4</Label>
+    <Text>ajouté, 2024, ch. 17, art. 388; abrogé, 2024, ch. 17, art. 389</Text>
+  </Section>
+  <Section>
+    <Label>94.5</Label>
+    <Text>ajouté, 2024, ch. 17, art. 388; abrogé, 2024, ch. 17, art. 389</Text>
+  </Section>
+  <Section>
+    <Label>94.6</Label>
+    <Text>ajouté, 2024, ch. 17, art. 388; abrogé, 2024, ch. 17, art. 389</Text>
+  </Section>
+  <Section>
+    <Label>94.7</Label>
+    <Text>ajouté, 2024, ch. 17, art. 388; abrogé, 2024, ch. 17, art. 389</Text>
+  </Section>
+  <Section>
+    <Label>94.8</Label>
+    <Text>ajouté, 2024, ch. 17, art. 388; abrogé, 2024, ch. 17, art. 389</Text>
+  </Section>
+  <Section>
+    <Label>96</Label>
+    <Text>1995, ch. 42, art. 25 et sous-al. 72a)(ii)(F); 2012, ch. 1, art. 69; 2014, ch. 36, art. 2(F); 2019, ch. 27, art. 31</Text>
+  </Section>
+  <Section>
+    <Label>99</Label>
+    <Text>1995, ch. 22, art. 13, ann. II, art. 4, ch. 42, art. 26, al. 69a)(A), al. 70a)(A) et sous-al. 71a)(v)(F); 1997, ch. 17, art. 17; 2002, ch. 1, art. 173; 2003, ch. 22, art. 155; 2012, ch. 1, art. 70, sous-al. 160b)(iv) et art. 197; 2019, ch. 27, art. 32</Text>
+  </Section>
+  <Section>
+    <Label>99.1</Label>
+    <Text>ajouté, 1997, ch. 17, art. 18</Text>
+  </Section>
+  <Section>
+    <Label>99.2</Label>
+    <Text>ajouté, 2002, ch. 1, art. 174</Text>
+  </Section>
+  <Section>
+    <Label>100.1</Label>
+    <Text>ajouté, 2012, ch. 1, art. 71</Text>
+  </Section>
+  <Section>
+    <Label>101</Label>
+    <Text>2012, ch. 1, art. 71; 2019, ch. 27, art. 32.1</Text>
+  </Section>
+  <Section>
+    <Label>102</Label>
+    <Text>1995, ch. 42, art. 27(F)</Text>
+  </Section>
+  <Section>
+    <Label>103</Label>
+    <Text>1993, ch. 34, art. 57(F); 2012, ch. 1, art. 73</Text>
+  </Section>
+  <Section>
+    <Label>105</Label>
+    <Text>1995, ch. 42, sous-al. 71a)(vi)(F)</Text>
+  </Section>
+  <Section>
+    <Label>107</Label>
+    <Text>1995, ch. 22, art. 13, ann. II, art. 5, ch. 42, art. 28(A), al. 70b)(A) et sous-al. 71a)(vii)(F); 1998, ch. 35, art. 110; 2000, ch. 24, art. 36; 2004, ch. 21, al. 40(1)a)</Text>
+  </Section>
+  <Section>
+    <Label>108</Label>
+    <Text>1995, ch. 42, al. 69b)(A) et 70c)(A)</Text>
+  </Section>
+  <Section>
+    <Label>109</Label>
+    <Text>2006, ch. 14, art. 8; 2018, ch. 21, art. 47</Text>
+  </Section>
+  <Section>
+    <Label>112</Label>
+    <Text>1995, ch. 42, art. 29(F) et al. 69c)(A)</Text>
+  </Section>
+  <Section>
+    <Label>113</Label>
+    <Text>1995, ch. 42, art. 30(F)</Text>
+  </Section>
+  <Section>
+    <Label>115</Label>
+    <Text>1995, ch. 42, art. 31, al. 69d)(A) et sous-al. 71a)(ix)(F); 1997, ch. 17, art. 19; 2012, ch. 1, art. 74</Text>
+  </Section>
+  <Section>
+    <Label>116</Label>
+    <Text>1993, ch. 34, art. 58(F); 1995, ch. 42, art. 32(F) et sous-al. 71a)(x)(F) et (xi)(F); 2019, ch. 27, art. 33(A)</Text>
+  </Section>
+  <Section>
+    <Label>117</Label>
+    <Text>1995, ch. 42, sous-al. 71a)(xii)(F)</Text>
+  </Section>
+  <Section>
+    <Label>118</Label>
+    <Text>1995, ch. 42, sous-al. 71a)(xiii)(F)</Text>
+  </Section>
+  <Section>
+    <Label>119</Label>
+    <Text>1995, ch. 22, art. 13, ann. II, art. 6 et art. 18, ann. IV, art. 45, ch. 42, art. 33 et al. 69e)(A); 1997, ch. 17, par. 20(1) à (4); 1998, ch. 35, art. 111; 2000, ch. 24, art. 37; 2013, ch. 24, al. 127c) et d)</Text>
+  </Section>
+  <Section>
+    <Label>119.1</Label>
+    <Text>ajouté, 1997, ch. 17, art. 21 [<Emphasis style="italic">Remarque</Emphasis> : par. 21(2) abrogé par 2011, ch. 11, art. 12]; abrogé, 2011, ch. 11, art. 3; ajouté, 2012, ch. 1, art. 75</Text>
+  </Section>
+  <Section>
+    <Label>119.2</Label>
+    <Text>ajouté, 2012, ch. 1, art. 75</Text>
+  </Section>
+  <Section>
+    <Label>120</Label>
+    <Text>1995, ch. 22, art. 13, ann. II, art. 7 et 8, ch. 42, art. 34; 1998, ch. 35, art. 112; 2000, ch. 24, art. 38; 2013, ch. 24, art. 126 et al. 128a)</Text>
+  </Section>
+  <Section>
+    <Label>120.1</Label>
+    <Text>ajouté, 1995, ch. 42, art. 34; 1997, ch. 17, art. 22(F); 2012, ch. 1, art. 76; 2013, ch. 24, par. 133(4)</Text>
+  </Section>
+  <Section>
+    <Label>120.2</Label>
+    <Text>ajouté, 1995, ch. 42, art. 34, 1995, ch. 22, art. 18, ann. IV, art. 44; 1997, ch. 17, par. 23(1) et (2)(F); 1998, ch. 35, art. 113; 2000, ch. 24, art. 39; 2012, ch. 1, art. 76; 2013, ch. 24, al. 127e) et 128a)</Text>
+  </Section>
+  <Section>
+    <Label>120.3</Label>
+    <Text>ajouté, 1995, ch. 42, art. 34, 1995, ch. 22, art. 18, ann. IV, art. 38; 1998, ch. 35, art. 114; 2000, ch. 24, art. 40; 2012, ch. 1, art. 76; 2013, ch. 24, al. 127f)</Text>
+  </Section>
+  <Section>
+    <Label>121</Label>
+    <Text>1995, ch. 22, art. 13, ann. II, art. 9, ch. 42. art. 35; 1998, ch. 35, art. 115; 1999, ch. 18, art. 86; 2012, ch. 1, art. 77; 2013, ch. 24, al. 128c) et par. 133(9)</Text>
+  </Section>
+  <Section>
+    <Label>122</Label>
+    <Text>1995, ch. 42, art. 36(F) et al. 69f)(A); 2012, ch. 1, art. 78</Text>
+  </Section>
+  <Section>
+    <Label>123</Label>
+    <Text>1995, ch. 42, art. 37 et al. 69g)(A); 2012, ch. 1, art. 79; 2015, ch. 11, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>123.1</Label>
+    <Text>ajouté, 2015, ch. 30, art. 2</Text>
+  </Section>
+  <Section>
+    <Label>124</Label>
+    <Text>1995, ch. 42, art. 38; 2011, ch. 11, art. 4; 2012, ch. 1, art. 80, ch. 19, art. 526; 2015, ch. 30, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>125</Label>
+    <Text>1995, ch. 22, art. 13, ann. II, art. 10, ch. 42, art. 39 (<Emphasis style="italic">voir</Emphasis> 2011, ch. 11, art. 11); 1997, ch. 17, art. 24; 1998, ch. 35, art. 116; 1999, ch. 5, art. 50 et 53; 2001, ch. 41, art. 90; abrogé, 2011, ch. 11, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>126</Label>
+    <Text>1995, ch. 42, art. 40; abrogé, 2011, ch. 11, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>126.1</Label>
+    <Text>ajouté, 1997, ch. 17, art. 25; abrogé, 2011, ch. 11, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>127</Label>
+    <Text>1995, ch. 42, art. 41; 1999, ch. 31, art. 66(A); 2012, ch. 1, art. 81</Text>
+  </Section>
+  <Section>
+    <Label>127.1</Label>
+    <Text>ajouté, 2012, ch. 1, art. 82</Text>
+  </Section>
+  <Section>
+    <Label>128</Label>
+    <Text>1995, ch. 42, art. 42, al. 69h)(A) et i)(A) et sous-al. 71a)(xv)(F); 1999, ch. 18, art. 87; 2001, ch. 27, art. 242; 2012, ch. 1, art. 83</Text>
+  </Section>
+  <Section>
+    <Label>129</Label>
+    <Text>1995, ch. 42, art. 44; 1998, ch. 35, art. 117; 2012, ch. 1, art. 84; 2014, ch. 25, art. 41; 2019, ch. 25, art. 394; 2024, ch. 23, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>130</Label>
+    <Text>1995, ch. 42, art. 45; 1997, ch. 17, art. 26(F); 1998, ch. 35, art. 118; 2012, ch. 1, art. 85</Text>
+  </Section>
+  <Section>
+    <Label>131</Label>
+    <Text>1995, ch. 42, art. 46; 1997, ch. 17, art. 27; 2015, ch. 11, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>132</Label>
+    <Text>1995, ch. 42, art. 47</Text>
+  </Section>
+  <Section>
+    <Label>133</Label>
+    <Text>1995, ch. 42, art. 48 et sous-al. 71a)(xvi)(F) et (xvii)(F); 1997, ch. 17, art. 28; 2012, ch. 1, art. 86; 2014, ch. 21, art. 5; 2015, ch. 13, art. 59, ch. 30, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>134</Label>
+    <Text>1995, ch. 42, sous-al. 71a)(viii)(F); 1997, ch. 17, art. 29; 2012, ch. 1, art. 87</Text>
+  </Section>
+  <Section>
+    <Label>134.1</Label>
+    <Text>ajouté, 1997, ch. 17, art. 30; 2015, ch. 13, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>134.2</Label>
+    <Text>ajouté, 1997, ch. 17, art. 30; 2012, ch. 1, art. 88</Text>
+  </Section>
+  <Section>
+    <Label>135</Label>
+    <Text>1995, ch. 42, art. 50, al. 69j)(A), 70d)(A) et e)(A), 1995, ch. 22, art. 18, ann. IV, art. 19; 1997, ch. 17, art. 32(F) et 32.1; 2012, ch. 1, art. 89, ch. 19, par. 529(2)(A) et (3)</Text>
+  </Section>
+  <Section>
+    <Label>135.1</Label>
+    <Text>ajouté, 1997, ch. 17, art. 33; 2012, ch. 1, art. 90</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>1995, ch. 42, art. 51; 1997, ch. 17, art. 33; 2012, ch. 1, art. 91</Text>
+  </Section>
+  <Section>
+    <Label>137</Label>
+    <Text>1995, ch. 42, art. 52; 1997, ch. 17, art. 34</Text>
+  </Section>
+  <Section>
+    <Label>137.1</Label>
+    <Text>ajouté, 2012, ch. 1, art. 92</Text>
+  </Section>
+  <Section>
+    <Label>138</Label>
+    <Text>1995, ch. 42, art. 53 et al. 70f)(A); 2004, ch. 21, al. 40(1)a); 2012, ch. 1, art. 93</Text>
+  </Section>
+  <Section>
+    <Label>139</Label>
+    <Text>1995, ch. 22, art. 13, ann. II, art. 11, ch. 42, art. 54, 1995, ch. 22, art. 18, ann. IV, art. 9; 2012, ch. 1, art. 95</Text>
+  </Section>
+  <Section>
+    <Label>140</Label>
+    <Text>1995, ch. 42, art. 55 et al. 69k)(A); 2011, ch. 11, art. 6; 2012, ch. 1, art. 96; ch. 19, art. 527; 2015, ch. 11, art. 4, ch. 13, art. 49; 2019, ch. 27, art. 34</Text>
+  </Section>
+  <Section>
+    <Label>140.1</Label>
+    <Text>ajouté, 2015, ch. 11, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>140.2</Label>
+    <Text>ajouté, 2015, ch. 11, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>141</Label>
+    <Text>1995, ch. 42, art. 56(F); 2012, ch. 1, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>142</Label>
+    <Text>1995, ch. 22, art. 13, ann. II, art. 12, ch. 42, art. 57 et sous-al. 71a)(xix)(F) à (xxi)(F) et 72a)(iii)(F); 1997, ch. 17, art. 35; 2012, ch. 1, art. 98; 2015, ch. 11, art. 6, ch. 13, art. 50</Text>
+  </Section>
+  <Section>
+    <Label>144</Label>
+    <Text>2012, ch. 1, art. 99</Text>
+  </Section>
+  <Section>
+    <Label>144.1</Label>
+    <Text>ajouté, 2015, ch. 13, art. 51</Text>
+  </Section>
+  <Section>
+    <Label>146</Label>
+    <Text>2012, ch. 1, art. 100</Text>
+  </Section>
+  <Section>
+    <Label>151</Label>
+    <Text>1995, ch. 42, art. 58(F); 2019, ch. 27, art. 35</Text>
+  </Section>
+  <Section>
+    <Label>153</Label>
+    <Text>2003, ch. 22, al. 225t)(A)</Text>
+  </Section>
+  <Section>
+    <Label>154.1</Label>
+    <Text>ajouté, 2012, ch. 1, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>155.1</Label>
+    <Text>ajouté, 1995, ch. 42, art. 59; 2002, ch. 8, art. 132</Text>
+  </Section>
+  <Section>
+    <Label>155.2</Label>
+    <Text>ajouté, 1995, ch. 42, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>156</Label>
+    <Text>1995, ch. 42, art. 60; 2015, ch. 30, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>157</Label>
+    <Text>1997, ch. 17, art. 36; 2005, ch. 10, art. 17; 2012, ch. 1, art. 102</Text>
+  </Section>
+  <Section>
+    <Label>157.1</Label>
+    <Text>ajouté, 1997, ch. 17, art. 37</Text>
+  </Section>
+  <Section>
+    <Label>159</Label>
+    <Text>2001, ch. 27, art. 243</Text>
+  </Section>
+  <Section>
+    <Label>163</Label>
+    <Text>2003, ch. 22, al. 224z.21)(A) et 225t)(A)</Text>
+  </Section>
+  <Section>
+    <Label>167</Label>
+    <Text>2012, ch. 1, sous-al. 160b)(v)</Text>
+  </Section>
+  <Section>
+    <Label>177</Label>
+    <Text>2012, ch. 1, sous-al. 160b)(vi)</Text>
+  </Section>
+  <Section>
+    <Label>178</Label>
+    <Text>2012, ch. 1, sous-al. 160b)(vii)</Text>
+  </Section>
+  <Section>
+    <Label>179</Label>
+    <Text>2012, ch. 1, sous-al. 160b)(viii)</Text>
+  </Section>
+  <Section>
+    <Label>180</Label>
+    <Text>2012, ch. 1, sous-al. 160b)(ix)</Text>
+  </Section>
+  <Section>
+    <Label>204</Label>
+    <Text>abrogé, 1995, ch. 42, art. 61</Text>
+  </Section>
+  <Section>
+    <Label>220</Label>
+    <Text>abrogé, 2019, ch. 27, art. 36</Text>
+  </Section>
+  <Section>
+    <Label>225</Label>
+    <Text>1995, ch. 42, art. 62; 2011, ch. 11, art. 7</Text>
+  </Section>
+  <Section>
+    <Label>226</Label>
+    <Text>1995, ch. 22, art. 13, ann. II, art. 13, ch. 42, al. 69l)(A) et al. 70g)(A)</Text>
+  </Section>
+  <Section>
+    <Label>227.1</Label>
+    <Text>ajouté, 1995, ch. 42, art. 63</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe I :</Label>
+  </Schedule>
+  <Section>
+    <Label>1</Label>
+    <Text>1995, ch. 39, art. 165, ch. 42, art. 64; 2001, ch. 41, art. 91 à 93; 2008, ch. 6, art. 57; 2012, ch. 1, art. 103; 2014, ch. 25, art. 42; 2015, ch. 20, art. 30; 2018, ch. 21, art. 48 et 49; 2019, ch. 13, art. 158; 2019, ch. 25, art. 395; 2024, ch. 23, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>1.1</Label>
+    <Text>ajouté, 2018, ch. 21, art. 50</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>1995, ch. 42, art. 65</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1995, ch. 42, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>ajouté, 1995, ch. 42, art. 67</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>ajouté, 1995, ch. 42, art. 67</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>ajouté, 2012, ch. 1, art. 104</Text>
+  </Section>
+  <Section>
+    <Label>5.2</Label>
+    <Text>ajouté, 2014, ch. 25, par. 42(4)</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>ajouté, 2000, ch. 24, art. 41</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe II</Label>
+    <Text>1995, ch. 42, art. 68; 1996, ch. 19, art. 64</Text>
+  </Schedule>
+  <Section>
+    <Label>3</Label>
+    <Text>2001, ch. 32, art. 57</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2018, ch. 16, art. 172</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>ajouté, 2018, ch. 16, art. 172</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>dispositions de coordination, 2011, ch. 11, art. 14 et 15 (non applicables)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2012, ch. 19, art. 529</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2013, ch. 24, par. 133(4) et (9)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2015, ch. 13, art. 58</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>dispositions de coordination, 2022, ch. 10, art. 30</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>dispositions générales, 1992, ch. 20, art. 232 et 233</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 1995, ch. 22, art. 26</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 1995, ch. 42, art. 43(F), 49, sous-al. 71a)(viii)(F) et (xiv)(F) et 72(a)(i)(F)</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 1997, ch. 17, art. 16 et 31</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 2011, ch. 11, art. 8 et 9</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 2012, ch. 1, art. 53, 72(F) et 94</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2013, ch. 3, art. 1</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2014, ch. 25, art. 45.1 (examen et rapport)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2019, ch. 27, art. 10 (titre), 23 (titre) et art. 40.1 (examen et rapport)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2024, ch. 17, abrogé, art. 389 (intertitre précédant art. 94.1) et art. 94.1 à 94.8</Text>
+  </General>
+  <Transitional>
+    <Text>dispositions transitoires, 1992, ch. 20, art. 217 à 231</Text>
+  </Transitional>
+  <Transitional>
+    <Text>dispositions transitoires, 1995, ch. 42, art. 88 à 92 [<Emphasis style="italic">Remarque</Emphasis> : art. 89 abrogé par 2011, ch. 11, art. 11]</Text>
+  </Transitional>
+  <Transitional>
+    <Text>dispositions transitoires, 2001, ch. 41, art. 94</Text>
+  </Transitional>
+  <Transitional>
+    <Text>dispositions transitoires, 2011, ch. 11, art. 10 (<Emphasis style="italic">re</Emphasis> art. 125 à 126.1)</Text>
+  </Transitional>
+  <Transitional>
+    <Text>dispositions transitoires, 2012, ch. 1, art. 105 à 107</Text>
+  </Transitional>
+  <Transitional>
+    <Text>disposition transitoire, 2012, ch. 19, art. 528 (application de l’al. 140(1)d), tel qu’édicté par l’art. 527)</Text>
+  </Transitional>
+  <Transitional>
+    <Text>disposition transitoire, 2015, ch. 11, art. 7</Text>
+  </Transitional>
+  <Transitional>
+    <Text>disposition transitoire, 2019, ch. 27, art. 38 à 40</Text>
+  </Transitional>
+  <Transitional>
+    <Text>disposition transitoire, 2024, ch. 17, art. 391</Text>
+  </Transitional>
+  <ConditionalAmendment>
+    <Text>modification conditionnelle, 1999, ch. 5, art. 53</Text>
+  </ConditionalAmendment>
+  <Terminology>
+    <Text>modification de terminologie, 2019, ch. 27, art. 24</Text>
+  </Terminology>
+  <Terminology>
+    <Text>terminologie, 2024, ch. 23, art. 12</Text>
+  </Terminology>
+  <CIF>
+    <Text>EEV, 1992, ch. 20, à l’exception de l’art. 204 en vigueur 01.11.92 <Emphasis style="italic">voir</Emphasis> TR/92‑197; art. 204 abrogé par 1995, ch. 42, art. 61 le 24.01.96 <Emphasis style="italic">voir</Emphasis> TR/96-10</Text>
+    <List>
+      <Item>
+        <Text>— le par. 108(2) ne s’applique dans la province qu’à la date fixée par décret du gouverneur en conseil pris après l’adoption d’une loi provinciale autorisant la Commission à exercer la compétence que lui confère ce paragraphe <Emphasis style="italic">voir</Emphasis> par. 108(3)</Text>
+      </Item>
+      <Item>
+        <Text>— le par. 108(2) s’applique dans la province de la Colombie-Britannique le 19.04.2007 <Emphasis style="italic">voir</Emphasis> TR/2007-51</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1993, ch. 34, art. 57(F) et 58(F) en vigueur à la sanction 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 22, art. 13, ann. II, art. 1 à 13, art. 18, ann. IV, art. 9, 19, 38, 44 et 45 et art. 26 en vigueur 03.09.96 <Emphasis style="italic">voir</Emphasis> TR/96‑79</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 39, art. 165 en vigueur 01.12.98 <Emphasis style="italic">voir</Emphasis> TR/98-93 et TR/98-95</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 42, art. 1 à 72, 85, 88 à 92 en vigueur 24.01.96 <Emphasis style="italic">voir</Emphasis> TR/96‑10; art. 89 abrogé <Emphasis style="italic">voir</Emphasis> 2011, ch. 11, art. 11</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 19, art. 64 en vigueur 14.05.97 <Emphasis style="italic">voir</Emphasis> TR/97‑47</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1997, ch. 17, art. 21, 24 et 25 en vigueur 03.07.97 <Emphasis style="italic">voir</Emphasis> TR/97‑84; art. 11 à 20, 22, 23 et 26 à 37 en vigueur 01.08.97 <Emphasis style="italic">voir</Emphasis> TR/97‑84 [<Emphasis style="italic">Remarque</Emphasis> : par. 21(2) abrogé par 2011, ch. 11, art. 12]</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1998, ch. 35, art. 108 à 118 en vigueur 01.09.99 <Emphasis style="italic">voir</Emphasis> TR/99‑75</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 5, art. 50 en vigueur 01.05.99 <Emphasis style="italic">voir</Emphasis> TR/99‑24; art. 53 en vigueur à la sanction 11.03.99, la modification prévue par l’art. 53 prend effet le 01.09.99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 18, art. 86 et 87 en vigueur à la sanction 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 31, art. 66 en vigueur à la sanction 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2000, ch. 12, art. 88 en vigueur 31.07.2000 <Emphasis style="italic">voir</Emphasis> TR/2000‑76</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2000, ch. 24, art. 34 à 41 en vigueur 23.10.2000 <Emphasis style="italic">voir</Emphasis> TR/2000-95</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 27, art. 242 et 243 en vigueur 28.06.2002 <Emphasis style="italic">voir</Emphasis> TR/2002-97</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 32, art. 57 en vigueur 01.02.2002 <Emphasis style="italic">voir</Emphasis> TR/2002-17</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 41, art. 90 à 94 en vigueur 24.12.2001 <Emphasis style="italic">voir</Emphasis> TR/2002-16 [<Emphasis style="italic">Remarque</Emphasis> : al. 94(1)a) et par. 94(2) abrogés par 2011, ch. 11, art. 13]</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 1, art. 171 à 174 en vigueur 01.04.2003 <Emphasis style="italic">voir</Emphasis> TR/2002-91</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 8, art. 132 en vigueur 02.07.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 22, art. 155, 224 et 225 en vigueur 01.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 21, art. 39 et 40 en vigueur 29.10.2004 <Emphasis style="italic">voir</Emphasis> TR/2004-140</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 10, art. 17 et 34 en vigueur 04.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-29</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2006, ch. 14, art. 8 en vigueur à la sanction 14.12.2006</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2008, ch. 6 (sanction : 28.02.2008), art. 56 en vigueur 02.07.2008 et art. 57 en vigueur 01.05.2008 <Emphasis style="italic">voir</Emphasis> TR/2008-34</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2011, ch. 11, art. 14 et 15 en vigueur à la sanction 23.03.2011; art. 2 à 13 en vigueur 28.03.2011 <Emphasis style="italic">voir</Emphasis> TR/2011-30</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 1 (sanction : 13.03.2012), art. 52 à 107 en vigueur 13.06.2012 <Emphasis style="italic">voir</Emphasis> TR/2012-40; art. 196 et 197 en vigueur 23.10.2012 <Emphasis style="italic">voir</Emphasis> TR/2012-48; a1. 160b) en vigueur 28.02.2013 <Emphasis style="italic">voir</Emphasis> TR/2013-13</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 19, art. 529 en vigueur à la sanction 29.06.2012; art. 526 à 528 en vigueur 01.12.2012 <Emphasis style="italic">voir</Emphasis> TR/2012-88</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 3 en vigueur à la sanction 27.03.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 24, art. 133 en vigueur à la sanction 19.06.2013; art. 126 à 128 en vigueur 01.06.2014 <Emphasis style="italic">voir</Emphasis> TR/2014-49</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 21 (sanction : 19.06.2014), art. 5 en vigueur 19.09.2014 <Emphasis style="italic">voir</Emphasis> art. 6</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 25 (sanction : 06.11.2014), art. 41 et 42 et 45.1 en vigueur 06.12.2014 <Emphasis style="italic">voir</Emphasis> art. 49</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 36, art. 1 à 2 en vigueur à la sanction 16.12.2014</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 3, al. 172g) (<Emphasis style="italic">terminologie</Emphasis>) en vigueur à la sanction 26.02.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 11, art. 2 à 5 et 7 en vigueur à la sanction 23.04.2015</Text>
+    <List>
+      <Item>
+        <Text>— art. 6 entre en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> art. 8 — non en vigueur</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 13, art. 58 et 59 en vigueur à la sanction 23.04.2015</Text>
+    <List>
+      <Item>
+        <Text>— art. 45 et par 46(2), al. 26(1)c), édicté par le par. 46(3), par. 46(4) à (7), art. 47, par. 48(1) et (2), 49(2), et art. 50 et 51 en vigueur 23.07.2015 <Emphasis style="italic">voir</Emphasis> TR/2015-60</Text>
+      </Item>
+      <Item>
+        <Text>— par. 46(1), l’al. 26(1)d), édicté par le par. 46(3), et par. 48(3), 49(1) et (3) en vigueur 01.06.2016 <Emphasis style="italic">voir</Emphasis> TR/2016-28</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 20, art. 30 en vigueur à la sanction 18.06.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 30, art. 2 à 5 en vigueur à la sanction 18.06.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2016, ch. 3, art. 8 en vigueur à la sanction 17.06.2016</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 16 (sanction : 21.06.2018), art. 172 en vigueur 17.10.2018 <Emphasis style="italic">voir</Emphasis> TR/2018-52</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 21 (sanction : 21.06.2018), art. 47 à 50 en vigueur 18.12.2018 <Emphasis style="italic">voir</Emphasis> art. 52</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 27 (sanction : 21.06.2019)</Text>
+    <List>
+      <Item>
+        <Text>— art. 3, 7, 10, 11, 14, 28 à 30 et par. 31(1) et (2) en vigueur 30.11.2019 <Emphasis style="italic">voir</Emphasis> TR/2019-88</Text>
+      </Item>
+      <Item>
+        <Text>— art. 12, 15, 16, 18, 21 et 22 en vigueur 01.10.2024 <Emphasis style="italic">voir</Emphasis> TR/2024-45</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2022, ch. 10, art. 299 à 300 en vigueur à la sanction 23.06.2022</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 17 en vigueur à la sanction 20.06.2024 <Emphasis style="italic">sauf</Emphasis></Text>
+    <List>
+      <Item>
+        <Text>— par. 385(2), art. 387 et 389 et par. 390(2) entrent en vigueur au cinquième anniversaire de la sanction de la <XRefExternal reference-type="act">Loi no 1 d’exécution du budget 2024</XRefExternal>, ch. 17 <Emphasis style="italic">voir</Emphasis> art. 393 — non en vigueur</Text>
+      </Item>
+      <Item>
+        <Text>— art. 392 en vigueur 20.06.2024 (disposition de coordination — conditions remplies 01.10.2024 <Emphasis style="italic">voir</Emphasis> TR/2024-45)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 23, art. 12 en vigueur au premier anniversaire de la date de sanction de la <XRefExternal reference-type="act">Loi modifiant le Code criminel et d’autres lois en conséquence (matériel d’abus et d’exploitation pédosexuels)</XRefExternal><Emphasis style="italic"> voir</Emphasis> art. 14 (10.10.2025)</Text>
+  </CIF>
+</Statute>
+</TOPS>

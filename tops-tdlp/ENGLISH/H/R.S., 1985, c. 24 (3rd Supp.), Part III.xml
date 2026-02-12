@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="R.S., 1985, c. 24 (3rd Supp.), Part III">
+  <Title>Hazardous Materials Information Review Act</Title>
+  <ChapterNumber>R.S., 1985, c. 24 (3rd Supp.), Part III (ss. 9 to 51)</ChapterNumber>
+  <OtherLangTitle>(Contrôle des renseignements relatifs aux matières dangereuses, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Health; Minister of Labour (ss. 28(2)(d) and 43(2)(a)) (SI/95‑36)</Text>
+  </Minister>
+  <Section>
+    <Label>9</Label>
+    <Text>2012, c. 31, par. 282(a)</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1992, c. 1, s. 145 (Sch. VIII, item 16)(F); 1996, c. 8, s. 32(1)(h); 2012, c. 31, s. 269 and par. 282(b); 2014, c. 13, s. 105, c. 20, s. 146; 2019, c. 29, s. 198; 2024, c. 20, ss. 214 and 216</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1992, c. 1, s. 144 (Sch. VII, item 27)(F); 2001, c. 34, s. 49(F); 2007, c. 7, s. 1; 2012, c. 31, par. 284(a)(F); 2014, c. 13, s. 106, c. 20, ss. 147 and 161(2); 2019, c. 29, s. 200</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2001, c. 34, s. 50(F); 2012, c. 31, par. 284(b)(F); 2014, c. 20, s. 148; 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>1996, c. 8, s. 34(1)(b); 2007, c. 7, s. 2; 2012, c. 31, s. 270; 2014, c. 13, s. 107; c. 20, ss. 149 and 161(3); 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2014, c. 20, s. 150(F); 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2014, c. 20, s. 151; 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2014, c. 13, s. 108; 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>16.1</Label>
+    <Text>added, 2007, c. 7, s. 3; 2014, c. 13, s. 109, c. 20, ss. 152 and 161(4); repealed, 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>2007, c. 7, s. 4; 2014, c. 13, s. 110, c. 20, ss. 153(F) and 161(5)(F); 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2007, c. 7, s. 5; 2012, c. 31, par. 284(c)(F); 2014, c. 20, s. 154; 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2012, c. 31, par. 282(c); 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2007, c. 7, s. 6; 2012, c. 31, par. 283(a)(F); 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2012, c. 31, par. 283(b)(F); 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2012, c. 31, par. 283(c)(F); 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2001, c. 34, s. 51(F); 2007, c. 7, s. 7; 2012, c. 31, s. 271; 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2012, c. 31, s. 272; 2014, c. 20, s. 155(F); 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2014, c. 20, s. 156(F); 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2012, c. 31, par. 283(d)(F); 2014, c. 20, s. 157; 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>1993, c. 28, s. 78 (Sch. III, item 66); 2002, c. 7, s. 177(E); 2012, c. 31, s. 274; 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>29 to 34</Label>
+    <Text>repealed, 2012, c. 31, s. 275, added, 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>35 to 38</Label>
+    <Text>repealed, 2012, c. 31, s. 275</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2003, c. 22, s. 171(E) and par. 225(<Emphasis style="italic">z</Emphasis>.2)(E); repealed, 2012, c. 31, s. 275</Text>
+  </Section>
+  <Section>
+    <Label>40 to 42</Label>
+    <Text>repealed, 2012, c. 31, s. 275</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>2012, c. 31, ss. 276, par. 282(d) and 283(e)(F); 2014, c. 13, s. 111; repealed, 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>2012, c. 31, s. 277; repealed 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>1992, c. 1, s. 145 (Sch. VIII, item 16)(F); 1996, c. 8, s. 24, c. 11, s. 60; 2000, c. 20, s. 26; 2005, c. 34, par. 79(d); 2012, c. 31, s. 278; 2013, c. 40, s. 201 and par. 237(1)(h); 2014, c. 13, s. 112, c. 20, s. 158(F); 2017, c. 20, s. 395; repealed, 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>2012, c. 31, s. 279; repealed, 2019, c. 29, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2007, c. 7, s. 8; 2012, c. 31, s. 280 and par. 282(e); 2019, c. 29, s. 202</Text>
+  </Section>
+  <Section>
+    <Label>48.1</Label>
+    <Text>added, 2019, c. 29, s. 203</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>2012, c. 31, par. 282(f); 2019, c. 29, s. 204</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>2012, c. 31, s. 281; repealed, 2019, c. 29, s. 205</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>repealed, 2012, c. 31, s. 281</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>1992, c. 1, s. 145 (Sch. VIII, item 18)(F)</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2014, c. 20, s. 161</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2018, c. 27, s. 624</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2019, c. 29, s. 211</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, R.S., c. 24 (3rd Supp.), s. 57</Text>
+  </General>
+  <General>
+    <Text>General, 1996, c. 8, ss. 32(2) and 34(2)</Text>
+  </General>
+  <General>
+    <Text>General, 2012, c. 31, ss. 273 and 285 (Transfer of employees and positions)</Text>
+  </General>
+  <General>
+    <Text>General, 2019, c. 29, s. 199 (heading before section 11)</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2024, c. 20, ss. 214 and 216</Text>
+  </Terminology>
+  <Transitional>
+    <Text>Transitional, R.S., c. 24 (3rd Supp.), ss. 54 and 55 (<Emphasis style="italic">Note:</Emphasis> s. 54(5) amended by 1992, c. 1, s. 145 (Sch. VIII, item 18)(F))</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2012, c. 31, ss. 286 to 289</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2014, c. 20, s. 159</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitionals, 2019, c. 29, ss. 206 to 210</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 24 (3rd Supp.), Part III (ss. 9 to 51) proclaimed in force 01.10.87 <Emphasis style="italic">see</Emphasis> SI/87‑220; ss. 54 and 55 in force 31.10.88 <Emphasis style="italic">see</Emphasis> s. 58</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 1, s. 144 (Sch. VII, item 27)(F) and s. 145 (Sch. VIII, items 16 and 18)(F) in force on assent 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 28, s. 78 (Sch. III, item 66) in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 8, ss. 24, 32 and 34 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑69</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 11, s. 60 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 20, s. 26 in force 30.09.2000 <Emphasis style="italic">see</Emphasis> SI/2000-67</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 34, ss. 49 to 51 in force on assent 18.12.2001</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, s. 177 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, ss. 171 and 225 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 34, s. 79 in force 05.10.2005 <Emphasis style="italic">see</Emphasis> SI/2005-99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 7, ss. 1 to 8 in force 01.10.2008 <Emphasis style="italic">see</Emphasis> SI/2008-97</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 31, s. 285 in force on assent 14.12.2012; ss. 269 to 284 and 286 to 289 in force 01.04.2013 <Emphasis style="italic">see</Emphasis> SI/2013-39</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40, par. 237(1)(h) in force on assent 12.12.2013; s. 201 in force 31.10.2014 <Emphasis style="italic">see</Emphasis> SI/2014-52</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 13 (assent: 19.06.2014), ss. 105 to 112 in force 31.12.2014 <Emphasis style="italic">see</Emphasis> SI/2014-103</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 20, s. 161 in force on assent 19.06.2014; ss. 146 to 159 in force 11.02.2015 <Emphasis style="italic">see</Emphasis> SI/2015-5</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 20 (assent: 22.06.2017), s. 395 in force 29.07.2019 <Emphasis style="italic">see</Emphasis> SI/2019-76</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 27, s. 624 comes into force on the first day on which both s. 441 of this Act and s. 377 of the <XRefExternal reference-type="act">Budget Implementation Act, 2017, No. 1</XRefExternal> (2017, c. 20) are in force <Emphasis style="italic">see</Emphasis> s. 625 — Not in force</Text>
+  </CIF>
+  <?Pub Caret -1?>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), ss. 198 to 205 in force 18.03.2020 <Emphasis style="italic">see</Emphasis> SI/2020-20</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 20, </Text>
+    <List>
+      <Item>
+        <Text>— par. 214(1)(e) comes into force the day on which the definition “Regulator” is added to s. 2 of the <XRefExternal reference-type="act">Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act</XRefExternal>, c. C-2 of the Revised Statutes of Newfoundland and Labrador, 1990 <Emphasis style="italic">see</Emphasis> SI/2025-22 (02.06.2025)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 216(1)(e) in force 31.01.2025 <Emphasis style="italic">see</Emphasis> SI/2025-5</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1974-75-76, c. 88">
+  <Title>Halifax Relief Commission Pension Continuation Act</Title>
+  <ChapterNumber>1974-75-76, c. 88</ChapterNumber>
+  <OtherLangTitle>(Halifax, Loi sur la prise en charge des prestations de la Commission de secours d’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Finance</Text>
+  </Minister>
+  <Section>
+    <Label>3</Label>
+    <Text>1995, c. 18, s. 87; 2000, c. 34, par. 94(g)(F)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1999, c. 10, s. 42</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>
+      <Emphasis style="italic">see</Emphasis> Income Tax Act, An Act to amend the</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 1974-75-76, c. 88 proclaimed in force 11.06.76 <Emphasis style="italic">see</Emphasis> SI/76‑78</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 18, s. 87 in force 15.09.95 <Emphasis style="italic">see</Emphasis> SI/95‑108</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 10, s. 42 in force on assent 25.03.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 34, s. 94 in force 27.10.2000 <Emphasis style="italic">see</Emphasis> SI/2000-105</Text>
+  </CIF>
+</Statute>
+</TOPS>

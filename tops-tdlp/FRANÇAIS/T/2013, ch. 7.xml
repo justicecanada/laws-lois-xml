@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2013, ch. 7">
+  <Title>Transparence financière des Premières Nations, Loi sur la</Title>
+  <ChapterNumber>2013, ch. 7</ChapterNumber>
+  <OtherLangTitle>(First Nations Financial Transparency Act)</OtherLangTitle>
+  <Minister>
+    <Text>Ministre des Services aux Autochtones (2019, ch. 29, art. 368(2))</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2019, ch. 29, art. 368</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2019, ch. 29, art. 369</Text>
+  </Section>
+  <CIF>
+    <Text>EEV, 2013, ch. 7 en vigueur à la sanction 27.03.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 29 en vigueur à la sanction 21.06.2019, <Emphasis style="italic">sauf</Emphasis></Text>
+    <List>
+      <Item>
+        <Text>— par. 368(1), 369(1) en vigueur 15.07.2019 <Emphasis style="italic">voir</Emphasis> par. 383(1)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 368(2), 369(2) en vigueur 26.09.2023 <Emphasis style="italic">voir</Emphasis> TR/2023-61</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

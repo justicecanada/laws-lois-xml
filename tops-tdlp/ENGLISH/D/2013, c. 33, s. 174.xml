@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2013, c. 33, s. 174">
+  <Title>Department of Foreign Affairs, Trade and Development Act</Title>
+  <ChapterNumber>2013, c. 33, s. 174</ChapterNumber>
+  <OtherLangTitle>(Ministère des Affaires étrangères, du Commerce et du Développement, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Foreign Affairs (s. 2(2)); Minister for International Trade, additional minister relating to international trade (s. 3); Minister for International Development, additional minister relating to international development, poverty reduction and humanitarian assistance (s. 4)</Text>
+  </Minister>
+  <Section>
+    <Label>10</Label>
+    <Text>2025, c. 1, s. 1</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2013, c. 40, s. 175</Text>
+  </Section>
+  <Terminology>
+    <Text>Terminology, 2013, c. 33, s. 195 (every reference to the Department of Foreign Affairs and International Trade in any provision of an Act of Parliament) and ss. 196 to 198 (same <Emphasis style="italic">but</Emphasis> replace with a different Minister’s title)</Text>
+  </Terminology>
+  <CIF>
+    <Text>CIF, 2013, c. 33, ss. 174, 195 to 198 in force on assent 26.06.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40, s. 175 in force on assent 12.12.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2025, c. 1, s. 1 in force on assent 26.06.2025</Text>
+  </CIF>
+</Statute>
+</TOPS>

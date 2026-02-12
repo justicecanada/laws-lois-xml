@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2018, c. 27, s. 416">
+  <Title>Pay Equity Act</Title>
+  <ChapterNumber>2018, c. 27, s. 416</ChapterNumber>
+  <OtherLangTitle>(Équité salariale, Loi sur l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Labour —<Emphasis style="italic"> See </Emphasis>SI/2020-24</Text>
+  </Minister>
+  <Section>
+    <Label>41</Label>
+    <Text>2018, c. 27, s. 417</Text>
+  </Section>
+  <General>
+    <Text>General, 2018, c. 27, s. 418 (Min. of Labour responsible for the administration of the Fed. Contractors Program for Pay Equity)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 2018, c. 27, s. 416 (ss. 1 to 184), s. 418 in force on assent 13.12.2018;</Text>
+    <List>
+      <Item>
+        <Text>— ss. 1 to 171 and 174 to 184 of the <XRefExternal reference-type="act">Pay Equity Act</XRefExternal>, as enacted by s. 416, in force SI/2021-36</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 172 and 173 of the <XRefExternal reference-type="act">Pay Equity Act</XRefExternal>, as enacted by s. 416, in force SI/2021-36</Text>
+      </Item>
+      <Item>
+        <Text>— s. 417 comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 440(3) — Not in force</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

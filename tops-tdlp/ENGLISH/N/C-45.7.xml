@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="C-45.7">
+  <Title>Naskapi and the Cree-Naskapi Commission Act</Title>
+  <ChapterNumber>1984, c. 18</ChapterNumber>
+  <TitleChanged>
+    <Text>(Formerly: Cree-Naskapi (of Quebec) Act)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Naskapis et la Commission crie-naskapie, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Crown-Indigenous Relations (<Emphasis style="italic">see</Emphasis> s. 2(1))</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>2018, c. 4, s. 2</Text>
+  </LongTitle>
+  <Heading>
+    <Label>Preamble</Label>
+    <Text>2018, c. 4, s. 3</Text>
+  </Heading>
+  <Section>
+    <Label>1, Short title</Label>
+    <Text>2018, c. 4, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>2000, c. 12, s. 89; 2009, c. 12, s. 1; 2018, c. 4, s. 5 and par. 122(a)(E); 2019, c. 29, s. 373(1)(a)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2018, c. 4, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2018, c. 4, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2018, c. 4, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2018, c. 4, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2018, c. 4, par. 122(b)(E)</Text>
+  </Section>
+  <Section>
+    <Label>9.1</Label>
+    <Text>added, 2009, c. 12, s. 2; repealed, 2018, c. 4, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>9.2</Label>
+    <Text>added, 2009, c. 12, s. 2; repealed, 2018, c. 4, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>9.3</Label>
+    <Text>added, 2009, c. 12, s. 2; repealed, 2018, c. 4, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2018, c. 4, s. 10</Text>
+  </Section>
+  <Heading>
+    <Label>Part I</Label>
+    <Text>2018, c. 4, s. 11(F) (heading)</Text>
+  </Heading>
+  <Section>
+    <Label>12</Label>
+    <Text>repealed, 2018, c. 4, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>12.1</Label>
+    <Text>added, 2009, c. 12, s. 3; repealed, 2018, c. 4, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>repealed, 2018, c. 4, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>13.1</Label>
+    <Text>added, 2009, c. 12, s. 4; repealed, 2018, c. 4, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2018, c. 4, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>repealed, 2018, c. 4, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2018, c. 4, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>repealed, 2018, c. 4, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2009, c. 12, s. 5; repealed, 2018, c. 4, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2009, c. 12, s. 6; repealed, 2018, c. 4, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2018, c. 4, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>20.1</Label>
+    <Text>2018, c. 4, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2018, c. 4, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2018, c. 4, s. 18(E) and par. 122(c)(E) and 123(a)</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2009, c. 23, ss. 322 and 352; 2018, c. 4, s. 19, par. 122(d)(E) and s. 134</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2018, c. 4, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2018, c. 4, par. 122(e)(E)</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2018, c. 4, par. 122(e)(E)</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2018, c. 4, s. 21(E)</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2018, c. 4, s. 21(E)</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>2018, c. 4, s. 22(E)</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2018, c. 4, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2018, c. 4, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>2018, c. 4, s. 24(E)</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>2018, c. 4, s. 25(E)</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>repealed, 2018, c. 4, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2018, c. 4, s. 27(E)</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>2018, c. 4, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2018, c. 4, par. 122(f)(E)</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2018, c. 4, par. 122(g)(E)</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>2018, c. 4, par. 122(h)(E)</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>2018, c. 4, s. 29(E)</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>2018, c. 4, par. 122(i)(E)</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>2018, c. 4, s. 30 and par. 122(j)(E) and 123(b)</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2018, c. 4, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>2018, c. 4, par. 122(k)(E) and 123(c)</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2018, c. 4, s. 32 and par. 122(l)(E)</Text>
+  </Section>
+  <Section>
+    <Label>48.1</Label>
+    <Text>added, 2018, c. 4, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>2018, c. 4, s. 34 and par. 122(m)(E)</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2018, c. 4, par. 122(n)(E)</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2018, c. 4, s. 35 and par. 122(o)(E)</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2018, c. 4, par. 122(p)(E)</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>2002, c. 8, s. 133(E); 2018, c. 4, par. 122(q)(E)</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>58.1</Label>
+    <Text>added, 2009, c. 12, s. 7; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>2009, c. 12, s. 7; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>60.1</Label>
+    <Text>added, 2009, c. 12, s. 8; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>2018, c. 4, s. 36</Text>
+  </Section>
+  <Heading>
+    <Label>Part I.1</Label>
+  </Heading>
+  <Section>
+    <Label>62.01</Label>
+    <Text>added, 2009, c. 12, s. 9; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>62.02</Label>
+    <Text>added, 2009, c. 12, s. 9; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>62.03</Label>
+    <Text>added, 2009, c. 12, s. 9; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>62.04</Label>
+    <Text>added, 2009, c. 12, s. 9; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>62.05</Label>
+    <Text>added, 2009, c. 12, s. 9; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>62.06</Label>
+    <Text>added, 2009, c. 12, s. 9; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>62.07</Label>
+    <Text>added, 2009, c. 12, s. 9; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>62.08</Label>
+    <Text>added, 2009, c. 12, s. 9; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>62.09</Label>
+    <Text>added, 2009, c. 12, s. 9; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>62.1</Label>
+    <Text>added, 2009, c. 12, s. 9; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>62.2</Label>
+    <Text>added, 2009, c. 12, s. 9; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>62.3</Label>
+    <Text>added, 2009, c. 12, s. 9; repealed, 2018, c. 4, s. 36</Text>
+  </Section>
+  <Heading>
+    <Label>Part II</Label>
+  </Heading>
+  <Section>
+    <Label>63</Label>
+    <Text>2018, c. 4, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>2018, c. 4, par. 122(r)(E)</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>2018, c. 4, s. 38(E)</Text>
+  </Section>
+  <Section>
+    <Label>69</Label>
+    <Text>2018, c. 4, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>2018, c. 4, s. 40(E)</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>2018, c. 4, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>2018, c. 4, par. 122(s)(E)</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>2018, c. 4, par. 122(t)(E)</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>2018, c. 4, par. 122(u)(E)</Text>
+  </Section>
+  <Section>
+    <Label>77</Label>
+    <Text>2018, c. 4, par. 122(v)(E)</Text>
+  </Section>
+  <Section>
+    <Label>78</Label>
+    <Text>2018, c. 4, s. 42(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part III</Label>
+  </Heading>
+  <Section>
+    <Label>80</Label>
+    <Text>2018, c. 4, s. 43</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>2018, c. 4, s. 44(E)</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>2018, c. 4, par. 122(w)(E)</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>2018, c. 4, par. 122(x)(E)</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>2018, c. 4, par. 122(y)(E)</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>2018, c. 4, par. 122(z)(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part IV</Label>
+    <Text>2018, c. 4, s. 45(E) (heading)</Text>
+  </Heading>
+  <Section>
+    <Label>89</Label>
+    <Text>2018, c. 4, par. 122(z.1)(E)</Text>
+  </Section>
+  <Section>
+    <Label>90</Label>
+    <Text>2009, c. 12, s. 10; 2018, c. 4, s. 46 and par. 122(z.2)(E)</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>2009, c. 12, s. 11; 2018, c. 4, s. 47 and par. 122(z.3)(E)</Text>
+  </Section>
+  <Section>
+    <Label>92</Label>
+    <Text>2018, c. 4, par. 122(z.4)(E)</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>2009, c. 12, s. 12; 2018, c. 4, s. 48 and par. 122(z.5)(E)</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>2009, c. 12, s. 13; 2018, c. 4, s. 49 and par. 122(z.6)(E)</Text>
+  </Section>
+  <Section>
+    <Label>96</Label>
+    <Text>2018, c. 4, par. 122(z.7)(E)</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>2018, c. 4, s. 50 and par. 122(z.8)(E)</Text>
+  </Section>
+  <Section>
+    <Label>98</Label>
+    <Text>2018, c. 4, s. 51</Text>
+  </Section>
+  <Section>
+    <Label>99</Label>
+    <Text>2018, c. 4, s. 52</Text>
+  </Section>
+  <Section>
+    <Label>100</Label>
+    <Text>2009, c. 12, s. 14; 2018, c. 4, s. 53 and par. 122(z.9)(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part V</Label>
+    <Text>2018, c. 4, s. 54 (heading)</Text>
+  </Heading>
+  <Section>
+    <Label>101</Label>
+    <Text>2018, c. 4, par. 123(d)</Text>
+  </Section>
+  <Section>
+    <Label>102</Label>
+    <Text>2018, c. 4, s. 55</Text>
+  </Section>
+  <Section>
+    <Label>103</Label>
+    <Text>2018, c. 4, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>104</Label>
+    <Text>2009, c. 12, s. 15; 2018, c. 4, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>105</Label>
+    <Text>2009, c. 12, s. 16; 2018, c. 4, s. 58</Text>
+  </Section>
+  <Section>
+    <Label>106</Label>
+    <Text>2018, c. 4, s. 59</Text>
+  </Section>
+  <Section>
+    <Label>107</Label>
+    <Text>2018, c. 4, s. 59</Text>
+  </Section>
+  <Section>
+    <Label>108</Label>
+    <Text>2018, c. 4, par. 123(e)</Text>
+  </Section>
+  <Heading>
+    <Label>Part VI</Label>
+    <Text>2018, c. 4, s. 60 (heading)</Text>
+  </Heading>
+  <Section>
+    <Label>109</Label>
+    <Text>2018, c. 4, s. 60</Text>
+  </Section>
+  <Section>
+    <Label>110</Label>
+    <Text>2018, c. 4, s. 61</Text>
+  </Section>
+  <Section>
+    <Label>111</Label>
+    <Text>2018, c. 4, s. 62</Text>
+  </Section>
+  <Section>
+    <Label>112</Label>
+    <Text>2018, c. 4, s. 63</Text>
+  </Section>
+  <Section>
+    <Label>113</Label>
+    <Text>2009, c. 12, s. 17; 2018, c. 4, s. 64 and par. 122(z.10)(E)</Text>
+  </Section>
+  <Section>
+    <Label>114</Label>
+    <Text>2009, c. 12, s. 18; repealed, 2018, c. 4, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>115</Label>
+    <Text>2009, c. 12, s. 19; 2018, c. 4, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>116</Label>
+    <Text>2009, c. 12, s. 20; 2018, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>117</Label>
+    <Text>2009, c. 12, s. 21; 2018, c. 4, s. 68</Text>
+  </Section>
+  <Heading>
+    <Label>Part VII</Label>
+    <Text>2018, c. 4, par. 123(f) (heading)</Text>
+  </Heading>
+  <Section>
+    <Label>119</Label>
+    <Text>2018, c. 4, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>120</Label>
+    <Text>2018, c. 4, s. 70</Text>
+  </Section>
+  <Section>
+    <Label>121</Label>
+    <Text>2018, c. 4, par. 123(g)</Text>
+  </Section>
+  <Section>
+    <Label>122</Label>
+    <Text>2018, c. 4, s. 71 and par. 122(z.11)(E)</Text>
+  </Section>
+  <Section>
+    <Label>123</Label>
+    <Text>2018, c. 4, s. 72</Text>
+  </Section>
+  <Section>
+    <Label>124</Label>
+    <Text>2018, c. 4, s. 73 and par. 122(z.12)(E)</Text>
+  </Section>
+  <Section>
+    <Label>125</Label>
+    <Text>2018, c. 4, s. 74</Text>
+  </Section>
+  <Section>
+    <Label>126</Label>
+    <Text>2018, c. 4, s. 75</Text>
+  </Section>
+  <Section>
+    <Label>127</Label>
+    <Text>2018, c. 4, s. 75</Text>
+  </Section>
+  <Section>
+    <Label>129</Label>
+    <Text>2018, c. 4, s. 76 and par. 123(h)</Text>
+  </Section>
+  <Heading>
+    <Label>Part VIII</Label>
+    <Text>2018, c. 4, s. 77 (heading)</Text>
+  </Heading>
+  <Section>
+    <Label>130</Label>
+    <Text>2018, c. 4, par. 123(i)</Text>
+  </Section>
+  <Section>
+    <Label>131</Label>
+    <Text>2018, c. 4, par. 123(j)</Text>
+  </Section>
+  <Section>
+    <Label>132</Label>
+    <Text>2018, c. 4, par. 122(z.13)(E) and 123(k)</Text>
+  </Section>
+  <Section>
+    <Label>135</Label>
+    <Text>2018, c. 4, s. 78 and par. 123(l)</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>2018, c. 4, par. 122(z.14)(E)</Text>
+  </Section>
+  <Section>
+    <Label>137</Label>
+    <Text>2018, c. 4, s. 79(E) and par. 122(z.15)(E)</Text>
+  </Section>
+  <Section>
+    <Label>138</Label>
+    <Text>2009, c. 12, s. 22; 2018, c. 4, s. 80</Text>
+  </Section>
+  <Section>
+    <Label>139</Label>
+    <Text>2009, c. 12, s. 23; 2018, c. 4, s. 81 and par. 122(z.16)(E)</Text>
+  </Section>
+  <Section>
+    <Label>140</Label>
+    <Text>2018, c. 4, par. 123(m)</Text>
+  </Section>
+  <Heading>
+    <Label>Part IX</Label>
+    <Text>2018, c. 4, s. 82(E) (heading)</Text>
+  </Heading>
+  <Section>
+    <Label>141</Label>
+    <Text>2018, c. 4, s. 83</Text>
+  </Section>
+  <Section>
+    <Label>142</Label>
+    <Text>2018, c. 4, par. 122(z.17)(E)</Text>
+  </Section>
+  <Section>
+    <Label>144</Label>
+    <Text>2018, c. 4, s. 84</Text>
+  </Section>
+  <Section>
+    <Label>145</Label>
+    <Text>2018, c. 4, par. 123(n)</Text>
+  </Section>
+  <Section>
+    <Label>146</Label>
+    <Text>2018, c. 4, par. 122(z.18)(E)</Text>
+  </Section>
+  <Section>
+    <Label>148</Label>
+    <Text>2018, c. 4, par. 123(o)</Text>
+  </Section>
+  <Section>
+    <Label>149</Label>
+    <Text>2018, c. 4, par. 122(z.19)(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part X</Label>
+  </Heading>
+  <Section>
+    <Label>150</Label>
+    <Text>2018, c. 4, s. 85 and par. 122(z.20)(E) and 123(p)</Text>
+  </Section>
+  <Section>
+    <Label>151</Label>
+    <Text>2018, c. 4, s. 86 and par. 123(q)</Text>
+  </Section>
+  <Section>
+    <Label>152</Label>
+    <Text>2018, c. 4, par. 122(z.21)(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part XI</Label>
+    <Text>2018, c. 4, s. 87(E) (heading)</Text>
+  </Heading>
+  <Section>
+    <Label>153</Label>
+    <Text>2018, c. 4, s. 88</Text>
+  </Section>
+  <Section>
+    <Label>154</Label>
+    <Text>2018, c. 4, par. 122(z.22)(E)</Text>
+  </Section>
+  <Section>
+    <Label>155</Label>
+    <Text>2018, c. 4, par. 122(z.22)(E)</Text>
+  </Section>
+  <Section>
+    <Label>156</Label>
+    <Text>2018, c. 4, par. 122(z.23)(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part XII</Label>
+    <Text>2018, c. 4, s. 89(F) (heading)</Text>
+  </Heading>
+  <Section>
+    <Label>157</Label>
+    <Text>2018, c. 4, s. 90</Text>
+  </Section>
+  <Section>
+    <Label>158</Label>
+    <Text>2018, c. 4, s. 91</Text>
+  </Section>
+  <Section>
+    <Label>159</Label>
+    <Text>2018, c. 4, s. 92</Text>
+  </Section>
+  <Section>
+    <Label>160</Label>
+    <Text>2018, c. 4, s. 93</Text>
+  </Section>
+  <Section>
+    <Label>161</Label>
+    <Text>2018, c. 4, s. 94</Text>
+  </Section>
+  <Section>
+    <Label>162</Label>
+    <Text>2003, c. 22, par. 224(z.22)(E)</Text>
+  </Section>
+  <Section>
+    <Label>164</Label>
+    <Text>2018, c. 4, s. 95</Text>
+  </Section>
+  <Section>
+    <Label>165</Label>
+    <Text>2018, c. 4, s. 96</Text>
+  </Section>
+  <Section>
+    <Label>166</Label>
+    <Text>2009, c. 12, s. 24; 2018, c. 4, s. 97</Text>
+  </Section>
+  <Section>
+    <Label>171</Label>
+    <Text>repealed, 2018, c. 4, s. 98</Text>
+  </Section>
+  <Heading>
+    <Label>Part XIII</Label>
+  </Heading>
+  <Section>
+    <Label>173</Label>
+    <Text>2018, c. 4, s. 99</Text>
+  </Section>
+  <Section>
+    <Label>174</Label>
+    <Text>2000, c. 12, s. 90; 2018, c. 4, s. 100</Text>
+  </Section>
+  <Section>
+    <Label>175</Label>
+    <Text>2018, c. 4, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>176</Label>
+    <Text>2018, c. 4, s. 102</Text>
+  </Section>
+  <Section>
+    <Label>177</Label>
+    <Text>2018, c. 4, par. 123(r)</Text>
+  </Section>
+  <Section>
+    <Label>178</Label>
+    <Text>2018, c. 4, s. 103</Text>
+  </Section>
+  <Section>
+    <Label>179</Label>
+    <Text>2018, c. 4, s. 104</Text>
+  </Section>
+  <Section>
+    <Label>180</Label>
+    <Text>2018, c. 4, s. 104</Text>
+  </Section>
+  <Section>
+    <Label>181</Label>
+    <Text>2018, c. 4, s. 105</Text>
+  </Section>
+  <Section>
+    <Label>182</Label>
+    <Text>2018, c. 4, s. 106(E)</Text>
+  </Section>
+  <Section>
+    <Label>183</Label>
+    <Text>2018, c. 4, s. 107</Text>
+  </Section>
+  <Section>
+    <Label>184</Label>
+    <Text>2018, c. 4, s. 108</Text>
+  </Section>
+  <Section>
+    <Label>185</Label>
+    <Text>2018, c. 4, s. 109(E)</Text>
+  </Section>
+  <Section>
+    <Label>186</Label>
+    <Text>2018, c. 4, s. 109(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part XIV</Label>
+  </Heading>
+  <Section>
+    <Label>187</Label>
+    <Text>2009, c. 12, s. 25; 2018, c. 4, s. 110</Text>
+  </Section>
+  <Section>
+    <Label>188</Label>
+    <Text>2018, c. 4, s. 111 and par. 122(z.24)(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part XV</Label>
+  </Heading>
+  <Section>
+    <Label>190</Label>
+    <Text>2009, c. 12, s. 26; 2018, c. 4, s. 112</Text>
+  </Section>
+  <Section>
+    <Label>191</Label>
+    <Text>2009, c. 12, s. 27; 2018, c. 4, s. 113</Text>
+  </Section>
+  <Section>
+    <Label>192</Label>
+    <Text>2018, c. 4, s. 114</Text>
+  </Section>
+  <Section>
+    <Label>193</Label>
+    <Text>2018, c. 4, s. 115 and par. 122(z.25)(E)</Text>
+  </Section>
+  <Heading>
+    <Label>Part XVI</Label>
+  </Heading>
+  <Section>
+    <Label>194</Label>
+    <Text>2009, c. 12, s. 28; repealed, 2018, c. 4, s. 116</Text>
+  </Section>
+  <Section>
+    <Label>196</Label>
+    <Text>2009, c. 12, s. 29; 2018, c. 4, s. 117 and par. 123(s)</Text>
+  </Section>
+  <Heading>
+    <Label>Part XVII</Label>
+  </Heading>
+  <Section>
+    <Label>197</Label>
+    <Text>2009, c. 12, s. 30; 2018, c. 4, s. 118</Text>
+  </Section>
+  <Section>
+    <Label>199</Label>
+    <Text>2009, c. 12, s. 31; 2018, c. 4, s. 119</Text>
+  </Section>
+  <Section>
+    <Label>199.1</Label>
+    <Text>added, 2018, c. 4, s. 120</Text>
+  </Section>
+  <Heading>
+    <Label>Part XVIII</Label>
+  </Heading>
+  <Section>
+    <Label>200</Label>
+    <Text>2018, c. 4, s. 121</Text>
+  </Section>
+  <Section>
+    <Label>202</Label>
+    <Text>2018, c. 4, par. 122(z.26)(E)</Text>
+  </Section>
+  <Section>
+    <Label>203</Label>
+    <Text>2018, c. 4, par. 122(z.27)(E)</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2009, c. 23, s. 352</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2018, c. 4, s. 134</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2009, c. 12, s. 32 (publication that any land is set aside as Category IA land)</Text>
+  </General>
+  <General>
+    <Text>General, 2018, c. 4, s. 7(F) (heading before s. 6); s. 9 (heading before s. 9.1 repealed); s. 16(E) (heading before s. 21); s. 67 and par. 123(f) (heading before s. 117)</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2018, c. 4, par. 122(a) to (z.27) and par. 123(a) to (s)</Text>
+  </Terminology>
+  <Transitional>
+    <Text>Transitionals, 2018, c. 4, s. 124 (Cree-Naskapi Commission)</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1984, c. 18 except s. 36 and ss. 157 to 172 in force 03.07.84; ss. 36 and 157 to 172 in force 01.12.84 <Emphasis style="italic">see</Emphasis> SI/84‑129</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 12, ss. 89 and 90 repealed before coming into force <Emphasis style="italic">see</Emphasis> 2018, c. 4, s. 125</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, s. 133 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 224 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 12 (assent: 11.06.2009), ss. 2, 6, 9 to 14, 22 to 24, 26 and 28 to 32 in force 01.02.2010 <Emphasis style="italic">see</Emphasis> SI/2010-8; ss. 1, 3 to 5, 7, 8, 15 to 21, 25 and 27, [Note: conditions at s. 33(2) were met: setting aside lands by Governor in Council as Category 1A lands in the Province of Quebec for the exclusive use and benefit of the Crees of OUJÉ-BOUGOUMOU], in force 15.05.2014 <Emphasis style="italic">see</Emphasis> P.C. 2014-0582.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 23, s. 352 in force on assent 23.06.2009; s. 322 in force 17.10.2011 <Emphasis style="italic">see</Emphasis> SI/2011-87 [<Emphasis style="italic">Note</Emphasis>: the amendment provided for s. 352 took effect on the coming into force of par. 313(a) which is 31.12.2017 <Emphasis style="italic">see</Emphasis> SI/2018-1]</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 4, ss. 2 to 125 and 134 in force on assent 29.03.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), s. 373 in force 15.07.2019</Text>
+  </CIF>
+</Statute>
+</TOPS>

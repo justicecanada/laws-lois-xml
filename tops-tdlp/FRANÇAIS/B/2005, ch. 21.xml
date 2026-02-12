@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha=" 2005, ch. 21">
+  <Title>Bien-être des vétérans, Loi sur le</Title>
+  <ChapterNumber> 2005, ch. 21</ChapterNumber>
+  <TitleChanged>
+    <Text>(Ancienne appellation : Mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes, Loi sur les)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Veterans Well-being Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Anciens Combattants</Text>
+  </Minister>
+  <Section>
+    <Label>1</Label>
+    <Text>2017, ch. 20, art. 270</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>2015, ch. 36, art. 206; 2016, ch. 3, art. 9, ch. 7, al. 97a); 2017, ch. 20, art. 271; 2018, ch. 12, art. 123</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>ajouté, 2015, ch. 36, art. 207</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2011, ch. 12, art. 3; 2012, ch. 19, art. 682; 2017, ch. 20, art. 272; 2018, ch. 12, art. 124</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2011, ch. 12, art. 4; abrogé, 2012, ch. 19, art. 683; 2017, ch. 20, art. 273</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2011, ch. 12, art. 5; abrogé, 2012, ch. 19, art. 683; 2017, ch. 20, art. 274</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>ajouté, 2017, ch. 20, art. 274</Text>
+  </Section>
+  <Section>
+    <Label>5.11</Label>
+    <Text>ajouté, 2019, ch. 29, art. 318</Text>
+  </Section>
+  <Section>
+    <Label>5.2</Label>
+    <Text>ajouté, 2017, ch. 20, art. 274; 2019, ch. 29, art. 319</Text>
+  </Section>
+  <Section>
+    <Label>5.5</Label>
+    <Text>ajouté, 2017, ch. 20, art. 274</Text>
+  </Section>
+  <Section>
+    <Label>5.4</Label>
+    <Text>ajouté, 2017, ch. 20, art. 274</Text>
+  </Section>
+  <Section>
+    <Label>5.5</Label>
+    <Text>ajouté, 2017, ch. 20, art. 274</Text>
+  </Section>
+  <Section>
+    <Label>5.6</Label>
+    <Text>ajouté, 2017, ch. 20, art. 274; 2019, ch. 29, art. 320</Text>
+  </Section>
+  <Section>
+    <Label>5.7</Label>
+    <Text>ajouté, 2017, ch. 20, art. 274; 2018, ch. 12, art. 125</Text>
+  </Section>
+  <Section>
+    <Label>5.8</Label>
+    <Text>ajouté, 2017, ch. 20, art. 274</Text>
+  </Section>
+  <Section>
+    <Label>5.9</Label>
+    <Text>ajouté, 2017, ch. 20, art. 274; 2019, ch. 29, art. 321</Text>
+  </Section>
+  <Section>
+    <Label>5.91</Label>
+    <Text>ajouté, 2017, ch. 20, art. 274</Text>
+  </Section>
+  <Section>
+    <Label>5.92</Label>
+    <Text>ajouté, 2017, ch. 20, art. 274</Text>
+  </Section>
+  <Section>
+    <Label>5.93</Label>
+    <Text>ajouté, 2017, ch. 20, art. 274</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2018, ch. 12, art. 126</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2018, ch. 12, art. 127, abrogé, 2018, ch. 12, art. 128</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2018, ch. 12, art. 129</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2016, ch. 7, art. 80; 2018, ch. 12, art. 130</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2011, ch. 12, art. 6</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2015, ch. 36, art. 208; 2016, ch. 7, art. 81; 2018, ch. 12, art. 131</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2016, ch. 7, art. 82; 2018, ch. 12, art. 132</Text>
+  </Section>
+  <Section>
+    <Label>19.1</Label>
+    <Text>ajouté, 2018, ch. 12, art. 133</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2016, ch. 7, art. 83; 2018, ch. 12, art. 133</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2018, ch. 12, art. 133</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2018, ch. 12, art. 133</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2016, ch. 7, art. 84; 2018, ch. 12, art. 134</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2018, ch. 12, art. 135</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2018, ch. 12, art. 135</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2018, ch. 12, art. 135</Text>
+  </Section>
+  <Section>
+    <Label>26.1</Label>
+    <Text>ajouté, 2018, ch. 12, art. 135</Text>
+  </Section>
+  <Section>
+    <Label>26.2</Label>
+    <Text>ajouté, 2018, ch. 12, art. 135</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2018, ch. 12, art. 136</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>2011, ch. 12, art. 7</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>2011, ch. 12, art. 8; 2016, ch. 7, art. 85 et al. 97c); abrogé, 2018, ch. 12, art. 137</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2011, ch. 12, art. 9; 2015, ch. 36, art. 209; 2016, ch. 7, al. 97d); abrogé, 2018, ch. 12, art. 137</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2016, ch. 7, art. 86(A) et al. 97e); abrogé, 2018, ch. 12, art. 137</Text>
+  </Section>
+  <Section>
+    <Label>40.1</Label>
+    <Text>ajouté, 2015, ch. 36, art. 210; 2016, ch. 7, al. 97f); abrogé, 2018, ch. 12, art. 137</Text>
+  </Section>
+  <Section>
+    <Label>40.2</Label>
+    <Text>ajouté, 2015, ch. 36, art. 210; 2016, ch. 7, al. 97g); abrogé, 2018, ch. 12, art. 137</Text>
+  </Section>
+  <Section>
+    <Label>40.3</Label>
+    <Text>ajouté, 2015, ch. 36, art. 210; abrogé, 2018, ch. 12, art. 137</Text>
+  </Section>
+  <Section>
+    <Label>40.4</Label>
+    <Text>ajouté, 2015, ch. 36, art. 210; abrogé, 2018, ch. 12, art. 137</Text>
+  </Section>
+  <Section>
+    <Label>40.5</Label>
+    <Text>ajouté, 2015, ch. 36, art. 210; 2016, ch. 7, al. 97h); abrogé, 2017, ch. 20, art. 275; abrogé, 2018, ch. 12, art. 137</Text>
+  </Section>
+  <Section>
+    <Label>40.6</Label>
+    <Text>ajouté, 2015, ch. 36, art. 210; abrogé, 2018, ch. 12, art. 137</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>2015, ch. 36, art. 211; 2016, ch. 7, art. 87; 2018, ch. 12, art. 138</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2015, ch. 36, art. 213; 2017, ch. 20, art. 276; 2018, ch. 12, art. 140</Text>
+  </Section>
+  <Section>
+    <Label>44.1</Label>
+    <Text>ajouté, 2015, ch. 36, art. 214</Text>
+  </Section>
+  <Section>
+    <Label>44.2</Label>
+    <Text>ajouté, 2015, ch. 36, art. 214</Text>
+  </Section>
+  <Section>
+    <Label>44.3</Label>
+    <Text>ajouté, 2015, ch. 36, art. 214; abrogé, 2017, ch. 20, art. 277</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>2018, ch. 12, art. 142</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2015, ch. 36, art. 215; 2018, ch. 12, art. 143</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2011, ch. 12, art. 10; 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>2011, ch. 12, art. 11; 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>2011, ch. 12, art. 12; 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2016, ch. 7, art. 88; 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>52.1</Label>
+    <Text>ajouté, 2011, ch. 12, art. 13; 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>2016, ch. 7, art. 89; 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>2011, ch. 12, art. 14; 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>56.1</Label>
+    <Text>ajouté, 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>56.2</Label>
+    <Text>ajouté, 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>56.3</Label>
+    <Text>ajouté, 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>56.4</Label>
+    <Text>ajouté, 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>56.5</Label>
+    <Text>ajouté, 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>56.6</Label>
+    <Text>ajouté, 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>56.7</Label>
+    <Text>ajouté, 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>56.8</Label>
+    <Text>ajouté, 2018, ch. 12, art. 144</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>2018, ch. 12, art. 145</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>2015, ch. 36, art. 216; 2018, ch. 12, art. 146</Text>
+  </Section>
+  <Section>
+    <Label>65.1</Label>
+    <Text>ajouté, 2015, ch. 36, art. 217; 2017, ch. 20, art. 279; 2018, ch. 12, art. 147</Text>
+  </Section>
+  <Section>
+    <Label>65.2</Label>
+    <Text>ajouté, 2015, ch. 36, art. 217; 2017, ch. 20, art. 280</Text>
+  </Section>
+  <Section>
+    <Label>65.21</Label>
+    <Text>ajouté, 2017, ch. 20, art. 280</Text>
+  </Section>
+  <Section>
+    <Label>65.22</Label>
+    <Text>ajouté, 2017, ch. 20, art. 280</Text>
+  </Section>
+  <Section>
+    <Label>65.23</Label>
+    <Text>ajouté, 2017, ch. 20, art. 280</Text>
+  </Section>
+  <Section>
+    <Label>65.24</Label>
+    <Text>ajouté, 2017, ch. 20, art. 280</Text>
+  </Section>
+  <Section>
+    <Label>65.3</Label>
+    <Text>ajouté, 2015, ch. 36, art. 217; 2017, ch. 20, art. 280</Text>
+  </Section>
+  <Section>
+    <Label>65.31</Label>
+    <Text>ajouté, 2017, ch. 20, art. 280</Text>
+  </Section>
+  <Section>
+    <Label>65.4</Label>
+    <Text>ajouté, 2015, ch. 36, art. 217</Text>
+  </Section>
+  <Section>
+    <Label>65.1</Label>
+    <Text>ajouté, 2015, ch. 36, art. 217</Text>
+  </Section>
+  <Section>
+    <Label>65.2</Label>
+    <Text>ajouté, 2015, ch. 36, art. 217</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>2018, ch. 12, art. 147(A)</Text>
+  </Section>
+  <Section>
+    <Label>75.1</Label>
+    <Text>ajouté, 2015, ch. 36, art. 218</Text>
+  </Section>
+  <Section>
+    <Label>75.2</Label>
+    <Text>ajouté, 2015, ch. 36, art. 218</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>2011, ch. 12, art. 15</Text>
+  </Section>
+  <Section>
+    <Label>78.1</Label>
+    <Text>ajouté, 2017, ch. 20, art. 281</Text>
+  </Section>
+  <Section>
+    <Label>78.2</Label>
+    <Text>ajouté, 2017, ch. 20, art. 281</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>2005, ch. 21, art. 116; 2012, ch. 19, al. 695(1)b); 2013, ch. 40, al. 237(1)c); 2020, ch. 11, art. 9</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>2015, ch. 36, art. 219; 2018, ch. 12, art. 149</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>2015, ch. 36, art. 220; 2017, ch. 20, art. 282</Text>
+  </Section>
+  <Section>
+    <Label>87.1</Label>
+    <Text>ajouté, 2017, ch. 20, art. 283</Text>
+  </Section>
+  <Section>
+    <Label>88</Label>
+    <Text>2015, ch. 36, art. 221; 2016, ch. 7, al. 97i); 2017, ch. 20, art. 284; 2018, ch. 12, art. 150</Text>
+  </Section>
+  <Section>
+    <Label>90</Label>
+    <Text>2011, ch. 12, art. 16; 2018, ch. 12, art. 151</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>2011, ch. 12, art. 17; 2012, ch. 19, art. 683; 2015, ch. 36, art. 222; 2016, ch. 7, al. 97j); 2017, ch. 20, art. 285 et 296; 2018, ch. 12, art. 152</Text>
+  </Section>
+  <Section>
+    <Label>94.01</Label>
+    <Text>ajouté, 2016, ch. 7, art. 90</Text>
+  </Section>
+  <Section>
+    <Label>94.1</Label>
+    <Text>ajouté, 2015, ch. 36, art. 223; 2017, ch. 20, art. 286; 2018, ch. 12, art. 153</Text>
+  </Section>
+  <Section>
+    <Label>98</Label>
+    <Text>abrogé, 2016, ch. 7, art. 91; 2018, ch. 12, art. 157</Text>
+  </Section>
+  <Section>
+    <Label>99 à 117</Label>
+    <Text>2018, ch. 12, art. 157</Text>
+  </Section>
+  <Section>
+    <Label>118 à 177</Label>
+    <Text>ajoutés, 2018, ch. 12, art. 157</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe 1 :</Label>
+    <Text>2016, ch. 7, art. 92</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe 2 :</Label>
+    <Text>2015, ch. 36, art. 224; 2016, ch. 7, art. 93</Text>
+  </Schedule>
+  <Section>
+    <Label>1</Label>
+    <Text>2016, ch. 7, al. 97k)</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>2016, ch. 7, al. 97k)</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>ajouté, 2011, ch. 12, art. 19; 2016, ch. 7, art. 94</Text>
+  </Section>
+  <Section>
+    <Label>2.2</Label>
+    <Text>ajouté, 2015, ch. 36, art. 225</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2016, ch. 7, art. 95</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2015, ch. 36, art. 225; 2017, ch. 20, art. 287</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe 3 :</Label>
+    <Text>2016, ch. 7, art. 96</Text>
+  </Schedule>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2005, ch. 21, art. 116</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2015, ch. 36, art. 228</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2016, ch. 7, art. 115</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>dispositions générales, 2011, ch. 12, art. 2, 18 et 20.1 (examen)</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 2014, ch. 20, art. 102 à 107)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2015, ch. 36, art. 212</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2016, ch. 3, al. 97b)</Text>
+  </General>
+  <General>
+    <Text>disposition générale, 2017, ch. 20, art. 278</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 2018, ch. 12, art. 139 (titre), 141 (titre), 154 (titre de la partie 5), 155 et 156 (titres), 182 (remplace 2014, ch. 20, art. 102), 183 et 184 (modifie et remplace 2016, ch. 7, art. 99 et 111 )</Text>
+  </General>
+  <Transitional>
+    <Text>dispositions transitoires, 2016, ch. 7, art. 98 à 111</Text>
+  </Transitional>
+  <Transitional>
+    <Text>dispositions transitoires, 2018, ch. 12, art. 157 (definitions qui s’appliquent), (art. 98 à 129 : allocation de remplacement du revenu), (art. 130 à 133 : indemnité et indemnité supplémentaire pour douleur et souffrance), art. 162 (définitions qui s’appliquent aux art. 163 à 177), art. 163 à 170 (services de réadaptation et assistance professionnelle), art. 171 à 177 (allocation de soutien du revenu et indemnité pour douleur et souffrance)</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, 2005, ch. 21, la loi, à l’exception de l’art. 116, en vigueur 01.04.2006 <Emphasis style="italic">voir</Emphasis> TR/2006-54; art. 116 en vigueur à la sanction 13.05.2005; al. 94j.1), édicté par 2011, ch. 12, par. 17(4), réputé en vigueur 01.04.2006 <Emphasis style="italic">voir</Emphasis> 2017, ch. 20, art. 296</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2011, ch. 12 (sanction : 24.03.2011), art. 2 à 19 et 20.1 en vigueur 03.10.2011 <Emphasis style="italic">voir</Emphasis> TR/2011-81; al. 94j.1), édicté par 2011, ch. 12, par. 17(4), réputé en vigueur 01.04.2006 <Emphasis style="italic">voir</Emphasis> 2017, ch. 20, art. 296</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 19 (sanction : 29.06.2012), al. 695(1)b) en vigueur 01.03.2013 <Emphasis style="italic">voir</Emphasis> TR/2013-17; art. 682 et 683 (Section 50) abrogés avant leur entrée en vigueur 01.04.2018 <Emphasis style="italic">voir</Emphasis> 2017, ch. 20, art. 297</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 40, al. 237(1)c) en vigueur à la sanction 12.12.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 36, art. 228 en vigueur à la sanction 23.06.2015; art. 206 à 225 en vigueur 01.07.2015 <Emphasis style="italic">voir</Emphasis> art. 229</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2016, ch. 3, art. 9 en vigueur à la sanction 17.06.2016</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2016, ch. 7, art. 115 en vigueur à la sanction 22.06.2016</Text>
+    <List>
+      <Item>
+        <Text>— art. 80, 81, 83, 85 à 97 et 99 à 111 en vigueur 01.04.2017 <Emphasis style="italic">voir</Emphasis> par. 116(1)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 82, 84 et 98 en vigueur 01.10.2016 <Emphasis style="italic">voir</Emphasis> par. 116(2)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 20 (sanction : 22.06.2017), art. 270 à 287 et 292 à 297 en vigueur 01.04.2018 <Emphasis style="italic">voir</Emphasis> art. 299</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 12 (sanction : 21.06.2018), art. 125 à 127, par. 129(1), (3) et (5), art. 130 à 166, 170 à 177 et 182 à 184 en vigueur 01.04.2019 <Emphasis style="italic">voir</Emphasis> par. 185(1)</Text>
+    <List>
+      <Item>
+        <Text>— art. 128, par. 129(2) et (4) et art. 167 à 169 en vigueur 01.04.2024 <Emphasis style="italic">voir</Emphasis> par. 185(2)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 29, (sanction : 21.06.2019) art. 318 à 321 en vigueur le 05.07.2019 <Emphasis style="italic">voir</Emphasis> art. 322</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2020, ch. 11, art. 9 en vigueur à la sanction 27.07.2020</Text>
+  </CIF>
+</Statute>
+</TOPS>

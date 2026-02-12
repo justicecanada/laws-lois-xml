@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1998, c. 25">
+  <Title>Mackenzie Valley Resource Management Act</Title>
+  <ChapterNumber>1998, c. 25</ChapterNumber>
+  <OtherLangTitle>(Gestion des ressources de la vallée du Mackenzie)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Northern Affairs (<Emphasis style="italic">see</Emphasis> s. 2)</Text>
+  </Minister>
+  <Heading>
+    <Label>Preamble</Label>
+    <Text>2014, c. 2, s. 112</Text>
+  </Heading>
+  <Section>
+    <Label>2</Label>
+    <Text>2000, c. 32, s. 50; 2002, c. 7, s. 205(E); 2005, c. 1, s. 15; 2014, c. 2, s. 113; 2015, c. 24, s. 22; 2019, c. 29, s. 374(i)</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2005, c. 1, s. 16; 2014, c. 2, s. 114; 2015, c. 24, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2015, c. 24, s. 24; 2024, c. 30, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>added, 2005, c. 1, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>5.2</Label>
+    <Text>added, 2014, c. 2, s. 115; 2019, c. 28, s. 164</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2014, c. 2, s. 116</Text>
+  </Section>
+  <Section>
+    <Label>7.1</Label>
+    <Text>added, 2014, c. 2, s. 116</Text>
+  </Section>
+  <Section>
+    <Label>7.2</Label>
+    <Text>added, 2014, c. 2, ss. 116 and 117; 2019, c. 19, s. 1</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2005, c. 1, s. 18; 2015, c. 24, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2014, c. 2, s. 118</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2005, c. 1, s. 19; 2014, c. 2, s. 119</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2005, c. 1, s. 20; 2014, c. 2, s. 120</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2005, c. 1, s. 21; 2014, c. 2, s. 121</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2005, c. 1, s. 22; 2014, c. 2, s. 122; 2019, c. 19, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2005, c. 1, s. 23; 2015, c. 24, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>2005, c. 1, s. 24; 2014, c. 2, s. 123</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2003, c. 22, par. 224(<Emphasis style="italic">z</Emphasis>.48)(E)</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2014, c. 2, s. 124</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2005, c. 1, s. 25; 2015, c. 24, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2005, c. 1, s. 26; 2014, c. 2, s. 125(F)</Text>
+  </Section>
+  <Section>
+    <Label>24.1</Label>
+    <Text>added, 2005, c. 1, s. 26; 2014, c. 2, s. 126(F)</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2014, c. 2, s. 127</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2017, c. 26, par. 62(j)</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2005, c. 1, s. 27; 2014, c. 2, s. 128; 2015, c. 24, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2002, c. 8, par. 182(1)(x); 2005, c. 1, s. 28; 2014, c. 2, s. 129</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>2000, c. 32, s. 51</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2014, c. 2, s. 130(F)</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2000, c. 32, s. 52</Text>
+  </Section>
+  <Section>
+    <Label>50.1</Label>
+    <Text>added, 2014, c. 2, s. 131</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>1998, c. 15, s. 48(a); 2005, c. 1, s. 29; 2014, c. 2, s. 132</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2000, c. 32, s. 53; 2005, c. 1, s. 30; 2014, c. 2, s. 133</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>2014, c. 2, s. 134</Text>
+  </Section>
+  <Section>
+    <Label>53.1</Label>
+    <Text>added, 2014, c. 2, s. 135</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2014, c. 2, s. 136</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>2014, c. 2, s. 136</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>2014, c. 2, s. 136</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>2014, c. 2, s. 136</Text>
+  </Section>
+  <Section>
+    <Label>57.1</Label>
+    <Text>added, 2005, c. 1, s. 31; repealed, 2014, c. 2, s. 136</Text>
+  </Section>
+  <Section>
+    <Label>57.2</Label>
+    <Text>added, 2005, c. 1, s. 31; repealed, 2014, c. 2, s. 136</Text>
+  </Section>
+  <Section>
+    <Label>57.3</Label>
+    <Text>added, 2019, c. 19, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>2005, c. 1, s. 32; 2014, c. 2, s. 137</Text>
+  </Section>
+  <Section>
+    <Label>58.1</Label>
+    <Text>added, 2005, c. 1, s. 32; repealed, 2014, c. 2, s. 137</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>2005, c. 1, s. 33; 2014, c. 2, s. 137</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>1998, c. 15, s. 48(b); 2002, c. 10, s. 178; 2005, c. 1, s. 34; 2014, c. 2, ss. 110, 137, 138 and 139</Text>
+  </Section>
+  <Section>
+    <Label>60.1</Label>
+    <Text>added, 2005, c. 1, s. 35; 2014, c. 2, s. 137</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2005, c. 1, s. 35; 2014, c. 2, s. 137</Text>
+  </Section>
+  <Section>
+    <Label>61.1</Label>
+    <Text>added, 2005, c. 1, s. 35; 2014, c. 2, s. 137</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>2014, c. 2, s. 137</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>2005, c. 1, s. 36; 2014, c. 2, s. 137; 2015, c. 24, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>2005, c. 1, s. 37; 2014, c. 2, s. 137</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>2014, c. 2, ss. 137 and 140</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>2014, c. 2, s. 137</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>2014, c. 2, ss. 137 and 141; 2019, c. 19, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>repealed, 2005, c. 1, s. 38; added, 2014, c. 2, s. 137, added, 2014, c. 2, s. 141</Text>
+  </Section>
+  <Section>
+    <Label>68.1</Label>
+    <Text>added, 2014, c. 2, s. 137</Text>
+  </Section>
+  <Section>
+    <Label>69</Label>
+    <Text>2014, c. 2, s. 142</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>2014, c. 2, s. 143</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>2014, c. 2, s. 144</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>2014, c. 2, s. 145</Text>
+  </Section>
+  <Section>
+    <Label>72.01</Label>
+    <Text>added, 2014, c. 2, s. 145</Text>
+  </Section>
+  <Section>
+    <Label>72.02</Label>
+    <Text>added, 2014, c. 2, s. 145</Text>
+  </Section>
+  <Section>
+    <Label>72.03</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 146</Text>
+  </Section>
+  <Section>
+    <Label>72.04</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 147</Text>
+  </Section>
+  <Section>
+    <Label>72.05</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 148</Text>
+  </Section>
+  <Section>
+    <Label>72.06</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 149</Text>
+  </Section>
+  <Section>
+    <Label>72.07</Label>
+    <Text>added, 2014, c. 2, s. 145</Text>
+  </Section>
+  <Section>
+    <Label>72.08</Label>
+    <Text>added, 2014, c. 2, s. 145</Text>
+  </Section>
+  <Section>
+    <Label>72.09</Label>
+    <Text>added, 2014, c. 2, s. 145</Text>
+  </Section>
+  <Section>
+    <Label>72.1</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 150</Text>
+  </Section>
+  <Section>
+    <Label>72.11</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 151</Text>
+  </Section>
+  <Section>
+    <Label>72.12</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 152</Text>
+  </Section>
+  <Section>
+    <Label>72.13</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 153</Text>
+  </Section>
+  <Section>
+    <Label>72.14</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 154</Text>
+  </Section>
+  <Section>
+    <Label>72.15</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 155</Text>
+  </Section>
+  <Section>
+    <Label>72.16</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 156</Text>
+  </Section>
+  <Section>
+    <Label>72.17</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 156</Text>
+  </Section>
+  <Section>
+    <Label>72.18</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 156</Text>
+  </Section>
+  <Section>
+    <Label>72.19</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 156</Text>
+  </Section>
+  <Section>
+    <Label>72.2</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 156</Text>
+  </Section>
+  <Section>
+    <Label>72.21</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 157</Text>
+  </Section>
+  <Section>
+    <Label>72.22</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 158</Text>
+  </Section>
+  <Section>
+    <Label>72.23</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 159</Text>
+  </Section>
+  <Section>
+    <Label>72.24</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 160</Text>
+  </Section>
+  <Section>
+    <Label>72.25</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 161</Text>
+  </Section>
+  <Section>
+    <Label>72.26</Label>
+    <Text>added, 2014, c. 2, s. 145</Text>
+  </Section>
+  <Section>
+    <Label>72.27</Label>
+    <Text>added, 2014, c. 2, s. 145</Text>
+  </Section>
+  <Section>
+    <Label>72.28</Label>
+    <Text>added, 2014, c. 2, ss. 145 and 162</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>2005, c. 1, s. 39; 2014, c. 2, s. 163</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>2014, c. 2, s. 163</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>2005, c. 1, s. 40; 2014, c. 2, s. 164</Text>
+  </Section>
+  <Section>
+    <Label>77</Label>
+    <Text>2005, c. 1, s. 41; 2014, c. 2, s. 165</Text>
+  </Section>
+  <Section>
+    <Label>78</Label>
+    <Text>1998, c. 15, s. 48(c); 2000, c. 32, s. 54; 2005, c. 1, s. 42; 2014, c. 2, s. 166</Text>
+  </Section>
+  <Section>
+    <Label>79</Label>
+    <Text>2005, c. 1, s. 43; 2014, c. 2, s. 167</Text>
+  </Section>
+  <Section>
+    <Label>79.1</Label>
+    <Text>added, 2005, c. 1, s. 44; 2014, c. 2, s. 168</Text>
+  </Section>
+  <Section>
+    <Label>79.2</Label>
+    <Text>added, 2005, c. 1, s. 44; 2014, c. 2, s. 169</Text>
+  </Section>
+  <Section>
+    <Label>79.3</Label>
+    <Text>added, 2005, c. 1, s. 44; 2014, c. 2, s. 170</Text>
+  </Section>
+  <Section>
+    <Label>79.4</Label>
+    <Text>added, 2019, c. 19, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>2005, c. 1, s. 45; 2014, c. 2, s. 171</Text>
+  </Section>
+  <Section>
+    <Label>80.1</Label>
+    <Text>added, 2005, c. 1, s. 46; 2014, c. 2, s. 172</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>2014, c. 2, s. 173</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>2005, c. 1, s. 47; 2014, c. 2, s. 174; 2019, c. 19, s. 6(F)</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>2005, c. 1, s. 47; 2014, c. 2, s. 175; 2015, c. 24, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>83.1</Label>
+    <Text>added, 2014, c. 2, s. 176</Text>
+  </Section>
+  <Section>
+    <Label>83.2</Label>
+    <Text>added, 2014, c. 2, s. 176</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>2014, c. 2, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>85</Label>
+    <Text>2005, c. 1, s. 48; 2014, c. 2, ss. 177 and 178; 2015, c. 24, s. 31; 2019, c. 19, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>85.1</Label>
+    <Text>added, 2014, c. 2, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>85.2</Label>
+    <Text>added, 2014, c. 2, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>85.3</Label>
+    <Text>added, 2014, c. 2, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>2014, c. 2, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>86.1</Label>
+    <Text>added, 2014, c. 2, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>86.2</Label>
+    <Text>added, 2014, c. 2, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>2014, c. 2, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>88</Label>
+    <Text>2014, c. 2, ss. 177 and 179</Text>
+  </Section>
+  <Section>
+    <Label>89</Label>
+    <Text>2005, c. 1, s. 49; 2014, c. 2, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>90</Label>
+    <Text>2005, c. 1, s. 50; 2014, c. 2, s. 180</Text>
+  </Section>
+  <Section>
+    <Label>90.01</Label>
+    <Text>added, 2014, c. 2, s. 181</Text>
+  </Section>
+  <Section>
+    <Label>90.02</Label>
+    <Text>added, 2014, c. 2, s. 181</Text>
+  </Section>
+  <Section>
+    <Label>90.1</Label>
+    <Text>added, 2005, c. 1, s. 51; 2014, c. 2, s. 181</Text>
+  </Section>
+  <Section>
+    <Label>90.11</Label>
+    <Text>added, 2015, c. 24, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>90.2</Label>
+    <Text>added, 2005, c. 1, s. 51; 2014, c. 2, ss. 181 and 182</Text>
+  </Section>
+  <Section>
+    <Label>90.21</Label>
+    <Text>added, 2015, c. 24, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>90.3</Label>
+    <Text>added, 2014, c. 2, ss. 182 and 183</Text>
+  </Section>
+  <Section>
+    <Label>90.31</Label>
+    <Text>added, 2019, c. 19, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>90.32</Label>
+    <Text>added, 2019, c. 19, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>90.4</Label>
+    <Text>added, 2014, c. 2, s. 182</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>2005, c. 1, s. 52; 2014, c. 2, s. 184</Text>
+  </Section>
+  <Section>
+    <Label>91.1</Label>
+    <Text>added, 2014, c. 2, ss. 185 and 186</Text>
+  </Section>
+  <Section>
+    <Label>92</Label>
+    <Text>2005, c. 1, s. 53; 2014, c. 2, s. 187</Text>
+  </Section>
+  <Section>
+    <Label>92.01</Label>
+    <Text>added, 2014, c. 2, s. 188</Text>
+  </Section>
+  <Section>
+    <Label>92.02</Label>
+    <Text>added, 2014, c. 2, s. 188</Text>
+  </Section>
+  <Section>
+    <Label>92.03</Label>
+    <Text>added, 2014, c. 2, s. 188</Text>
+  </Section>
+  <Section>
+    <Label>92.04</Label>
+    <Text>added, 2014, c. 2, s. 188</Text>
+  </Section>
+  <Section>
+    <Label>92.05</Label>
+    <Text>added, 2014, c. 2, s. 188</Text>
+  </Section>
+  <Section>
+    <Label>92.1</Label>
+    <Text>added, 2014, c. 2, ss. 190 and 189</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>2014, c. 2, ss. 190 and 191</Text>
+  </Section>
+  <Section>
+    <Label>93.1</Label>
+    <Text>added, 2014, c. 2, ss. 190(2) and 191</Text>
+  </Section>
+  <Section>
+    <Label>93.2</Label>
+    <Text>added, 2014, c. 2, s. 190(2)</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>2005, c. 1, s. 54; 2014, c. 2, s. 192; 2015, c. 24, s. 34</Text>
+  </Section>
+  <Heading>
+    <Label>PART 4 (96 to 110)</Label>
+    <Text>repealed, 2014, c. 2, s. 193</Text>
+  </Heading>
+  <Section>
+    <Label>96</Label>
+    <Text>2005, c. 1, s. 55; 2014, c. 2, s. 194, repealed, c. 2, s. 193; 2019, c. 19, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>2000, c. 32, s. 68; repealed, 2014, c. 2, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>98</Label>
+    <Text>repealed, 2014, c. 2, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>99</Label>
+    <Text>2005, c. 1, s. 56; repealed, 2014, c. 2, s. 193; 2019, c. 19, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>100</Label>
+    <Text>repealed, 2014, c. 2, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>101</Label>
+    <Text>repealed, 2014, c. 2, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>101.1</Label>
+    <Text>added, 2005, c. 1, s. 58; repealed, 2014, c. 2, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>102</Label>
+    <Text>2005, c. 1, s. 58; 2014, c. 2, s. 195, repealed, c. 2, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>103</Label>
+    <Text>2005, c. 1, s. 59; repealed, 2014, c. 2, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>104</Label>
+    <Text>2005, c. 1, s. 60; repealed, 2014, c. 2, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>105</Label>
+    <Text>repealed, 2014, c. 2, s. 193, repealed, c. 2, s. 196; added, 2019, c. 19, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>106</Label>
+    <Text>repealed, 2014, c. 2, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>106.1</Label>
+    <Text>added, 2005, c. 1, s. 61; 2014, c. 2, s. 197, repealed, c. 2, s. 193; 2015, c. 24, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>107</Label>
+    <Text>repealed, 2014, c. 2, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>108</Label>
+    <Text>2005, c. 1, s. 62; repealed, 2014, c. 2, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>109</Label>
+    <Text>repealed, 2014, c. 2, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>109.1</Label>
+    <Text>added, 2005, c. 1, s. 63; repealed, 2014, c. 2, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>109.11</Label>
+    <Text>added, 2015, c. 24, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>109.2</Label>
+    <Text>added, 2005, c. 1, s. 63; repealed, 2014, c. 2, s. 193; 2015, c. 24, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>109.3</Label>
+    <Text>added, 2019, c. 19, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>109.4</Label>
+    <Text>added, 2019, c. 19, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>110</Label>
+    <Text>2014, c. 2, s. 198, repealed, c. 2, s. 193</Text>
+  </Section>
+  <Heading>
+    <Label>PART 5:</Label>
+  </Heading>
+  <Section>
+    <Label>111</Label>
+    <Text>2000, c. 32, s. 55; 2005, c. 1, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>111.1</Label>
+    <Text>added, 2014, c. 2, s. 199; 2019, c. 19, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>112</Label>
+    <Text>2005, c. 1, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>112.1</Label>
+    <Text>added, 2014, c. 2, s. 200</Text>
+  </Section>
+  <Section>
+    <Label>113.1</Label>
+    <Text>added, 2019, c. 19, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>115</Label>
+    <Text>2005, c. 1, s. 67; 2014, c. 2, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>115.1</Label>
+    <Text>added, 2005, c. 1, s. 68</Text>
+  </Section>
+  <Section>
+    <Label>116</Label>
+    <Text>2005, c. 1, s. 69; 2014, c. 2, s. 202; 2019, c. 28, s. 188(a)(i)</Text>
+  </Section>
+  <Section>
+    <Label>117</Label>
+    <Text>2005, c. 1, s. 70</Text>
+  </Section>
+  <Section>
+    <Label>117.1</Label>
+    <Text>added, 2014, c. 2, s. 203; added, 2019, c. 19, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>118</Label>
+    <Text>2005, c. 1, s. 71; 2015, c. 24, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>120</Label>
+    <Text>2005, c. 1, s. 72</Text>
+  </Section>
+  <Section>
+    <Label>121</Label>
+    <Text>2005, c. 1, s. 73; 2015, c. 24, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>123.1</Label>
+    <Text>added, 2005, c. 1, s. 74</Text>
+  </Section>
+  <Section>
+    <Label>123.2</Label>
+    <Text>added, 2005, c. 1, s. 74; 2015, c. 24, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>123.3</Label>
+    <Text>added, 2005, c. 1, s. 74</Text>
+  </Section>
+  <Section>
+    <Label>124</Label>
+    <Text>2005, c. 1, s. 75; 2014, c. 2, s. 204; 2019, c. 19, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>125</Label>
+    <Text>2014, c. 2, s. 205; 2019, c. 19, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>126</Label>
+    <Text>2005, c. 1, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>127.1</Label>
+    <Text>added, 2005, c. 1, s. 77</Text>
+  </Section>
+  <Section>
+    <Label>128</Label>
+    <Text>2005, c. 1, s. 78; 2014, c. 2, s. 206</Text>
+  </Section>
+  <Section>
+    <Label>129</Label>
+    <Text>2005, c. 1, s. 79; repealed, 2014, c. 2, s. 207; repealed, 2019, c. 19, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>130</Label>
+    <Text>2005, c. 1, s. 80; 2014, c. 2, s. 208; 2019, c. 19, s. 19; 2019, c. 28, s. 188(a)(ii)</Text>
+  </Section>
+  <Section>
+    <Label>131</Label>
+    <Text>2014, c. 2, s. 209; 2019, c. 19, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>131.1</Label>
+    <Text>added, 2005, c. 1, s. 81; 2014, c. 2, s. 210; 2019, c. 19, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>131.2</Label>
+    <Text>added, 2005, c. 1, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>131.3</Label>
+    <Text>added, 2014, c. 2, s. 211; added, 2019, c. 19, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>131.4</Label>
+    <Text>added, 2014, c. 2, s. 211; added, 2019, c. 19, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>132</Label>
+    <Text>2005, c. 1, s. 82; 2014, c. 2, s. 212</Text>
+  </Section>
+  <Section>
+    <Label>133.1</Label>
+    <Text>added, 2005, c. 1, s. 83</Text>
+  </Section>
+  <Section>
+    <Label>134</Label>
+    <Text>2005, c. 1, s. 84; 2014, c. 2, s. 213</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>2005, c. 1, s. 85; 2014, c. 2, s. 214; 2019, c. 19, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>137</Label>
+    <Text>2014, c. 2, s. 215; 2019, c. 19, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>137.1</Label>
+    <Text>added, 2005, c. 1, s. 86; 2014, c. 2, s. 216; 2019, c. 19, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>137.2</Label>
+    <Text>added, 2005, c. 1, s. 86</Text>
+  </Section>
+  <Section>
+    <Label>137.3</Label>
+    <Text>added, 2005, c. 1, s. 86; 2014, c. 2, s. 217; 2019, c. 28, s. 165</Text>
+  </Section>
+  <Section>
+    <Label>137.4</Label>
+    <Text>added, 2014, c. 2, s. 218; added, 2019, c. 19, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>137.5</Label>
+    <Text>added, 2014, c. 2, s. 218; added, 2019, c. 19, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>138</Label>
+    <Text>2005, c. 1, s. 87; 2014, c. 2, s. 219; 2019, c. 19, s. 27; 2019, c. 28, s. 166</Text>
+  </Section>
+  <Section>
+    <Label>138.1</Label>
+    <Text>added, 2005, c. 1, s. 87; 2014, c. 2, s. 220; 2019, c. 28, s. 167</Text>
+  </Section>
+  <Section>
+    <Label>139</Label>
+    <Text>2005, c. 1, s. 87; repealed, 2014, c. 2, s. 221</Text>
+  </Section>
+  <Section>
+    <Label>140</Label>
+    <Text>2005, c. 1, s. 88; 2014, c. 2, s. 222; 2019, c. 19, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>141</Label>
+    <Text>1998, c. 15, s. 48(d) and (e); 2002, c. 7, s. 206(E); 2005, c. 1, s. 89; 2014, c. 2, s. 223; 2019, c. 19, s. 29; 2019, c. 28, s. 168</Text>
+  </Section>
+  <Section>
+    <Label>142</Label>
+    <Text>1998, c. 15, s. 48(f); 2002, c. 7, s. 207(E)</Text>
+  </Section>
+  <Section>
+    <Label>142.01</Label>
+    <Text>added, 2014, c. 2, s. 224(1); added, 2019, c. 19, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>142.1</Label>
+    <Text>added, 2014, c. 2, s. 224(2)</Text>
+  </Section>
+  <Section>
+    <Label>142.2</Label>
+    <Text>added, 2014, c. 2, s. 224(2)</Text>
+  </Section>
+  <Section>
+    <Label>142.21</Label>
+    <Text>added, 2014, c. 2, s. 224(3); added, 2019, c. 19, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>142.22</Label>
+    <Text>added, 2014, c. 2, s. 224(3); added, 2019, c. 19, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>142.23</Label>
+    <Text>added, 2014, c. 2, s. 224(3); added, 2019, c. 19, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>142.24</Label>
+    <Text>added, 2014, c. 2, s. 224(3); added, 2019, c. 19, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>142.25</Label>
+    <Text>added, 2014, c. 2, ss. 224(3) and 225; added, 2019, c. 19, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>142.26</Label>
+    <Text>added, 2014, c. 2, s. 224(3); added, 2019, c. 19, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>142.27</Label>
+    <Text>added, 2014, c. 2, s. 224(3); added, 2019, c. 19, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>142.28</Label>
+    <Text>added, 2014, c. 2, s. 224(3); added, 2019, c. 19, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>142.29</Label>
+    <Text>added, 2014, c. 2, s. 224(3); added, 2019, c. 19, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>142.3</Label>
+    <Text>added, 2014, c. 2, s. 224(3); added, 2019, c. 19, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>142.31</Label>
+    <Text>added, 2014, c. 2, s. 224(3); added, 2019, c. 19, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>143</Label>
+    <Text>2005, c. 1, s. 90; 2014, c. 2, s. 226; 2019, c. 19, s. 32; 2019, c. 28, s. 169</Text>
+  </Section>
+  <Section>
+    <Label>143.1</Label>
+    <Text>added, 2019, c. 19, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>144</Label>
+    <Text>2005, c. 1, s. 91; 2014, c. 2, s. 227</Text>
+  </Section>
+  <Section>
+    <Label>144.01</Label>
+    <Text>added, 2014, c. 2, s. 228; added, 2019, c. 19, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>144.02</Label>
+    <Text>added, 2014, c. 2, s. 228; added, 2019, c. 19, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>144.03</Label>
+    <Text>added, 2014, c. 2, s. 228; added, 2019, c. 19, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>144.04</Label>
+    <Text>added, 2014, c. 2, s. 228; added, 2019, c. 19, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>144.05</Label>
+    <Text>added, 2014, c. 2, s. 228; added, 2019, c. 19, s. 34</Text>
+  </Section>
+  <Heading>
+    <Label>PART 5.1 (144.1 to 144.31)</Label>
+  </Heading>
+  <Section>
+    <Label>144.1</Label>
+    <Text>added, 2014, c. 2, s. 229; added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.11</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.12</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.13</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.14</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.15</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.16</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.17</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.18</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.19</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.2</Label>
+    <Text>added, 2014, c. 2, s. 229; added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.21</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.22</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.23</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.24</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.25</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.26</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.27</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.28</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.29</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.3</Label>
+    <Text>added, 2014, c. 2, s. 229; added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.31</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Heading>
+    <Label>PART 5.2 (144.32 to 144.39)</Label>
+  </Heading>
+  <Section>
+    <Label>144.32</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.33</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.34</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.35</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.36</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.37</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.38</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.39</Label>
+    <Text>added, 2019, c. 19, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>144.4</Label>
+    <Text>added, 2014, c. 2, s. 229</Text>
+  </Section>
+  <Section>
+    <Label>144.5</Label>
+    <Text>added, 2014, c. 2, s. 229</Text>
+  </Section>
+  <Section>
+    <Label>144.6</Label>
+    <Text>added, 2014, c. 2, s. 229</Text>
+  </Section>
+  <Section>
+    <Label>144.7</Label>
+    <Text>added, 2014, c. 2, s. 229</Text>
+  </Section>
+  <Section>
+    <Label>144.8</Label>
+    <Text>added, 2014, c. 2, s. 229</Text>
+  </Section>
+  <Section>
+    <Label>144.9</Label>
+    <Text>added, 2014, c. 2, s. 229</Text>
+  </Section>
+  <Heading>
+    <Label>PART 6: (145 to 150)</Label>
+  </Heading>
+  <Section>
+    <Label>147</Label>
+    <Text>2005, c. 1, s. 92</Text>
+  </Section>
+  <Section>
+    <Label>148</Label>
+    <Text>2005, c. 1, s. 93</Text>
+  </Section>
+  <Section>
+    <Label>149</Label>
+    <Text>2014, c. 2, s. 230</Text>
+  </Section>
+  <Section>
+    <Label>150</Label>
+    <Text>2005, c. 1, s. 94</Text>
+  </Section>
+  <Heading>
+    <Label>PART 6.1: (150.01 to 150.23)</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Heading>
+  <Section>
+    <Label>150.01</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.02</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.03</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.04</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.05</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.06</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.07</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.08</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.09</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.1</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.11</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.12</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.13</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.14</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.15</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.16</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.17</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.18</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.19</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.2</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.21</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.22</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>150.23</Label>
+    <Text>added, 2014, c. 2, s. 231</Text>
+  </Section>
+  <Heading>
+    <Label>PART 7: (151-)</Label>
+  </Heading>
+  <Section>
+    <Label>151</Label>
+    <Text>repealed, 2014, c. 2, s. 232</Text>
+  </Section>
+  <Section>
+    <Label>152</Label>
+    <Text>2014, c. 2, s. 233</Text>
+  </Section>
+  <Section>
+    <Label>153</Label>
+    <Text>2014, c. 2, s. 233</Text>
+  </Section>
+  <Section>
+    <Label>154 to 156</Label>
+    <Text>repealed, 2014, c. 2, s. 234</Text>
+  </Section>
+  <Section>
+    <Label>157</Label>
+    <Text>2014, c. 2, s. 235</Text>
+  </Section>
+  <Section>
+    <Label>158 and 159</Label>
+    <Text>repealed, 2014, c. 2, s. 236</Text>
+  </Section>
+  <Schedule>
+    <Label>Schedule</Label>
+    <Text>2014, c. 2, s. 237; 2019, c. 28, ss. 170 and 171</Text>
+  </Schedule>
+  <General>
+    <Text>General, 2005, c. 1, ss. 57 and 64</Text>
+  </General>
+  <ConditionalAmendment>
+    <Text>Conditional amendments, 1998, c. 15, s. 48</Text>
+  </ConditionalAmendment>
+  <ConditionalAmendment>
+    <Text>Conditional amendment, 2000, c. 32, s. 68</Text>
+  </ConditionalAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2015, c. 24, s. 42</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2019, c. 19, s. 83</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2019, c. 28, s. 192(2)(b)</Text>
+  </CoordinatingAmendment>
+  <Transitional>
+    <Text>Transitional, 1998, c. 25, ss. 151 to 159</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2005, c. 1, ss. 95 and 96</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2014, c. 1, ss. 241 to 252 NOTE: ss. 242 to 246 and 251 repealed <Emphasis style="italic">see</Emphasis> 2019, c. 19, ss. 78 and 79</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2019, c. 19, s. 36</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1998, c. 15, s. 48 in force on assent 11.06.98 but the amendments made by s. 48 are in force 01.04.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 25, other than Part 4 and ss. 160(2), 165(2) and 167(2), in force 22.12.98 <Emphasis style="italic">see</Emphasis> SI/99‑1; Part 4 (ss. 96 to 110) and ss. 160(2), 165(2) and 167(2) in force 31.03.2000 <Emphasis style="italic">see</Emphasis> SI/2000-17</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 32, s. 68 in force on assent 20.10.2000 but <Emphasis style="italic">see</Emphasis> conditions of application; ss. 50 to 55 in force 19.02.2001 <Emphasis style="italic">see</Emphasis> SI/2001‑29</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, ss. 205 to 207 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, s. 182 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 10, s. 178 in force on assent 30.04.2002</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 224 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 1, ss. 15 to 96 in force 04.08.2005 <Emphasis style="italic">see</Emphasis> SI/2005‑54</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 2</Text>
+    <List>
+      <Item>
+        <Text>— ss. 110, 111, 114, 115(1), 123, 124, 128(1), 129, 131, 138, 173(1), 175(1), 187(1) and (3), 190(1), 199(1), 201, 202, 206, 208(1) to (4), 209(1), 212, 213(2) and (3), 214(2) and (3), 215(1), 217, 219(1), (2) and (4), 220, 221, 222(1) to (3), 223(1) to (5), 224(2), 226(1) and (4), 232 to 237, 241, 247 to 250, 252 and 253(1) and (3) in force on assent 25.03.2014</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 112, 115(2), 117 to 122 and 127, 128(2) and (4), 132(1) and (3), 133 and 134, 135(2), 136 and 137, 141(2) and 142(1), 143, 144, 146 to 162 and 164 to 172, 174(2) and 175(2), 176, 178, 179 to 181, 183, 184, 186, 191, 193, 199(2), 200, 203, 204, 205 and 207, 208(5), 209(2), 210, 211, 214(1) and (4), 215(2), 216 to 218, 219(3), 222(4), 223(6), 224(1) and (3), 225, 226(2), (3) and (5), 227 to 231, 242 to 246, 251 and 253(2) to (4) repealed before coming into force <Emphasis style="italic">see</Emphasis> 2019, c. 19, ss. 37 to 80 in force on assent 21.06.2019</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 113, 116, 125, 126, 128(3), 130, 132(2) and (4), 135(1), 139, 140, 141(1), 142(2), 145, 163, 173(2), 174(1), 175(3), 177, 182, 185, 187(2), 188, 189, 190(2), 192, 194 to 198 and 213(2) in force 01.04.2014 <Emphasis style="italic">see</Emphasis> SI/2014-34</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 178 and 225 come into force on a day to be fixed by order of the Governor in Council that is made not earlier than one day after the day on which an order is made under s. 253(3) <Emphasis style="italic">see</Emphasis> s. 253(4) — Not in force (Note: both provisions repealed before coming into force, <Emphasis style="italic">see</Emphasis> 2019, c. 19, ss. 54 and 76)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 24, s. 42 in force on assent 18.06.2015; ss. 22 to 40 in force 01.09.2016 <Emphasis style="italic">see</Emphasis> SI/2016-22</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 26, par. 62(j) in force on assent 12.12.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 19 (assent: 21.06.2019), ss. 1, 13, 15, 16, 18 to 29, 31 and 34 come into force on a day or days to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 84 — Not in force</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 28 (assent: 21.06.2019), ss. 164 to 171 and 188 in force 28.08.2019 <Emphasis style="italic">see</Emphasis> SI/2019-86</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), s. 374 in force 15.07.2019</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 30, s. 17 in force on assent 27.11.2024</Text>
+  </CIF>
+</Statute>
+</TOPS>

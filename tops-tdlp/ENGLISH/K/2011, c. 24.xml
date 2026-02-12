@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2011, c. 24">
+  <Title>Keeping Canada’s Economy and Jobs Growing Act</Title>
+  <ChapterNumber>2011, c. 24</ChapterNumber>
+  <OtherLangTitle>(Soutien de la croissance de l’économie et de l’emploi au Canada, Loi sur le)</OtherLangTitle>
+  <Section>
+    <Label>73</Label>
+    <Text>2013, c. 34, s. 375</Text>
+  </Section>
+  <Section>
+    <Label>161</Label>
+    <Text>2013, c. 33, s. 233; 2019, c. 29, s. 375(1)(i); 2024, c. 15, s. 338</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2011, c. 24, s. 103</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2011, c. 24, s. 161 (gas tax fund, financing municipal infrastructure) as amended by 2013, c. 33, s. 233</Text>
+  </General>
+  <General>
+    <Text>General, 2021, c. 23, s. 199 (heading of Part 9)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 2011, c. 24 (assent: 15.12.2011)</Text>
+    <List>
+      <Item>
+        <Text>— ss. 103, 111 to 136, 138 to 141, 150, 156, 160 to 164, 168, 170, 171, 177 to 180 and 183 to 189 in force on assent</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 4(1), 9(1) 14(5), 15(2), 21(4) and 26(5) and (6), deemed to have come into force 22.03.2011 <Emphasis style="italic">see respectively</Emphasis> ss. 4(2), 9(2), 14(8), 15(4), 21(8) and 26(10)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 6(2), 21(2) and (3), 26(3) and (4), 44(1), 50(1), 51(1), 52(1) to (6) and (8) to (10), 53(1) and (2), 54(1) to (5), 57(1), 58(1), 70(1), 71(2), 137, 142 to 144 and 146 in force 01.01.2012 <Emphasis style="italic">see respectively</Emphasis> 6(4), 21(7), 26(9), 44(2), 50(3), 51(2), 52(11), 53(3), 54(6), 57(2), 58(2), 70(2), 71(4), 145 and 147</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 12(1) and (2), 45(3) and 56(1) deemed to have come into force 04.03.2010 <Emphasis style="italic">see respectively</Emphasis> 12(3), 45(16) and 56(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 45(4), 49(2), 63(1), 64(4) and (5), 66(1) to (3) and 67(1) and (2) deemed to have come into force 23.03.2011 <Emphasis style="italic">see respectively</Emphasis> ss. 45(17), 49(7), 63(2), 64(8), 66(4) and 67(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 104 to 109 deemed to have come into force 01.03.2011 <Emphasis style="italic">see</Emphasis> s. 110</Text>
+      </Item>
+      <Item>
+        <Text>— s. 148 deemed to have come into force 01.07.2011 <Emphasis style="italic">see</Emphasis> s. 149</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 165 to 167 in force 15.12.2012 <Emphasis style="italic">see</Emphasis> s. 169</Text>
+      </Item>
+      <Item>
+        <Text>— s. 181 in force 01.04.2012 <Emphasis style="italic">see</Emphasis> s. 182</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 2(4), 6(2), 8, 11 and 18 and par. 42.1(1)(a) of the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal>, as enacted by 1992, c. 46, s. 22, are deemed to have come into force 15.12.94 <Emphasis style="italic">see respectively</Emphasis> 2011, c. 24, par. 184(a) and (<Emphasis style="italic">b)</Emphasis></Text>
+      </Item>
+      <Item>
+        <Text>— ss. 33(2), 40, 41 and 48(1) and par. 50.1(1)(a) of the <XRefExternal reference-type="act">Canadian Forces Superannuation Act</XRefExternal>, as enacted by 1992, c. 46, s. 49, are deemed to have come into force 15.12.94 <Emphasis style="italic">see respectively</Emphasis> 2011, c. 24, par. 184(a) and (c)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 61, 68 and 70 and par. 26.1(1)(a) of the <XRefExternal reference-type="act">Royal Canadian Mounted Police Superannuation Act</XRefExternal>, as enacted by 1992, c. 46, s. 77, are deemed to have come into force 15.12.94 <Emphasis style="italic">see</Emphasis> 2011, c. 24, par. 184(a) and (d)</Text>
+      </Item>
+      <Item>
+        <Text>— <XRefExternal reference-type="act">Special Retirement Arrangements Act</XRefExternal>, as enacted by 1992, c. 46, s. 106, Schedule I, is deemed to have come into force 14.12.94 <Emphasis style="italic">see</Emphasis> 2011, c. 24, par. 184(e)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 154 and 155(3) in force 15.03.2012 <Emphasis style="italic">see</Emphasis> SI/2012-15</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 152, 153, 155(1) and (2), 157 and 158 in force 01.01.2013 <Emphasis style="italic">see</Emphasis> SI/2012-97</Text>
+      </Item>
+      <Item>
+        <Text> <Emphasis style="italic">See also</Emphasis> different application provisions throughout</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 33, s. 233 in force on assent 26.06.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 34, s. 375 in force on assent 26.06.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), s. 375 in force 15.07.2019</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF 2024, c. 15, s. 338 in force on assent 20.06.2024</Text>
+  </CIF>
+</Statute>
+</TOPS>

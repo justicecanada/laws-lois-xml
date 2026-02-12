@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1994, c. 31">
+  <Title>Department of Citizenship and Immigration Act</Title>
+  <ChapterNumber>1994, c. 31</ChapterNumber>
+  <OtherLangTitle>(Ministère de la Citoyenneté et de l’Immigration, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Citizenship and Immigration</Text>
+  </Minister>
+  <Section>
+    <Label>4</Label>
+    <Text>2005, c. 38, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2004, c. 15, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>added, 2012, c. 17, s. 78</Text>
+  </Section>
+  <Section>
+    <Label>5.2</Label>
+    <Text>added, 2012, c. 17, s. 78</Text>
+  </Section>
+  <General>
+    <Text>General, SI/2013-79 as amended by SI/2013-94 (minister of State to assist the Minister of CI)</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 1994, c. 31. ss. 6 to 8</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1994, c. 31 in force on assent 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 15, s. 33 in force 28.06.2004 <Emphasis style="italic">see</Emphasis> SI/2004-66</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 38, s. 57 in force 12.12.2005 <Emphasis style="italic">see</Emphasis> SI/2005-119</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 17 (assent: 28.06.2012), s. 78 in force 29.04.2013 <Emphasis style="italic">see</Emphasis> SI/2013-48</Text>
+  </CIF>
+</Statute>
+</TOPS>

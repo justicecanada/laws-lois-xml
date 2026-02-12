@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="R.S., 1985, c. 44 (4th Supp.)">
+  <Title>Lobbying Act</Title>
+  <ChapterNumber>R.S., 1985, c. 44 (4th Supp.)</ChapterNumber>
+  <TitleChanged>
+    <Text>(Formerly: Lobbyists Registration Act)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Lobbying, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>President of the Treasury Board (SI/2006-16)</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>2006, c. 9, s. 65</Text>
+  </LongTitle>
+  <Heading>
+    <Label>Preamble</Label>
+    <Text>2003, c. 10, s. 1</Text>
+  </Heading>
+  <Section>
+    <Label>1</Label>
+    <Text>2006, c. 9, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>1995, c. 12, s. 1; 2002, c. 8, par. 182(1)(w), 2003, c. 10, s. 2; 2004, c. 7, s. 19; 2006, c. 9, s. 67</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1994, c. 35, s. 36; 1995, c. 12, s. 2; 2000, c. 7, s. 24; 2003, c. 10, s. 3; 2004, c. 17, s. 17 [par. 4(1)(d.3), as enacted by s. 17, repealed on 20.06.2005 <Emphasis style="italic">see</Emphasis> 2004, c. 17, s. 20(2)]; 2005, c. 27, s. 19 (this provision was repealed by s. 26(1))</Text>
+  </Section>
+  <Section>
+    <Label>4.1</Label>
+    <Text>added, 2006, c. 9, s. 68; 2022, c. 10, s. 250</Text>
+  </Section>
+  <Section>
+    <Label>4.2</Label>
+    <Text>added, 2006, c. 9, s. 68</Text>
+  </Section>
+  <Section>
+    <Label>4.3</Label>
+    <Text>added, 2006, c. 9, s. 68</Text>
+  </Section>
+  <Section>
+    <Label>4.4</Label>
+    <Text>added, 2006, c. 9, s. 68</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1995, c. 12, s. 3; 1999, c. 31, s. 163(F); 2003, c. 10, s. 4; 2006, c. 9, ss. 69 and 81</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1995, c. 12, s. 3; 1999, c. 31, s. 164(F); 2003, c. 10, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1995, c. 12, s. 3; 2003, c. 10, s. 7; 2006, c. 9, ss. 70 and 81</Text>
+  </Section>
+  <Section>
+    <Label>7.1</Label>
+    <Text>added, 1995, c. 12, s. 3; 2006, c. 9, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>7.2</Label>
+    <Text>added, 1995, c. 12, s. 3; 2006, c. 9, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>7.3</Label>
+    <Text>added, 1995, c. 12, s. 3; 2006, c. 9, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>repealed, 2006, c. 9, s. 71</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1995, c. 12, s. 5; 2006, c. 9, ss. 72 and 81</Text>
+  </Section>
+  <Section>
+    <Label>9.1</Label>
+    <Text>added, 2006, c. 9, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1993, c. 12, s. 11; 1995, c. 12, ss. 5 and 9; 2004, c. 7, s. 20; 2006, c. 9, s. 74</Text>
+  </Section>
+  <Section>
+    <Label>10.1</Label>
+    <Text>added, 1995, c. 12, s. 5; repealed, 2004, c. 7, s. 21; added, 2006, c. 9, s. 75</Text>
+  </Section>
+  <Section>
+    <Label>10.11</Label>
+    <Text>added, 2006, c. 9, s. 75</Text>
+  </Section>
+  <Section>
+    <Label>10.12</Label>
+    <Text>added, 2006, c. 9, s. 75</Text>
+  </Section>
+  <Section>
+    <Label>10.2</Label>
+    <Text>added, 1995, c. 12, s. 5; 2003, c. 10, s. 8; 2004, c. 7, s. 22 and s. 39(2); 2006, c. 9, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>10.3</Label>
+    <Text>added, 1995, c. 12, s. 5; 2003, c. 10, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>10.4</Label>
+    <Text>added, 1995, c. 12, s. 5; 2003, c. 10, s. 10; 2004, c. 7, ss. 23 and 39(3); 2006, c. 9, ss. 77 and 81</Text>
+  </Section>
+  <Section>
+    <Label>10.5</Label>
+    <Text>added, 1995, c. 12, s. 5; 2003, c. 10, s. 11; 2004, c. 7, s. 23 and s. 39(4); 2006, c. 9, s. 78</Text>
+  </Section>
+  <Section>
+    <Label>10.6</Label>
+    <Text>added, 1995, c. 12, s. 5; 2004, c. 7, s. 23; repealed, 2006, c. 9, s. 78</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1995, c. 12, s. 6; 2004, c. 7, s. 24; 2006, c. 9, s. 78</Text>
+  </Section>
+  <Section>
+    <Label>11.1</Label>
+    <Text>added, 2006, c. 9, s. 78</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>1993, c. 12, s. 12; 1995, c. 12, s. 7; 2003, c. 10, s. 12; 2006, c. 9, ss. 79 and 81</Text>
+  </Section>
+  <Section>
+    <Label>12.1</Label>
+    <Text>added, 1993, c. 12, s. 12 (<Emphasis style="italic">Note</Emphasis>: 1993, c. 12, s. 12 repealed by 1995, c. 12, s. 9)</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>1993, c. 12, s. 13; 1995, c. 12, ss. 7 and 9</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1995, c. 12, s. 7; 2006, c. 9, s. 80</Text>
+  </Section>
+  <Section>
+    <Label>14.01</Label>
+    <Text>added, 2006, c. 9, s. 80</Text>
+  </Section>
+  <Section>
+    <Label>14.02</Label>
+    <Text>added, 2006, c. 9, s. 80</Text>
+  </Section>
+  <Section>
+    <Label>14.1</Label>
+    <Text>added, 2003, c. 10, s. 13</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2004, c. 7, s. 39</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2004, c. 17, s. 20(2)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2005, c. 1, s. 110</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2005, c. 27, s. 26</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 1995, c. 12, ss. 4, 9, 10 and 12</Text>
+  </General>
+  <General>
+    <Text>General, 2003, c. 10, s. 6</Text>
+  </General>
+  <General>
+    <Text>General, 2006, c. 9, s. 76</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2006, c. 9, s. 82</Text>
+  </Terminology>
+  <Transitional>
+    <Text>Transitional, 1995, c. 12, s. 13</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2003, c. 10, ss. 14 to 17</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2006, c. 9, ss. 3.1, 83 to 88.2</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 44 (4th Supp.) proclaimed in force 30.09.89 <Emphasis style="italic">see</Emphasis> SI/89‑193</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 12, ss. 11 to 13 and 17(2) repealed by 1995, c. 12, s. 9 in force 31.01.96 <Emphasis style="italic">see</Emphasis> SI/95‑129</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 35, s. 36 in force on the day fixed by order of the Governor in Council for the coming into force of the <XRefExternal reference-type="act">Yukon First Nations Land Claims Settlement Act</XRefExternal><Emphasis style="italic"> see</Emphasis> s. 40. Act in force 14.02.95 <Emphasis style="italic">see</Emphasis> SI/95‑19</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 12, s. 1(2), the heading before s. 10.1 and ss. 10.1 and 10.2 of the Lobbyists Registration Act, as enacted by s. 5, in force 25.07.95 <Emphasis style="italic">see</Emphasis> SI/95‑80; ss. 1(1), 2 to 4, ss. 9, 10 and 10.3 to 10.6 of the Lobbyists Registration Act, as enacted by s. 5, ss. 6, 7, 9, 10, 12 and 13 in force 31.01.96 <Emphasis style="italic">see</Emphasis> SI/95‑129</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 31, ss. 163 and 164 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 7, s. 24 in force 11.05.2000 <Emphasis style="italic">see</Emphasis> SI/2000‑38</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, s. 182 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 10 in force 20.06.2005 <Emphasis style="italic">see</Emphasis> SI/2005-49</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 7, s. 39 in force on assent 31.03.2004; ss. 19 to 24 in force 17.05.2004 <Emphasis style="italic">see</Emphasis> SI/2004-52</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 17, s. 20 in force on assent 06.05.2004; s. 17 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-18</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 1, s. 110 in force on assent 15.02.2005 (s. 100 in force 04.08.2005 <Emphasis style="italic">see</Emphasis> SI/2005-54 but on 20.06.2005 repealed by s. 110(1))</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 27, s. 26 in force on assent 23.06.2005 <Emphasis style="italic">see</Emphasis> s. 27</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2006, c. 9,</Text>
+    <List>
+      <Item>
+        <Text>— ss. 83, 88.1, 88.11 and 88.2 in force on assent 12.12.2006</Text>
+      </Item>
+      <Item>
+        <Text>— s. 3.1 in force 09.07.2007 <Emphasis style="italic">see</Emphasis> SI/2007-75</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 65 to 82 and 84 to 88 in force 02.07.2008 <Emphasis style="italic">see</Emphasis> SI/2008-41</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 10 (assent: 23.06.2022), s. 250 in force 26.07.2022 <Emphasis style="italic">see</Emphasis> SI/2022-35</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1991, ch. 30">
+  <Title>Rémunération du secteur public, Loi sur la</Title>
+  <ChapterNumber>1991, ch. 30</ChapterNumber>
+  <OtherLangTitle>(Public Sector Compensation Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le président du Conseil du Trésor</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1993, ch. 13, art. 2; 1994, ch. 18, art. 2; 1996, ch. 18, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1993, ch. 13, art. 3; 2015, ch. 36, art. 150; 2017, ch. 20, art. 185</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1993, ch. 13, art. 4; 1994, ch. 18, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1993, ch. 13, art. 5; 1994, ch. 18, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>7.1</Label>
+    <Text>ajouté, 1994, ch. 18, art. 5; 1995, ch. 17, art. 2; 2019, ch. 13, art. 85(F)</Text>
+  </Section>
+  <Section>
+    <Label>7.2</Label>
+    <Text>ajouté, 1995, ch. 17, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>7.3</Label>
+    <Text>ajouté, 1995, ch. 17, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>7.4</Label>
+    <Text>ajouté, 1995, ch. 17, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>1993, ch. 13, art. 6; 1995, ch. 17, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>8.1</Label>
+    <Text>ajouté, 1996, ch. 18, art. 13</Text>
+  </Section>
+  <Section>
+    <Label>8.2</Label>
+    <Text>ajouté, 1996, ch. 18, art. 13</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1993, ch. 13, art. 7; 1994, ch. 18, art. 6</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1993, ch. 13, art. 8; 1994, ch. 18, art. 7</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe I</Label>
+    <Text>DORS/93-307; 1994, ch. 31, art. 21, ch. 38, art. 23, 24, ch. 41, art. 31, 32; 1995, ch. 1, art. 57 à 59, ch. 5, art. 22, 23, ch. 11, art. 33, 34, ch. 18, art. 91 et 92, ch. 29, art. 32; 1996, ch. 8, art. 29, 30, ch. 9, art. 29, ch. 11, art. 81 à 83, ch. 16, art. 49, 50; DORS/96-541; 1997, ch. 9, art. 114, 115; 1998, ch. 9, art. 46 et 47, ch. 26, art. 79 et 80; 1999, ch. 31, art. 179; 2000, ch. 34, al. 93a)(F); 2001, ch. 29, art. 60 et 61; 2002, ch. 8, art. 162 et 163; 2004, ch. 11, art. 43 et 44; 2005, ch. 10, art. 32 et 33, ch. 34, art. 75 et 76, ch. 35, art. 64; 2012, ch. 1, al. 160k), ch. 19, art. 279, 280, 592 et 693, ch. 31, art. 295; 2013, ch. 18, art. 57 et 58, ch. 33, art. 188 à 190, ch. 40, art. 232, 233, 464 et 465; 2014, ch. 20, art. 459; 2015, ch. 3, art. 149; 2017, ch. 9, al. 57(2)b); 2018, ch. 27, art. 673 et 674; 2019, ch. 13, art. 44 et 45 et 86 à 87; 2019, ch. 28, art. 160 et 161; 2019, ch. 29, art. 364 et 365; 2024, ch. 15, art. 337; 2024, ch. 25, art. 130 et 131</Text>
+  </Schedule>
+  <Schedule>
+    <Label>annexe II</Label>
+    <Text>2001, ch. 34, al. 16g); 2008, ch. 9, art. 12; 2010, ch. 7, art. 11; 2013, ch. 38, art. 21 et 22; 2014, ch. 20, art. 191</Text>
+  </Schedule>
+  <General>
+    <Text>disposition générale, 1995, ch. 17, art. 6 — cessation d’effet</Text>
+  </General>
+  <Transitional>
+    <Text>disposition transitoire, 1993, ch. 13, art. 26</Text>
+  </Transitional>
+  <Transitional>
+    <Text>disposition transitoire, 1995, ch. 17, art. 5</Text>
+  </Transitional>
+  <Terminology>
+    <Text>terminologie, 2017, ch. 9, al. 57(2)b)</Text>
+  </Terminology>
+  <CIF>
+    <Text>EEV, 1991, ch. 30 en vigueur 03.10.91 <Emphasis style="italic">voir</Emphasis> art. 25</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1993, ch. 13, art. 2 et 26 sont réputés entrer en vigueur 01.04.92 <Emphasis style="italic">voir</Emphasis> par. 29(1); art. 3 à 8 sont réputés entrer en vigueur 10.12.92 <Emphasis style="italic">voir</Emphasis> par. 29(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 18, art. 2 à 7 en vigueur à la sanction 15.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 31, art. 21 en vigueur à la sanction 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 38, art. 23, 24 en vigueur 12.01.95 <Emphasis style="italic">voir</Emphasis> TR/95‑9</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 41, art. 31, 32 en vigueur 12.01.95 <Emphasis style="italic">voir</Emphasis> TR/95‑10</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 1, art. 57 à 59 en vigueur 29.03.95 <Emphasis style="italic">voir</Emphasis> TR/95‑48</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 5, art. 22, 23 en vigueur 13.05.95 <Emphasis style="italic">voir</Emphasis> TR/95‑65</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 11, art. 33 et 34 en vigueur 12.07.96 <Emphasis style="italic">voir</Emphasis> TR/96‑68</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 17, art. 2 à 6 en vigueur à la sanction 22.06.95. Les dispositions de la <XRefExternal reference-type="act">Loi sur la rémunération du secteur public</XRefExternal> édictées par les art. 2 à 6 cessent d’avoir effet trois ans après l’entrée en vigueur de l’art. 6 <Emphasis style="italic">voir</Emphasis> art. 6. Cessent d’avoir effet 22.06.98</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 18, art. 91, 92 en vigueur 15.09.95 <Emphasis style="italic">voir</Emphasis> TR/95‑108</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 29, art. 32 en vigueur 01.04.96 <Emphasis style="italic">voir</Emphasis> TR/95‑115</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 8, art. 29 et 30 en vigueur 12.07.96 <Emphasis style="italic">voir</Emphasis> TR/96‑69</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 9, art. 29 en vigueur 21.04.97 <Emphasis style="italic">voir</Emphasis> TR/97‑46</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 11, art. 81 à 83 en vigueur 12.07.96 <Emphasis style="italic">voir</Emphasis> TR/96‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 16, art. 49 et 50 en vigueur 12.07.96 <Emphasis style="italic">voir</Emphasis> TR/96‑67</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 18, art. 12 et 13 en vigueur à la sanction 20.06.96</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1997, ch. 9, art. 114 et 115 en vigueur 31.05.2000 <Emphasis style="italic">voir</Emphasis> TR/2000‑42</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1998, ch. 9, art. 46 et 47 en vigueur 30.06.98 <Emphasis style="italic">voir</Emphasis> TR/98‑79</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1998, ch. 26, art. 79 et 80 en vigueur 01.01.99 <Emphasis style="italic">voir</Emphasis> TR/99-2</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 31, art. 179 en vigueur à la sanction 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2000, ch. 34, art. 93 en vigueur 27.10.2000 <Emphasis style="italic">voir</Emphasis> TR/2000-105</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 29, art. 60 et 61 en vigueur 30.06.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-128</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 34, art. 16 en vigueur à la sanction 18.12.2001</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 8, art. 162 et 163 en vigueur 02.07.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 11, art. 43 et 44 en vigueur 21.05.2004 <Emphasis style="italic">voir</Emphasis> TR/2004-58</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 10, art. 32 et 33 en vigueur 04.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-29</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 34, art. 75 et 76 en vigueur 05.10.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 35, art. 64 en vigueur 05.10.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-97</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2008, ch. 9 (sanction : 13.03.2008), art. 12 en vigueur 10.08.2008 <Emphasis style="italic">voir</Emphasis> TR/2008-92</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2010, ch. 7 (sanction : 29.06.2010), art. 11 en vigueur 25.11.2010 <Emphasis style="italic">voir</Emphasis> TR/2010-87</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 1 (sanction : 13.03.2012), al. 160k) en vigueur 28.02.2013 <Emphasis style="italic">voir</Emphasis> TR/2013-13</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 19, art. 280 en vigueur à la sanction 29.06.2012; art. 279 en vigueur 01.04.2013 <Emphasis style="italic">voir</Emphasis> par. 281(1); art. 592 en vigueur 01.04.2013 <Emphasis style="italic">voir</Emphasis> TR/2013‑36; art. 693 en vigueur 01.03.2013 <Emphasis style="italic">voir</Emphasis> TR/2013‑17</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 31 (sanction : 14.12.2012), art. 295 en vigueur 01.04.2013 <Emphasis style="italic">voir</Emphasis> TR/2013-39</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 18 (sanction : 19.06.2013), art. 57 et 58 en vigueur 28.11.2014 <Emphasis style="italic">voir</Emphasis> TR/2014-104.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 33, art. 188 à 190 en vigueur à la sanction 26.06.2013.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 38, art. 21 et 22 en vigueur à la sanction 12.12.2013.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 40, art. 232 et 233 en vigueur à la sanction 12.12.2013; art. 464 et 465 en vigueur 01.11.2014 <Emphasis style="italic">voir</Emphasis> TR/2014-84.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 20, art. 191 en vigueur à la sanction 19.06.2014; art. 459 en vigueur 01.11.2014 <Emphasis style="italic">voir</Emphasis> TR/2014-83.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 3, art. 149 en vigueur à la sanction 26.02.2015.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 36, art. 150 en vigueur à la sanction 23.06.2015.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 9, al. 57(2)b) en vigueur à la sanction 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 20 (sanction : 22.06.2017), art. 185 en vigueur 21.09.2017 <Emphasis style="italic">voir</Emphasis> TR/2017-53.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 27, art. 673 et 674 en vigueur à la sanction 13.12.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 13 (sanction : 21.06.2019)</Text>
+    <List>
+      <Item>
+        <Text>— art. 44 et 45 en vigueur 12.07.2019 <Emphasis style="italic">voir</Emphasis> TR/2019-67</Text>
+      </Item>
+      <Item>
+        <Text>— art. 85 à 87 en vigueur 01.08.2019 <Emphasis style="italic">voir</Emphasis> TR/2019-70</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 28, (sanction : 21.06.2019) , art. 160 et 161 en vigueur 28.08.2019 <Emphasis style="italic">voir</Emphasis> TR/2019-86</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 29 (sanction : 21.06.2019) , art. 364 et 365 en vigueur 15.07.2019 <Emphasis style="italic">voir</Emphasis> art. 383</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 15, art. 337 en vigueur à la sanction 20.06.2024</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 25, art. 130 et 131 entrent en vigueur à la date ou aux dates fixées par décret <Emphasis style="italic">voir</Emphasis> art. 146 — non en vigueur</Text>
+  </CIF>
+</Statute>
+</TOPS>

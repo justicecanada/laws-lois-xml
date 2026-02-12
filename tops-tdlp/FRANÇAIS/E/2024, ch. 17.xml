@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2024, ch. 17">
+  <Title>Exécution du budget de 2024, Loi no 1 d’</Title>
+  <ChapterNumber>2024, ch. 17</ChapterNumber>
+  <OtherLangTitle>(Budget Implementation Act, 2024, No. 1)</OtherLangTitle>
+  <Minister>
+    <Text>Introduit par la vice-première Ministre et ministre des finances</Text>
+  </Minister>
+  <General>
+    <Text>
+      <Emphasis style="italic">Remarque</Emphasis> :</Text>
+  </General>
+  <General>
+    <Text>— art. 77 à 79, 80(112), 133 à 135, 138 à 140 tel qu’édictés par 2024, ch. 17, art. 81, 145 et 146, 195 et 348 : règlements</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, art. 154 (programme) et 261 à 267</Text>
+  </General>
+  <CoordinatingAmendment>
+    <Text>dispositions de coordination, 2024, ch. 17, art. 80, 111, 153, 257, 335, 338, 350, 378, 396 et 412</Text>
+  </CoordinatingAmendment>
+  <Transitional>
+    <Text>dispositions transitoires, 2024, ch. 17, art. 243 et 244, 256, 302 à 319, 332, 391, 416 à 419</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, 2024, ch. 17 en vigueur à la sanction 20.06.2024, <Emphasis style="italic">sauf</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>— par. 3(2) réputé en vigueur 01.01.2023 <Emphasis style="italic">voir</Emphasis> par. 3(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 5(1) réputé en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 5(5)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 5(2) réputé en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 5(6)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 5(3) et (4) réputés en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 5(7)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 6(1) réputé en vigueur 12.03.2020 <Emphasis style="italic">voir</Emphasis> par. 6(11)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 6(2), (5), (7) et (9) réputés en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 6(12)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 6(4) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 6(13)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 6(3), (6), (8) et (10) réputés en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 6(14)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 8(1) réputé en vigueur 12.03.2020 <Emphasis style="italic">voir</Emphasis> par. 8(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 10(1) et (3) réputés en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 10(5)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 10(2) et (4) réputés en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 10(6)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 13(1) réputé en vigueur 04.08.2023 <Emphasis style="italic">voir</Emphasis> par. 13(6)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 14(1) réputé en vigueur 04.08.2023 <Emphasis style="italic">voir</Emphasis> par. 14(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 15(1) réputé en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 15(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 15(2) réputé en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 15(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 17(2) and (3) réputés en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 17(5)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 18(1) réputé en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 18(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 18(2) réputé en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 18(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 19 (1) and (3) réputés en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 19(5)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 19(2) et (4) réputé en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 19(6)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 21(1) réputé en vigueur 04.08.2023 <Emphasis style="italic">voir</Emphasis> par. 21(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 22(1), (3) et (5) réputés en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 22(7)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 22(2), (4) et (6) réputés en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 22(8)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 24(1) réputé en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 24(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 24(2) réputé en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 24(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 28(1) réputé en vigueur 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 28(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 32(1) réputé en vigueur 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 32(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 33(1) et à (3) réputés en vigueur 01.01.2023 <Emphasis style="italic">voir</Emphasis> par. 33(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 34(3) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 34(7)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 34(4) réputé en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 34(8)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 34(5) réputé en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 34(9)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 36(1) réputé en vigueur 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 36(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 37(1) réputé en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 37(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">voir</Emphasis> exceptions quant au par. 127.48(3) et sous-al. 127.48(1)a)(ii)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 38(1) réputé en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> art. 38(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 38(1) réputé abrogé 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(81)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 39(1) réputé en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 39(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">voir</Emphasis> <Emphasis style="italic">exceptions</Emphasis> quant au par. 127.491(1)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 45(1) réputé en vigueur 04.08.2023 <Emphasis style="italic">voir</Emphasis> par. 45(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 48(5) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 48(9)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 48(8) réputé en vigueur 04.08.2023 <Emphasis style="italic">voir</Emphasis> par. 48(10)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 52(1) réputé en vigueur 01.01.2018 <Emphasis style="italic">voir</Emphasis> par. 52(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 53(1) réputé en vigueur 04.08.2023 <Emphasis style="italic">voir</Emphasis> par. 53(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 56(1) et (3) réputés en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 56(6)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 56(2) et (4) réputés en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 56(7)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 56(5) (sous-al. 152(4.01)(b)(x.1)) réputé en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 56(8)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 56(5) (sous-al. 152(4.01)(b)(x.2)) en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 56(9)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 57(1) réputé en vigueur 01.04.2019 <Emphasis style="italic">voir</Emphasis> par. 57(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 57(2) réputé en vigueur 18.03.2020 <Emphasis style="italic">voir</Emphasis> par. 57(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 58(1) et (3) réputés en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 58(5)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 58(2) et (4) réputés en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 58(6)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 59(1) réputé en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 59(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 59(2) réputé en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 59(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 65(1) réputé en vigueur 01.01.2020 <Emphasis style="italic">voir</Emphasis> par. 65(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 68(1) réputé en vigueur 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 68(3)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 68(2) réputé en vigueur 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 68(4)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 73(1) réputé en vigueur 22.06.2023 <Emphasis style="italic">voir</Emphasis> par. 73(2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 74(4) réputé en vigueur 28.03.2923 <Emphasis style="italic">voir</Emphasis> par. 74(8)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">Voir exceptions</Emphasis> sous-al. 241(4)d)(vi.2)</Text>
+      </Item>
+      <Item>
+        <Text>— par. 75(1) réputé en vigueur 04.08.2023 <Emphasis style="italic">voir</Emphasis> par. 75(2)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 80 en vigueur à la sanction 20.06.2024, disposition de coordination,</Text>
+        <List>
+          <Item>
+            <Text>— par. 80(2) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(113)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(3) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(114)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(4) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(115)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(5) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(116)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(3) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(114)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(4) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(115)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(5) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(116)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(6) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(117)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(7) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(118)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(8) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(119)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(9) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(120)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(10) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(121)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(11) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(122)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(12) conditions remplies 30.09.2023 <Emphasis style="italic">voir</Emphasis> par. 80(123)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(13) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(124)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(14) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(125)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(15) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(126)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(16) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(127)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(17) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(128)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(18) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(129)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(19) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(130)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(20) conditions remplies 30.12.2023 <Emphasis style="italic">voir</Emphasis> par. 80(131)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(21) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(21)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(22) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(22)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(23) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(132)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(24) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(133)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(25) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(25)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(26) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(26)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(27) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(134)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(28) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(135)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(29) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(136)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(30) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(137)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(31) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(138)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(32) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(139)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(33) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(140)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(34) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(141)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(35) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(142)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(36) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(143)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(37) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(144)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(38) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(145)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(39) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(146)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(40) conditions remplies 20.06.2024 <Emphasis style="italic">voir</Emphasis> dispositions d’application par. 80(147)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(41) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(148)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(42) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(149)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(43) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(150)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(44) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(151)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(45) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(152)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(46) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(153)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(47) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(154)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(48) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(155)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(49) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(156)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(50) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(157)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(51) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(158)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(52) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(159)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(53) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(160)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(54) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(161)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(55) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(162)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(56) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(163)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(57) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(164)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(58) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(165)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(59) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(166)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(60) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(167)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(61) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(168)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(62) conditions remplies 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 80(169)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(63) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(170)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(64) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(171)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(65) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(172)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(66) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(173)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(67) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(174)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(68) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(175)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(69) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(176)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(70) conditions remplies 20.06.2024 (<Emphasis style="italic">voir</Emphasis> dispositions d’application par. 80(177))</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(71) conditions remplies 20.06.2024 (<Emphasis style="italic">voir</Emphasis> dispositions d’application par. 80(178))</Text>
+          </Item>
+          <Item>
+            <Text>— par 80(72) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(179)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(73) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(180)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(74) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(181)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(75) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(182)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(76) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(183) avec <Emphasis style="italic">exceptions</Emphasis></Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(77) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(184)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(78) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(185)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(79) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(79)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(80) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(186) avec<Emphasis style="italic"> exception</Emphasis></Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(81) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(81)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(82) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(187)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(83) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(83)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(84) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(188)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(85) conditions remplies 20.06.2024 (<Emphasis style="italic">voir</Emphasis> dispositions d’application par. 80(189))</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(86) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(190)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(87) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(191)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(88) conditions remplies 20.06.2024 <Emphasis style="italic">voir</Emphasis> par. 80(192)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(89) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(193)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(90) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(90)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(91) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(91)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(92) [remplacement 152(4.01)(b)(xii)] conditions remplies 20.06.2024 <Emphasis style="italic">voir</Emphasis> par. 80(194)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(92) [adjonction 152(4.01)(b)(xiii)] conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(195)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(92) [adjonction 152(4.01)(b)(xiv)] conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(196))</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(93) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(197)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(94) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(198)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(95) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(199)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(96) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(200)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(97) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(201)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(98) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(98)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(99) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(99)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(100) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(202)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(101) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(203)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(102) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(204)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(103) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(205)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(104) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(206)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(105) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(207)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(106) et (107) conditions remplies 20.06.2024</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(108) conditions remplies 28.03.2023 <Emphasis style="italic">voir</Emphasis> par. 80(208)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(109) conditions remplies 28.11.2023 <Emphasis style="italic">voir</Emphasis> par. 80(209)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(110) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(210)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 80(111) conditions remplies 01.01.2024 <Emphasis style="italic">voir</Emphasis> par. 80(211)</Text>
+          </Item>
+          <Item>
+            <Text>— art. 81, édictant art. 1 à 141 de la <XRefExternal reference-type="act">Loi sur l’impôt minimum mondial</XRefExternal> en vigueur à la sanction 20.06.2024</Text>
+          </Item>
+          <Item>
+            <Text>— par. 82(1) en vigueur à la sanction 20.06.2024 (dispositions de coordination - conditions remplies 31.12.2023 <Emphasis style="italic">voir</Emphasis> par. 82(2))</Text>
+          </Item>
+          <Item>
+            <Text>— par. 111(2) à (32) en vigueur à la sanction (dispositions de coordinations - conditions remplies 28.06.2024 <Emphasis style="italic">voir</Emphasis> TR/2024-33)</Text>
+          </Item>
+          <Item>
+            <Text>
+              <Emphasis style="italic">Voir aussi</Emphasis> la disposition d’application par. 111(34)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 113(1) réputé en vigueur 01.04.2024 <Emphasis style="italic">voir</Emphasis> par. 113(2)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 114(1) réputé en vigueur 01.04.2024 <Emphasis style="italic">voir</Emphasis> par. 114(3)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 114(2) réputé en vigueur 01.04.2026 <Emphasis style="italic">voir</Emphasis> par. 114(4)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 115(1) réputé en vigueur 01.04.2024 <Emphasis style="italic">voir</Emphasis> par. 115(3)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 115(2) réputé en vigueur 01.04.2026 <Emphasis style="italic">voir</Emphasis> par. 115(4)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 116(1) réputé en vigueur 01.04.2024 <Emphasis style="italic">voir</Emphasis> par. 116(3)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 116(2) réputé en vigueur 01.04.2026 <Emphasis style="italic">voir</Emphasis> par. 116(4)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 117(1) et (2) en vigueur le premier jour du mois suivant celui qui comprend la date de sanction de la présente loi <Emphasis style="italic">voir</Emphasis> par. 117(3) (01.07.2024)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 118(1) et (2) en vigueur le premier jour du mois suivant celui qui comprend la date de sanction de la présente loi <Emphasis style="italic">voir</Emphasis> par. 118(3) (01.07.2024)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 119(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 119(2)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 120(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 120(2)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 121(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 121(2)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 122(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 122(2)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 123(1) réputé en vigueur 01.04.2024 <Emphasis style="italic">voir</Emphasis> par. 123(2)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 124(1) réputé en vigueur 01.04.2024 <Emphasis style="italic">voir</Emphasis> par. 124(2)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 126(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 126(2)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 127(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 127(2)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 128(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 128(2)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 129(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 129(2)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 130(1) réputé en vigueur 17.04.2024 <Emphasis style="italic">voir</Emphasis> par. 130(2)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 131(1) et (2) en vigueur 01.07.0204 <Emphasis style="italic">voir</Emphasis> par. 131(3)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 132(1) et (2) en vigueur 01.07.0204 <Emphasis style="italic">voir</Emphasis> par. 132(3)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 136(1), (4) et (5) réputés en vigueur 01.01.2023 <Emphasis style="italic">voir</Emphasis> par. 136(6)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 136(2) et (3) réputés en vigueur 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 136(7)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 137(1) réputé en vigueur 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 137(2)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 138(2) réputé en vigueur 01.01.2023 <Emphasis style="italic">voir</Emphasis> par. 138(4)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 138(3) réputé en vigueur 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 138(5)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 140(1) et (2) réputés en vigueur 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 140(3)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 141(1) réputé en vigueur 01.01.2022 <Emphasis style="italic">voir</Emphasis> par. 141(3)</Text>
+          </Item>
+          <Item>
+            <Text>
+              <Emphasis style="italic">Voir aussi</Emphasis> la disposition d’application au par. 141(4)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 153(2) en vigueur à la sanction (disposition de coordination - condition remplie 20.06.2024)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 153(3) et (4) conditions réputées ne jamais avoir produit leurs effets</Text>
+          </Item>
+          <Item>
+            <Text>— art. 155 à 160 en vigueur 12.12.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-128</Text>
+          </Item>
+          <?Pub Caret 55?>
+          <Item>
+            <Text>— art. 158 et 160 entrent en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> art. 161 — non en vigueur</Text>
+          </Item>
+          <Item>
+            <Text>— art. 159 en vigueur 01.07.2024 <Emphasis style="italic">voir</Emphasis> TR/2023-60</Text>
+          </Item>
+          <Item>
+            <Text>— art. 162, par. 163(2), art. 166 à 168, par. 169(1) et l’art 170 en vigueur 27.06.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-88</Text>
+          </Item>
+          <Item>
+            <Text>— par. 163(1), (3) et (4), art. 164, 165 et par. 169(2) entrent en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> par. 171(2) — non en vigueur</Text>
+          </Item>
+          <Item>
+            <Text>— art. 184 et 185 entrent en vigueur à la date ou aux dates fixées par décret <Emphasis style="italic">voir</Emphasis> art. 186 — non en vigueur</Text>
+          </Item>
+          <Item>
+            <Text>— par. 187(2), art. 188 à 190, 192 et par. 194(1) en vigueur 17.12.2024 <Emphasis style="italic">voir</Emphasis> TR/2025-1</Text>
+          </Item>
+          <Item>
+            <Text>— art. 198, édictant art. 1 à 20 de la <XRefExternal reference-type="act">Loi sur les Services bancaires axés sur les consommateurs</XRefExternal>, entrent en vigueur à la sanction, <Emphasis style="italic">sauf</Emphasis>, art. 4 à 7, 12 et 13 entrent en vigueur à la date ou aux dates fixées par décret <Emphasis style="italic">voir</Emphasis> art. 21 — non en vigueur</Text>
+          </Item>
+          <Item>
+            <Text>— art. 213 à 221 et 224 entrent en vigueur à la date ou aux dates fixées par décret <Emphasis style="italic">voir</Emphasis> art. 227 — non en vigueur</Text>
+          </Item>
+          <Item>
+            <Text>— art. 236 entre en vigueur au quatrième anniversaire de l’entrée en vigueur de l’article 235 <Emphasis style="italic">voir</Emphasis> art. 149 — non en vigueur</Text>
+          </Item>
+          <Item>
+            <Text>— art. 245 à 248 et 255 entrent en vigueur à la date ou aux dates fixées par décret <Emphasis style="italic">voir</Emphasis> art. 258 — non en vigueur</Text>
+          </Item>
+          <Item>
+            <Text>— art. 265 à 267 réputés en vigueur 29.11.2022 <Emphasis style="italic">voir</Emphasis> art. 268</Text>
+          </Item>
+          <Item>
+            <Text>— par. 325(2), art. 330 et par. 331(2) en vigueur 27.03.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-25</Text>
+          </Item>
+          <Item>
+            <Text>— art. 327 entre en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> art. 333 — non en vigueur</Text>
+          </Item>
+          <Item>
+            <Text>— art. 335 en vigueur à la sanction (dispositions de coordination - conditions remplies 20.06.2024 <Emphasis style="italic">voir</Emphasis> art. 335)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 336(1) et (2) et art. 337 en vigueur 01.01.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-4 </Text>
+          </Item>
+          <Item>
+            <Text>— par. 336(3) en vigueur le trentième jour suivant la date de sanction de la présente loi <Emphasis style="italic">voir</Emphasis> par. 339(2) (20.07.2024)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 338(3) en vigueur 20.06.2024 (disposition de coordination — conditions remplies 01.01.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-4)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 340(1) et (3) en vigueur 01.07.2024 <Emphasis style="italic">voir</Emphasis> par. 351(1)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 340(2) et (4) et 342(2) en vigueur 01.04.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-24 b)(i)</Text>
+          </Item>
+          <Item>
+            <Text>— art. 341 et 344 en vigueur 04.03.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-24 b)(ii)</Text>
+          </Item>
+          <Item>
+            <Text>— art. 346 en vigueur 01.10.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-2</Text>
+          </Item>
+          <Item>
+            <Text>— art. 347 en vigueur 04.03.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-24 b)(ii)</Text>
+          </Item>
+          <Item>
+            <Text>— par. 349(2) en vigueur à la sanction 20.06.2024 (disposition de coordination — conditions remplies 01.07.2024)</Text>
+          </Item>
+          <Item>
+            <Text>— art. 356 à 366 en vigueur le quatre-vingt-dixième jour suivant la date de sanction de la présente loi <Emphasis style="italic">voir</Emphasis> art. 367 (18.09.2024)</Text>
+          </Item>
+          <Item>
+            <Text>— art. 368 à 377 en vigueur le trentième jour suivant la date de sanction de la présente loi <Emphasis style="italic">voir</Emphasis> art. 379 (20.07.2024)</Text>
+          </Item>
+          <Item>
+            <Text>— art. 378 en vigueur 20.06.2024 (disposition de coordination — conditions remplies, 18.09.2024 <Emphasis style="italic">voir</Emphasis> art. 378)</Text>
+          </Item>
+          <Item>
+            <Text>— art. 383 en vigueur 30.10.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-106</Text>
+          </Item>
+          <Item>
+            <Text>— par. 385(2), art. 387, 389 et par. 390(2) entrent en vigueur au cinquième anniversaire de la sanction de la présente loi <Emphasis style="italic">voir</Emphasis> art. 393 — non en vigueur</Text>
+          </Item>
+          <Item>
+            <Text>— art. 392 en vigueur à la sanction (disposition de coordination — conditions remplies 01.10.2024 <Emphasis style="italic">voir</Emphasis> TR/2024-45)</Text>
+          </Item>
+          <Item>
+            <Text>— art. 397 à 401 entrent en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> art. 402 — non en vigueur</Text>
+          </Item>
+          <Item>
+            <Text>— par. 413(4), art. 414 et 415 entrent en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> art. 420 — non en vigueur</Text>
+          </Item>
+        </List>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

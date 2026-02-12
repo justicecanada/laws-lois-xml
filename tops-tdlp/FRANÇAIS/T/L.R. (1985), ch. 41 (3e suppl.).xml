@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="L.R. (1985), ch. 41 (3e suppl.)">
+  <Title>Tarif des douanes</Title>
+  <ChapterNumber>L.R. (1985), ch. 41 (3e suppl.)</ChapterNumber>
+  <OtherLangTitle>(Customs Tariff)</OtherLangTitle>
+  <CIF>
+    <Text>LOI ABROGÉE, 1997, ch. 36, art. 213</Text>
+  </CIF>
+  <Section>
+    <Label>95</Label>
+    <Text>2002, ch. 22, art. 423</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe II</Label>
+    <Text>1998, ch. 19, art. 265 <Emphasis style="italic">voir</Emphasis> par 265(2) — application</Text>
+  </Schedule>
+  <CIF>
+    <Text>EEV, 1997, ch. 36 est réputée entrée en vigueur 01.01.98; <Emphasis style="italic">voir aussi</Emphasis> la disposition d’application, art. 214.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 22, par. 423(1) est réputé entré en vigueur 01.01.96 <Emphasis style="italic">voir</Emphasis> par. 423(2)</Text>
+  </CIF>
+</Statute>
+</TOPS>

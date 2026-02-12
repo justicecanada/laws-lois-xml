@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="C-45.7">
+  <Title>Naskapis et la Commission crie-naskapie, Loi sur les</Title>
+  <ChapterNumber>1984, ch. 18</ChapterNumber>
+  <TitleChanged>
+    <Text>(Ancienne appellation : Cris et les Naskapis du Québec, Loi sur les)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Naskapi and the Cree-Naskapi Commission Act) </OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Relations Couronne-Autochtones (<Emphasis style="italic">voir</Emphasis> art. 2)</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Titre intégral</Label>
+    <Text>2018, ch. 4, art. 2</Text>
+  </LongTitle>
+  <Heading>
+    <Label>Préambule</Label>
+    <Text>2018, ch. 4, art. 3</Text>
+  </Heading>
+  <Heading>
+    <Label>Titre abrégé</Label>
+    <Text>2018, ch. 4, art. 4</Text>
+  </Heading>
+  <Section>
+    <Label>2</Label>
+    <Text>2000, ch. 12, art. 89; 2009, ch. 12, art. 1; 2018, ch. 4, art. 5 et al. 122a)(A); 2019, ch. 29, al. 373(1)(a)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2018, ch. 4, art. 6</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2018, ch. 4, art. 8</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2018, ch. 4, art. 8</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2018, ch. 4, art. 8</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2018, ch. 4, al. 122b)(A)</Text>
+  </Section>
+  <Section>
+    <Label>9.1 à 9.3</Label>
+    <Text>ajoutés, 2009, ch. 12, art. 2; abrogés, 2018, ch. 4, art. 9</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2018, ch. 4, art. 10</Text>
+  </Section>
+  <Heading>
+    <Label>Partie I</Label>
+    <Text>2018, ch. 4, art. 11(F) (titre)</Text>
+  </Heading>
+  <Section>
+    <Label>12</Label>
+    <Text>abrogé, 2018, ch. 4, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>12.1</Label>
+    <Text>ajouté, 2009, ch. 12, art. 3; abrogé, 2018, ch. 4, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>abrogé, 2018, ch. 4, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>13.1</Label>
+    <Text>ajouté, 2009, ch. 12, art. 4; abrogé, 2018, ch. 4, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2018, ch. 4, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>abrogé, 2018, ch. 4, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2018, ch. 4, art. 13</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>abrogé, 2018, ch. 4, art. 14</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2009, ch. 12, art. 5; abrogé, 2018, ch. 4, art. 14</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2009, ch. 12, art. 6; abrogé, 2018, ch. 4, art. 14</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2018, ch. 4, art. 14</Text>
+  </Section>
+  <Section>
+    <Label>20.1</Label>
+    <Text>2018, ch. 4, art. 15</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2018, ch. 4, art. 17</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2018, ch. 4, art. 18(A) et al. 122c)(A) et 123a)</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2009, ch. 23, art. 322 et 352; 2018, ch. 4, art. 19, al. 122d)(A) et art. 134</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2018, ch. 4, art. 20</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2018, ch. 4, al. 122e)(A)</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2018, ch. 4, al. 122e)(A)</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2018, ch. 4, art. 21(A)</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2018, ch. 4, art. 21(A)</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>2018, ch. 4, art. 22(A)</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2018, ch. 4, art. 23</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2018, ch. 4, art. 23</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>2018, ch. 4, art. 24(A)</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>2018, ch. 4, art. 25(A)</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>abrogé, 2018, ch. 4, art. 26</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2018, ch. 4, art. 27(A)</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>2018, ch. 4, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2018, ch. 4, al. 122f)(A)</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2018, ch. 4, al. 122g)(A)</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>2018, ch. 4, al. 122h)(A)</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>2018, ch. 4, art. 29(A)</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>2018, ch. 4, al. 122i)(A)</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>2018, ch. 4, art. 30 et al. 122j)(A) et et 123b)</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2018, ch. 4, art. 31</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>2018, ch. 4, al. 122k)(A) et et 123c)</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2018, ch. 4, art. 32 et al. 122l)(A)</Text>
+  </Section>
+  <Section>
+    <Label>48.1</Label>
+    <Text>ajouté, 2018, ch. 4, art. 33</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>2018, ch. 4, art. 34 et al. 122m)(A)</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2018, ch. 4, al. 122n)(A)</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2018, ch. 4, art. 35 et al. 122o)(A)</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2018, ch. 4, al. 122p)(A)</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>2002, ch. 8, art. 133(A); 2018, ch. 4, al. 122q)(A)</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>abrogé, 2018, ch. 4, art. 36</Text>
+  </Section>
+  <Section>
+    <Label>58.1</Label>
+    <Text>ajouté, 2009, ch. 12, art. 7; abrogé, 2018, ch. 4, art. 36</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>2009, ch. 12, art. 7; abrogé, 2018, ch. 4, art. 36</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>abrogé, 2018, ch. 4, art. 36</Text>
+  </Section>
+  <Section>
+    <Label>60.1</Label>
+    <Text>ajouté, 2009, ch. 12, art. 8; abrogé, 2018, ch. 4, art. 36</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2018, ch. 4, art. 36</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>2018, ch. 4, art. 36</Text>
+  </Section>
+  <Section>
+    <Label>62.01 à 62.09</Label>
+    <Text>ajoutés, 2009, ch. 12, art. 9; abrogés, 2018, ch. 4, art. 36</Text>
+  </Section>
+  <Section>
+    <Label>62.1 à 62.3</Label>
+    <Text>ajoutés, 2009, ch. 12, art. 9; abrogés, 2018, ch. 4, art. 36</Text>
+  </Section>
+  <Heading>
+    <Label>Partie II</Label>
+  </Heading>
+  <Section>
+    <Label>63</Label>
+    <Text>2018, ch. 4, art. 37</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>2018, ch. 4, al. 122r)(A)</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>2018, ch. 4, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>69</Label>
+    <Text>2018, ch. 4, art. 39</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>2018, ch. 4, art. 40(A)</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>2018, ch. 4, art. 41</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>2018, ch. 4, al. 122s)(A)</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>2018, ch. 4, al. 122t)(A)</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>2018, ch. 4, al. 122u)(A)</Text>
+  </Section>
+  <Section>
+    <Label>77</Label>
+    <Text>2018, ch. 4, al. 122v)(A)</Text>
+  </Section>
+  <Section>
+    <Label>78</Label>
+    <Text>2018, ch. 4, art. 42(A)</Text>
+  </Section>
+  <Heading>
+    <Label>Partie III</Label>
+  </Heading>
+  <Section>
+    <Label>80</Label>
+    <Text>2018, ch. 4, art. 43</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>2018, ch. 4, art. 44(A)</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>2018, ch. 4, al. 122w)(A)</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>2018, ch. 4, al. 122x)(A)</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>2018, ch. 4, al. 122y)(A)</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>2018, ch. 4, al. 122z)(A)</Text>
+  </Section>
+  <Heading>
+    <Label>Partie IV</Label>
+    <Text>2018, ch. 4, art. 45(E) (titre)</Text>
+  </Heading>
+  <Section>
+    <Label>89</Label>
+    <Text>2018, ch. 4, al. 122z.1)(A)</Text>
+  </Section>
+  <Section>
+    <Label>90</Label>
+    <Text>2009, ch. 12, art. 10; 2018, ch. 4, art. 46 et al. 122z.2)(A)</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>2009, ch. 12, art. 11; 2018, ch. 4, art. 47 et al. 122z.3)(A)</Text>
+  </Section>
+  <Section>
+    <Label>92</Label>
+    <Text>2018, ch. 4, al. 122z.4)(A)</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>2009, ch. 12, art. 12; 2018, ch. 4, art. 48 et al. 122z.5)(A)</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>2009, ch. 12, art. 13; 2018, ch. 4, art. 49 et al. 122z.6)(A)</Text>
+  </Section>
+  <Section>
+    <Label>96</Label>
+    <Text>2018, ch. 4, al. 122z.7)(A)</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>2018, ch. 4, art. 50 et al. 122z.8)(A)</Text>
+  </Section>
+  <Section>
+    <Label>98</Label>
+    <Text>2018, ch. 4, art. 51</Text>
+  </Section>
+  <Section>
+    <Label>99</Label>
+    <Text>2018, ch. 4, art. 52</Text>
+  </Section>
+  <Section>
+    <Label>100</Label>
+    <Text>2009, ch. 12, art. 14; 2018, ch. 4, art. 53 et al. 122z.9)(A)</Text>
+  </Section>
+  <Heading>
+    <Label>Partie V</Label>
+    <Text>2018, ch. 4, art. 54 (titre)</Text>
+  </Heading>
+  <Section>
+    <Label>101</Label>
+    <Text>2018, ch. 4, al. 123d)</Text>
+  </Section>
+  <Section>
+    <Label>102</Label>
+    <Text>2018, ch. 4, art. 55</Text>
+  </Section>
+  <Section>
+    <Label>103</Label>
+    <Text>2018, ch. 4, art. 56</Text>
+  </Section>
+  <Section>
+    <Label>104</Label>
+    <Text>2009, ch. 12, art. 15; 2018, ch. 4, art. 57</Text>
+  </Section>
+  <Section>
+    <Label>105</Label>
+    <Text>2009, ch. 12, art. 16; 2018, ch. 4, art. 58</Text>
+  </Section>
+  <Section>
+    <Label>106</Label>
+    <Text>2018, ch. 4, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>107</Label>
+    <Text>2018, ch. 4, art. 59</Text>
+  </Section>
+  <Section>
+    <Label>108</Label>
+    <Text>2018, ch. 4, al. 123e)</Text>
+  </Section>
+  <Heading>
+    <Label>Partie VI</Label>
+    <Text>2018, ch. 4, art. 60 (titre)</Text>
+  </Heading>
+  <Section>
+    <Label>109</Label>
+    <Text>2018, ch. 4, art. 60</Text>
+  </Section>
+  <Section>
+    <Label>110</Label>
+    <Text>2018, ch. 4, art. 61</Text>
+  </Section>
+  <Section>
+    <Label>111</Label>
+    <Text>2018, ch. 4, art. 62</Text>
+  </Section>
+  <Section>
+    <Label>112</Label>
+    <Text>2018, ch. 4, art. 63</Text>
+  </Section>
+  <Section>
+    <Label>113</Label>
+    <Text>2009, ch. 12, art. 17; 2018, ch. 4, art. 64 et al. 122z.10)(A)</Text>
+  </Section>
+  <Section>
+    <Label>114</Label>
+    <Text>2009, ch. 12, art. 18; abrogé, 2018, ch. 4, art. 65</Text>
+  </Section>
+  <Section>
+    <Label>115</Label>
+    <Text>2009, ch. 12, art. 19; 2018, ch. 4, art. 65</Text>
+  </Section>
+  <Section>
+    <Label>116</Label>
+    <Text>2009, ch. 12, art. 20; 2018, ch. 4, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>117</Label>
+    <Text>2009, ch. 12, art. 21; 2018, ch. 4, art. 68</Text>
+  </Section>
+  <Heading>
+    <Label>Partie VII</Label>
+    <Text>2018, ch. 4, al. 123f) (titre)</Text>
+  </Heading>
+  <Section>
+    <Label>119</Label>
+    <Text>2018, ch. 4, art. 69</Text>
+  </Section>
+  <Section>
+    <Label>120</Label>
+    <Text>2018, ch. 4, art. 70</Text>
+  </Section>
+  <Section>
+    <Label>121</Label>
+    <Text>2018, ch. 4, al. 123g)</Text>
+  </Section>
+  <Section>
+    <Label>122</Label>
+    <Text>2018, ch. 4, art. 71 et al. 122z.11)(A)</Text>
+  </Section>
+  <Section>
+    <Label>123</Label>
+    <Text>2018, ch. 4, art. 72</Text>
+  </Section>
+  <Section>
+    <Label>124</Label>
+    <Text>2018, ch. 4, art. 73 et al. 122z.12)(A)</Text>
+  </Section>
+  <Section>
+    <Label>125</Label>
+    <Text>2018, ch. 4, art. 74</Text>
+  </Section>
+  <Section>
+    <Label>126</Label>
+    <Text>2018, ch. 4, art. 75</Text>
+  </Section>
+  <Section>
+    <Label>127</Label>
+    <Text>2018, ch. 4, art. 75</Text>
+  </Section>
+  <Section>
+    <Label>129</Label>
+    <Text>2018, ch. 4, art. 76 et al. 123h)</Text>
+  </Section>
+  <Heading>
+    <Label>Partie VIII</Label>
+    <Text>2018, ch. 4, art. 77(F) (titre)</Text>
+  </Heading>
+  <Section>
+    <Label>130</Label>
+    <Text>2018, ch. 4, al. 123i)</Text>
+  </Section>
+  <Section>
+    <Label>131</Label>
+    <Text>2018, ch. 4, al. 123j)</Text>
+  </Section>
+  <Section>
+    <Label>132</Label>
+    <Text>2018, ch. 4, al. 122z.13)(A) et 123k)</Text>
+  </Section>
+  <Section>
+    <Label>135</Label>
+    <Text>2018, ch. 4, art. 78 et al. 123l)</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>2018, ch. 4, al. 122z.14)(A)</Text>
+  </Section>
+  <Section>
+    <Label>137</Label>
+    <Text>2018, ch. 4, art. 79(A) et al. 122z.15)(A)</Text>
+  </Section>
+  <Section>
+    <Label>138</Label>
+    <Text>2009, ch. 12, art. 22; 2018, ch. 4, art. 80</Text>
+  </Section>
+  <Section>
+    <Label>139</Label>
+    <Text>2009, ch. 12, art. 23; 2018, ch. 4, art. 81 et al. 122z.16)(A)</Text>
+  </Section>
+  <Section>
+    <Label>140</Label>
+    <Text>2018, ch. 4, al. 123m)</Text>
+  </Section>
+  <Heading>
+    <Label>Partie IX</Label>
+    <Text>2018, ch. 4, art. 83(A) (titre)</Text>
+  </Heading>
+  <Section>
+    <Label>141</Label>
+    <Text>2018, ch. 4, art. 83</Text>
+  </Section>
+  <Section>
+    <Label>142</Label>
+    <Text>2018, ch. 4, al. 122z.17)(A)</Text>
+  </Section>
+  <Section>
+    <Label>144</Label>
+    <Text>2018, ch. 4, art. 84</Text>
+  </Section>
+  <Section>
+    <Label>145</Label>
+    <Text>2018, ch. 4, al. 123n)</Text>
+  </Section>
+  <Section>
+    <Label>146</Label>
+    <Text>2018, ch. 4, al. 122z.18)(A)</Text>
+  </Section>
+  <Section>
+    <Label>148</Label>
+    <Text>2018, ch. 4, al. 123o)</Text>
+  </Section>
+  <Section>
+    <Label>149</Label>
+    <Text>2018, ch. 4, al. 122z.19)(A)</Text>
+  </Section>
+  <Heading>
+    <Label>Partie X</Label>
+  </Heading>
+  <Section>
+    <Label>150</Label>
+    <Text>2018, ch. 4, art. 85 et al. 122z.20)(A) et 123p)</Text>
+  </Section>
+  <Section>
+    <Label>151</Label>
+    <Text>2018, ch. 4, art. 86 et al. 123q)</Text>
+  </Section>
+  <Section>
+    <Label>152</Label>
+    <Text>2018, ch. 4, al. 122z.21)(A)</Text>
+  </Section>
+  <Heading>
+    <Label>Partie XI</Label>
+    <Text>2018, ch. 4, art. 87(A) (titre)</Text>
+  </Heading>
+  <Section>
+    <Label>153</Label>
+    <Text>2018, ch. 4, art. 88</Text>
+  </Section>
+  <Section>
+    <Label>154</Label>
+    <Text>2018, ch. 4, al. 122z.22)(A)</Text>
+  </Section>
+  <Section>
+    <Label>155</Label>
+    <Text>2018, ch. 4, al. 122z.22)(A)</Text>
+  </Section>
+  <Section>
+    <Label>156</Label>
+    <Text>2018, ch. 4, al. 122z.23)(A)</Text>
+  </Section>
+  <Heading>
+    <Label>Partie XII</Label>
+    <Text>2018, ch. 4, art. 89(F) (titre)</Text>
+  </Heading>
+  <Section>
+    <Label>157</Label>
+    <Text>2018, ch. 4, art. 90</Text>
+  </Section>
+  <Section>
+    <Label>158</Label>
+    <Text>2018, ch. 4, art. 91</Text>
+  </Section>
+  <Section>
+    <Label>159</Label>
+    <Text>2018, ch. 4, art. 92</Text>
+  </Section>
+  <Section>
+    <Label>160</Label>
+    <Text>2018, ch. 4, art. 93</Text>
+  </Section>
+  <Section>
+    <Label>161</Label>
+    <Text>2018, ch. 4, art. 94</Text>
+  </Section>
+  <Section>
+    <Label>162</Label>
+    <Text>2003, ch. 22, al. 224z.22)(A)</Text>
+  </Section>
+  <Section>
+    <Label>164</Label>
+    <Text>2018, ch. 4, art. 95</Text>
+  </Section>
+  <Section>
+    <Label>165</Label>
+    <Text>2018, ch. 4, art. 96</Text>
+  </Section>
+  <Section>
+    <Label>166</Label>
+    <Text>2009, ch. 12, art. 24; 2018, ch. 4, art. 97</Text>
+  </Section>
+  <Section>
+    <Label>171</Label>
+    <Text>abrogé, 2018, ch. 4, art. 98</Text>
+  </Section>
+  <Heading>
+    <Label>Partie XIII</Label>
+  </Heading>
+  <Section>
+    <Label>173</Label>
+    <Text>2018, ch. 4, art. 99</Text>
+  </Section>
+  <Section>
+    <Label>174</Label>
+    <Text>2000, ch. 12, art. 90; 2018, ch. 4, art. 100</Text>
+  </Section>
+  <Section>
+    <Label>175</Label>
+    <Text>2018, ch. 4, art. 101</Text>
+  </Section>
+  <Section>
+    <Label>176</Label>
+    <Text>2018, ch. 4, art. 102</Text>
+  </Section>
+  <Section>
+    <Label>177</Label>
+    <Text>2018, ch. 4, al. 123r)</Text>
+  </Section>
+  <Section>
+    <Label>178</Label>
+    <Text>2018, ch. 4, art. 103</Text>
+  </Section>
+  <Section>
+    <Label>179</Label>
+    <Text>2018, ch. 4, art. 104</Text>
+  </Section>
+  <Section>
+    <Label>180</Label>
+    <Text>2018, ch. 4, art. 104</Text>
+  </Section>
+  <Section>
+    <Label>181</Label>
+    <Text>2018, ch. 4, art. 105</Text>
+  </Section>
+  <Section>
+    <Label>182</Label>
+    <Text>2018, ch. 4, art. 106(A)</Text>
+  </Section>
+  <Section>
+    <Label>183</Label>
+    <Text>2018, ch. 4, art. 107</Text>
+  </Section>
+  <Section>
+    <Label>184</Label>
+    <Text>2018, ch. 4, art. 108</Text>
+  </Section>
+  <Section>
+    <Label>185</Label>
+    <Text>2018, ch. 4, art. 109(A)</Text>
+  </Section>
+  <Section>
+    <Label>186</Label>
+    <Text>2018, ch. 4, art. 109(A)</Text>
+  </Section>
+  <Heading>
+    <Label>Partie XIV</Label>
+  </Heading>
+  <Section>
+    <Label>187</Label>
+    <Text>2009, ch. 12, art. 25; 2018, ch. 4, art. 110</Text>
+  </Section>
+  <Section>
+    <Label>188</Label>
+    <Text>2018, ch. 4, art. 111 et al. 122z.24)(A)</Text>
+  </Section>
+  <Heading>
+    <Label>Partie XV</Label>
+  </Heading>
+  <Section>
+    <Label>190</Label>
+    <Text>2009, ch. 12, art. 26; 2018, ch. 4, art. 112</Text>
+  </Section>
+  <Section>
+    <Label>191</Label>
+    <Text>2009, ch. 12, art. 27; 2018, ch. 4, art. 113</Text>
+  </Section>
+  <Section>
+    <Label>192</Label>
+    <Text>2018, ch. 4, art. 114</Text>
+  </Section>
+  <Section>
+    <Label>193</Label>
+    <Text>2018, ch. 4, art. 115 et al. 122z.25)(A)</Text>
+  </Section>
+  <Heading>
+    <Label>Partie XVI</Label>
+  </Heading>
+  <Section>
+    <Label>194</Label>
+    <Text>2009, ch. 12, art. 28; abrogé, 2018, ch. 4, art. 116</Text>
+  </Section>
+  <Section>
+    <Label>196</Label>
+    <Text>2009, ch. 12, art. 29; 2018, ch. 4, art. 117 et al. 123s)</Text>
+  </Section>
+  <Heading>
+    <Label>Partie XVII</Label>
+  </Heading>
+  <Section>
+    <Label>197</Label>
+    <Text>2009, ch. 12, art. 30; 2018, ch. 4, art. 118</Text>
+  </Section>
+  <Section>
+    <Label>199</Label>
+    <Text>2009, ch. 12, art. 31; 2018, ch. 4, art. 119</Text>
+  </Section>
+  <Section>
+    <Label>199.1</Label>
+    <Text>ajouté, 2018, ch. 4, art. 120</Text>
+  </Section>
+  <Heading>
+    <Label>Partie XVIII</Label>
+  </Heading>
+  <Section>
+    <Label>200</Label>
+    <Text>2018, ch. 4, art. 121</Text>
+  </Section>
+  <Section>
+    <Label>202</Label>
+    <Text>2018, ch. 4, al. 122z.26)(A)</Text>
+  </Section>
+  <Section>
+    <Label>203</Label>
+    <Text>2018, ch. 4, al. 122z.27)(A)</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2009, ch. 23, art. 352</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2018, ch. 4, art. 134</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>disposition générale, 2009, ch. 12, art. 32 (publication de la date où des terres ont été mises de côté à titre de terres de catégorie IA)</Text>
+  </General>
+  <General>
+    <Text>dispositions générales, 2018, ch. 4, art. 7(F) (intertitre préc. art. 6); art. 16(A) (intertitre préc. art. 21); art. 67 (intertitre préc. art. 117)</Text>
+  </General>
+  <Transitional>
+    <Text>dispositions transitoires, 2018, ch. 4, art. 124 (Commission crie-naskapie)</Text>
+  </Transitional>
+  <Terminology>
+    <Text>modifications terminologiques, 2018, ch. 4, al. 122a) à z.27)(A) et 123a) à s)</Text>
+  </Terminology>
+  <CIF>
+    <Text>EEV, 1984, ch. 18 loi en vigueur 03.07.84; <Emphasis style="italic">sauf</Emphasis> art. 36, 157-172, <Emphasis style="italic">voir</Emphasis> TR/84‑129; art. 36, 157-172 en vigueur 01.12.84 <Emphasis style="italic">voir</Emphasis> TR/84‑129</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2000, ch. 12, art. 89 et 90 abrogés avant leur entrée en vigueur <Emphasis style="italic">voir</Emphasis> 2018, ch. 4, art. 125</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 8, art. 133 en vigueur 02.07.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 22, art. 224 en vigueur 01.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2009, ch. 12 (sanction : 11.06.2009), art. 2, 6, 9 à 14, 22 à 24, 26 et 28 à 32 en vigueur 01.02.2010 <Emphasis style="italic">voir</Emphasis> TR/2010-8; art. 1, 3 à 5, 7, 8, 15 à 21, 25 et 27 [<Emphasis style="italic">Remarque</Emphasis> : les conditions du par. 33(2) étant rencontrées : des terres mises de côté par le gouverneur en conseil à titre de terres de catégorie IA à l’usage et au bénéfice exclusifs de la collectivité connue sous le nom de Cris de Oujé-Bougoumou] en vigueur 15.05.2014 <Emphasis style="italic">voir</Emphasis> C.P. 2014-0582</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2009, ch. 23, art. 352 en vigueur à la sanction 23.06.2009; art. 322 en vigueur 17.10.2011 <Emphasis style="italic">voir</Emphasis> TR/2011‑87 [<Emphasis style="italic">Remarque</Emphasis> : la modification prévue par art. 352 prend effet à l’entrée en vigueur de l’al. 313a) laquelle est 31.12.2017 <Emphasis style="italic">voir</Emphasis> TR/2018-1]</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 4, art. 2 à 125 en vigueur à la sanction 29.03.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 29 (sanction : 21.06.2019), art. 373 en vigueur 15.07.2019</Text>
+  </CIF>
+</Statute>
+</TOPS>

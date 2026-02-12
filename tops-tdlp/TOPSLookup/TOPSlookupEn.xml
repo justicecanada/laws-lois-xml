@@ -26,15 +26,15 @@
 <ChapterNumber>2018, c. 27, s. 675</ChapterNumber>
 <FlicsAlpha>2018, c. 27, s. 675</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Advance Payments for Crops Act (see Crops Act, Advance Payments for)</Title>
-<ChapterNumber>R.S.C., 1985, c. C-49</ChapterNumber>
-<FlicsAlpha>C-49</FlicsAlpha>
-</Statute>
 <Statute statuteid="76e">
 <Title>Administrative Tribunals Support Service of Canada Act</Title>
 <ChapterNumber>2014, c. 20, s. 376</ChapterNumber>
 <FlicsAlpha>2014, c. 20, s. 376</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Advance Payments for Crops Act (see Crops Act, Advance Payments for)</Title>
+<ChapterNumber>R.S.C., 1985, c. C-49</ChapterNumber>
+<FlicsAlpha>C-49</FlicsAlpha>
 </Statute>
 <Statute statuteid="7480e">
 <Title>Aeronautics Act</Title>
@@ -81,15 +81,15 @@
 <ChapterNumber>R.S., 1985, c. 35 (4th Supp.)</ChapterNumber>
 <FlicsAlpha>R.S., 1985, c. 35 (4th Supp.)</FlicsAlpha>
 </Statute>
-<Statute statuteid="1414e">
-<Title>Airport Transfer (Miscellaneous Matters) Act</Title>
-<ChapterNumber>1992, c. 5</ChapterNumber>
-<FlicsAlpha>1992, c. 5</FlicsAlpha>
-</Statute>
 <Statute statuteid="1530e">
 <Title>Air Travellers Security Charge Act</Title>
 <ChapterNumber>2002, c. 9, s. 5</ChapterNumber>
 <FlicsAlpha>2002, c. 9, s. 5</FlicsAlpha>
+</Statute>
+<Statute statuteid="1414e">
+<Title>Airport Transfer (Miscellaneous Matters) Act</Title>
+<ChapterNumber>1992, c. 5</ChapterNumber>
+<FlicsAlpha>1992, c. 5</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Alberta Act</Title>
@@ -97,14 +97,14 @@
 <FlicsAlpha>1905, c. 3</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Alberta Natural Resources Act (see also Natural Resources Transfer)</Title>
+<ChapterNumber>Alberta Natural Resources Act</ChapterNumber>
+<FlicsAlpha>tops-2A</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Alberta-British Columbia Boundary Act (see Provincial Boundaries)</Title>
 <ChapterNumber>Alberta-British Columbia Boundary Act</ChapterNumber>
 <FlicsAlpha>tops-1A</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Alberta Natural Resources Act (seealso Natural Resources Transfer)</Title>
-<ChapterNumber>Alberta Natural Resources Act</ChapterNumber>
-<FlicsAlpha>tops-2A</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Alberta-Northwest Territories Boundary Act, 1958 (see Provincial Boundaries)</Title>
@@ -171,15 +171,15 @@
 <ChapterNumber>R.S., 1985, c. A-12</ChapterNumber>
 <FlicsAlpha>A-12</FlicsAlpha>
 </Statute>
-<Statute statuteid="5165e">
-<Title>Asian Infrastructure Investment Bank Agreement Act</Title>
-<ChapterNumber>2017, c. 33, s. 176</ChapterNumber>
-<FlicsAlpha>2017, c. 33, s. 176</FlicsAlpha>
-</Statute>
 <Statute statuteid="6530e">
 <Title>Asia-Pacific Foundation of Canada Act</Title>
 <ChapterNumber>R.S., 1985, c. A-13</ChapterNumber>
 <FlicsAlpha>A-13</FlicsAlpha>
+</Statute>
+<Statute statuteid="5165e">
+<Title>Asian Infrastructure Investment Bank Agreement Act</Title>
+<ChapterNumber>2017, c. 33, s. 176</ChapterNumber>
+<FlicsAlpha>2017, c. 33, s. 176</FlicsAlpha>
 </Statute>
 <Statute statuteid="5986e">
 <Title>Assisted Human Reproduction Act</Title>
@@ -273,15 +273,15 @@
 <ChapterNumber>1957-58, c. 26</ChapterNumber>
 <FlicsAlpha>1957-58, c. 26</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Bill of Rights (see Canadian Bill of Rights)</Title>
-<ChapterNumber>Bill of Rights (see Canadian Bill of Rights)</ChapterNumber>
-<FlicsAlpha>tops-4B</FlicsAlpha>
-</Statute>
 <Statute statuteid="24273e">
 <Title>Bell Canada Act</Title>
 <ChapterNumber>1987, c. 19</ChapterNumber>
 <FlicsAlpha>1987, c. 19</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Bill of Rights (see Canadian Bill of Rights)</Title>
+<ChapterNumber>Bill of Rights (see Canadian Bill of Rights)</ChapterNumber>
+<FlicsAlpha>tops-4B</FlicsAlpha>
 </Statute>
 <Statute statuteid="29031e">
 <Title>Bills of Exchange Act</Title>
@@ -300,13 +300,13 @@
 </Statute>
 <Statute statuteid="30654e">
 <Title>Borrowing Authority Act</Title>
-<ChapterNumber></ChapterNumber>
-<FlicsAlpha>tops-5B</FlicsAlpha>
+<ChapterNumber>2017, c. 20, s. 103</ChapterNumber>
+<FlicsAlpha>2017, c. 20, s. 103</FlicsAlpha>
 </Statute>
 <Statute statuteid="30654e">
 <Title>Borrowing Authority Act</Title>
-<ChapterNumber>2017, c. 20, s. 103</ChapterNumber>
-<FlicsAlpha>2017, c. 20, s. 103</FlicsAlpha>
+<ChapterNumber></ChapterNumber>
+<FlicsAlpha>tops-5B</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Boucherville Islands Bridge and Tunnel (see Bridges)</Title>
@@ -323,25 +323,25 @@
 <ChapterNumber>R.S., 1985, c. B-7</ChapterNumber>
 <FlicsAlpha>B-7</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Bridge, St. Lawrence at Valleyfield (see Bridges)</Title>
-<ChapterNumber>Bridge, St. Lawrence at Valleyfield (see Bridges)</ChapterNumber>
-<FlicsAlpha>tops-8B</FlicsAlpha>
-</Statute>
 <Statute statuteid="33410e">
 <Title>Bridge to Strengthen Trade Act</Title>
 <ChapterNumber>2012, c. 31, s. 179</ChapterNumber>
 <FlicsAlpha>2012, c. 31, s. 179</FlicsAlpha>
 </Statute>
-<Statute statuteid="33968e">
-<Title>Bridges Act</Title>
-<ChapterNumber>R.S., 1985, c. B-8</ChapterNumber>
-<FlicsAlpha>B-8</FlicsAlpha>
+<Statute statuteid="">
+<Title>Bridge, St. Lawrence at Valleyfield (see Bridges)</Title>
+<ChapterNumber>Bridge, St. Lawrence at Valleyfield (see Bridges)</ChapterNumber>
+<FlicsAlpha>tops-8B</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Bridges</Title>
 <ChapterNumber>Bridges</ChapterNumber>
 <FlicsAlpha>tops-9B</FlicsAlpha>
+</Statute>
+<Statute statuteid="33968e">
+<Title>Bridges Act</Title>
+<ChapterNumber>R.S., 1985, c. B-8</ChapterNumber>
+<FlicsAlpha>B-8</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>British Columbia Boundary (see Provincial Boundaries)</Title>
@@ -394,14 +394,14 @@
 <FlicsAlpha>2007, c. 35</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Budget Implementation Act, 1991</Title>
-<ChapterNumber>1991, c. 51</ChapterNumber>
-<FlicsAlpha>1991, c. 51</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Budget Implementation (fiscal measures) Act, 1992</Title>
 <ChapterNumber>1993, c. 12</ChapterNumber>
 <FlicsAlpha>1993, c. 12</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Budget Implementation Act, 1991</Title>
+<ChapterNumber>1991, c. 51</ChapterNumber>
+<FlicsAlpha>1991, c. 51</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Budget Implementation Act, 1994</Title>
@@ -590,16 +590,6 @@
 <ChapterNumber>Canada Business Corporations Act</ChapterNumber>
 <FlicsAlpha>tops-4C</FlicsAlpha>
 </Statute>
-<Statute statuteid="43516e">
-<Title>Canada-Chile Free Trade Agreement Implementation Act</Title>
-<ChapterNumber>1997, c. 14</ChapterNumber>
-<FlicsAlpha>1997, c. 14</FlicsAlpha>
-</Statute>
-<Statute statuteid="43779e">
-<Title>Canada — Colombia Free Trade Agreement Implementation Act</Title>
-<ChapterNumber>2010, c. 4</ChapterNumber>
-<FlicsAlpha>2010, c. 4</FlicsAlpha>
-</Statute>
 <Statute statuteid="44251e">
 <Title>Canada Consumer Product Safety Act</Title>
 <ChapterNumber>2010, c. 21</ChapterNumber>
@@ -614,11 +604,6 @@
 <Title>Canada Corporations Act (see Corporations Act, Canada)</Title>
 <ChapterNumber>Canada Corporations Act</ChapterNumber>
 <FlicsAlpha>tops-5C</FlicsAlpha>
-</Statute>
-<Statute statuteid="49405e">
-<Title>Canada — Costa Rica Free Trade Agreement Implementation Act</Title>
-<ChapterNumber>2001, c. 28</ChapterNumber>
-<FlicsAlpha>2001, c. 28</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Canada Council Act</Title>
@@ -670,11 +655,6 @@
 <ChapterNumber>2004, c. 26</ChapterNumber>
 <FlicsAlpha>2004, c. 26</FlicsAlpha>
 </Statute>
-<Statute statuteid="83022e">
-<Title>Canada — EFTA Free Trade Agreement Implementation Act</Title>
-<ChapterNumber>2009, c. 6</ChapterNumber>
-<FlicsAlpha>2009, c. 6</FlicsAlpha>
-</Statute>
 <Statute statuteid="203458e">
 <Title>Canada Elections Act</Title>
 <ChapterNumber>2000, c. 9</ChapterNumber>
@@ -694,11 +674,6 @@
 <Title>Canada Emission Reduction Incentives Agency Act</Title>
 <ChapterNumber>2005, c. 30, s. 87</ChapterNumber>
 <FlicsAlpha>2005, c. 30, s. 87</FlicsAlpha>
-</Statute>
-<Statute statuteid="96250e">
-<Title>Canada — European Union Comprehensive Economic and Trade Agreement Implementation Act</Title>
-<ChapterNumber>2017, c. 6</ChapterNumber>
-<FlicsAlpha>2017, c. 6</FlicsAlpha>
 </Statute>
 <Statute statuteid="137437e">
 <Title>Canada Evidence Act</Title>
@@ -730,11 +705,6 @@
 <ChapterNumber>2000, c. 35</ChapterNumber>
 <FlicsAlpha>2000, c. 35</FlicsAlpha>
 </Statute>
-<Statute statuteid="146172e">
-<Title>Canada — Honduras Economic Growth and Prosperity Act</Title>
-<ChapterNumber>2014, c. 14</ChapterNumber>
-<FlicsAlpha>2014, c. 14</FlicsAlpha>
-</Statute>
 <Statute statuteid="146652e">
 <Title>Canada Infrastructure Bank Act</Title>
 <ChapterNumber>2017, c. 20, s. 403</ChapterNumber>
@@ -744,21 +714,6 @@
 <Title>Canada Innovation Corporation Act</Title>
 <ChapterNumber>2023, c. 26, s. 238</ChapterNumber>
 <FlicsAlpha>2023, c. 26, s. 238</FlicsAlpha>
-</Statute>
-<Statute statuteid="147238e">
-<Title>Canada-Israel Free Trade Agreement Implementation Act</Title>
-<ChapterNumber>1996, c. 33</ChapterNumber>
-<FlicsAlpha>1996, c. 33</FlicsAlpha>
-</Statute>
-<Statute statuteid="147693e">
-<Title>Canada — Jordan Economic Growth and Prosperity Act</Title>
-<ChapterNumber>2012, c. 18</ChapterNumber>
-<FlicsAlpha>2012, c. 18</FlicsAlpha>
-</Statute>
-<Statute statuteid="147842e">
-<Title>Canada — Korea Economic Growth and Prosperity Act</Title>
-<ChapterNumber>2014, c. 28</ChapterNumber>
-<FlicsAlpha>2014, c. 28</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Canada Labour Code (see Labour Code, Canada)</Title>
@@ -800,20 +755,10 @@
 <ChapterNumber>2000, c. 32</ChapterNumber>
 <FlicsAlpha>2000, c. 32</FlicsAlpha>
 </Statute>
-<Statute statuteid="152520e">
-<Title>Canada-Newfoundland and Labrador Atlantic Accord Implementation Act</Title>
-<ChapterNumber>1987, c. 3</ChapterNumber>
-<FlicsAlpha>1987, c. 3</FlicsAlpha>
-</Statute>
 <Statute statuteid="157181e">
 <Title>Canada Not-for-profit Corporations Act</Title>
 <ChapterNumber>2009, c. 23</ChapterNumber>
 <FlicsAlpha>2009, c. 23</FlicsAlpha>
-</Statute>
-<Statute statuteid="159982e">
-<Title>Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act</Title>
-<ChapterNumber>1988, c. 28</ChapterNumber>
-<FlicsAlpha>1988, c. 28</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Canada Oil and Gas Act (see Oil and Gas Act, Canada)</Title>
@@ -825,11 +770,6 @@
 <ChapterNumber>Canada Oil and Gas Operations Act</ChapterNumber>
 <FlicsAlpha>tops-14C</FlicsAlpha>
 </Statute>
-<Statute statuteid="164957e">
-<Title>Canada — Panama Economic Growth and Prosperity Act</Title>
-<ChapterNumber>2012, c. 26</ChapterNumber>
-<FlicsAlpha>2012, c. 26</FlicsAlpha>
-</Statute>
 <Statute statuteid="167607e">
 <Title>Canada Pension Plan</Title>
 <ChapterNumber>R.S., 1985, c. C-8</ChapterNumber>
@@ -839,11 +779,6 @@
 <Title>Canada Pension Plan Investment Board Act</Title>
 <ChapterNumber>1997, c. 40</ChapterNumber>
 <FlicsAlpha>1997, c. 40</FlicsAlpha>
-</Statute>
-<Statute statuteid="166084e">
-<Title>Canada — Peru Free Trade Agreement Implementation Act</Title>
-<ChapterNumber>2009, c. 16</ChapterNumber>
-<FlicsAlpha>2009, c. 16</FlicsAlpha>
 </Statute>
 <Statute statuteid="166246e">
 <Title>Canada Petroleum Resources Act</Title>
@@ -915,36 +850,6 @@
 <ChapterNumber>1999, c. 29</ChapterNumber>
 <FlicsAlpha>1999, c. 29</FlicsAlpha>
 </Statute>
-<Statute statuteid="1448703e">
-<Title>Canada — Ukraine Free Trade Agreement Implementation Act, 2023</Title>
-<ChapterNumber>2024, c. 3</ChapterNumber>
-<FlicsAlpha>2024, c. 3</FlicsAlpha>
-</Statute>
-<Statute statuteid="84991e">
-<Title>Canada-United Kingdom Civil and Commercial Judgments Convention Act</Title>
-<ChapterNumber>R.S., 1985, c. C-30</ChapterNumber>
-<FlicsAlpha>C-30</FlicsAlpha>
-</Statute>
-<Statute statuteid="1288209e">
-<Title>Canada — United Kingdom Trade Continuity Agreement Implementation Act</Title>
-<ChapterNumber>2021, c. 1</ChapterNumber>
-<FlicsAlpha>2021, c. 1</FlicsAlpha>
-</Statute>
-<Statute statuteid="58315e">
-<Title>Canada — United States Enhanced Tax Information Exchange Agreement Implementation Act</Title>
-<ChapterNumber>2014, c. 20, s. 99</ChapterNumber>
-<FlicsAlpha>2014, c. 20, s. 99</FlicsAlpha>
-</Statute>
-<Statute statuteid="58851e">
-<Title>Canada-United States Free Trade Agreement Implementation Act</Title>
-<ChapterNumber>1988, c. 65</ChapterNumber>
-<FlicsAlpha>1988, c. 65</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Canada — United States — Mexico Agreement Implementation Act</Title>
-<ChapterNumber>2020, c. 1 </ChapterNumber>
-<FlicsAlpha>2020, c. 1 </FlicsAlpha>
-</Statute>
 <Statute statuteid="61042e">
 <Title>Canada Water Act</Title>
 <ChapterNumber>R.S., 1985, c. C-11</ChapterNumber>
@@ -964,6 +869,101 @@
 <Title>Canada Worker Lockdown Benefit Act,</Title>
 <ChapterNumber>2021, c. 26, s. 5 </ChapterNumber>
 <FlicsAlpha>C-11.01</FlicsAlpha>
+</Statute>
+<Statute statuteid="43779e">
+<Title>Canada — Colombia Free Trade Agreement Implementation Act</Title>
+<ChapterNumber>2010, c. 4</ChapterNumber>
+<FlicsAlpha>2010, c. 4</FlicsAlpha>
+</Statute>
+<Statute statuteid="49405e">
+<Title>Canada — Costa Rica Free Trade Agreement Implementation Act</Title>
+<ChapterNumber>2001, c. 28</ChapterNumber>
+<FlicsAlpha>2001, c. 28</FlicsAlpha>
+</Statute>
+<Statute statuteid="83022e">
+<Title>Canada — EFTA Free Trade Agreement Implementation Act</Title>
+<ChapterNumber>2009, c. 6</ChapterNumber>
+<FlicsAlpha>2009, c. 6</FlicsAlpha>
+</Statute>
+<Statute statuteid="96250e">
+<Title>Canada — European Union Comprehensive Economic and Trade Agreement Implementation Act</Title>
+<ChapterNumber>2017, c. 6</ChapterNumber>
+<FlicsAlpha>2017, c. 6</FlicsAlpha>
+</Statute>
+<Statute statuteid="146172e">
+<Title>Canada — Honduras Economic Growth and Prosperity Act</Title>
+<ChapterNumber>2014, c. 14</ChapterNumber>
+<FlicsAlpha>2014, c. 14</FlicsAlpha>
+</Statute>
+<Statute statuteid="147693e">
+<Title>Canada — Jordan Economic Growth and Prosperity Act</Title>
+<ChapterNumber>2012, c. 18</ChapterNumber>
+<FlicsAlpha>2012, c. 18</FlicsAlpha>
+</Statute>
+<Statute statuteid="147842e">
+<Title>Canada — Korea Economic Growth and Prosperity Act</Title>
+<ChapterNumber>2014, c. 28</ChapterNumber>
+<FlicsAlpha>2014, c. 28</FlicsAlpha>
+</Statute>
+<Statute statuteid="164957e">
+<Title>Canada — Panama Economic Growth and Prosperity Act</Title>
+<ChapterNumber>2012, c. 26</ChapterNumber>
+<FlicsAlpha>2012, c. 26</FlicsAlpha>
+</Statute>
+<Statute statuteid="166084e">
+<Title>Canada — Peru Free Trade Agreement Implementation Act</Title>
+<ChapterNumber>2009, c. 16</ChapterNumber>
+<FlicsAlpha>2009, c. 16</FlicsAlpha>
+</Statute>
+<Statute statuteid="1448703e">
+<Title>Canada — Ukraine Free Trade Agreement Implementation Act, 2023</Title>
+<ChapterNumber>2024, c. 3</ChapterNumber>
+<FlicsAlpha>2024, c. 3</FlicsAlpha>
+</Statute>
+<Statute statuteid="1288209e">
+<Title>Canada — United Kingdom Trade Continuity Agreement Implementation Act</Title>
+<ChapterNumber>2021, c. 1</ChapterNumber>
+<FlicsAlpha>2021, c. 1</FlicsAlpha>
+</Statute>
+<Statute statuteid="58315e">
+<Title>Canada — United States Enhanced Tax Information Exchange Agreement Implementation Act</Title>
+<ChapterNumber>2014, c. 20, s. 99</ChapterNumber>
+<FlicsAlpha>2014, c. 20, s. 99</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Canada — United States — Mexico Agreement Implementation Act</Title>
+<ChapterNumber>2020, c. 1 </ChapterNumber>
+<FlicsAlpha>2020, c. 1 </FlicsAlpha>
+</Statute>
+<Statute statuteid="43516e">
+<Title>Canada-Chile Free Trade Agreement Implementation Act</Title>
+<ChapterNumber>1997, c. 14</ChapterNumber>
+<FlicsAlpha>1997, c. 14</FlicsAlpha>
+</Statute>
+<Statute statuteid="147238e">
+<Title>Canada-Israel Free Trade Agreement Implementation Act</Title>
+<ChapterNumber>1996, c. 33</ChapterNumber>
+<FlicsAlpha>1996, c. 33</FlicsAlpha>
+</Statute>
+<Statute statuteid="152520e">
+<Title>Canada-Newfoundland and Labrador Atlantic Accord Implementation Act</Title>
+<ChapterNumber>1987, c. 3</ChapterNumber>
+<FlicsAlpha>1987, c. 3</FlicsAlpha>
+</Statute>
+<Statute statuteid="159982e">
+<Title>Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act</Title>
+<ChapterNumber>1988, c. 28</ChapterNumber>
+<FlicsAlpha>1988, c. 28</FlicsAlpha>
+</Statute>
+<Statute statuteid="84991e">
+<Title>Canada-United Kingdom Civil and Commercial Judgments Convention Act</Title>
+<ChapterNumber>R.S., 1985, c. C-30</ChapterNumber>
+<FlicsAlpha>C-30</FlicsAlpha>
+</Statute>
+<Statute statuteid="58851e">
+<Title>Canada-United States Free Trade Agreement Implementation Act</Title>
+<ChapterNumber>1988, c. 65</ChapterNumber>
+<FlicsAlpha>1988, c. 65</FlicsAlpha>
 </Statute>
 <Statute statuteid="60470e">
 <Title>Canada-Yukon Oil and Gas Accord Implementation Act</Title>
@@ -1111,11 +1111,6 @@
 <FlicsAlpha>C-19.1</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Canadian National Railways Act, acquisition of Que. Ry., L. &amp; P. Co.</Title>
-<ChapterNumber>1951, c. 43</ChapterNumber>
-<FlicsAlpha>1951, c. 43</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Canadian National Railways (Agreement with C.P.R. Joint Section)</Title>
 <ChapterNumber>1928, c. 3</ChapterNumber>
 <FlicsAlpha>1928, c. 3</FlicsAlpha>
@@ -1141,14 +1136,19 @@
 <FlicsAlpha>tops-21C</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Canadian National Railways Financing and Guarantee Act, 1970 (for detail prior to 1970, see Table of Public Statutes, S.C., 1970-71-72)</Title>
-<ChapterNumber>Canadian National Railways Financing and Guarante</ChapterNumber>
-<FlicsAlpha>tops-22C</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Canadian National Railways (Lines acquired)</Title>
 <ChapterNumber>1929, cc. 13-17</ChapterNumber>
 <FlicsAlpha>1929, cc. 13-17</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Canadian National Railways Act, acquisition of Que. Ry., L. &amp; P. Co.</Title>
+<ChapterNumber>1951, c. 43</ChapterNumber>
+<FlicsAlpha>1951, c. 43</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Canadian National Railways Financing and Guarantee Act, 1970 (for detail prior to 1970, see Table of Public Statutes, S.C., 1970-71-72)</Title>
+<ChapterNumber>Canadian National Railways Financing and Guarante</ChapterNumber>
+<FlicsAlpha>tops-22C</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Canadian National Railways Refunding (see also Table of Public Statutes, S.C., 1926-27)</Title>
@@ -1166,6 +1166,11 @@
 <FlicsAlpha>2021, c. 22 </FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Canadian Northern 5% Income Charge Debenture Stock Act</Title>
+<ChapterNumber>1928, c. 11</ChapterNumber>
+<FlicsAlpha>1928, c. 11</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Canadian Northern Alberta Railway (Guarantee)</Title>
 <ChapterNumber>1910, c. 6</ChapterNumber>
 <FlicsAlpha>1910, c. 6</FlicsAlpha>
@@ -1174,11 +1179,6 @@
 <Title>Canadian Northern Alberta Railway (Subsidy)</Title>
 <ChapterNumber>1913, c. 10</ChapterNumber>
 <FlicsAlpha>1913, c. 10 2B</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Canadian Northern 5% Income Charge Debenture Stock Act</Title>
-<ChapterNumber>1928, c. 11</ChapterNumber>
-<FlicsAlpha>1928, c. 11</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Canadian Northern Ontario Railway Co. (Agreement with Campbellford, etc., Railway Co.)</Title>
@@ -1400,15 +1400,15 @@
 <ChapterNumber>1992, c. 48, Schedule</ChapterNumber>
 <FlicsAlpha>1992, c. 48, Sch</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Citizen’s Arrest and Self-defence Act see</Title>
-<ChapterNumber>2012, c. 9</ChapterNumber>
-<FlicsAlpha>2012, c. 9</FlicsAlpha>
-</Statute>
 <Statute statuteid="81595e">
 <Title>Citizenship Act</Title>
 <ChapterNumber>R.S., 1985, c. C-29</ChapterNumber>
 <FlicsAlpha>C-29</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Citizen’s Arrest and Self-defence Act see</Title>
+<ChapterNumber>2012, c. 9</ChapterNumber>
+<FlicsAlpha>2012, c. 9</FlicsAlpha>
 </Statute>
 <Statute statuteid="80834e">
 <Title>Civil Air Navigation Services Commercialization Act</Title>
@@ -1560,15 +1560,15 @@
 <ChapterNumber>1996, c. 1</ChapterNumber>
 <FlicsAlpha>1996, c. 1</FlicsAlpha>
 </Statute>
-<Statute statuteid="1477657e">
-<Title>Consumer-Driven Banking Act</Title>
-<ChapterNumber>2024, c. 17, s. 198</ChapterNumber>
-<FlicsAlpha>2024, c. 17, s. 198</FlicsAlpha>
-</Statute>
 <Statute statuteid="95893e">
 <Title>Consumer Packaging and Labelling Act</Title>
 <ChapterNumber>R.S., 1985, c. C-38</ChapterNumber>
 <FlicsAlpha>C-38</FlicsAlpha>
+</Statute>
+<Statute statuteid="1477657e">
+<Title>Consumer-Driven Banking Act</Title>
+<ChapterNumber>2024, c. 17, s. 198</ChapterNumber>
+<FlicsAlpha>2024, c. 17, s. 198</FlicsAlpha>
 </Statute>
 <Statute statuteid="93756e">
 <Title>Contraventions Act</Title>
@@ -1601,6 +1601,11 @@
 <FlicsAlpha>2012, c. 20</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Corporations Act, Canada Business</Title>
+<ChapterNumber>R.S., 1985, c. C-44</ChapterNumber>
+<FlicsAlpha>C-44</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Corporations and Labour Unions Returns Act</Title>
 <ChapterNumber>R.S., 1985, c. C-43</ChapterNumber>
 <FlicsAlpha>R.S., 1985, c. C-43</FlicsAlpha>
@@ -1609,11 +1614,6 @@
 <Title>Corporations and other bodies, An Act to dissolve or terminate certain</Title>
 <ChapterNumber>1993, c. 1</ChapterNumber>
 <FlicsAlpha>1993, c. 1</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Corporations Act, Canada Business</Title>
-<ChapterNumber>R.S., 1985, c. C-44</ChapterNumber>
-<FlicsAlpha>C-44</FlicsAlpha>
 </Statute>
 <Statute statuteid="105444e">
 <Title>Corporations Returns Act</Title>
@@ -1660,15 +1660,15 @@
 <ChapterNumber>2009, c. 27 see Tobacco Act</ChapterNumber>
 <FlicsAlpha>2009, c. 27</FlicsAlpha>
 </Statute>
-<Statute statuteid="112644e">
-<Title>Cree-Naskapi (of Quebec) Act</Title>
-<ChapterNumber>1984, c. 18</ChapterNumber>
-<FlicsAlpha>1984, c. 18</FlicsAlpha>
-</Statute>
 <Statute statuteid="114445e">
 <Title>Cree Nation of Eeyou Istchee Governance Agreement Act</Title>
 <ChapterNumber>2018, c. 4, s. 1</ChapterNumber>
 <FlicsAlpha>2018, c. 4, s. 1</FlicsAlpha>
+</Statute>
+<Statute statuteid="112644e">
+<Title>Cree-Naskapi (of Quebec) Act</Title>
+<ChapterNumber>1984, c. 18</ChapterNumber>
+<FlicsAlpha>1984, c. 18</FlicsAlpha>
 </Statute>
 <Statute statuteid="114610e">
 <Title>Crimes Against Humanity and War Crimes Act</Title>
@@ -1686,9 +1686,19 @@
 <FlicsAlpha>2023, c. 30</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Criminal Code (firearms) and the Firearms Act, An Act to amend the</Title>
+<ChapterNumber>2003, c. 8</ChapterNumber>
+<FlicsAlpha>2003, c. 8</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Criminal Code (Language of Accused), An Act to amend the</Title>
 <ChapterNumber>R.S., 1985, c. 2 (1st Supp.)</ChapterNumber>
 <FlicsAlpha>R.S., 1985, c. 2 (1st Supp.)</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Criminal Code (medical assistance in dying), An Act to amend the</Title>
+<ChapterNumber>2021, c. 2</ChapterNumber>
+<FlicsAlpha>2021, c. 2</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Criminal Code (self-induced extreme intoxication), An Act to amend the</Title>
@@ -1704,16 +1714,6 @@
 <Title>Criminal Code and to make related amendments to other Acts (medical assistance in dying), An Act to amend the</Title>
 <ChapterNumber>2016, c. 3</ChapterNumber>
 <FlicsAlpha>2016, c. 3</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Criminal Code (medical assistance in dying), An Act to amend the</Title>
-<ChapterNumber>2021, c. 2</ChapterNumber>
-<FlicsAlpha>2021, c. 2</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Criminal Code (firearms) and the Firearms Act, An Act to amend the</Title>
-<ChapterNumber>2003, c. 8</ChapterNumber>
-<FlicsAlpha>2003, c. 8</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Criminal Law Amendment Act, 1985</Title>
@@ -1807,11 +1807,6 @@
 <ChapterNumber>R.S.C. 1970, c. D-3</ChapterNumber>
 <FlicsAlpha>D-3</FlicsAlpha>
 </Statute>
-<Statute statuteid="171478e">
-<Title>Déline Final Self-Government Agreement Act</Title>
-<ChapterNumber>2015, c. 24</ChapterNumber>
-<FlicsAlpha>2015, c. 24</FlicsAlpha>
-</Statute>
 <Statute statuteid="1379409e">
 <Title>Dental Benefit Act</Title>
 <ChapterNumber>2022, c. 14</ChapterNumber>
@@ -1850,12 +1845,7 @@
 <Statute statuteid="255838e">
 <Title>Department of Employment and Social Development Act</Title>
 <ChapterNumber>2005, c. 34 </ChapterNumber>
-<FlicsAlpha>2005, c. 34 </FlicsAlpha>
-</Statute>
-<Statute statuteid="177818e">
-<Title>Department of the Environment Act</Title>
-<ChapterNumber>R.S., 1985, c. E-10</ChapterNumber>
-<FlicsAlpha>E-10</FlicsAlpha>
+<FlicsAlpha>H-5.7</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Department of External Affairs Act</Title>
@@ -1916,6 +1906,11 @@
 <Title>Department of Public Works and Government Services Act</Title>
 <ChapterNumber>1996, c. 16</ChapterNumber>
 <FlicsAlpha>1996, c. 16</FlicsAlpha>
+</Statute>
+<Statute statuteid="177818e">
+<Title>Department of the Environment Act</Title>
+<ChapterNumber>R.S., 1985, c. E-10</ChapterNumber>
+<FlicsAlpha>E-10</FlicsAlpha>
 </Statute>
 <Statute statuteid="451954e">
 <Title>Department of Transport Act</Title>
@@ -1978,11 +1973,6 @@
 <FlicsAlpha>tops-4D</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Dominion-Provincial Tax Rental Agreements (see Tax Rental Agreements)</Title>
-<ChapterNumber>Dominion-Provincial Tax Rental Agreements (see Ta</ChapterNumber>
-<FlicsAlpha>tops-5D</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Dominion Succession Duty Act (see Estate Tax)</Title>
 <ChapterNumber>Dominion Succession Duty Act</ChapterNumber>
 <FlicsAlpha>tops-6D</FlicsAlpha>
@@ -1991,6 +1981,11 @@
 <Title>Dominion Water Power Act (see Water Power, Dominion)</Title>
 <ChapterNumber>Dominion Water Power Act</ChapterNumber>
 <FlicsAlpha>tops-7D</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Dominion-Provincial Tax Rental Agreements (see Tax Rental Agreements)</Title>
+<ChapterNumber>Dominion-Provincial Tax Rental Agreements (see Ta</ChapterNumber>
+<FlicsAlpha>tops-5D</FlicsAlpha>
 </Statute>
 <Statute statuteid="173884e">
 <Title>Donkin Coal Block Development Opportunity Act</Title>
@@ -2001,6 +1996,11 @@
 <Title>Dry Docks Subsidies Act</Title>
 <ChapterNumber>R.S., 1985, c. D-4</ChapterNumber>
 <FlicsAlpha>D-4</FlicsAlpha>
+</Statute>
+<Statute statuteid="171478e">
+<Title>Déline Final Self-Government Agreement Act</Title>
+<ChapterNumber>2015, c. 24</ChapterNumber>
+<FlicsAlpha>2015, c. 24</FlicsAlpha>
 </Statute>
 </Letter>
 <Letter value="E">
@@ -2416,15 +2416,15 @@
 <ChapterNumber>2012, c. 30</ChapterNumber>
 <FlicsAlpha>2012, c. 30</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Federal Framework on on Autism Spectrum Disorder Act</Title>
-<ChapterNumber>2023, c. 2 </ChapterNumber>
-<FlicsAlpha>2023, c. 2 </FlicsAlpha>
-</Statute>
 <Statute statuteid="238695e">
 <Title>Federal Framework on Lyme Disease Act</Title>
 <ChapterNumber>2014, c. 37</ChapterNumber>
 <FlicsAlpha>2014, c. 37</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Federal Framework on on Autism Spectrum Disorder Act</Title>
+<ChapterNumber>2023, c. 2 </ChapterNumber>
+<FlicsAlpha>2023, c. 2 </FlicsAlpha>
 </Statute>
 <Statute statuteid="238743e">
 <Title>Federal Framework on Post-Traumatic Stress Disorder Act</Title>
@@ -2432,44 +2432,19 @@
 <FlicsAlpha>2018, c. 13</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Federal Law and Civil Law of the Province of Quebec Act</Title>
-<ChapterNumber>2001, c. 4, Part 1</ChapterNumber>
-<FlicsAlpha>2001, c. 4</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Federal Law</Title>
 <ChapterNumber>Civil Law Harmonization Act</ChapterNumber>
 <FlicsAlpha>tops-12F</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Federal Law and Civil Law of the Province of Quebec Act</Title>
+<ChapterNumber>2001, c. 4, Part 1</ChapterNumber>
+<FlicsAlpha>2001, c. 4</FlicsAlpha>
 </Statute>
 <Statute statuteid="1169453e">
 <Title>Federal Prompt Payment for Construction Work Act</Title>
 <ChapterNumber></ChapterNumber>
 <FlicsAlpha>tops-4F</FlicsAlpha>
-</Statute>
-<Statute statuteid="240702e">
-<Title>Federal-Provincial Fiscal Arrangements Act</Title>
-<ChapterNumber>R.S.C. 1970, c. F-6</ChapterNumber>
-<FlicsAlpha>F-6</FlicsAlpha>
-</Statute>
-<Statute statuteid="239928e">
-<Title>Federal-Provincial Fiscal Arrangements Act, 1972</Title>
-<ChapterNumber>1972, c. 8</ChapterNumber>
-<FlicsAlpha>1972, c. 8</FlicsAlpha>
-</Statute>
-<Statute statuteid="240702e">
-<Title>Federal-Provincial Fiscal Arrangements Act</Title>
-<ChapterNumber>R.S., 1985, c. F-8</ChapterNumber>
-<FlicsAlpha>F-8</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Federal-Provincial Fiscal Arrangements and Federal Post-Secondary Education and Health Contributions Act</Title>
-<ChapterNumber>Federal-Provincial Fiscal Arrangements and Federa</ChapterNumber>
-<FlicsAlpha>tops-5F</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Federal-Provincial Fiscal Revision Act, 1964</Title>
-<ChapterNumber>1964-65, c. 26</ChapterNumber>
-<FlicsAlpha>1964-65, c. 26</FlicsAlpha>
 </Statute>
 <Statute statuteid="404885e">
 <Title>Federal Public Sector Labour Relations Act</Title>
@@ -2495,6 +2470,31 @@
 <Title>Federal Sustainable Development Act</Title>
 <ChapterNumber>2008, c. 33 </ChapterNumber>
 <FlicsAlpha>2008, c. 33 </FlicsAlpha>
+</Statute>
+<Statute statuteid="240702e">
+<Title>Federal-Provincial Fiscal Arrangements Act</Title>
+<ChapterNumber>R.S.C. 1970, c. F-6</ChapterNumber>
+<FlicsAlpha>F-6</FlicsAlpha>
+</Statute>
+<Statute statuteid="240702e">
+<Title>Federal-Provincial Fiscal Arrangements Act</Title>
+<ChapterNumber>R.S., 1985, c. F-8</ChapterNumber>
+<FlicsAlpha>F-8</FlicsAlpha>
+</Statute>
+<Statute statuteid="239928e">
+<Title>Federal-Provincial Fiscal Arrangements Act, 1972</Title>
+<ChapterNumber>1972, c. 8</ChapterNumber>
+<FlicsAlpha>1972, c. 8</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Federal-Provincial Fiscal Arrangements and Federal Post-Secondary Education and Health Contributions Act</Title>
+<ChapterNumber>Federal-Provincial Fiscal Arrangements and Federa</ChapterNumber>
+<FlicsAlpha>tops-5F</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Federal-Provincial Fiscal Revision Act, 1964</Title>
+<ChapterNumber>1964-65, c. 26</ChapterNumber>
+<FlicsAlpha>1964-65, c. 26</FlicsAlpha>
 </Statute>
 <Statute statuteid="242244e">
 <Title>Feeds Act</Title>
@@ -2571,11 +2571,6 @@
 <ChapterNumber>2003, c. 15, s. 67</ChapterNumber>
 <FlicsAlpha>2003, c. 15, s. 67</FlicsAlpha>
 </Statute>
-<Statute statuteid="1150533e">
-<Title>First Nations, Inuit and Métis children, youth and families, An act respecting</Title>
-<ChapterNumber>2019, c. 24</ChapterNumber>
-<FlicsAlpha>2019, c. 24</FlicsAlpha>
-</Statute>
 <Statute statuteid="226729e">
 <Title>First Nations Jurisdiction over Education in British Columbia Act</Title>
 <ChapterNumber>2006, c. 10</ChapterNumber>
@@ -2585,6 +2580,11 @@
 <Title>First Nations Oil and Gas and Moneys Management Act</Title>
 <ChapterNumber>2005, c. 48</ChapterNumber>
 <FlicsAlpha>2005, c. 48</FlicsAlpha>
+</Statute>
+<Statute statuteid="1150533e">
+<Title>First Nations, Inuit and Métis children, youth and families, An act respecting</Title>
+<ChapterNumber>2019, c. 24</ChapterNumber>
+<FlicsAlpha>2019, c. 24</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Fish Marketing Act, Freshwater</Title>
@@ -2691,15 +2691,15 @@
 <ChapterNumber>1989, c. 25</ChapterNumber>
 <FlicsAlpha>1989, c. 25</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Fort-Falls Bridge Authority Act (see Bridges)</Title>
-<ChapterNumber>Fort-Falls Bridge Authority Act</ChapterNumber>
-<FlicsAlpha>tops-10F</FlicsAlpha>
-</Statute>
 <Statute statuteid="237108e">
 <Title>Fort Nelson Indian Reserve Minerals Revenue Sharing Act</Title>
 <ChapterNumber>1980-81-82-83, c. 38</ChapterNumber>
 <FlicsAlpha>1980-81-82-83, c. 38</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Fort-Falls Bridge Authority Act (see Bridges)</Title>
+<ChapterNumber>Fort-Falls Bridge Authority Act</ChapterNumber>
+<FlicsAlpha>tops-10F</FlicsAlpha>
 </Statute>
 <Statute statuteid="1385574e">
 <Title>Framework Agreement on First Nation Land Management Act</Title>
@@ -2809,6 +2809,16 @@
 <FlicsAlpha>1912, c. 25</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Government Organization Act (Federal Agencies) (see Dept. by name)</Title>
+<ChapterNumber>1995, c. 29</ChapterNumber>
+<FlicsAlpha>1995, c. 29</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Government Organization Act (Scientific Activities), 1976</Title>
+<ChapterNumber>1976-77, c. 24</ChapterNumber>
+<FlicsAlpha>1976-77, c. 24</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Government Organization Act 1966 (see Dept. by name)</Title>
 <ChapterNumber>1966-67, c. 25</ChapterNumber>
 <FlicsAlpha>1966-67, c. 25</FlicsAlpha>
@@ -2824,11 +2834,6 @@
 <FlicsAlpha>R.S.C. 1970, c. 14 (2nd Supp.)</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Government Organization Act (Scientific Activities), 1976</Title>
-<ChapterNumber>1976-77, c. 24</ChapterNumber>
-<FlicsAlpha>1976-77, c. 24</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Government Organization Act, 1979 (see Dept. by name)</Title>
 <ChapterNumber>1978-79, c. 13</ChapterNumber>
 <FlicsAlpha>1978-79, c. 13</FlicsAlpha>
@@ -2842,11 +2847,6 @@
 <Title>Government Organization Act, Atlantic Canada, 1987</Title>
 <ChapterNumber>R.S., 1985, c. 41 (4th Supp.)</ChapterNumber>
 <FlicsAlpha>R.S., 1985, c. 41 (4th Supp.)</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Government Organization Act (Federal Agencies) (see Dept. by name)</Title>
-<ChapterNumber>1995, c. 29</ChapterNumber>
-<FlicsAlpha>1995, c. 29</FlicsAlpha>
 </Statute>
 <Statute statuteid="251822e">
 <Title>Government Property Traffic Act</Title>
@@ -2914,14 +2914,14 @@
 <FlicsAlpha>tops-2G</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Grand Trunk Railway, acquired by Government</Title>
-<ChapterNumber>Grand Trunk Railway, acquired by Government</ChapterNumber>
-<FlicsAlpha>tops-3G</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Grand Trunk Railway (see also Toronto Viaduct, and Intercolonial Railway Extension to Montreal)</Title>
 <ChapterNumber>Grand Trunk Railway (see also Toronto Viaduct, an</ChapterNumber>
 <FlicsAlpha>tops-4G</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Grand Trunk Railway, acquired by Government</Title>
+<ChapterNumber>Grand Trunk Railway, acquired by Government</ChapterNumber>
+<FlicsAlpha>tops-3G</FlicsAlpha>
 </Statute>
 <Statute statuteid="243903e">
 <Title>Grassy Narrows and Islington Indian Bands Mercury Pollution Claims Settlement Act</Title>
@@ -2955,15 +2955,15 @@
 <ChapterNumber>1974-75-76, c. 88</ChapterNumber>
 <FlicsAlpha>1974-75-76, c. 88</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Harbour of Quebec Act, The Corporation of, Pilots for and below the</Title>
-<ChapterNumber>1860, c. 123</ChapterNumber>
-<FlicsAlpha>1860, c. 123</FlicsAlpha>
-</Statute>
 <Statute statuteid="419808e">
 <Title>Harbor of Quebec, An Act to provide for the appointment of a Port Warden for the</Title>
 <ChapterNumber>1871, c. 33</ChapterNumber>
 <FlicsAlpha>1871, c. 33</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Harbour of Quebec Act, The Corporation of, Pilots for and below the</Title>
+<ChapterNumber>1860, c. 123</ChapterNumber>
+<FlicsAlpha>1860, c. 123</FlicsAlpha>
 </Statute>
 <Statute statuteid="252431e">
 <Title>Hazardous Materials Information Review Act</Title>
@@ -3079,23 +3079,28 @@
 </Statute>
 <Statute statuteid="279718e">
 <Title>Income Tax Act</Title>
-<ChapterNumber>R.S.C. 1952, c. 148</ChapterNumber>
-<FlicsAlpha>R.S.C. 1952, c. 148</FlicsAlpha>
+<ChapterNumber>R.S.C. 1970, c. I-5</ChapterNumber>
+<FlicsAlpha>1970, I-5</FlicsAlpha>
 </Statute>
 <Statute statuteid="279718e">
 <Title>Income Tax Act</Title>
-<ChapterNumber>R.S.C. 1970, c. I-5</ChapterNumber>
-<FlicsAlpha>1970, I-5</FlicsAlpha>
+<ChapterNumber>R.S., 1985, c. 1 (5th Supp.)</ChapterNumber>
+<FlicsAlpha>R.S., 1985, c. 1 (5th Supp.)</FlicsAlpha>
+</Statute>
+<Statute statuteid="279718e">
+<Title>Income Tax Act</Title>
+<ChapterNumber>R.S.C. 1952, c. 148</ChapterNumber>
+<FlicsAlpha>R.S.C. 1952, c. 148</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Income Tax Act, An Act to amend</Title>
 <ChapterNumber>1970-71-72, c. 63</ChapterNumber>
 <FlicsAlpha>1970-71-72, c. 63</FlicsAlpha>
 </Statute>
-<Statute statuteid="279718e">
-<Title>Income Tax Act</Title>
-<ChapterNumber>R.S., 1985, c. 1 (5th Supp.)</ChapterNumber>
-<FlicsAlpha>R.S., 1985, c. 1 (5th Supp.)</FlicsAlpha>
+<Statute statuteid="">
+<Title>Income Tax Agreements (or Conventions) (see Agreements — Income Tax, etc.)</Title>
+<ChapterNumber>Income Tax Agreements (or Conventions) (see Agree</ChapterNumber>
+<FlicsAlpha>tops-1I</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Income Tax Amendments Act, 1999</Title>
@@ -3117,15 +3122,15 @@
 <ChapterNumber>R.S., 1985, c. 2 (5th Supp.)</ChapterNumber>
 <FlicsAlpha>R.S., 1985, c. 2 (5th Supp.)</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Income Tax Agreements (or Conventions) (see Agreements — Income Tax, etc.)</Title>
-<ChapterNumber>Income Tax Agreements (or Conventions) (see Agree</ChapterNumber>
-<FlicsAlpha>tops-1I</FlicsAlpha>
-</Statute>
 <Statute statuteid="331539e">
 <Title>Income Tax Conventions Interpretation Act</Title>
 <ChapterNumber>R.S., 1985, c. I-4</ChapterNumber>
 <FlicsAlpha>I-4</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Indian (Soldier Settlement)</Title>
+<ChapterNumber>Indian (Soldier Settlement)</ChapterNumber>
+<FlicsAlpha>tops-3I</FlicsAlpha>
 </Statute>
 <Statute statuteid="331707e">
 <Title>Indian Act</Title>
@@ -3151,11 +3156,6 @@
 <Title>Indian Oil and Gas Act</Title>
 <ChapterNumber>R.S., 1985, c. I-7</ChapterNumber>
 <FlicsAlpha>I-7</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Indian (Soldier Settlement)</Title>
-<ChapterNumber>Indian (Soldier Settlement)</ChapterNumber>
-<FlicsAlpha>tops-3I</FlicsAlpha>
 </Statute>
 <Statute statuteid="1151071e">
 <Title>Indigenous Languages Act</Title>
@@ -3453,11 +3453,6 @@
 <ChapterNumber>2023, c. 13</ChapterNumber>
 <FlicsAlpha>2023, c. 13</FlicsAlpha>
 </Statute>
-<Statute statuteid="336554e">
-<Title>Léger Foundation Act, Jules and Paul-Émile, An Act to Incorporate</Title>
-<ChapterNumber>1980-81-82-83, c. 85</ChapterNumber>
-<FlicsAlpha>1980-81-82-83, c. 85</FlicsAlpha>
-</Statute>
 <Statute statuteid="441258e">
 <Title>Legislation Revision and Consolidation Act</Title>
 <ChapterNumber>R.S., 1985, c. S-20 (Formerly Statute Revision Act)</ChapterNumber>
@@ -3512,6 +3507,11 @@
 <Title>Lotbinière and Megantic Railway Act</Title>
 <ChapterNumber>1916, c. 22</ChapterNumber>
 <FlicsAlpha>1916, c. 22 C</FlicsAlpha>
+</Statute>
+<Statute statuteid="336554e">
+<Title>Léger Foundation Act, Jules and Paul-Émile, An Act to Incorporate</Title>
+<ChapterNumber>1980-81-82-83, c. 85</ChapterNumber>
+<FlicsAlpha>1980-81-82-83, c. 85</FlicsAlpha>
 </Statute>
 </Letter>
 <Letter value="M">
@@ -3660,11 +3660,6 @@
 <ChapterNumber>1994, c. 22</ChapterNumber>
 <FlicsAlpha>1994, c. 22</FlicsAlpha>
 </Statute>
-<Statute statuteid="358281e">
-<Title>Mi’kmaq Education Act</Title>
-<ChapterNumber>1998, c. 24</ChapterNumber>
-<FlicsAlpha>1998, c. 24</FlicsAlpha>
-</Statute>
 <Statute statuteid="">
 <Title>Milltown Bridge (see Bridges)</Title>
 <ChapterNumber>Milltown Bridge (see Bridges)</ChapterNumber>
@@ -3720,15 +3715,15 @@
 <ChapterNumber>2017, c. 26</ChapterNumber>
 <FlicsAlpha>2017, c. 26</FlicsAlpha>
 </Statute>
+<Statute statuteid="358281e">
+<Title>Mi’kmaq Education Act</Title>
+<ChapterNumber>1998, c. 24</ChapterNumber>
+<FlicsAlpha>1998, c. 24</FlicsAlpha>
+</Statute>
 <Statute statuteid="358385e">
 <Title>Modernization of Benefits and Obligations Act</Title>
 <ChapterNumber>2000, c. 12</ChapterNumber>
 <FlicsAlpha>2000, c. 12</FlicsAlpha>
-</Statute>
-<Statute statuteid="383465e">
-<Title>Montreal, Port Warden</Title>
-<ChapterNumber>1882, c. 45</ChapterNumber>
-<FlicsAlpha>1882, c. 45</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Montreal and Toronto (Sale ordinance lands)</Title>
@@ -3739,6 +3734,11 @@
 <Title>Montreal Terminals Act</Title>
 <ChapterNumber>1929, c. 12</ChapterNumber>
 <FlicsAlpha>1929, c. 12</FlicsAlpha>
+</Statute>
+<Statute statuteid="383465e">
+<Title>Montreal, Port Warden</Title>
+<ChapterNumber>1882, c. 45</ChapterNumber>
+<FlicsAlpha>1882, c. 45</FlicsAlpha>
 </Statute>
 <Statute statuteid="243883e">
 <Title>Morand, Mr. Justice Donald R., Annuity</Title>
@@ -3857,15 +3857,15 @@
 <ChapterNumber>R.S., 1985, c. N-5</ChapterNumber>
 <FlicsAlpha>N-5</FlicsAlpha>
 </Statute>
-<Statute statuteid="382672e">
-<Title>National Film Act</Title>
-<ChapterNumber>R.S., 1985, c. N-8</ChapterNumber>
-<FlicsAlpha>N-8</FlicsAlpha>
-</Statute>
 <Statute statuteid="379781e">
 <Title>National Fiddling Day Act</Title>
 <ChapterNumber>2015, c. 6</ChapterNumber>
 <FlicsAlpha>2015, c. 6</FlicsAlpha>
+</Statute>
+<Statute statuteid="382672e">
+<Title>National Film Act</Title>
+<ChapterNumber>R.S., 1985, c. N-8</ChapterNumber>
+<FlicsAlpha>N-8</FlicsAlpha>
 </Statute>
 <Statute statuteid="382643e">
 <Title>National Flag of Canada Act</Title>
@@ -3904,13 +3904,13 @@
 </Statute>
 <Statute statuteid="359196e">
 <Title>National Housing Act</Title>
-<ChapterNumber>R.S.C. 1952, c. 188</ChapterNumber>
-<FlicsAlpha>R.S.C. 1952, c. 188</FlicsAlpha>
+<ChapterNumber>R.S., 1985, c. N-11</ChapterNumber>
+<FlicsAlpha>N-11</FlicsAlpha>
 </Statute>
 <Statute statuteid="359196e">
 <Title>National Housing Act</Title>
-<ChapterNumber>R.S., 1985, c. N-11</ChapterNumber>
-<FlicsAlpha>N-11</FlicsAlpha>
+<ChapterNumber>R.S.C. 1952, c. 188</ChapterNumber>
+<FlicsAlpha>R.S.C. 1952, c. 188</FlicsAlpha>
 </Statute>
 <Statute statuteid="1168951e">
 <Title>National Housing Strategy Act</Title>
@@ -3992,11 +3992,6 @@
 <ChapterNumber>1994, c. 16</ChapterNumber>
 <FlicsAlpha>1994, c. 16</FlicsAlpha>
 </Statute>
-<Statute statuteid="1460515e">
-<Title>National Strategy Respecting Environmental Racism and Environmental Justice Act</Title>
-<ChapterNumber>2024, c. 11</ChapterNumber>
-<FlicsAlpha>2024, c. 11</FlicsAlpha>
-</Statute>
 <Statute statuteid="363935e">
 <Title>National Strategy for Alzheimer’s Disease and Other Dementias Act</Title>
 <ChapterNumber>2017, c. 19</ChapterNumber>
@@ -4011,6 +4006,11 @@
 <Title>National Strategy for Safe and Environmentally Sound Disposal of Lamps Containing Mercury Act</Title>
 <ChapterNumber>2017, c. 16</ChapterNumber>
 <FlicsAlpha>2017, c. 16</FlicsAlpha>
+</Statute>
+<Statute statuteid="1460515e">
+<Title>National Strategy Respecting Environmental Racism and Environmental Justice Act</Title>
+<ChapterNumber>2024, c. 11</ChapterNumber>
+<FlicsAlpha>2024, c. 11</FlicsAlpha>
 </Statute>
 <Statute statuteid="364026e">
 <Title>National Symbol of Canada Act</Title>
@@ -4048,6 +4048,11 @@
 <FlicsAlpha>N-21</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Navigable Waters Act, Canadian</Title>
+<ChapterNumber>2019, c. 28, s. 46</ChapterNumber>
+<FlicsAlpha>2019, c. 28, s. 46</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Navigable Waters Protection Act</Title>
 <ChapterNumber>Navigable Waters Protection Act</ChapterNumber>
 <FlicsAlpha>N-22</FlicsAlpha>
@@ -4056,11 +4061,6 @@
 <Title>Navigation Protection Act </Title>
 <ChapterNumber>Navigation Protection Act</ChapterNumber>
 <FlicsAlpha>tops-3N</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Navigable Waters Act, Canadian</Title>
-<ChapterNumber>2019, c. 28, s. 46</ChapterNumber>
-<FlicsAlpha>2019, c. 28, s. 46</FlicsAlpha>
 </Statute>
 <Statute statuteid="364399e">
 <Title>Nelson House First Nation Flooded Land Act</Title>
@@ -4264,15 +4264,15 @@
 <ChapterNumber>1996, c. 31</ChapterNumber>
 <FlicsAlpha>1996, c. 31</FlicsAlpha>
 </Statute>
-<Statute statuteid="384036e">
-<Title>Official Development Assistance Accountability Act</Title>
-<ChapterNumber>2008, c. 17</ChapterNumber>
-<FlicsAlpha>2008, c. 17</FlicsAlpha>
-</Statute>
 <Statute statuteid="383589e">
 <Title>Office of the Superintendent of Financial Institutions Act</Title>
 <ChapterNumber>R.S., 1985, c. 18 (3rd Supp.), Part I</ChapterNumber>
 <FlicsAlpha>R.S., 1985, c. 18 (3rd Supp.), Part I</FlicsAlpha>
+</Statute>
+<Statute statuteid="384036e">
+<Title>Official Development Assistance Accountability Act</Title>
+<ChapterNumber>2008, c. 17</ChapterNumber>
+<FlicsAlpha>2008, c. 17</FlicsAlpha>
 </Statute>
 <Statute statuteid="384111e">
 <Title>Official Languages Act</Title>
@@ -4426,11 +4426,6 @@
 <ChapterNumber>1996, c. 6, Schedule</ChapterNumber>
 <FlicsAlpha>1996, c. 6, Sch</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Payments, An Act to authorize the Minister of Finance to make certain</Title>
-<ChapterNumber>2005, c. 36</ChapterNumber>
-<FlicsAlpha>2005, c. 36</FlicsAlpha>
-</Statute>
 <Statute statuteid="355012e">
 <Title>Payments in Lieu of Taxes Act</Title>
 <ChapterNumber>R.S., 1985, c. M-13</ChapterNumber>
@@ -4440,6 +4435,11 @@
 <Title>Payments to a Trust Established to Provide Provinces and Territories with Funding for Community Development, An Act respecting</Title>
 <ChapterNumber>2008, c. 1</ChapterNumber>
 <FlicsAlpha>2008, c. 1</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Payments, An Act to authorize the Minister of Finance to make certain</Title>
+<ChapterNumber>2005, c. 36</ChapterNumber>
+<FlicsAlpha>2005, c. 36</FlicsAlpha>
 </Statute>
 <Statute statuteid="414320e">
 <Title>Pension Act</Title>
@@ -4672,6 +4672,11 @@
 <FlicsAlpha>2012, c. 2</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Protecting Canada’s Immigration System Act see Immigration and Refugee Protection Act</Title>
+<ChapterNumber>2012, c. 17</ChapterNumber>
+<FlicsAlpha>2012, c. 17</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Protecting Canada’s Seniors Act see Criminal Code</Title>
 <ChapterNumber>2012, c. 29</ChapterNumber>
 <FlicsAlpha>2012, c. 29</FlicsAlpha>
@@ -4680,16 +4685,6 @@
 <Title>Protecting Canadians by Ending Sentence Discounts for Multiple Murders Act see Criminal Code</Title>
 <ChapterNumber>2011, c. 5</ChapterNumber>
 <FlicsAlpha>2011, c. 5</FlicsAlpha>
-</Statute>
-<Statute statuteid="400606e">
-<Title>Protection of Residential Mortgage or Hypothecary Insurance Act</Title>
-<ChapterNumber>2011, c. 15, s. 20</ChapterNumber>
-<FlicsAlpha>2011, c. 15, s. 20</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Protecting Canada’s Immigration System Act see Immigration and Refugee Protection Act</Title>
-<ChapterNumber>2012, c. 17</ChapterNumber>
-<FlicsAlpha>2012, c. 17</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Protecting Victims from Sex Offenders Act see Criminal Code</Title>
@@ -4701,10 +4696,15 @@
 <ChapterNumber>2014, c. 25</ChapterNumber>
 <FlicsAlpha>2014, c. 25</FlicsAlpha>
 </Statute>
+<Statute statuteid="400606e">
+<Title>Protection of Residential Mortgage or Hypothecary Insurance Act</Title>
+<ChapterNumber>2011, c. 15, s. 20</ChapterNumber>
+<FlicsAlpha>2011, c. 15, s. 20</FlicsAlpha>
+</Statute>
 <Statute statuteid="">
 <Title>Provide further support in response to COVID-19, An act to,</Title>
-<ChapterNumber>2021, c. 26, s. 5 </ChapterNumber>
-<FlicsAlpha>2021, c. 26, s. 5 </FlicsAlpha>
+<ChapterNumber>2021, c. 26</ChapterNumber>
+<FlicsAlpha>2021, c. 26</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Provincial Boundaries:</Title>
@@ -4849,16 +4849,6 @@
 <FlicsAlpha>2005, c. 20</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Quebec Courts Amendment Act</Title>
-<ChapterNumber>R.S., 1985, c. 40 (4th Supp.)</ChapterNumber>
-<FlicsAlpha>R.S., 1985, c. 40 (4th Supp.)</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Quebec Savings Banks Act (see Banks Act, Quebec Savings)</Title>
-<ChapterNumber>Quebec Savings Banks Act</ChapterNumber>
-<FlicsAlpha>tops-1Q</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Quebec and Saguenay Railway Act</Title>
 <ChapterNumber>1916, c. 22</ChapterNumber>
 <FlicsAlpha>1916, c. 22 B</FlicsAlpha>
@@ -4874,6 +4864,11 @@
 <FlicsAlpha>tops-3Q</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Quebec Courts Amendment Act</Title>
+<ChapterNumber>R.S., 1985, c. 40 (4th Supp.)</ChapterNumber>
+<FlicsAlpha>R.S., 1985, c. 40 (4th Supp.)</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Quebec Montmorency and Charlevoix Railway Act</Title>
 <ChapterNumber>1916, c. 22</ChapterNumber>
 <FlicsAlpha>1916, c. 22 </FlicsAlpha>
@@ -4887,6 +4882,11 @@
 <Title>Quebec Port Warden Act (see Harbor of Quebec, An Act to provide for the appointment of a Port Warden for the)</Title>
 <ChapterNumber>Quebec Port Warden Act (see Harbor of Quebec, An </ChapterNumber>
 <FlicsAlpha>tops-5Q</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Quebec Savings Banks Act (see Banks Act, Quebec Savings)</Title>
+<ChapterNumber>Quebec Savings Banks Act</ChapterNumber>
+<FlicsAlpha>tops-1Q</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Quebec Secession Reference, An Act to give effect to the requirement for clarity as set out in the opinion of the Supreme Court of Canada in the see Requirement for clarity as set out in the opinion of the Supreme Court of Canada in the Quebec Secession Reference, An Act to give effect to the</Title>
@@ -5130,20 +5130,20 @@
 <ChapterNumber>R.S., 1985, c. R-11</ChapterNumber>
 <FlicsAlpha>R-11</FlicsAlpha>
 </Statute>
-<Statute statuteid="423729e">
-<Title>Royal Style and Titles Act</Title>
-<ChapterNumber>R.S., 1985, c. R-12</ChapterNumber>
-<FlicsAlpha>R-12</FlicsAlpha>
+<Statute statuteid="">
+<Title>Royal Style and Titles (Canada) Act</Title>
+<ChapterNumber>1947, c. 72 (see also R.S.C. 1970, c. R-12)</ChapterNumber>
+<FlicsAlpha>1947, c. 72</FlicsAlpha>
 </Statute>
 <Statute statuteid="423729e">
 <Title>Royal Style and Titles Act</Title>
 <ChapterNumber>2023, c. 26, s. 510 </ChapterNumber>
 <FlicsAlpha>2023, c. 26, s. 510 </FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Royal Style and Titles (Canada) Act</Title>
-<ChapterNumber>1947, c. 72 (see also R.S.C. 1970, c. R-12)</ChapterNumber>
-<FlicsAlpha>1947, c. 72</FlicsAlpha>
+<Statute statuteid="423729e">
+<Title>Royal Style and Titles Act</Title>
+<ChapterNumber>R.S., 1985, c. R-12</ChapterNumber>
+<FlicsAlpha>R-12</FlicsAlpha>
 </Statute>
 </Letter>
 <Letter value="S">
@@ -5181,21 +5181,6 @@
 <Title>Sahtu Dene and Metis Land Claim Settlement Act</Title>
 <ChapterNumber>1994, c. 27</ChapterNumber>
 <FlicsAlpha>1994, c. 27</FlicsAlpha>
-</Statute>
-<Statute statuteid="441209e">
-<Title>St. Peter’s Indian Reserve Act</Title>
-<ChapterNumber>1916, c. 24</ChapterNumber>
-<FlicsAlpha>1916, c. 24</FlicsAlpha>
-</Statute>
-<Statute statuteid="441236e">
-<Title>St. Regis Islands Act</Title>
-<ChapterNumber>1926-27, c. 37</ChapterNumber>
-<FlicsAlpha>1926-27, c. 37</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Ste-Foy-St-Nicolas Bridge (see Bridges)</Title>
-<ChapterNumber>Ste-Foy-St-Nicolas Bridge (see Bridges)</ChapterNumber>
-<FlicsAlpha>tops-1S</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Saint John and Quebec Railway</Title>
@@ -5282,11 +5267,6 @@
 <ChapterNumber>2015, c. 20, s. 2</ChapterNumber>
 <FlicsAlpha>2015, c. 20, s. 2</FlicsAlpha>
 </Statute>
-<Statute statuteid="445037e">
-<Title>Security Offences Act</Title>
-<ChapterNumber>R.S., 1985, c. S-7</ChapterNumber>
-<FlicsAlpha>S-7</FlicsAlpha>
-</Statute>
 <Statute statuteid="">
 <Title>Security of Information Act</Title>
 <ChapterNumber>R.S., 1985, c. O-5</ChapterNumber>
@@ -5296,6 +5276,11 @@
 <Title>Security of Tenure of Military Judges Act — 2011, c. 22 see National Defence Act</Title>
 <ChapterNumber>2011, c. 22 see National Defence Act</ChapterNumber>
 <FlicsAlpha>2011, c. 22</FlicsAlpha>
+</Statute>
+<Statute statuteid="445037e">
+<Title>Security Offences Act</Title>
+<ChapterNumber>R.S., 1985, c. S-7</ChapterNumber>
+<FlicsAlpha>S-7</FlicsAlpha>
 </Statute>
 <Statute statuteid="1168573e">
 <Title>Security Screening Services Commercialization Act</Title>
@@ -5477,6 +5462,16 @@
 <ChapterNumber>1985, c. 22</ChapterNumber>
 <FlicsAlpha>1985, c. 22</FlicsAlpha>
 </Statute>
+<Statute statuteid="441209e">
+<Title>St. Peter’s Indian Reserve Act</Title>
+<ChapterNumber>1916, c. 24</ChapterNumber>
+<FlicsAlpha>1916, c. 24</FlicsAlpha>
+</Statute>
+<Statute statuteid="441236e">
+<Title>St. Regis Islands Act</Title>
+<ChapterNumber>1926-27, c. 37</ChapterNumber>
+<FlicsAlpha>1926-27, c. 37</FlicsAlpha>
+</Statute>
 <Statute statuteid="439820e">
 <Title>Standards Council of Canada Act</Title>
 <ChapterNumber>R.S., 1985, c. S-16</ChapterNumber>
@@ -5531,6 +5526,11 @@
 <Title>Statutory Instruments Act</Title>
 <ChapterNumber>R.S., 1985, c. S-22</ChapterNumber>
 <FlicsAlpha>S-22</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Ste-Foy-St-Nicolas Bridge (see Bridges)</Title>
+<ChapterNumber>Ste-Foy-St-Nicolas Bridge (see Bridges)</ChapterNumber>
+<FlicsAlpha>tops-1S</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Steamship Subsidies Act</Title>
@@ -5649,11 +5649,6 @@
 <ChapterNumber>Income Tax, etc.</ChapterNumber>
 <FlicsAlpha>tops-7T</FlicsAlpha>
 </Statute>
-<Statute statuteid="447627e">
-<Title>Tax-Back Guarantee Act</Title>
-<ChapterNumber>2007, c. 29, s. 60</ChapterNumber>
-<FlicsAlpha>2007, c. 29, s. 60</FlicsAlpha>
-</Statute>
 <Statute statuteid="458923e">
 <Title>Tax Court of Canada Act</Title>
 <ChapterNumber>R.S., 1985, c. T-2</ChapterNumber>
@@ -5663,6 +5658,11 @@
 <Title>Tax Rebate Discounting Act</Title>
 <ChapterNumber>R.S., 1985, c. T-3</ChapterNumber>
 <FlicsAlpha>T-3</FlicsAlpha>
+</Statute>
+<Statute statuteid="447627e">
+<Title>Tax-Back Guarantee Act</Title>
+<ChapterNumber>2007, c. 29, s. 60</ChapterNumber>
+<FlicsAlpha>2007, c. 29, s. 60</FlicsAlpha>
 </Statute>
 <Statute statuteid="459764e">
 <Title>Telecommunications Act</Title>
@@ -5745,6 +5745,11 @@
 <FlicsAlpha>2001, c. 16</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
+<Title>Toronto (Sales, Ordnance Lands)</Title>
+<ChapterNumber>Toronto (Sales, Ordnance Lands)</ChapterNumber>
+<FlicsAlpha>tops-3T</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
 <Title>Toronto Government House Property (see Government House Property)</Title>
 <ChapterNumber>Toronto Government House Property (see Government</ChapterNumber>
 <FlicsAlpha>tops-2T</FlicsAlpha>
@@ -5753,6 +5758,11 @@
 <Title>Toronto Harbour Commissioners Act, 1925</Title>
 <ChapterNumber>1925, c. 79</ChapterNumber>
 <FlicsAlpha>1925, c. 79</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Toronto Harbour Commissioners Act, Toronto Terminals Ry. Co., C.N. Ry. Co., and C.P. Ry. Co., Agreement between</Title>
+<ChapterNumber>1955, c. 42</ChapterNumber>
+<FlicsAlpha>1955, c. 42</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Toronto Harbour Commissioners’ Act, 1936</Title>
@@ -5775,16 +5785,6 @@
 <FlicsAlpha>1951, c. 26</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Toronto Harbour Commissioners Act, Toronto Terminals Ry. Co., C.N. Ry. Co., and C.P. Ry. Co., Agreement between</Title>
-<ChapterNumber>1955, c. 42</ChapterNumber>
-<FlicsAlpha>1955, c. 42</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
-<Title>Toronto (Sales, Ordnance Lands)</Title>
-<ChapterNumber>Toronto (Sales, Ordnance Lands)</ChapterNumber>
-<FlicsAlpha>tops-3T</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Toronto Terminals Railway Company Act</Title>
 <ChapterNumber>S.C., 1906, c. 170</ChapterNumber>
 <FlicsAlpha>S.C., 1906, c. 170</FlicsAlpha>
@@ -5799,15 +5799,15 @@
 <ChapterNumber>Trade Agreements, 1928 (see Agreements — Trade, e</ChapterNumber>
 <FlicsAlpha>tops-5T</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Trade-marks Act</Title>
-<ChapterNumber>R.S., 1985, c. T-13</ChapterNumber>
-<FlicsAlpha>T-13</FlicsAlpha>
-</Statute>
 <Statute statuteid="451454e">
 <Title>Trade Unions Act</Title>
 <ChapterNumber>R.S., 1985, c. T-14</ChapterNumber>
 <FlicsAlpha>T-14</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Trade-marks Act</Title>
+<ChapterNumber>R.S., 1985, c. T-13</ChapterNumber>
+<FlicsAlpha>T-13</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Transfer of Lands to Ontario and Quebec Act</Title>
@@ -5933,11 +5933,6 @@
 <ChapterNumber>R.S.C. 1970, c. V-3</ChapterNumber>
 <FlicsAlpha>V-3</FlicsAlpha>
 </Statute>
-<Statute statuteid="462734e">
-<Title>Veterans’ Land Act</Title>
-<ChapterNumber>R.S.C. 1970, c. V-4</ChapterNumber>
-<FlicsAlpha>V-4</FlicsAlpha>
-</Statute>
 <Statute statuteid="463451e">
 <Title>Veterans Review and Appeal Board Act</Title>
 <ChapterNumber>1995, c. 18</ChapterNumber>
@@ -5947,6 +5942,11 @@
 <Title>Veterans Well-being Act</Title>
 <ChapterNumber>2005, c. 21</ChapterNumber>
 <FlicsAlpha>2005, c. 21</FlicsAlpha>
+</Statute>
+<Statute statuteid="462734e">
+<Title>Veterans’ Land Act</Title>
+<ChapterNumber>R.S.C. 1970, c. V-4</ChapterNumber>
+<FlicsAlpha>V-4</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Victoria Day Act (see Holidays Act)</Title>
@@ -6076,14 +6076,14 @@
 <FlicsAlpha>W-11</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Winnipeg, Sale of Lands at</Title>
-<ChapterNumber>Winnipeg, Sale of Lands at</ChapterNumber>
-<FlicsAlpha>tops-5W</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Winnipeg Terminals</Title>
 <ChapterNumber>Winnipeg Terminals</ChapterNumber>
 <FlicsAlpha>tops-6W</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Winnipeg, Sale of Lands at</Title>
+<ChapterNumber>Winnipeg, Sale of Lands at</ChapterNumber>
+<FlicsAlpha>tops-5W</FlicsAlpha>
 </Statute>
 <Statute statuteid="464713e">
 <Title>Witness Protection Program Act</Title>
@@ -6177,7 +6177,7 @@
 <Statute statuteid="">
 <Title>Zero Tolerance for Barbaric Cultural Practices Act</Title>
 <ChapterNumber>Zero Tolerance for Barbaric Cultural Practices Act</ChapterNumber>
-<FlicsAlpha>2015, c. 29</FlicsAlpha>
+<FlicsAlpha>tops-1Z</FlicsAlpha>
 </Statute>
 </Letter>
 </Database>

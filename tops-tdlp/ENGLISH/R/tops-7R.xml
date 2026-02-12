@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="tops-7R">
+  <Title>Revised Statutes of Canada, 1906 Act</Title>
+  <OtherLangTitle>(Statuts revisés du Canada, 1906, Loi concernant les)</OtherLangTitle>
+  <CIF>
+    <Text>1903, c. 61 repealed, 1907, c. 43, s. 16</Text>
+  </CIF>
+  <CIF>
+    <Text>1904, c. 36 repealed, 1907, c. 43, s. 16</Text>
+  </CIF>
+  <CIF>
+    <Text>1907, cc. 43, 44</Text>
+  </CIF>
+  <General>
+    <Text>(<Emphasis style="italic">Note</Emphasis>: <XRefExternal reference-type="act">Revised Statutes of Canada, 1906</XRefExternal> proclaimed in force 31.01.1907 <Emphasis style="italic">see</Emphasis> R.S.C. 1906, Vol. I)</Text>
+  </General>
+</Statute>
+</TOPS>

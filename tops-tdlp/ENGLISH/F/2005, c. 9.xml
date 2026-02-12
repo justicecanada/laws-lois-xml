@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2005, c. 9">
+  <Title>First Nations Fiscal Management Act</Title>
+  <ChapterNumber>2005, c. 9</ChapterNumber>
+  <OtherLangTitle>
+    <Emphasis style="bold">(Formerly: First Nations Fiscal and Statistical Management Act)</Emphasis>
+  </OtherLangTitle>
+  <OtherLangTitle>(Gestion financière des premières nations, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Crown-Indigenous Relations (<Emphasis style="italic">see</Emphasis> s. 2)</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>2012, c. 19, s. 656; 2018, c. 27, par. 414(a)(E); 2023, c. 16, s. 1</Text>
+  </LongTitle>
+  <Heading>
+    <Label>Preamble</Label>
+    <Text>2012, c. 19, s. 657; 2018, c. 27, par. 413(a)(E) and 414(b)(E); 2023, c. 16, s. 2</Text>
+  </Heading>
+  <Section>
+    <Label>1</Label>
+    <Text>2012, c. 19, s. 658</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>2012, c. 19, s. 659; 2015, c. 36, s. 177; 2018, c. 27, s. 385 and 414(c)(E); 2019, c. 29, s. 373(1)(h); 2023, c. 16, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>repealed, 2024, c. 30, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2018, c. 27, par. 413(b)(E)</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2018, c. 27, par. 414(d)(E); 2023, c. 16, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2015, c. 36, s. 178; 2018, c. 27, s. 386 and par. 414(e)(E); 2023, c. 16, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2015, c. 36, s. 179; 2018, c. 27, par. 414(f)(E)</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2018, c. 27, s. 387</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2015, c. 36, s. 180; 2018, c. 27, s. 388 and par. 414(g)(E)</Text>
+  </Section>
+  <Section>
+    <Label>8.1</Label>
+    <Text>added, 2023, c. 16, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2015, c. 36, s. 181; 2018, c. 27, par. 414(h)(E); 2023, c. 16, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>9.1</Label>
+    <Text>added, 2015, c. 36, s. 182</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2015, c. 36, s. 182; 2018, c. 27, s. 389 and par. 414(i)(E)</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2015, c. 36, s. 183 ; 2023, c. 16, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2015, c. 36, s. 184; 2018, c. 27, par. 414(j)(E)</Text>
+  </Section>
+  <Section>
+    <Label>13.1</Label>
+    <Text>added, 2015, c. 36, s. 185; 2018, c. 27, par. 414(k)(E)</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2015, c. 36, s. 186; 2018, c. 27, s. 390 and par. 414(l)(E)</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2015, c. 36, s. 187; 2018, c. 27, par. 414(m)(E); 2023, c. 16, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2023, c. 16, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>2018, c. 27, s. 391</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2018, c. 27, par. 414(n)(E); 2023, c. 16, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2023, c. 16, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2018, c. 27, s. 392</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>2018, c. 27, par. 414(o)(E); 2023, c. 16, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2018, c. 27, par. 414(o)(E)</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2018, c. 27, s. 393</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2015, c. 36, s. 188; 2018, c. 27, s. 394 and par. 414(p)(E); 2023, c. 16, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>2018, c. 27, s. 395 and par. 414(q)(E); 2023, c. 16, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>2015, c. 36, s. 189; 2018, c. 27, s. 396 and par. 414(r)(E)</Text>
+  </Section>
+  <Section>
+    <Label>35.1</Label>
+    <Text>added, 2023, c. 16, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>35.2</Label>
+    <Text>added, 2023, c. 16, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>2015, c. 36, s. 190; 2018, c. 27, par. 414(s)(E)</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>2010, c. 12, s. 1733; 2018, c. 27, s. 397</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>2010, c. 12, s. 1734; 2017, c. 26, s. 50; 2018, c. 27, par. 414(t)(E); 2023, c. 16, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>2023, c. 16, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>2023, c. 16, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>2018, c. 27, par. 414(u)(E); 2023, c. 16, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>2015, c. 36, s. 191; 2018, c. 27, par. 414(u)(E)</Text>
+  </Section>
+  <Section>
+    <Label>50.01</Label>
+    <Text>added, 2023, c. 16, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>50.1</Label>
+    <Text>added, 2018, c. 27, s. 398; 2023, c. 16, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>50.2</Label>
+    <Text>added, 2023, c. 16, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2018, c. 27, par. 414(v)(E); 2023, c. 16, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2018, c. 27, par. 414(v)(E); 2023, c. 16, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>52.1</Label>
+    <Text>added, 2023, c. 16, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>2015, c. 36, s. 192; 2018, c. 27, s. 399 and par. 414(w)(E); 2023, c. 16, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>53.1</Label>
+    <Text>added, 2023, c. 16, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2018, c. 27, par. 414(x)(E); 2023, c. 16, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>2018, c. 27, par. 414(y)(E); 2023, c. 16, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>55.1</Label>
+    <Text>added, 2023, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>55.2</Label>
+    <Text>added, 2023, c. 16, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>2018, c. 27, par. 414(z)(E); 2023, c. 16, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>56.1</Label>
+    <Text>added, 2018, c. 27, s. 400; 2023, c. 16, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>2015, c. 36, s. 193; 2018, c. 27, par. 414(z.1)(E); 2023, c. 16, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>2005, c. 9, s. 154(1)(E)</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2018, c. 27, s. 401</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>2018, c. 27, s. 402</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>2009, c. 23, ss. 328 and 354</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>2018, c. 27, s. 403 and par. 414(z.2)(E); 2023, c. 16, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>2015, c. 36, s. 194; 2018, c. 27, par. 414(z.3)(E)</Text>
+  </Section>
+  <Section>
+    <Label>77</Label>
+    <Text>2015, c. 36, s. 195; 2018, c. 27, par. 414(z.3)(E); 2023, c. 16, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>78</Label>
+    <Text>2015, c. 36, s. 196; 2018, c. 27, s. 404(F) and par. 414(z.4)(E); 2023, c. 16, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>79</Label>
+    <Text>2015, c. 36, s. 197; 2018, c. 27, s. 405; 2023, c. 16, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>2015, c. 36, s. 197; 2023, c. 16, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>2015, c. 36, s. 198</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>2015, c. 36, s. 199; 2018, c. 27, s. 406; 2023, c. 16, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>85</Label>
+    <Text>2015, c. 36, s. 200</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>2018, c. 27, par. 414(z.5)(E); 2023, c. 16, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>88.1</Label>
+    <Text>added, 2021, c. 23, s. 192</Text>
+  </Section>
+  <Section>
+    <Label>89</Label>
+    <Text>2015, c. 36, s. 201; 2018, c. 27, s. 407; 2023, c. 16, s. 42</Text>
+  </Section>
+  <Heading>
+    <Label>Part 5 (90 to 113)</Label>
+    <Text>repealed, 2012, c. 19, s. 660; added, 2018, c. 27, s. 408</Text>
+  </Heading>
+  <Section>
+    <Label>90 to 93</Label>
+    <Text>repealed, 2012, c. 19, s. 660; added, 2018, c. 27, s. 408</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>2010, c. 12, s. 1735; repealed, 2012, c. 19, s. 660; added, 2018, c. 27, s. 408</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>repealed, 2012, c. 19, s. 660; added, 2018, c. 27, s. 408</Text>
+  </Section>
+  <Section>
+    <Label>96</Label>
+    <Text>2010, c. 12, s. 1736; repealed, 2012, c. 19, s. 660, added, 2023, c. 16, s. 43</Text>
+  </Section>
+  <Section>
+    <Label>97 to 113</Label>
+    <Text>repealed, 2012, c. 19, s. 660, added, 2023, c. 16, s. 43</Text>
+  </Section>
+  <Section>
+    <Label>113.1 to 113.92</Label>
+    <Text>added, 2023, c. 16, s. 43</Text>
+  </Section>
+  <Section>
+    <Label>114</Label>
+    <Text>2023, c. 16, s. 44</Text>
+  </Section>
+  <Section>
+    <Label>115</Label>
+    <Text>2005, c. 9, s. 154(2)(E)</Text>
+  </Section>
+  <Section>
+    <Label>118</Label>
+    <Text>2023, c. 16, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>120</Label>
+    <Text>2023, c. 16, s. 46</Text>
+  </Section>
+  <Section>
+    <Label>122</Label>
+    <Text>2023, c. 16, s. 47</Text>
+  </Section>
+  <Section>
+    <Label>125</Label>
+    <Text>2018, c. 27, s. 409(E)</Text>
+  </Section>
+  <Section>
+    <Label>131</Label>
+    <Text>2023, c. 16, s. 48</Text>
+  </Section>
+  <Section>
+    <Label>132</Label>
+    <Text>2006, c. 9, s. 8; 2012, c. 19, s. 661; 2023, c. 16, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>133 and 134</Label>
+    <Text>2012, c. 19, s. 662; 2023, c. 16, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>2012, c. 19, s. 663; 2018, c. 27, s. 410; 2023, c. 16, s. 50</Text>
+  </Section>
+  <Section>
+    <Label>136.1</Label>
+    <Text>added, 2018, c. 27, s. 410; 2023, c. 16, s. 51</Text>
+  </Section>
+  <Section>
+    <Label>136.2</Label>
+    <Text>added, 2018, c. 27, s. 410</Text>
+  </Section>
+  <Section>
+    <Label>137</Label>
+    <Text>2018, c. 27, par. 414(z.6)(E)</Text>
+  </Section>
+  <Section>
+    <Label>138</Label>
+    <Text>2018, c. 27, par. 414(z.6)(E); 2023, c. 16, s. 52</Text>
+  </Section>
+  <Section>
+    <Label>139</Label>
+    <Text>2012, c. 19, s. 664; 2023, c. 16, s. 53</Text>
+  </Section>
+  <Section>
+    <Label>140</Label>
+    <Text>2012, c. 19, s. 665; 2015, c. 36, s. 202; 2023, c. 16, s. 54</Text>
+  </Section>
+  <Section>
+    <Label>141</Label>
+    <Text>2018, c. 27, s. 411 and par. 413(c)(E); 2023, c. 16, s. 55</Text>
+  </Section>
+  <Section>
+    <Label>141.1</Label>
+    <Text>added, 2018, c. 27, s. 412; 2023, c. 16, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>141.2</Label>
+    <Text>added, 2018, c. 27, s. 412</Text>
+  </Section>
+  <Section>
+    <Label>142</Label>
+    <Text>repealed, 2023, c. 16, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>145</Label>
+    <Text>2015, c. 36, s. 203; 2018, c. 27, par. 414(z.7)(E)</Text>
+  </Section>
+  <Section>
+    <Label>145.1</Label>
+    <Text>added, 2015, c. 36, s. 204; 2018, c. 27, par. 414(z.7)(E)</Text>
+  </Section>
+  <Schedule>
+    <Label>Schedule</Label>
+    <Text>SOR/2007-276; SOR/2008-264; SOR/2009-25, SOR/2009-284; SOR/2010-183, s. 1, SOR/2010-254; SOR/2011-27, SOR/11-211, SOR/11-290; SOR/2012-30, ss. 1 and 2; SOR/12-122, s. 1; SOR/12-273; SOR/2013-59, s. 1, SOR/13-176, s. 1; SOR/2014-77, SOR/14-208, s. 1; SOR/2015-52, s. 1, SOR/15-94, s. 1; SOR/2016-8, s. 1, SOR/16-213, s. 1, SOR/16-303, s. 1; SOR/2017-23, s. 1, SOR/17-24, s. 1; SOR/17-186, s. 1; SOR/2018-50, s. 1, SOR/18-180, s. 1, SOR/18-234, s. 1, SOR/18-235, s. 1, SOR/18-260; SOR/2019-15, s. 1; SOR/2019-31, s. 1; SOR/2019-73; SOR/2019-85; SOR/2019-112; SOR/2019-182; SOR/2019-203, s. 1; SOR/2019-304, s. 1; SOR/2019-324, s. 1; SOR/2020-13, s. 1; SOR/2020-24, s. 1; SOR/2020-37, s. 1; SOR/2020-163, s. 1: SOR/2020-168, s. 1; SOR/2020-245, s. 1; SOR/2020-268, s. 1; SOR/2021-29, s. 1; SOR/2021-39, s. 1 of the French version, ss. 2 to 16; SOR/2021-110, s. 1; SOR/2021-171, ss. 1 to 7; SOR/2021-214, s. 1; SOR/2022-7, s. 1; SOR/2022-116, s. 1; SOR/2022-193, s. 1; SOR/2022-260, s. 1; SOR/2023-69, s. 1; 2023, c. 22, s. 24; SOR/2023-164; SOR/2023-225, s. 1; SOR/2023-259, s. 1; SOR/2024-2, s. 1; SOR/2024-207, s. 1; SOR/2024-227, ss. 1 to 3, 4(F) and 5 to 9; SOR/2024-228, s. 1; SOR/2025-22, s. 1; SOR/2025-152, s. 1; SOR/2025-212, s. 1</Text>
+  </Schedule>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2005, c. 9, s. 154</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2009, c. 23, s. 354</Text>
+  </CoordinatingAmendment>
+  <Transitional>
+    <Text>Transitional, 2005, c. 9, ss. 143 to 146 (<Emphasis style="italic">Note</Emphasis>: s. 146 amended by 2012, c. 19, s. 666)</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2012, c. 19, ss. 667 to 673</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2015, c. 36, s. 204 (2005, c. 9, s. 145.1)</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitionals, 2023, c. 16, ss. 60 and 61</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2005, c. 9, the Act, other than s. 154, in force 01.04.2006 <Emphasis style="italic">see</Emphasis> SI/2006-59; s. 154 in force on assent 23.03.2005</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2006, c. 9, s. 8 in force 09.07.2007 <Emphasis style="italic">see</Emphasis> SI/2007-75</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 23, s. 354 in force on assent 23.06.2009; s. 328 in force 17.10.2011 <Emphasis style="italic">see</Emphasis> SI/2011-87 [<Emphasis style="italic">Note</Emphasis>: the amendment provided for s. 354 took effect on the coming into force of par. 313(a) which is 31.12.2017 <Emphasis style="italic">see</Emphasis> SI/2018-1]</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 12 (assent: 12.07.2010), ss. 1733 to 1736 in force 16.03.2012 <Emphasis style="italic">see</Emphasis> SI/2012-14</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 19 (assent: 29.06.2012), ss. 656 to 673 in force 01.04.2013 <Emphasis style="italic">see</Emphasis> SI/2013-38</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 36 (assent: 23.06.2015), ss. 177 to 204 in force 01.04.2016 <Emphasis style="italic">see</Emphasis> SI/2016-14</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 26, s. 50 in force on assent 12.12.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 27, ss. 385 to 414 in force on assent 13.12.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), s. 373 in force 15.07.2019</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2021, c. 23, s. 192 in force on assent 29.06.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2022-116 in force 27.05.2022 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2022-260 in force 06.12.2022 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-69 in force 29.03.2023</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2023, c. 16 (assent: 20.06.2023), ss. 3(1), (3) and (5), s. 4, ss. 5(2) and (4), ss. 6, 9, 15 and 24 to 26, ss. 27(1), (2) and (4) to (7), ss. 28 to 30, 32 and 33, s. 35(3), s. 36, ss. 38(2) and 40(1) and (3), ss. 41, 42 and 51, s. 52(2) and s. 57 in force 06.01.2025 <Emphasis style="italic">see</Emphasis> SI/2024-63</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2023, c. 22 (assent: 22.06.2023), s. 24 in force 01.09.2023 <Emphasis style="italic">see</Emphasis> SI/2023-55</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-164 in force 20.07.2023</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-225, s. 1 in force 24.10.2023</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-259 in force 05.12.2023 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2024-2 in force 15.01.2024 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2024-207 in force 16.10.2024 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2024-227 in force 21.11.2024 <Emphasis style="italic">see</Emphasis> s. 10</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2024-228 in force 21.11.2024 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 30, s. 25 in force on assent 27.11.2024</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2025-22 in force 12.02.2025 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2025-152 in force 23.07.2025 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2025-212 in force 16.10.2025 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+</Statute>
+</TOPS>

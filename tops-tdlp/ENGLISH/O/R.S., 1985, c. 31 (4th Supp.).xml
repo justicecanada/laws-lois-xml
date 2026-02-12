@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="R.S., 1985, c. 31 (4th Supp.)">
+  <Title>Official Languages Act</Title>
+  <ChapterNumber>R.S., 1985, c. 31 (4th Supp.)</ChapterNumber>
+  <OtherLangTitle>(Langues officielles, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Justice</Text>
+  </Minister>
+  <Heading>
+    <Label>Preamble</Label>
+    <Text>2023, c. 15, s. 2</Text>
+  </Heading>
+  <Section>
+    <Label>2</Label>
+    <Text>2023, c. 15, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>2.1 to 2.3</Label>
+    <Text>added, 2023, c. 15, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1993, c. 28, s. 78 (Sch. III, item 116); 2002, c. 7, s. 224; 2004, c. 7, s. 26; 2006, c. 9, s. 20; 2014, c. 2, s. 39; 2015, c. 36, s. 144; 2017, c. 20, s. 179; 2023, c. 15, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>3.1</Label>
+    <Text>added, 2023, c. 15, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1993, c. 28, s. 78 (Sch. III, item 117); 2002, c. 7, s. 225; 2014, c. 2, s. 40; 2023, c. 15, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2023, c. 15, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2023, c. 15, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2002, c. 8, s. 155; 2023, c. 15, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>2002, c. 8, s. 156</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2023, c. 15, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2023, c. 15, s. 12.1</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2005, c. 46, s. 56.5 (<Emphasis style="italic">see also</Emphasis> 2006, c. 9, s. 222); 2006, c. 9, s. 96</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2023, c. 15, s. 12.2</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>2004, c. 7, s. 27; 2006, c. 9, s. 21; 2015, c. 36, s. 145; 2017, c. 20, s. 180; 2023, c. 15, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>2023, c. 15, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>2023, c. 15, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>2023, c. 15, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2023, c. 15, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>2004, c. 7, s. 28; 2006, c. 9, s. 22; 2015, c. 36, s. 146; 2017, c. 20, s. 181; 2023, c. 15, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2023, c. 15, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2023, c. 15, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>2005, c. 41, s. 1; 2006, c. 9, s. 23; 2015, c. 36, s. 147; 2023, c.15, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>1995, c. 11, s. 27, 2023, c.15, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>1995, c. 11, s. 28; 2023, c. 15, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>1995, c. 11, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>44.1</Label>
+    <Text>added, 2023, c. 15, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>2023, c. 15, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>45.1</Label>
+    <Text>added, 2023, c. 15, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2004, c. 7, s. 29; 2006, c. 9, s. 24; 2015, c. 36, s. 148; 2017, c. 20, s. 183; 2023, c. 15, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>2005, c. 15, s. 3; 2010, c. 12, s. 1676; 2023, c. 15, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2023, c. 15, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>2006, c. 9, s. 111; 2022, c. 10, s. 249</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>2002, c. 8, s. 157</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2023, c. 15, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>2003, c. 22, par. 225(<Emphasis style="italic">z</Emphasis>.13)(E); 2023, c. 15, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>2023, c. 15, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>2023, c. 15, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2023, c. 15, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>2023, c. 15, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>2023, c. 15, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>63.1</Label>
+    <Text>added, 2023, c. 15, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>64.1 to 64.5</Label>
+    <Text>added, 2023, c. 15, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>65.1 to 65.9 and 65.94</Label>
+    <Text>added, 2023, c. 15, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>2023, c. 15, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>2023, c. 15, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>2002, c. 8, par. 183(1)(<Emphasis style="italic">q)</Emphasis></Text>
+  </Section>
+  <Section>
+    <Label>77</Label>
+    <Text>2005, c. 41, s. 2; 2023, c. 15, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>78</Label>
+    <Text>2023, c. 15, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>78.1 to 78.8</Label>
+    <Text>added, 2023, c. 15, s. 42</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>2002, c. 8, par. 182(1)(<Emphasis style="italic">z</Emphasis>.4)</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>2023, c. 15, s. 43</Text>
+  </Section>
+  <Section>
+    <Label>83 and 84</Label>
+    <Text>2023, c. 15, s. 44</Text>
+  </Section>
+  <Section>
+    <Label>85</Label>
+    <Text>2023, c. 15, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>2023, c. 15, s. 46</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>2023, c. 15, s. 47</Text>
+  </Section>
+  <Section>
+    <Label>88</Label>
+    <Text>1995, c. 11, s. 30; 2023, c. 15, s. 48</Text>
+  </Section>
+  <Section>
+    <Label>89</Label>
+    <Text>2023, c. 15, s. 48</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>2023, c. 15, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>2004, c. 7, s. 30; 2006, c. 9, s. 25; 2015, c. 36, s. 149; 2017, c. 20, s. 184</Text>
+  </Section>
+  <Section>
+    <Label>93.1</Label>
+    <Text>added, 2023, c. 15, s. 50</Text>
+  </Section>
+  <Section>
+    <Label>104</Label>
+    <Text>repealed, R.S., c. 31 (4th Supp.), s. 106</Text>
+  </Section>
+  <Section>
+    <Label>105</Label>
+    <Text>repealed, R.S., c. 31 (4th Supp.), s. 106</Text>
+  </Section>
+  <Section>
+    <Label>107</Label>
+    <Text>2023, c. 15, s. 51</Text>
+  </Section>
+  <General>
+    <Text>General, 2023, c. 15, s. 5 (French heading before s. 5)</Text>
+  </General>
+  <General>
+    <Text>General, 2023, c. 15, s. 21 (headings of Part VII and ss. 41 and 42)</Text>
+  </General>
+  <General>
+    <Text>General, 2023, c. 15, s. 30 (headings before s. 58)</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, R.S., c. 31 (4th Supp.), ss. 104 to 108</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2006, c. 9, s. 120</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 31 (4th Supp.) ss. 1 to 93, 96 and 98 to 109 proclaimed in force 15.09.88 <Emphasis style="italic">see</Emphasis> SI/88‑197; s. 97 proclaimed in force 01.02.89 <Emphasis style="italic">see</Emphasis> SI/88‑197</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 28, s. 78 (Sch. III, items 116 and 117) in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 11, ss. 27 to 30 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑68</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, ss. 224 and 225 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, ss. 155 to 157, 182 and 183 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 225 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 7, ss. 26 to 30 in force 17.05.2004 <Emphasis style="italic">see</Emphasis> SI/2004-52</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 15, s. 3 in force 15.06.2005 <Emphasis style="italic">see</Emphasis> SI/2005-45</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 41, ss. 1 and 2 in force on assent 25.11.2005</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 46, s. 56.5 in force 15.04.2007 <Emphasis style="italic">see</Emphasis> SI/2007-43 (<Emphasis style="italic">Note:</Emphasis> 2005, c. 46, s. 56.5 added by 2006, c. 9, s. 222)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2006, c. 9</Text>
+    <List>
+      <Item>
+        <Text>— ss. 111, 120 and 222 in force on assent 12.12.2006</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 20 to 25 in force 09.07.2007 <Emphasis style="italic">see</Emphasis> SI/2007-75</Text>
+      </Item>
+      <Item>
+        <Text>— s. 96 in force 02.07.2008 <Emphasis style="italic">see</Emphasis> SI/2008-41</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 12 (assent: 12.07.2010), s. 1676 in force 16.03.2012 <Emphasis style="italic">see</Emphasis> SI/2012-14</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 2 (assent: 25.03.2014), ss. 39 and 40 in force 01.04.2014 <Emphasis style="italic">see</Emphasis> SI/2014-34</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 36, ss. 144 to 149 in force on assent 23.06.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 20 (assent: 22.06.2017), ss. 179 to 184 in force 21.09.2017 <Emphasis style="italic">see</Emphasis> SI/2017-53</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 10 (assent: 23.06.2022), s. 249 in force 26.07.2022 <Emphasis style="italic">see</Emphasis> SI/2022-35</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2023, c. 15 (assent: 20.06.2023)</Text>
+    <List>
+      <Item>
+        <Text>— s. 12 in force 20.06.2024 <Emphasis style="italic">see</Emphasis> s. 71</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 16(3.1) comes into force on the second anniversary of the day on which this Act receives royal assent (20.06.2025) <Emphasis style="italic">see</Emphasis> s. 71</Text>
+      </Item>
+      <Item>
+        <Text>— s. 23 in force 01.01.2024 <Emphasis style="italic">see</Emphasis> SI/2024-2</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 36(2) to (4), s. 37, ss. 38(2), s. 39 and ss. 43(1) and (3) come to force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 71 — Not in force</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

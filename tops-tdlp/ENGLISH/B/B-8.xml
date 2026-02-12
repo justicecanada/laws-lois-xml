@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="B-8">
+  <Title>Bridges Act</Title>
+  <ChapterNumber>R.S., 1985, c. B-8</ChapterNumber>
+  <OtherLangTitle>(Ponts, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Public Works and Government Services</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1996, c. 16, s. 60(1)(a)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1996, c. 16, s. 61(1)(a)</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1996, c. 16, s. 61(1)(a)</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2000, c. 12, s. 25</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 1996, c. 16, ss. 60 and 61 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑67</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 12, s. 25 in force 31.07.2000 <Emphasis style="italic">see</Emphasis> SI/2000‑76</Text>
+  </CIF>
+</Statute>
+</TOPS>

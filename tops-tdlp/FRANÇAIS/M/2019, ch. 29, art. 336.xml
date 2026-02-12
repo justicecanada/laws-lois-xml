@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2019, ch. 29, art. 336">
+  <Title>Ministère des Services aux Autochtones, Loi sur le</Title>
+  <ChapterNumber>2019, ch. 29, art. 336</ChapterNumber>
+  <OtherLangTitle>(Department of Indigenous Services Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Services aux Autochtones</Text>
+  </Minister>
+  <CoordinatingAmendment>
+    <Text>Disposition de coordination, 2019, ch.29, art. 379</Text>
+  </CoordinatingAmendment>
+  <Transitional>
+    <Text>dispositions transitoires, 2019, ch. 29, art. 338 à 340</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, 2019, ch.29, (sanction 21.06.2019)</Text>
+    <List>
+      <Item>
+        <Text>— art. 336 (art. 1 à 15) édicte la <XRefExternal reference-type="act">Loi sur le ministère des Services aux Autochtones</XRefExternal> en vigueur 15.07.2019 <Emphasis style="italic">Voir</Emphasis> 2019, ch. 29, art. 336.1</Text>
+      </Item>
+      <Item>
+        <Text>— art 338 à 340 en vigueur 15.07.2019 <Emphasis style="italic">Voir</Emphasis> art. 383</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

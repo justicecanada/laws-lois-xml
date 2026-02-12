@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="F-22">
+  <Title>Prêts aux entreprises de pêche, Loi sur les</Title>
+  <ChapterNumber>L.R. (1985), ch. F-22</ChapterNumber>
+  <OtherLangTitle>(Fisheries Improvement Loans Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Pêches et Océans</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1999, ch. 28, art. 165</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>ch. 37 (1<Sup>er</Sup> suppl.), art. 1; ch. 41 (2<Sup>e</Sup> suppl.), art. 1</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1999, ch. 28, art. 166</Text>
+  </Section>
+  <CIF>
+    <Text>EEV, ch. 37 (1<Sup>er</Sup> suppl.), art. 1 en vigueur 28.06.85</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, ch. 41 (2<Sup>e</Sup> suppl.), art. 1 en vigueur 19.12.86</Text>
+    <List>
+      <Item>
+        <Text>
+          <Emphasis style="italic">Remarque</Emphasis> : — Loi ne s’applique pas aux prêts garantis consentis après le 30.06.87 (<Emphasis style="italic">voir</Emphasis> art. 6). <Emphasis style="italic">Voir aussi</Emphasis> la <XRefExternal reference-type="act">Loi sur les prêts aux petites entreprises</XRefExternal></Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 28, art. 165 et 166 en vigueur 28.06.99 <Emphasis style="italic">voir</Emphasis> TR/99-70</Text>
+  </CIF>
+</Statute>
+</TOPS>

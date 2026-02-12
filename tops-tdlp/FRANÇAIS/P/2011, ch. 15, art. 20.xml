@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2011, ch. 15, art. 20">
+  <Title>Protection de l’assurance hypothécaire résidentielle, Loi sur la</Title>
+  <ChapterNumber>2011, ch. 15, art. 20</ChapterNumber>
+  <OtherLangTitle>(Protection of Residential Mortgage or Hypothecary Insurance Act)</OtherLangTitle>
+  <Minister>
+    <Text>Ministre des Finances (art. 2 de la loi)</Text>
+  </Minister>
+  <Section>
+    <Label>15</Label>
+    <Text>2016, ch. 7, art. 179</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2014, ch. 20, art. 314</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2014, ch. 20, art. 315</Text>
+  </Section>
+  <CIF>
+    <Text>EEV, 2011, ch. 15, art. 20 (sanction : 26.06.2011), la loi en vigueur 01.01.2013 <Emphasis style="italic">voir</Emphasis> TR/2012-87</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2014, ch. 20, art. 314 et 315 en vigueur à la sanction 19.06.2014.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2016, ch. 7, art. 179 en vigueur à la sanction 22.06.2016.</Text>
+  </CIF>
+</Statute>
+</TOPS>

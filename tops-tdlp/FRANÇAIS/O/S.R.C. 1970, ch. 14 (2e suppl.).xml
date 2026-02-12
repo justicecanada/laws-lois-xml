@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="S.R.C. 1970, ch. 14 (2e suppl.)">
+  <Title>Organisation du gouvernement, Loi de 1970 sur l’, (<Emphasis style="italic">voir</Emphasis> le ministère en cause)</Title>
+  <ChapterNumber>S.R.C. 1970, ch. 14 (2<Sup>e</Sup> suppl.)</ChapterNumber>
+  <OtherLangTitle>(Government Organization Act, 1970 (see Dept....))</OtherLangTitle>
+  <Section>
+    <Label>5</Label>
+    <Text>1984, ch. 40, art. 32</Text>
+  </Section>
+  <Schedule>
+    <Label>annexe I</Label>
+    <Text>1988, ch. 2, art. 76; 1992, ch. 1, art. 152</Text>
+  </Schedule>
+  <?Pub Caret -2?>
+  <CIF>
+    <Text>EEV, 1988, ch. 2, art. 76 en vigueur 04.02.88</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1992, ch. 1, art. 152 en vigueur à la sanction 28.02.92</Text>
+  </CIF>
+</Statute>
+</TOPS>

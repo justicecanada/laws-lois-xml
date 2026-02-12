@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="G-4">
+  <Title>Government Corporations Operation Act</Title>
+  <ChapterNumber>R.S., 1985, c. G-4</ChapterNumber>
+  <OtherLangTitle>(Fonctionnement des sociétés du secteur public, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Industry (1995, c. 1, s. 62(3))</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1994, c. 24, s. 34(1)(j)(F)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2000, c. 12, s. 124; 2003, c. 22, par. 224(<Emphasis style="italic">z</Emphasis>.40)(E) and 225(<Emphasis style="italic">z</Emphasis>.1)(E)</Text>
+  </Section>
+  <General>
+    <Text>General, Act applicable to Development Finance Institute Canada (DFIC) Inc. <Emphasis style="italic">see</Emphasis> SOR-2017-245</Text>
+  </General>
+  <General>
+    <Text>General, the Act applicable to Project Deliver I Ltd <Emphasis style="italic">see</Emphasis> SOR/2018-167</Text>
+  </General>
+  <General>
+    <Text>General, the Act applicable to Project Deliver II Ltd <Emphasis style="italic">see</Emphasis> SOR/2018-168</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 1994, c. 24, s. 34(2)(F)</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1994, c. 24, s. 34 in force on assent 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 12, s. 124 in force 31.07.2000 <Emphasis style="italic">see</Emphasis> SI/2000-76</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, ss. 224 and 225 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-167, Proclamation in force 18.07.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2018-168, Proclamation in force 18.07.2018</Text>
+  </CIF>
+</Statute>
+</TOPS>

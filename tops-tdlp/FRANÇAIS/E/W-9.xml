@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="W-9">
+  <Title>Espèces sauvages du Canada, Loi sur les</Title>
+  <ChapterNumber>L.R. (1985), ch. W-9</ChapterNumber>
+  <TitleChanged>
+    <Text>(Ancienne appellation : Faune du Canada)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Canada Wildlife Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de l’Environnement</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Titre intégral</Label>
+    <Text>1994, ch. 23, art. 1(F)</Text>
+  </LongTitle>
+  <Section>
+    <Label>1</Label>
+    <Text>1994, ch. 23, art. 2(F)</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>1994, ch. 23, art. 4; 2004, ch. 25, art. 114(F); 2009, ch. 14, art. 41; 2024, ch. 30, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>ajouté, 1994, ch. 23, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1994, ch. 23, art. 6(F)</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1991, ch. 50, art. 47; 1994, ch. 23, art. 7; 1999, ch. 31, art. 222; 2002, ch. 29, art. 134</Text>
+  </Section>
+  <Section>
+    <Label>4.1</Label>
+    <Text>ajouté, 1994, ch. 23, art. 8; 1996, ch. 31, art. 107</Text>
+  </Section>
+  <Section>
+    <Label>4.2</Label>
+    <Text>ajouté, 2002, ch. 29, art. 135</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1994, ch. 23, art. 9(F)</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>1994, ch. 23, art. 10(F)</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1994, ch. 23, art. 11(F); 2004, ch. 25, art. 115</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1994, ch. 23, art. 12(F); 2004, ch. 25, art. 116(F)</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1994, ch. 23, art. 13; 2009, ch. 14, art. 42</Text>
+  </Section>
+  <Section>
+    <Label>11.1</Label>
+    <Text>ajouté, 1994, ch. 23, art. 13; 2009, ch. 14, art. 43</Text>
+  </Section>
+  <Section>
+    <Label>11.11</Label>
+    <Text>ajouté, 2009, ch. 14, art. 44</Text>
+  </Section>
+  <Section>
+    <Label>11.12</Label>
+    <Text>ajouté, 2009, ch. 14, art. 44</Text>
+  </Section>
+  <Section>
+    <Label>11.13</Label>
+    <Text>ajouté, 2009, ch. 14, art. 44</Text>
+  </Section>
+  <Section>
+    <Label>11.2</Label>
+    <Text>ajouté, 1994, ch. 23, art. 13</Text>
+  </Section>
+  <Section>
+    <Label>11.3</Label>
+    <Text>ajouté, 1994, ch. 23, art. 13; 2003, ch. 22, al. 224y)(A); 2004, ch. 25, art. 117(F)</Text>
+  </Section>
+  <Section>
+    <Label>11.4</Label>
+    <Text>ajouté, 1994, ch. 23, art. 13; 2009, ch. 14, art. 45(F)</Text>
+  </Section>
+  <Section>
+    <Label>11.5</Label>
+    <Text>ajouté, 1994, ch. 23, art. 13; 2001, ch. 4, art. 128(A); 2004, ch. 25, art. 118(F); 2009, ch. 14, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>11.6</Label>
+    <Text>ajouté, 2009, ch. 14, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>11.7</Label>
+    <Text>ajouté, 2009, ch. 14, art. 46; 2017, ch. 26, al. 63b)(A)</Text>
+  </Section>
+  <Section>
+    <Label>11.8</Label>
+    <Text>ajouté, 2009, ch. 14, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>11.9</Label>
+    <Text>ajouté, 2009, ch. 14, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>11.91</Label>
+    <Text>ajouté, 2009, ch. 14, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>11.92</Label>
+    <Text>ajouté, 2009, ch. 14, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>11.93</Label>
+    <Text>ajouté, 2009, ch. 14, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>11.94</Label>
+    <Text>ajouté, 2009, ch. 14, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>11.95</Label>
+    <Text>ajouté, 2009, ch. 14, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>11.96</Label>
+    <Text>ajouté, 2009, ch. 14, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>11.97</Label>
+    <Text>ajouté, 2009, ch. 14, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>1991, ch. 50, art. 48; 1994, ch. 23, art. 14; 2002, ch. 29, art. 136; 2009, ch. 14, art. 47</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>1994, ch. 23, art. 15; 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.01</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.02</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.03</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.04</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.05</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.06</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.07</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.08</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.09</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.091</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.1</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.11</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.12</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>13.13</Label>
+    <Text>ajouté, 2009, ch. 14, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>ajouté, 1994, ch. 23, art. 15</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>ajouté, 1994, ch. 23, art. 15</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>ajouté, 1994, ch. 23, art. 15; 2004, ch. 25, art. 119(A); 2009, ch. 14, art. 49</Text>
+  </Section>
+  <Section>
+    <Label>16.1</Label>
+    <Text>ajouté, 2009, ch. 14, art. 50</Text>
+  </Section>
+  <Section>
+    <Label>16.2</Label>
+    <Text>ajouté, 2009, ch. 14, art. 50</Text>
+  </Section>
+  <Section>
+    <Label>16.3</Label>
+    <Text>ajouté, 2009, ch. 14, art. 50</Text>
+  </Section>
+  <Section>
+    <Label>16.4</Label>
+    <Text>ajouté, 2009, ch. 14, art. 50</Text>
+  </Section>
+  <Section>
+    <Label>16.5</Label>
+    <Text>ajouté, 2009, ch. 14, art. 50</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>ajouté, 1994, ch. 23, art. 15; 1995, ch. 22, art. 18, ann. IV, art. 27</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>ajouté, 1994, ch. 23, art. 15; 2009, ch. 14, art. 51</Text>
+  </Section>
+  <Section>
+    <Label>18.1</Label>
+    <Text>ajouté, 2009, ch. 14, art. 51</Text>
+  </Section>
+  <Section>
+    <Label>18.2</Label>
+    <Text>ajouté, 2009, ch. 14, art. 51</Text>
+  </Section>
+  <Section>
+    <Label>18.3</Label>
+    <Text>ajouté, 2009, ch. 14, art. 51</Text>
+  </Section>
+  <Section>
+    <Label>18.4</Label>
+    <Text>ajouté, 2009, ch. 14, art. 51</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>ajouté, 1994, ch. 23, art. 15; abrogé, 1992, ch. 47, art. 84, ann., art. 16; 2003, ch. 22, al. 224y)(A)</Text>
+  </Section>
+  <General>
+    <Text>disposition générale, 1995, ch. 22, art. 26</Text>
+  </General>
+  <CIF>
+    <Text>EEV, 1991, ch. 50, art. 47 et 48 en vigueur 15.09.92 <Emphasis style="italic">voir</Emphasis> TR/92-151</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1992, ch. 47, art. 84, ann., art. 16 entre en vigueur dans une province ou partout au Canada à la date ou aux dates fixées par décret pour cette province ou pour tout le pays <Emphasis style="italic">voir</Emphasis> par. 86(2) et <Emphasis style="italic">aussi</Emphasis> 1996, ch. 7, art. 42 — non en vigueur</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1994, ch. 23, art. 1 à 16 en vigueur à la sanction 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1995, ch. 22, art. 18, ann. IV, art. 27 et art. 26 en vigueur 03.09.96 <Emphasis style="italic">voir</Emphasis> TR/96-79</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 31, art. 107 en vigueur 31.01.97 <Emphasis style="italic">voir</Emphasis> TR/97‑21</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 31, art. 222 en vigueur à la sanction 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 4, art. 128 en vigueur 01.06.2001 <Emphasis style="italic">voir</Emphasis> TR/2001‑71</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 29, art. 134 à 136 en vigueur 24.03.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-43</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 22, art. 224 en vigueur 01.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 25, art. 114 à 119 en vigueur à la sanction 15.12.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2009, ch. 14 (sanction : 18.06.2009), art. 41 à 46, par. 47(1) et art. 49 à 51 en vigueur 10.12.2010 <Emphasis style="italic">voir</Emphasis> TR/2010-91; par. 47(2) et art. 48 en vigueur 12.07.2017 <Emphasis style="italic">voir</Emphasis> TR/2017-28.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2017, ch. 26, al. 63b) en vigueur à la sanction 12.12.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 30, art. 5 en vigueur à la sanction 27.11.2024</Text>
+  </CIF>
+</Statute>
+</TOPS>

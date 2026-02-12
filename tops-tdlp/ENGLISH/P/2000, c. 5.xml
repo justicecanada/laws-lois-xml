@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2000, c. 5">
+  <Title>Personal Information Protection and Electronic Documents Act</Title>
+  <ChapterNumber>2000, c. 5</ChapterNumber>
+  <OtherLangTitle>(Protection des renseignements personnels et les documents électroniques, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Industry</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2002, c. 8, par. 183(1)(r); 2015, c. 32, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2015, c. 32, s. 3, c. 36, s. 164</Text>
+  </Section>
+  <Section>
+    <Label>4.01</Label>
+    <Text>added, 2015, c. 32, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>4.1</Label>
+    <Text>added, 2001, c. 41, s. 103; 2024, c. 16, s. 93</Text>
+  </Section>
+  <Section>
+    <Label>6.1</Label>
+    <Text>added, 2015, c. 32, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2000, c. 17, par. 97(1)(a); 2001, c. 41, s. 81; 2004, c. 15, s. 98; 2015, c. 32, s. 6; 2024, c. 17, s. 347</Text>
+  </Section>
+  <Section>
+    <Label>7.1</Label>
+    <Text>added, 2010, c. 23, s. 82; 2015, c. 32, s. 26(2)</Text>
+  </Section>
+  <Section>
+    <Label>7.2</Label>
+    <Text>added, 2015, c. 32, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>7.3</Label>
+    <Text>added, 2015, c. 32, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>7.4</Label>
+    <Text>added, 2015, c. 32, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2015, c. 32, s. 8(F)</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2000, c. 17, par. 97(1)(b) to (d); 2001, c. 41, s. 82; 2005, c. 46, s. 57 (<Emphasis style="italic">see also</Emphasis> 2006, c. 9, s. 223); 2015, c. 32, s. 9; 2019, c. 18, s. 61</Text>
+  </Section>
+  <Section>
+    <Label>10.1</Label>
+    <Text>added, 2015, c. 32, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>10.2</Label>
+    <Text>added, 2015, c. 32, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>10.3</Label>
+    <Text>added, 2015, c. 32, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2015, c. 32, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2010, c. 23, s. 83</Text>
+  </Section>
+  <Section>
+    <Label>12.1</Label>
+    <Text>added, 2010, c. 23, s. 83</Text>
+  </Section>
+  <Section>
+    <Label>12.2</Label>
+    <Text>added, 2010, c. 23, s. 83; 2015, c. 32, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2010, c. 23, s. 84</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2010, c. 23, s. 85; 2015, c. 32, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2015, c. 32, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>17.1</Label>
+    <Text>added, 2015, c. 32, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>17.2</Label>
+    <Text>added, 2015, c. 32, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2015, c. 32, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2010, c. 23, s. 86; 2015, c. 32, ss. 17 and 26(3)</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2015, c. 32, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2010, c. 23, s. 87</Text>
+  </Section>
+  <Section>
+    <Label>23.1</Label>
+    <Text>added, 2010, c. 23, s. 87</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2015, c. 32, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2015, c. 32, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2015, c. 32, s. 21, c. 36, s. 165</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2015, c. 32, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>27.1</Label>
+    <Text>2015, c. 32, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2015, c. 32, s. 24</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch. 2</Label>
+    <Text>SOR/2004-309; SOR/2008-114; SOR/2019-84</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Sch. 3</Label>
+    <Text>SOR/2004-309; SOR/2005-407</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Sch. 4</Label>
+    <Text>added, 2015, c. 36, s. 166</Text>
+  </Schedule>
+  <ConditionalAmendment>
+    <Text>Conditional amendments, 2000, c. 17, s. 97</Text>
+  </ConditionalAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2015, c. 32, s. 26</Text>
+  </CoordinatingAmendment>
+  <CIF>
+    <Text>CIF, 2000, c. 5, s. 1 in force on assent 13.04.2000; Parts 2, 3 and 4 (ss. 31 to 59) in force 01.05.2000 and Part 1 (ss. 2 to 30) in force 01.01.2001 <Emphasis style="italic">see</Emphasis> SI/2000‑29; Part 5 (ss. 60 to 71) in force 01.06.2009 <Emphasis style="italic">see</Emphasis> SI/2009-42</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 17, s. 97 in force on assent 29.06.2000 but <Emphasis style="italic">see</Emphasis> conditions of application</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 41, ss. 81 and 82 in force on assent 18.12.2001; s. 103 in force 24.12.2001 <Emphasis style="italic">see</Emphasis> SI/2002-16</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, s. 183 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 15, s. 98 in force 11.05.2004 <Emphasis style="italic">see</Emphasis> SI/2004-51</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 46, s. 57 in force 15.04.2007 <Emphasis style="italic">see</Emphasis> SI/2007-43 (<Emphasis style="italic">Note:</Emphasis> 2005, c. 46, s. 57 replaced by 2006, c. 9, s. 223)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2006, c. 9, s. 223 in force on assent 12.12.2006</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 23 (assent: 15.12.2010), ss. 12(1), (3) and (4), 12.1, 12.2(1) and (3) of the <XRefExternal reference-type="act">Personal Information Protection and Electronic Documents Act</XRefExternal>, as enacted by s. 83, and ss. 84, 85, 86(1) and 87 in force 01.04.2011 <Emphasis style="italic">see</Emphasis> SI/2011-22</Text>
+    <List>
+      <Item>
+        <Text>— ss. 82, ss. 12(2) and 12.2(2) of the <XRefExternal reference-type="act">Personal Information Protection and Electronic Documents Act</XRefExternal>, as enacted by s. 83, and s. 86(2) in force 01.07.2014 <Emphasis style="italic">see</Emphasis> SI/2013-127</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 32, ss. 1 to 9, 12, 13, 15, 16, 17(2) and (3), 18, 20, 21 and 26 in force on assent 18.06.2015</Text>
+    <List>
+      <Item>
+        <Text>— ss. 10, 11, 14, 17(1) and (4), 19 and 22 to 24 in force 01.11.2018 <Emphasis style="italic">see</Emphasis> SI/2018-32</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 36, ss. 164 to 166 in force on assent 23.06.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 16, s. 93 in force on the 60th day after the day on which the <XRefExternal reference-type="act">Countering Foreign Interference Act</XRefExternal> receives royal assent <Emphasis style="italic">see</Emphasis> s. 112 (19.08.2024)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 17, s. 347 in force 04.02.2025 <Emphasis style="italic">see</Emphasis> SI/2025-24 (b)(ii) </Text>
+  </CIF>
+</Statute>
+</TOPS>

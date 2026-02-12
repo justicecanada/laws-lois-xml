@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="B-4">
+  <Title>Bills of Exchange Act</Title>
+  <ChapterNumber>R.S., 1985, c. B-4</ChapterNumber>
+  <OtherLangTitle>(Lettres de change, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Finance; Minister of Industry (1995, c. 1, s. 62(3)) (ss. 188-192)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1999, c. 28, s. 148</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2021, c. 11, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>163.1</Label>
+    <Text>added, 2007, c. 6, s. 398</Text>
+  </Section>
+  <Section>
+    <Label>163.2</Label>
+    <Text>added, 2007, c. 6, s. 398</Text>
+  </Section>
+  <Section>
+    <Label>163.3</Label>
+    <Text>added, 2007, c. 6, s. 398</Text>
+  </Section>
+  <Section>
+    <Label>163.4</Label>
+    <Text>added, 2007, c. 6, s. 398</Text>
+  </Section>
+  <Section>
+    <Label>163.5</Label>
+    <Text>added, 2007, c. 6, s. 398</Text>
+  </Section>
+  <Section>
+    <Label>163.6</Label>
+    <Text>added, 2007, c. 6, s. 398</Text>
+  </Section>
+  <Section>
+    <Label>164</Label>
+    <Text>2001, c. 9, s. 586</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch.:</Label>
+    <List>
+      <Item>
+        <Text>Form 2, 2000, c. 12, s. 22</Text>
+      </Item>
+      <Item>
+        <Text>Form 5, 2000, c. 12, s. 23</Text>
+      </Item>
+      <Item>
+        <Text>Form 10, 2000, c. 12, s. 24</Text>
+      </Item>
+    </List>
+  </Schedule>
+  <CIF>
+    <Text>CIF, 1999, c. 28, s. 148 in force 28.06.99 <Emphasis style="italic">see</Emphasis> SI/99‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 12, ss. 22 to 24 in force 31.07.2000 <Emphasis style="italic">see</Emphasis> SI/2000‑76</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 9, s. 586 in force 24.10.2001 <Emphasis style="italic">see</Emphasis> SI/2001-102</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 6, s. 398 in force 20.04.2007 <Emphasis style="italic">see</Emphasis> SI/2007-49</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2021, c. 11 (assent: 03.06.2021), s. 2 in force 03.08.2021 <Emphasis style="italic">see</Emphasis> s. 6</Text>
+  </CIF>
+</Statute>
+</TOPS>

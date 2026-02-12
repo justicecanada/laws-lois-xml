@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="V-1.3">
+  <Title>Veterans Benefit Act</Title>
+  <ChapterNumber>R.S.C. 1970, c. V-2</ChapterNumber>
+  <?Pub Caret 18?>
+  <OtherLangTitle>(Avantages destinés aux anciens combattants, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Veterans Affairs</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2000, c. 34, par. 93(c)(F)</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1985, c. 26, s. 66 (items 5(1) to (3))</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1985, c. 26, s. 66 (items 5(4), (5)); repealed, 1993, c. 34, s. 133</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1985, c. 26, s. 66 (item 5(6)); repealed, 2000, c. 34, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1980-81-82-83, c. 78, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1985, c. 26, s. 66 (item 5(7))</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>1985, c. 26, s. 66 (items 5(8) to (10)); repealed, 1993, c. 34, s. 134</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2000, c. 34, s. 57; 2003, c. 22, s. 245</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1985, c. 26, s. 66 (item 5(11))</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1985, c. 26, s. 66 (items 5(12), (13)); repealed, 1988, c. 2, s. 68 (Sch. IV, item 4)</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 1985, c. 26, s. 66 proclaimed in force 02.10.86 <Emphasis style="italic">see</Emphasis> SI/86‑192</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1988, c. 2, s. 68 (Sch. IV, item 4) in force 04.02.88</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 34, ss. 133 and 134 in force on assent 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 34, ss. 56, 57 and 93 in force 27.10.2000 <Emphasis style="italic">see</Emphasis> SI/2000-105</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 245 in force 31.12.2005 <Emphasis style="italic">see</Emphasis> SI/2005-122</Text>
+  </CIF>
+</Statute>
+</TOPS>

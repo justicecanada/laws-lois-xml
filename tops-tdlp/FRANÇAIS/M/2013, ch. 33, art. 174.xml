@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2013, ch. 33, art. 174">
+  <Title>Ministère des Affaires étrangères, du Commerce et du Développement, Loi sur le</Title>
+  <ChapterNumber>2013, ch. 33, art. 174</ChapterNumber>
+  <OtherLangTitle>(Department of Foreign Affairs, Trade and Development Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre des Affaires étrangères (par. 2(2)); un ministre auxiliaire pour le Commerce international (art. 4); un ministre auxiliaire du Développement international, chargé d’assister le ministre dans l’exercice de ses attributions relatives au développement international, à la réduction de la pauvreté et à l’aide humanitaire (art. 5)</Text>
+  </Minister>
+  <Section>
+    <Label>10</Label>
+    <Text>2025, ch. 1, art. 1</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2013, ch. 40, art. 175</Text>
+  </Section>
+  <Terminology>
+    <Text>Terminologie, 2013, ch. 33, art. 195 (modifications terminologiques dans toute disposition d’une loi fédérale, la mention du ministère des Affaires étrangères et du Commerce international), art. 196 à 198 (aussi <Emphasis style="italic">mais</Emphasis> remplacer par le titre différent du ministre)</Text>
+  </Terminology>
+  <CIF>
+    <Text>EEV, 2013, ch. 33, art. 174, 195 à 198 en vigueur à la sanction 26.06.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 40, art. 175 en vigueur à la sanction 12.12.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2025, ch. 1, art. 1 en vigueur à la sanction 26.06.2025</Text>
+  </CIF>
+</Statute>
+</TOPS>

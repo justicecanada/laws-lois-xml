@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1995, c. 18">
+  <Title>Veterans Review and Appeal Board Act</Title>
+  <ChapterNumber>1995, c. 18</ChapterNumber>
+  <OtherLangTitle>(Tribunal des anciens combattants (révision et appel), Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Veterans Affairs</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2000, c. 34, par. 94(l)(F) and 95(d)(F)</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2013, c. 40, s. 276</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2003, c. 22, par. 224(<Emphasis style="italic">z</Emphasis>.84)(E) and 225(<Emphasis style="italic">z</Emphasis>.27)(E)</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2000, c. 34, par. 94(l)(F)</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2005, c. 21, s. 110</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>1999, c. 10, s. 38; 2000, c. 34, s. 66(F); 2005, c. 21, s. 111; 2015, c. 36, s. 226; 2018, c. 12, s. 180</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>1995, c. 17, s. 73(a); 2000, c. 34, par. 95(d)(F); 2015, c. 3, s. 158</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2005, c. 21, s. 112</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>1999, c. 10, s. 39, 2000, c. 12, s. 315</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>2000, c. 34, s. 67; 2005, c. 21, s. 113; 2015, c. 3, s. 159(F), c. 36, s. 227; 2018, c. 12, s. 181</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>1999, c. 10, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2005, c. 21, s. 114</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2002, c. 8, s. 179</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>1995, c. 17, s. 73(b)</Text>
+  </Section>
+  <Section>
+    <Label>108</Label>
+    <Text>2000, c. 34, par. 94(l)(F)</Text>
+  </Section>
+  <Section>
+    <Label>109</Label>
+    <Text>2000, c. 34, par. 94(l)(F)</Text>
+  </Section>
+  <Section>
+    <Label>111</Label>
+    <Text>1999, c. 10, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>112</Label>
+    <Text>2000, c. 34, par. 94(l)(F)</Text>
+  </Section>
+  <Section>
+    <Label>113</Label>
+    <Text>2000, c. 34, par. 94(l)(F)</Text>
+  </Section>
+  <Transitional>
+    <Text>Transitional, 1995, c. 18 ss. 106 to 113</Text>
+  </Transitional>
+  <ConditionalAmendment>
+    <Text>Conditional amendments, 1995, c. 18, ss. 114 to 118</Text>
+  </ConditionalAmendment>
+  <CIF>
+    <Text>CIF, 1995, c. 17, s. 73 in force on assent 15.06.95</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 18, ss. 114 to 118 in force on assent 22.06.95 <Emphasis style="italic">see</Emphasis> s. 119(1); ss. 1 to 113 in force 15.09.95 <Emphasis style="italic">see</Emphasis> SI/95‑108</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 10, ss. 38 to 41 in force 01.05.99 <Emphasis style="italic">see</Emphasis> SI/99-46</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 12, s. 315 in force 31.07.2000 <Emphasis style="italic">see</Emphasis> SI/2000-76</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 34, ss. 66, 67, 94 and 95 in force 27.10.2000 <Emphasis style="italic">see</Emphasis> SI/2000-105</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, s. 179 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, ss. 224 and 225 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 21, ss. 110 to 114 in force 01.04.2006 <Emphasis style="italic">see</Emphasis> SI/2006-54</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40, s. 276 in force on assent 12.12.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 3, ss. 158 and 159 in force on assent 26.02.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 36 (assent: 23.06.2015), ss. 226 and 227 in force 01.07.2015 <Emphasis style="italic">see</Emphasis> s. 229</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 12 (assent: 21.06.2018), ss. 180 and 181 in force 01.04.2019 <Emphasis style="italic">see</Emphasis> s. 185(1)</Text>
+  </CIF>
+</Statute>
+</TOPS>

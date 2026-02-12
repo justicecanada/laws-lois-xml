@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2013, c. 40">
+  <Title>Economic Action Plan 2013 Act, No. 2</Title>
+  <ChapterNumber>2013, c. 40</ChapterNumber>
+  <OtherLangTitle>(Plan d’action économique de 2013, Loi n<Sup>o</Sup> 2)</OtherLangTitle>
+  <Minister>
+    <Text>Introduced by Minister of Finance</Text>
+  </Minister>
+  <Section>
+    <Label>60</Label>
+    <Text>2017, c. 33, s. 82</Text>
+  </Section>
+  <Section>
+    <Label>249</Label>
+    <Text>2014, c. 39, s. 261</Text>
+  </Section>
+  <Section>
+    <Label>250.1</Label>
+    <Text>added, 2014, c. 39, s. 262</Text>
+  </Section>
+  <Section>
+    <Label>253 to 260</Label>
+    <Text>repealed, 2014, c. 39, s. 263; added, c. 39, s. 264</Text>
+  </Section>
+  <Section>
+    <Label>269</Label>
+    <Text>2014, c. 39, s. 265</Text>
+  </Section>
+  <Section>
+    <Label>290</Label>
+    <Text>2014, c. 20, s. 306</Text>
+  </Section>
+  <Section>
+    <Label>307</Label>
+    <Text>2018, c. 24, ss. 30, c. 27, s. 435</Text>
+  </Section>
+  <Section>
+    <Label>316</Label>
+    <Text>2018, c. 24, ss. 31, c. 27, s. 436</Text>
+  </Section>
+  <Section>
+    <Label>333</Label>
+    <Text>2013, c. 40, s. 467(3); 2014, c. 39, s. 382</Text>
+  </Section>
+  <Section>
+    <Label>338</Label>
+    <Text>2014, c. 20, s. 309</Text>
+  </Section>
+  <Section>
+    <Label>339</Label>
+    <Text>repealed, 2018, c. 24, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>341</Label>
+    <Text>repealed, 2018, c. 24, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>351</Label>
+    <Text>2014, c. 39, s. 383</Text>
+  </Section>
+  <Section>
+    <Label>354</Label>
+    <Text>2014, c. 39, s. 384</Text>
+  </Section>
+  <Section>
+    <Label>360</Label>
+    <Text>repealed, 2018, c. 24, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>364</Label>
+    <Text>2018, c. 27, s. 437</Text>
+  </Section>
+  <Section>
+    <Label>365</Label>
+    <Text>2014, c. 20, s. 471</Text>
+  </Section>
+  <Section>
+    <Label>366</Label>
+    <Text>2014, c. 20, s. 472</Text>
+  </Section>
+  <Section>
+    <Label>404</Label>
+    <Text>2014, c. 20, s. 473</Text>
+  </Section>
+  <Section>
+    <Label>413</Label>
+    <Text>2014, c. 20, s. 474</Text>
+  </Section>
+  <Section>
+    <Label>445</Label>
+    <Text>repealed, 2018, c. 27, s. 438</Text>
+  </Section>
+  <Section>
+    <Label>447</Label>
+    <Text>repealed, 2014, c. 20, s. 475</Text>
+  </Section>
+  <Section>
+    <Label>452</Label>
+    <Text>repealed, 2014, c. 20, s. 476</Text>
+  </Section>
+  <Section>
+    <Label>455</Label>
+    <Text>repealed, 2014, c. 20, s. 477</Text>
+  </Section>
+  <Section>
+    <Label>458</Label>
+    <Text>repealed, 2014, c. 20, s. 478</Text>
+  </Section>
+  <Section>
+    <Label>460</Label>
+    <Text>repealed, 2014, c. 20, s. 479</Text>
+  </Section>
+  <Section>
+    <Label>469</Label>
+    <Text>2014, c. 39, s. 385</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2013, c. 40, ss. 120, 281, 363 and 467 to 469</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2017, c. 9, par. 66(b)</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2013, c. 40, ss. 96 to 119 (regulations), 236 to 238 (terminology), 239 to 248 (Dominion Coal Blocks) and 249 to 260 (reorganization of certain Crown Corporations (Bridges))</Text>
+  </General>
+  <General>
+    <Text>General, 2017, c. 33, s. 82</Text>
+  </General>
+  <Transitional>
+    <Text>Transitionals, 2013, c. 40, ss. 199, 217 to 220, 338, 339, 341, 360, 391 to 402, 415 to 424, 438, 440 and 445</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2014, c. 20, ss. 309, 378 and 380</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2013, c. 40, ss. 1, 2(2), 3, 4, 5(2), 6(5) and (6), 7(2), 8(1) to (5), (7) and (8), 9(2), 10(2), 11 to 17, 18(6) and (7), 19(1) and (4), 20, 21(2), 22(1), (2), (4) and (7) to (9), 23(1), (3) and (4), 24, 25, 26(2), 27 to 29, 30(3) and (4), 31(7) to (9), 32(2), 33 to 35, 36(4), 37(2), 38, 39(2) to (4), 40 to 44, 45(2), 46, 47(3) and (6), 48 to 50, 51(1), (3) and (4), 52 to 56, 57(9) and (10), 58 to 65, 66(2), 67 to 69, 70(2), 71(2), 72, 73(2), 74(7), (8) and (17) to (20), 75(4), 76(2), 77(3), 78(2), 79, 80(2), 81(2), 82, 83(2), 84(1), (3) and (4), 85(1) and (3), 86(2), 87, 88, 89(1) to (4), (6) and (7), 90(2), 91, 92(2), 93(7) and (8), 94(2), 95(2), 120, 121(2), 122(2), 123(2), 124(2), 125, 126(2) and (6), 127(1) and (2), 128(1) and (2), 129, 130, 132 to 135, 137 to 175, 203 to 252, 264, 265, 269, 270 to 276, 278 to 289, 293 to 306, 307(1), 308 to 315, 316(1), 317 to 324, 337 to 339, 341, 360 to 364 and 467 to 472 in force on assent 12.12.2013 [<Emphasis style="italic">Note</Emphasis>: s. 469(6) (coordinating amendment) was amended by 2014, c. 39, s. 385]</Text>
+    <List>
+      <Item>
+        <Text>— [<Emphasis style="italic">Note</Emphasis>: s. 137 repeals <XRefExternal reference-type="act">Canada Employment Insurance Financing Board Act</XRefExternal>, 2008, c. 28, s. 121]</Text>
+      </Item>
+      <Item>
+        <Text>— [<Emphasis style="italic">Note</Emphasis>: s. 282 enacts <XRefExternal reference-type="act">Mackenzie Gas Project Impacts Fund Act</XRefExternal> and its schedule]</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 2(1), 6(1), (3) and (4), 7(1), 8(6), 9(1), 18(1) to (5), 19(2) and (3), 22(3), (5) and (6), 23(2) to (5), 30(1), 31(2), (3), (5) and (6), 32(1), 36(1) to (3), 37(1), 39(1), 45(1), 47(1), (2), (4) and (5), 57(2) to (8), 66(1), 73(1), 80(1), 89(5), 90(1), 92(1), 93(1) and (3) to (6), 94(1) in force 21.03.2013 <Emphasis style="italic">see respectively</Emphasis> ss. 2(2), 6(5), 7(2), 8(8), 9(2), 18(7), 19(4), 22(9), 23(4), 30(3), 31(8), 32(2), 36(4), 37(2), 39(3), 45(2), 47(6), 57(10), 66(2), 73(2), 80(2), 89(7), 90(2), 92(2), 93(7) and 94(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 5(1) and 10(1) in force 20.07.2011 <Emphasis style="italic">see respectively</Emphasis> ss. 5(2) and 10(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 6(2) in force 12.12.2014, (<Emphasis style="italic">Technical Guide to Class 43.1 and 43.2</Emphasis> first published date by the Department of Natural Resources <Emphasis style="italic">see</Emphasis> <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal>, Part I, Vol. 148, No. 50, p. 3011, 13.12.2014</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 21(1), 31(1) and 57(1) in force 21.12.2012 <Emphasis style="italic">see respectively</Emphasis> ss. 21(2), 31(7) and 57(9)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 26(1) in force 01.03.1994 <Emphasis style="italic">see</Emphasis> s. 26(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 30(2) and 31(4) in force 22.03.2011 <Emphasis style="italic">see respectively</Emphasis> ss. 30(4) and 31(9)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 51(2) in force 31.10.2006 <Emphasis style="italic">see</Emphasis> s. 51(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 70(1), 71(1), 85(2), 86(1), 121(1), 122(1) and 123(1) in force 01.01.2014 <Emphasis style="italic">see respectively</Emphasis> ss. 70(2), 71(2), 85(3), 86(2), 121(1), 122(2) and 123(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 74(1) to (6), (9), (10), (13), (14) and (16), 75(1) to (3), 76(1), 77(1) and (2) and 78(1) in force 23.03.2011 <Emphasis style="italic">see respectively</Emphasis> ss. 74(17), 75(4), 76(2), 77(3) and 78(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 74(11) and (12) in force 01.07.2011 <Emphasis style="italic">see</Emphasis> s. 74(19)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 74(15) in force 01.01.2009 <Emphasis style="italic">see</Emphasis> s. 74(20)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 81(1) and 86(1) in force 24.10.2012 <Emphasis style="italic">see respectively</Emphasis> ss. 81(2) and 86(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 83(1) in force 25.07.2012 <Emphasis style="italic">see</Emphasis> s. 83(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 84(2) in force 05.03.2010 <Emphasis style="italic">see</Emphasis> s. 84(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 93(2) in force 13.09.2013 <Emphasis style="italic">see</Emphasis> s. 93(8)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 95(1) in force 15.12.2011 <Emphasis style="italic">see</Emphasis> s. 95(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 96 to 119 <Emphasis style="italic">see</Emphasis> different coming into force provisions</Text>
+      </Item>
+      <Item>
+        <Text>— s. 124(1) in force 17.12.1990 <Emphasis style="italic">see</Emphasis> s. 124(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 126(1), (4), (5), (7), (8) and (10), 127(3), 128(3), 131 and 136 in force 01.04.2016 <Emphasis style="italic">see</Emphasis> s. 158(1)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 126(3) in force 01.01.2017 <Emphasis style="italic">see</Emphasis> s. 158(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 126(9) in force 01.01.2018 <Emphasis style="italic">see</Emphasis> s. 158(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 157 in force 07.04.2013 <Emphasis style="italic">see</Emphasis> s. 158(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 176 to 203 (Division 5 of Part 3) in force 31.10.2014 <Emphasis style="italic">see</Emphasis> SI/2014-52</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 253 to 260 in force on assent <Emphasis style="italic">see</Emphasis> s. 269 as amended by 2014, c. 39, s. 265</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 261 and 268 in force 01.02.2015 <Emphasis style="italic">see</Emphasis> SI/2015-10</Text>
+      </Item>
+      <Item>
+        <Text>— s. 262 repealed before coming into force 31.12.2023 <Emphasis style="italic">see</Emphasis> 2008, c. 20, s. 3</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 263, 266 and 267 in force 22.11.2024 <Emphasis style="italic">see</Emphasis> SI/2024-60</Text>
+      </Item>
+      <Item>
+        <Text>— s. 277 in force 09.10.2014 <Emphasis style="italic">see</Emphasis> SI/2014-82</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 290 to 292 in force 01.01.2015 <Emphasis style="italic">see</Emphasis> SI/2014-99</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 307(2) and 316(2) repealed before coming into force <Emphasis style="italic">see</Emphasis> 2018, c. 24, ss. 30 and 31; <Emphasis style="italic">see</Emphasis> also 2018, c. 27, ss. 435 and 436</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 325 to 332, 333(2) and 334 to 336 repealed before coming into force <Emphasis style="italic">see</Emphasis> 2018, c. 24, s. 32</Text>
+      </Item>
+      <Item>
+        <Text>— s. 333(1) repealed before coming into force <Emphasis style="italic">see</Emphasis> 2014, c. 39, s. 382</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 340 and 342 to 359 repealed before coming into force <Emphasis style="italic">see</Emphasis> 2018, c. 24, s. 33</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 365 to 403, 404(1) and (3), 405 to 446, 448 to 451, 453, 454, 456, 457, 459 and 461 to 466 and the provisions of any Act as they are enacted by Division 18 in force 01.11.2014 <Emphasis style="italic">see</Emphasis> SI/2014-84</Text>
+      </Item>
+      <Item>
+        <Text>— [<Emphasis style="italic">Note</Emphasis>: s. 365 enacts <XRefExternal reference-type="act">Public Service Labour Relations and Employment Board Act</XRefExternal> and was amended before coming into force <Emphasis style="italic">see</Emphasis> 2014, c. 20, s. 471]</Text>
+      </Item>
+      <Item>
+        <Text>— [<Emphasis style="italic">Note</Emphasis>: ss. 366 and 413 were amended before coming into force <Emphasis style="italic">see respectively</Emphasis> 2014, c. 20, ss. 472 and 474]</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 404(2), 447, 452, 455, 458 and 460 repealed before coming into force <Emphasis style="italic">see respectively</Emphasis> 2014, c. 20, ss. 473 and 475 to 479</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See also</Emphasis> various application provisions throughout</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 20, ss. 306 and 471 to 479 in force on assent 19.06.2014; s. 309 deemed in force 12.12.2013 <Emphasis style="italic">see</Emphasis> s. 310(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 39, ss. 261 to 265 and 382 to 384 in force on assent 16.12.2014; s. 385 deemed in force 12.12.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 33, s. 82 in force on assent 14.12.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 24, ss. 30 to 33 in force on assent 26.11.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 27, ss. 435 to 438 come into force on a day or days to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> 440(3) — Not in force</Text>
+  </CIF>
+</Statute>
+</TOPS>

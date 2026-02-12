@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="L-1">
+  <Title>Prestations d’adaptation pour les travailleurs, Loi sur les</Title>
+  <ChapterNumber>L.R. (1985), ch. L-1</ChapterNumber>
+  <OtherLangTitle>(Labour Adjustment Benefits Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de l’Emploi et du Développement social (2013, ch. 40, art. 220)(2005, ch. 34, art. 80)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1996, ch. 11, al. 95j) et 99d), ch. 23, art. 177; 2005, ch. 34, al. 80g); 2012, ch. 19, art. 273; 2013, ch. 40, sous-al. 236(1)f)(i) et al. 238(1)j); 2023, ch. 26, art. 657</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2003, ch. 22, al. 224z.46)(A)</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>1996, ch. 23, al. 187f); 2012, ch. 19, art. 274; 2013, ch. 40, sous-al. 236(1)f)(ii); 2023, ch. 26, art. 658</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1996, ch. 23, art. 178; 2001, ch. 27, art. 260</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>1996, ch. 23, art. 179</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>1996, ch. 23, art. 180</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>1996, ch. 23, art. 181</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2001, ch. 4, art. 97(F)</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>1996, ch. 23, al. 187f)</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>1996, ch. 11, art. 64; 2005, ch. 34, al. 79e); 2013, ch. 40, al. 237(1)k)</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>1992, ch. 1, art. 92; 1996, ch. 23, art. 182</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>1996, ch. 23, al. 187f); 2002, ch. 8, al. 182(1)v); 2012, ch. 19, art. 275; 2023, ch. 26, art. 659</Text>
+  </Section>
+  <Transitional>
+    <Text>disposition transitoire, 1996, ch. 23, art. 183</Text>
+  </Transitional>
+  <Transitional>
+    <Text>dispositions transitoires, 2023, ch. 26, art. 664 et 678</Text>
+  </Transitional>
+  <CIF>
+    <Text>EEV, 1992, ch. 1, art. 92 en vigueur à la sanction 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 11, art. 64, 95 et 99 en vigueur 12.07.96 <Emphasis style="italic">voir</Emphasis> TR/96‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 23, art. 177 à 183 et 187 en vigueur 30.06.96 <Emphasis style="italic">voir</Emphasis> art. 190</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 4, art. 97 en vigueur 01.06.2001 <Emphasis style="italic">voir</Emphasis> TR/2001‑71</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 27, art. 260 en vigueur 28.06.2002 <Emphasis style="italic">voir</Emphasis> TR/2002-97</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2002, ch. 8, art. 182 en vigueur 02.07.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 22, art. 224 en vigueur 01.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 34, art. 79 et 80 en vigueur 05.10.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-99</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 19, art. 273 à 275 en vigueur à la sanction 29.06.2012</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2013, ch. 40, al. 236(1)f), 237(1)k) et 238(1)j) en vigueur à la sanction 12.12.2013.</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2023, ch. 26 en vigueur à la sanction 22.06.2023, <Emphasis style="italic">sauf</Emphasis></Text>
+    <List>
+      <Item>
+        <Text>— art. 657 à 659 entrent en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> par. 679(1) — non en vigueur</Text>
+      </Item>
+      <Item>
+        <Text>— par. 678(1) entre en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> par. 679(1) — non en vigueur</Text>
+      </Item>
+      <Item>
+        <Text>— par. 678(2) entre en vigueur à la date fixée par décret, laquelle doit être postérieure à la date fixée au titre du par. 679(1) <Emphasis style="italic">voir</Emphasis> par. 679(2) — non en vigueur</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

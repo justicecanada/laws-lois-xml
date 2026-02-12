@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1998, c. 31">
+  <Title>Parks Canada Agency Act</Title>
+  <ChapterNumber>1998, c. 31</ChapterNumber>
+  <OtherLangTitle>(Agence Parcs Canada, Loi sur l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of the Environment (2005, c. 2, s. 3(1))</Text>
+  </Minister>
+  <Heading>
+    <Label>Preamble</Label>
+    <Text>2002, c. 18, s. 33</Text>
+  </Heading>
+  <Section>
+    <Label>2</Label>
+    <Text>1998, c. 31, par. 61.1(a); 2000, c. 32, s. 58; 2002, c. 18, s. 34; 2005, c. 2, s. 3; 2008, c. 16, s. 17; 2015, c. 10, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2005, c. 2, s. 4; 2008, c. 16, s. 18; 2015, c. 10, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2002, c. 18, s. 35; 2005, c. 2, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2002, c. 18, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>6.1</Label>
+    <Text>added, 2012, c. 19, s. 315</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2002, c. 18, s. 37; 2012, c. 19, s. 316</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2003, c. 22, par. 224(z.64)(E)</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2003, c. 22, s. 180 and par. 223(d)(E); 2017, c. 9, subpar. 55(1)(l)(i)</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2003, c. 22, s. 241</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2003, c. 22, s. 181; 2017, c. 9, subpar. 55(1)(l)(ii)</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2019, c. 29, s. 334</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2001, c. 4, s. 166</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2001, c. 4, s. 167; 2002, c. 18, s. 38; 2012, c. 19, s. 317; 2017, c. 10, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2002, c. 18, s. 39; 2012, c. 19, s. 318</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2000, c. 32, s. 59; 2002, c. 18, s. 40; 2012, c. 19, s. 319; 2015, c. 10, s. 58</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>repealed, 2012, c. 19, s. 320</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>repealed, 2012, c. 19, s. 320</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>repealed, 2012, c. 19, s. 321</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>repealed, 2000, c. 32, s. 60</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch., Part 1</Label>
+    <Text>1998, c. 31, par. 61.1(b); 2000, c. 32, ss. 61 to 63; 2002, c. 18, s. 41; 2012, c. 19, s. 322; 2015, c. 10, s. 59</Text>
+  </Schedule>
+  <ConditionalAmendment>
+    <Text>Conditional amendment, 1998, c. 31, s. 61.1</Text>
+  </ConditionalAmendment>
+  <General>
+    <Text>General, 2012, c. 19, s. 323 (Schedule)</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2017, c. 9, par. 55(1)(l)</Text>
+  </Terminology>
+  <Transitional>
+    <Text>Transitional, 1998, c. 31, ss. 37 to 45</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1998, c. 31, other than ss. 19 to 22, 51, 55, 56 and 61.01 in force 21.12.98 <Emphasis style="italic">see</Emphasis> SI/99-4; ss. 19 to 22, 51, 55, 56 and 61.01 in force 01.04.99 <Emphasis style="italic">see</Emphasis> SI/99-4</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 32, ss. 58 to 63 in force 19.02.2001 <Emphasis style="italic">see</Emphasis> SI/2001-29</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 4, ss. 166 and 167 in force 01.06.2001 <Emphasis style="italic">see</Emphasis> SI/2001‑71</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 18, ss. 33 to 41 in force on assent 13.06.2002</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, ss. 180, 181, 223 and 224 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24; s. 241 in force 31.12.2005 <Emphasis style="italic">see</Emphasis> SI/2005-122</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 2, ss. 3 to 5 in force on assent 24.02.2005</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 16 (assent: 29.05.2008), ss. 17 and 18 in force 29.05.2010 (two years after) <Emphasis style="italic">see</Emphasis> s. 19</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 19, ss. 315 to 323 in force on assent 29.06.2012</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 10 (assent: 23.04.2015), ss. 56 to 59 in force 15.05.2015 <Emphasis style="italic">see</Emphasis> SI/2015-37</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 9, s. 55 in force on assent 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 10, s. 4 in force on assent 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), s. 334 comes into force on 01.04.2021 <Emphasis style="italic">see</Emphasis> s. 335</Text>
+  </CIF>
+</Statute>
+</TOPS>

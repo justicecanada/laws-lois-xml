@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="S-21">
+  <Title>Statutes Act, Publication of</Title>
+  <ChapterNumber>R.S., 1985, c. S-21</ChapterNumber>
+  <OtherLangTitle>(Publication des lois, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Public Works and Government Services</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1996, c. 16, s. 60(1)(q)</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1999, c. 31, s. 194</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>repealed, 1999, c. 31, s. 195</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2003, c. 22, s. 215(E)</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1996, c. 16, s. 61(2)</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 1996, c. 16, ss. 60 and 61 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑67</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 31, ss. 194 and 195 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 215 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+</Statute>
+</TOPS>

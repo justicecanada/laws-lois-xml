@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="C-17">
+  <Title>Canadian Forces Superannuation Act</Title>
+  <ChapterNumber>R.S., 1985, c. C-17</ChapterNumber>
+  <OtherLangTitle>(Pension de retraite des Forces canadiennes, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of National Defence</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>R.S., c. 31 (1st Supp.), s. 61 (Sch. II, item 1); 1992, c. 46, s. 32; 1998, c. 35, s. 107; 1999, c. 34, s. 115; 2003, c. 22, par. 225(l)(E), c. 26, s. 1; 2012, c. 31, s. 464</Text>
+  </Section>
+  <Section>
+    <Label>3.1</Label>
+    <Text>added, 2003, c. 26, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1999, c. 34, s. 116</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1992, c. 46, s. 33; 1999, c. 34, s. 117; 2003, c. 26, s. 3; 2012, c. 31, s. 465</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1992, c. 46, s. 34; 1999, c. 34, s. 118 (<Emphasis style="italic">Note</Emphasis>: 1999, c. 34, s. 118(2) repealed by 2003, c. 26, s. 38); 2003, c. 22, s. 136(E), c. 26, s. 4; 2012, c. 31, s. 466</Text>
+  </Section>
+  <Section>
+    <Label>6.1</Label>
+    <Text>added, 1992, c. 46, s. 35; 1999, c. 34, s. 119; repealed, 2003, c. 26, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1992, c. 46, s. 36; 1999, c. 34, s. 120 (<Emphasis style="italic">Note</Emphasis>: 1999, c. 34, s. 120(3) repealed by 2003, c. 26, s. 39); 2003, c. 26, s. 5; 2012, c. 31, s. 467</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>1992, c. 46, s. 37; 2003, c. 26, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>8.1</Label>
+    <Text>added, 1999, c. 34, s. 121; repealed, 2003, c. 26, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1992, c. 46, s. 38; 1999, c. 34, s. 122; 2003, c. 26, s. 5; 2012, c. 31, s. 468</Text>
+  </Section>
+  <Section>
+    <Label>9.1</Label>
+    <Text>added, 2003, c. 26, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>9.2</Label>
+    <Text>added, 2003, c. 26, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>9.3</Label>
+    <Text>added, 2003, c. 26, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1999, c. 34, s. 123; 2003, c. 26, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1999, c. 34, s. 124; 2003, c. 26, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2003, c. 26, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>1999, c. 34, s. 125; 2003, c. 26, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1992, c. 46, s. 39; 1999, c. 34, s. 126; repealed, 2003, c. 26, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>1992, c. 46, s. 40; 1999, c. 26, s. 14, c. 34, s. 127; 2003, c. 26, s. 13; 2006, c. 4, s. 203; 2012, c. 31, s. 469</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>1999, c. 34, s. 128 (<Emphasis style="italic">Note</Emphasis>: 1999, c. 34, s. 128 repealed by 2003, c. 26, s. 40); 2003, c. 26, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>1999, c. 34, s. 129 (<Emphasis style="italic">Note</Emphasis>: 1999, c. 34, s. 129 repealed by 2003, c. 26, s. 40); 2003, c. 26, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>1999, c. 34, s. 130 (<Emphasis style="italic">Note</Emphasis>: 1999, c. 34, s. 130 repealed by 2003, c. 26, s. 40); 2003, c. 26, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>1999, c. 34, s. 131 (<Emphasis style="italic">Note</Emphasis>: 1999, c. 34, s. 131 repealed by 2003, c. 26, s. 40); 2003, c. 26, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>1999, c. 34, s. 131 (<Emphasis style="italic">Note</Emphasis>: 1999, c. 34, s. 131 repealed by 2003, c. 26, s. 40); 2003, c. 26, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2003, c. 26, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2003, c. 26, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2003, c. 26, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>repealed, 2003, c. 26, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>24.1</Label>
+    <Text>added, 1999, c. 34, s. 132 (<Emphasis style="italic">Note</Emphasis>: 1999, c. 34, s. 132 repealed by 2003, c. 26, s. 40); repealed, 2003, c. 26, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>1989, c. 6, s. 7; 1992, c. 46, s. 41; 1999, c. 34, s. 133; 2003, c. 26, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>25.1</Label>
+    <Text>added, 1992, c. 46, s. 42; 1999, c. 34, s. 134; 2000, c. 12, s. 66 (<Emphasis style="italic">Note</Emphasis>: 2000, c. 12, s. 66 repealed by 2003, c. 26, s. 37); 2003, c. 26, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>1999, c. 34, s. 135; 2003, c. 26, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>26.1</Label>
+    <Text>added, 1999, c. 34, s. 135</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>repealed, 1989, c. 6, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>1999, c. 34, s. 136; repealed, 2003, c. 26, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>1992, c. 46, s. 43; 1999, c. 34, s. 136</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>repealed, 1999, c. 34, s. 136</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>1992, c. 46, s. 44; 1999, c. 34, s. 137</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>1999, c. 34, s. 138</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>repealed, 1989, c. 6, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>1999, c. 34, s. 139</Text>
+  </Section>
+  <Section>
+    <Label>35.1</Label>
+    <Text>added, 1989, c. 6, s. 10; repealed, 1999, c. 34, s. 140</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>1992, c. 46, s. 45; 1999, c. 34, s. 141; 2000, c. 12, s. 67; repealed, 2003, c. 26, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>1992, c. 46, s. 45; repealed, 2003, c. 26, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2003, c. 26, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>1992, c. 46, s. 46; 1999, c. 34, s. 142; 2003, c. 26, s. 21; 2012, c. 31, s. 470</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>1999, c. 34, s. 143; repealed, 2003, c. 26, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>2003, c. 22, par. 225(l)(E); repealed, 2003, c. 26, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>repealed, 2003, c. 26, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>repealed, 2003, c. 26, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2003, c. 22, par. 225(l)(E); repealed, 2003, c. 26, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>repealed, 2003, c. 26, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>1999, c. 34, s. 144; repealed, 2003, c. 26, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>2003, c. 26, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>49.1</Label>
+    <Text>added, 1992, c. 46, s. 47; 1999, c. 34, s. 145; 2012, c. 31, s. 471</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>1989, c. 6, s. 11; 1992, c. 46, s. 48; 1999, c. 34, s. 146; 2003, c. 26, s. 23; 2012, c. 31, s. 472</Text>
+  </Section>
+  <Section>
+    <Label>50.1</Label>
+    <Text>added, 1992, c. 46, s. 49; 1999, c. 34, s. 147; 2000, c. 12, s. 68 (<Emphasis style="italic">Note</Emphasis>: 2000, c. 12, s. 68 repealed by 2003, c. 26, s. 37); repealed, 2003, c. 26, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>repealed, 2003, c. 26, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>1999, c. 34, s. 148</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>repealed, 2003, c. 26, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>1999, c. 34, s. 149</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>1992, c. 46, s. 50; 1999, c. 34, s. 151</Text>
+  </Section>
+  <Section>
+    <Label>55.1</Label>
+    <Text>added, 1999, c. 34, s. 152</Text>
+  </Section>
+  <Section>
+    <Label>55.2</Label>
+    <Text>added, 1999, c. 34, s. 152</Text>
+  </Section>
+  <Section>
+    <Label>55.3</Label>
+    <Text>added, 1999, c. 34, s. 152</Text>
+  </Section>
+  <Section>
+    <Label>55.4</Label>
+    <Text>added, 1999, c. 34, s. 152; 2019, c. 29, s. 157</Text>
+  </Section>
+  <Section>
+    <Label>55.5</Label>
+    <Text>added, 1999, c. 34, s. 152</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>R.S., c. 13 (2nd Supp.), s. 11; 1999, c. 34, s. 153</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>1992, c. 46, s. 51; 1999, c. 34, s. 153</Text>
+  </Section>
+  <Heading>
+    <Label>Part I.1</Label>
+    <Text>added, 1999, c. 34, s. 154</Text>
+  </Heading>
+  <Section>
+    <Label>59.1</Label>
+    <Text>added, 1999, c. 34, s. 154; 2003, c. 26, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>59.2</Label>
+    <Text>added, 1999, c. 34, s. 154; 2003, c. 26, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>59.3</Label>
+    <Text>added, 1999, c. 34, s. 154</Text>
+  </Section>
+  <Section>
+    <Label>59.4</Label>
+    <Text>added, 1999, c. 34, s. 154</Text>
+  </Section>
+  <Section>
+    <Label>59.5</Label>
+    <Text>added, 1999, c. 34, s. 154</Text>
+  </Section>
+  <Section>
+    <Label>59.6</Label>
+    <Text>added, 1999, c. 34, s. 154</Text>
+  </Section>
+  <Section>
+    <Label>59.7</Label>
+    <Text>added, 1999, c. 34, s. 154</Text>
+  </Section>
+  <Section>
+    <Label>59.8</Label>
+    <Text>added, 1999, c. 34, s. 154; repealed, 2003, c. 26, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>1992, c. 46, s. 52; 1999, c. 34, s. 155; 2003, c. 26, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>1999, c. 34, s. 156</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>2003, c. 22, par. 225(l)(E), c. 26, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>2003, c. 26, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>1992, c. 46, s. 53; repealed, 1999, c. 34, s. 157</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>1992, c. 46, s. 53; 1999, c. 34, s. 157</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>1999, c. 34, s. 158</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>1999, c. 34, s. 159; 2003, c. 26, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>1992, c. 46, s. 54; 1999, c. 34, s. 160 (<Emphasis style="italic">Note</Emphasis>: 1999, c. 34, s. 160 repealed by 2003, c. 26, s. 42); 2003, c. 26, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>69</Label>
+    <Text>1992, c. 46, s. 55(F)</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>1992, c. 46, s. 56; repealed, 2003, c. 26, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>1992, c. 46, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>1992, c. 46, s. 57; 1999, c. 34, s. 161; 2003, c. 26, s. 32</Text>
+  </Section>
+  <Heading>
+    <Label>Part III</Label>
+    <Text>(ss. 74 to 79), 1992, c. 46, s. 58</Text>
+  </Heading>
+  <Section>
+    <Label>74</Label>
+    <Text>1992, c. 46, s. 58; 1999, c. 34, s. 162; 2003, c. 26, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>1992, c. 46, s. 58; repealed, 1999, c. 34, s. 163</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>1992, c. 46, s. 58; 1999, c. 34, s. 164; repealed, 2003, c. 26, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>77</Label>
+    <Text>1992, c. 46, s. 58</Text>
+  </Section>
+  <Section>
+    <Label>78</Label>
+    <Text>1992, c. 46, s. 58; 1999, c. 34, s. 165; 2003, c. 26, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>79</Label>
+    <Text>added, 1992, c. 46, s. 58; 1999, c. 34, s. 166</Text>
+  </Section>
+  <Heading>
+    <Label>Part IV</Label>
+    <Text>(s. 80), added, 1992, c. 46, s. 58</Text>
+  </Heading>
+  <Section>
+    <Label>80</Label>
+    <Text>added, 1992, c. 46, s. 58; 1999, c. 34, s. 167</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>added, 2003, c. 26, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>added, 2003, c. 26, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>added, 2003, c. 26, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>added, 2003, c. 26, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>85</Label>
+    <Text>added, 2003, c. 26, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>added, 2003, c. 26, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>added, 2003, c. 26, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>88</Label>
+    <Text>added, 2003, c. 26, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>89</Label>
+    <Text>added, 2003, c. 26, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>90</Label>
+    <Text>added, 2003, c. 26, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>added, 2003, c. 26, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>92</Label>
+    <Text>added, 2003, c. 26, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>added, 2003, c. 26, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>added, 2008, c. 28, s. 149</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>added, 2008, c. 28, s. 149</Text>
+  </Section>
+  <Section>
+    <Label>96</Label>
+    <Text>added, 2008, c. 28, s. 150</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>added, 2008, c. 28, s. 150</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch.</Label>
+    <Text>1992, c. 46, s. 59; repealed, 1999, c. 34, s. 168 (<Emphasis style="italic">Note</Emphasis>: 1999, c. 34, s. 168 repealed by 2003, c. 26, s. 43)</Text>
+  </Schedule>
+  <General>
+    <Text>General, 1999, c. 34, s. 150</Text>
+  </General>
+  <General>
+    <Text>General, 2003, c. 26, ss. 6, 12 and 16</Text>
+  </General>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2003, c. 26, s. 70</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2012, c. 31, s. 474</Text>
+  </CoordinatingAmendment>
+  <Transitional>
+    <Text>Transitional, 1989, c. 6, ss. 33 to 35</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 1992, c. 46, s. 108</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 1999, c. 34, s. 229</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2003, c. 26, ss. 67 and 68</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 31 (1st Supp.), s. 61 proclaimed in force 02.10.86 <Emphasis style="italic">see</Emphasis> SI/86‑192</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 13 (2nd Supp.), s. 11 proclaimed in force 01.12.86 <Emphasis style="italic">see</Emphasis> SI/86‑213</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1989, c. 6, ss. 7 to 11 and 33 to 35 in force 29.06.89</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 46, s. 50 deemed in force 01.04.91 <Emphasis style="italic">see</Emphasis> s. 109(2)</Text>
+    <List>
+      <Item>
+        <Text>— s. 25.1 of the <XRefExternal reference-type="act">Canadian Forces Superannuation Act</XRefExternal>, as enacted by s. 42, s. 31(1) of the <XRefExternal reference-type="act">Canadian Forces Superannuation Act</XRefExternal>, as enacted by s. 44 and par. 50.1(1)(e), (f) and (g) of the <XRefExternal reference-type="act">Canadian Forces Superannuation Act</XRefExternal>, as enacted by s. 49 in force 24.03.94 <Emphasis style="italic">see</Emphasis> SI/94‑38</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 32, 33(1), 38, 39, 43, 45, 47, 48(2) to (4), par. 50.1(1)(i) of the <XRefExternal reference-type="act">Canadian Forces Superannuation Act</XRefExternal>, as enacted by s. 49, s. 51, Part IV (s. 80) of the <XRefExternal reference-type="act">Canadian Forces Superannuation Act</XRefExternal>, as enacted by s. 58 and s. 108 in force 20.04.93 <Emphasis style="italic">see</Emphasis> SI/93‑66</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 33(2), 40, 41 and 48(1) and par. 50.1(1)(a) of the <XRefExternal reference-type="act">Canadian Forces Superannuation Act</XRefExternal>, as enacted by s. 49 in force 16.12.94 <Emphasis style="italic">see</Emphasis> SI/99-138; SI/94‑146 but despite the previous, ss. 33(2), 40, 41 and 48(1) and par. 50.1(1)(a) of the <XRefExternal reference-type="act">Canadian Forces Superannuation Act</XRefExternal>, as enacted by s. 49 are deemed to have come into force 15.12.94 <Emphasis style="italic">see respectively</Emphasis> SI/99-138; 2011, c. 24, par. 184(a) and (c)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 34 to 37 and 46 and par. 50.1(1)(b) to (d), (h) and (j) and s. 50.1(2) of the <XRefExternal reference-type="act">Canadian Forces Superannuation Act</XRefExternal>, as enacted by s. 49 in force 01.12.95 <Emphasis style="italic">see</Emphasis> SI/95‑128</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 52 to 57 and 59 in force 05.10.92 <Emphasis style="italic">see</Emphasis> SI/92‑195</Text>
+      </Item>
+      <Item>
+        <Text>— Part III (ss. 74 to 79), as enacted by s. 58, deemed in force 01.04.91 <Emphasis style="italic">see</Emphasis> s. 109(3)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 35, s. 107 in force 28.05.2001 <Emphasis style="italic">see</Emphasis> SI/2001-67</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 26, s. 14 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 34</Text>
+    <List>
+      <Item>
+        <Text>— ss. 115(1), 117, 118(1), 119, 120(1) and (2), 127, 134, 142(2), 143, 146(1), 147(1) 162(1), 163 and 164 in force 01.01.2000 <Emphasis style="italic">see</Emphasis> SI/99-138</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 115(2) and (3), 116, 121 to 124, 126, 130(3), 133, 135 to 141, 142(1) and (3), 144, 145, 146(2), 147(2), 148 to 150, 151(2) and (3), 153, 156, 159, 161(2) and (3), 162(2), 165 to 167 and 229 in force on assent 14.09.99</Text>
+      </Item>
+      <Item>
+        <Text>— s. 118(2) repealed before coming into force <Emphasis style="italic">see</Emphasis> 2003, c. 26, s. 38</Text>
+      </Item>
+      <Item>
+        <Text>— s. 120(3) repealed before coming into force <Emphasis style="italic">see</Emphasis> 2003, c. 26, s. 39</Text>
+      </Item>
+      <Item>
+        <Text>— s. 125 in force 01.01.2001 <Emphasis style="italic">see</Emphasis> SI/99-138</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 128 to 132 repealed before coming into force <Emphasis style="italic">see</Emphasis> 2003, c. 26, s. 40</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 151(1) and 152 in force 01.04.2000 <Emphasis style="italic">see</Emphasis> SI/99-138</Text>
+      </Item>
+      <Item>
+        <Text>— s. 154 in force 01.03.2007 <Emphasis style="italic">see</Emphasis> SI/2007-21</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 155, 157, 158, 161(1) and (4) in force 17.12.2025 <Emphasis style="italic">see</Emphasis> SI/2025-112 </Text>
+      </Item>
+      <Item>
+        <Text>— s. 160 comes into force on a day to be fixed by order of the Governor of Council <Emphasis style="italic">see</Emphasis> s. 230 — Not in force; repealed before coming into force at the coming into force of 2003, c. 26, s. 42 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— s. 168 comes into force on a day to be fixed by order of the Governor of Council <Emphasis style="italic">see</Emphasis> s. 230 — Not in force; repealed before coming into force at the coming into force of 2003, c. 26, s. 43 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See</Emphasis>
+          <Emphasis style="italic"> also</Emphasis> s. 231</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 12, s. 67 in force 31.07.2000 <Emphasis style="italic">see</Emphasis> SI/2000-76 (<Emphasis style="italic">Note</Emphasis>: ss. 66 and 68 repealed by 2003, c. 26, s. 37)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, ss. 136 and 225 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 26, s. 70 in force on assent 07.11.2003</Text>
+    <List>
+      <Item>
+        <Text>— ss. 1 to 3 and 6 to 12, s. 13(1) and (2), ss. 14 to 20 and 22 to 25, s. 26(4), ss. 27 to 29, 31, 33 and 35, ss. 82 to 93 of the <XRefExternal reference-type="act">Canadian Forces Superannuation Act</XRefExternal>, as enacted by s. 36, ss. 37 to 41, 48 to 55 and 65 to 68 in force 01.03.2007 <Emphasis style="italic">see</Emphasis> SI/2007-21</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 4, 5, s. 13(3), s. 21, s. 26(1) and (2), ss. 30, 32 and 34, s. 81 of the <XRefExternal reference-type="act">Canadian Forces Superannuation Act</XRefExternal>, as enacted by s. 36, and s. 42 and 43 in force 17.12.2025 <Emphasis style="italic">see</Emphasis> SI/2025-112 </Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2006, c. 4, s. 203 in force 01.01.2008 <Emphasis style="italic">see</Emphasis> s. 207</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 28, s. 149 in force on assent 18.06.2008</Text>
+    <List>
+      <Item>
+        <Text>— ss. 150 and 162 repealed before coming into force, 31.12.2023 <Emphasis style="italic">see</Emphasis> 2008, c. 20, s. 3</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2011, c. 24, par. 184(a) and (c) in force on assent 15.12.2011</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 31, s. 474 in force on assent 14.12.2012</Text>
+    <List>
+      <Item>
+        <Text>— ss. 464 to 466, 467(1) to (3) and 469 to 472 in force 01.01.2013 <Emphasis style="italic">see</Emphasis> s. 514(1)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 467(4) and 468 repealed before coming into force 31.12.3021 <Emphasis style="italic">see</Emphasis> 2008, c. 20, s. 3</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

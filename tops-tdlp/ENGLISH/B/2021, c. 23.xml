@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2021, c. 23">
+  <Title>Budget Implementation Act, 2021, No. 1</Title>
+  <ChapterNumber>2021, c. 23</ChapterNumber>
+  <OtherLangTitle>(Exécution du budget de 2021, Loi n<Sup>o</Sup> 1 d’)</OtherLangTitle>
+  <Section>
+    <Label>128</Label>
+    <Text>2022, c. 19, s. 102</Text>
+  </Section>
+  <Section>
+    <Label>175.1</Label>
+    <Text>added, 2023, c. 26, s. 207</Text>
+  </Section>
+  <Section>
+    <Label>176</Label>
+    <Text>2023, c. 26, s. 208</Text>
+  </Section>
+  <Section>
+    <Label>345</Label>
+    <Text>2021, c. 26, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>350.1</Label>
+    <Text>added, 2022, c. 10, s. 412</Text>
+  </Section>
+  <General>
+    <Text>General, 2021, c. 23, ss. 197, 198, 200, 251, 275 and 287 (payments)</Text>
+  </General>
+  <General>
+    <Text>Note: ss. 81-99, 116, 267, 297 to 299 and 347 to 360: Regulations</Text>
+  </General>
+  <CoordinatingAmendment>
+    <Text>Coordinating Amendments, 2021, c. 26, ss. 27 and 28</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating Amendment, 2022, c. 10, s. 413</Text>
+  </CoordinatingAmendment>
+  <Transitional>
+    <Text>Transitional, 2021, c. 23, s. 238 to 243</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2021, c. 23 in force on assent 29.06.2021, <Emphasis style="italic">except</Emphasis>:</Text>
+    <List>
+      <Item>
+        <Text>— ss. 3(1) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 3(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 7(1) to (3) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 7(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 8(1) and (2) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 8(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 9(1) deemed in force 19.03.2019 <Emphasis style="italic">see</Emphasis> s. 9(2).</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 10(2) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 10(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 11(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 11(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 13(2) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 13(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 13(3) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 13(5)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 15(1) and (2) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 15(7)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 16(1) deemed in force 27.02.2018 <Emphasis style="italic">see</Emphasis> s. 16(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 16(2) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 16(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 17(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 17(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss 17(2) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 17(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 19(9) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 19(11)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 20(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 20(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 21(1) deemed in force 01.07.2011 <Emphasis style="italic">see</Emphasis> s. 21(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 22(1) to (3) deemed in force 01.01.2021 <Emphasis style="italic">see</Emphasis> s. 22(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 23(1) to (5) deemed in force 01.01.2019 <Emphasis style="italic">see</Emphasis> s. 23(6)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 24(12) and (24) deemed in force 27.09.2020 <Emphasis style="italic">see</Emphasis> s. 24(33)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 25(1) and (2) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 25(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 29(1) deemed in force 01.01.2021 <Emphasis style="italic">see</Emphasis> s. 29(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 30(1) to (10) deemed in force 27.02.2018 <Emphasis style="italic">see</Emphasis> s. 30(11)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 31(2) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 31(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 32(1) and (2) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 32(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 33(1) to (4) and (6) deemed in force 01.01.2021 <Emphasis style="italic">see</Emphasis> s. 33(7)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 34(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 34(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 35(1) to (4) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 35(5)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 36(1) and (2) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 36(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 36(3) deemed in force 19.03.2019 <Emphasis style="italic">see</Emphasis> s. 36(5)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 37(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 37(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 38(1) to (3) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 38(4)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 39(2) deemed in force 01.01.2019 <Emphasis style="italic">see</Emphasis> s. 39(6)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 40(1) deemed in force 01.01.2019 <Emphasis style="italic">see</Emphasis> s. 40(5)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 40(2) deemed in force 25.03.2020 <Emphasis style="italic">see</Emphasis> s. 40(6)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 41(1) deemed in force 20.01.2020 see s. 41(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 42(1) and (3) deemed in force 01.01.2019 <Emphasis style="italic">see</Emphasis> s. 42(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 43(1) deemed in force 01.01.2019 see s. 43(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 44(1) deemed in force 01.01.2019 <Emphasis style="italic">see</Emphasis> s.44(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 46(1) deemed in force 01.01.2019 <Emphasis style="italic">see</Emphasis> s. 46(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 49(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 49(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 52(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 52(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 58(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 58(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 61(1) deemed in force 19.03.2019 see s. 61(8)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 61(2) and (3) deemed in force 01.01.2019 <Emphasis style="italic">see</Emphasis> s. 61(10)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 61(4) and (7) deemed in force 19.03.2019 <Emphasis style="italic">see</Emphasis> s. 61(11)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 61(5) deemed in force 02.03.2020 <Emphasis style="italic">see</Emphasis> s. 61(12)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 61(6) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 61(13)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 63(1) deemed in force 01.01.2020 <Emphasis style="italic">see</Emphasis> s. 63(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 64(1) deemed in force 19.03.2019 <Emphasis style="italic">see</Emphasis> s. 64(6)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 100(1) and (2), in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 100(5)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 100(3) and (4) deemed in force 18.05.2019 <Emphasis style="italic">see</Emphasis> s. 100(6)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 101(1) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 101(2<Emphasis style="italic">)</Emphasis></Text>
+      </Item>
+      <Item>
+        <Text>— s. 102(1) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 102(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 103(1) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 103(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 105(1) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 105(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 186(0.1) of the <XRefExternal reference-type="act">Excise Tax Act</XRefExternal> as enacted by s. 106(3) deemed in force 18.05.2019 <Emphasis style="italic">see</Emphasis> s. 106(10))</Text>
+      </Item>
+      <Item>
+        <Text>— s. 107(1) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 107(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 108(1) to (4) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 108(7)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 111(1) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 111(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 112(1) and (2) in force 01.07.2021 <Emphasis style="italic">see</Emphasis> s. 112(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 115(1) to (3) deemed in force 18.05.2019 <Emphasis style="italic">see</Emphasis> s. 115(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 117(1) deemed in force 20.04.2021 <Emphasis style="italic">see</Emphasis> s. 117(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 118(1) deemed in force 20.04.2021 <Emphasis style="italic">see</Emphasis> s. 118(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 119(1) deemed in force 20.04.2021 <Emphasis style="italic">see</Emphasis> s. 119(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 120(1) deemed in force 20.04.2021 <Emphasis style="italic">see</Emphasis> s. 120(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 121(1) deemed in force 20.04.2021 <Emphasis style="italic">see</Emphasis> s. 121(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 122(1) deemed in force 20.04.2021 <Emphasis style="italic">see</Emphasis> s. 122(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 123(1) deemed in force 20.04.2021 <Emphasis style="italic">see</Emphasis> s. 123(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 124(1) deemed in force 20.04.2021 <Emphasis style="italic">see</Emphasis> s. 124(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 125(1) deemed in force 20.04.2021 <Emphasis style="italic">see</Emphasis> s. 125(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 129 to 131 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 139(1) — Not in force)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 132 in force on the second anniversary of the day on which section 212 of the <XRefExternal reference-type="act">Budget Implementation Act, 2018, No. 1</XRefExternal> comes into force <Emphasis style="italic">see</Emphasis> s. 132(2) and SI/2019-17 as amended by SI/2020-36</Text>
+      </Item>
+      <Item>
+        <Text>— s. 140 in force 30.06.2023 <Emphasis style="italic">see</Emphasis> SI/2023-22</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 141 and 142 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 150(2) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 143 and 144 in force 30.06.2023 <Emphasis style="italic">see</Emphasis> SI/2023-22</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 145 to 148 in force 30.06.2023 <Emphasis style="italic">see</Emphasis> SI/2023-22</Text>
+      </Item>
+      <Item>
+        <Text>— s. 159 in force 01.07.2024 <Emphasis style="italic">see</Emphasis> SI/2023-60</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 164, 165 and 170 in force 01.01.2024 <Emphasis style="italic">see</Emphasis> SI/2023-59</Text>
+      </Item>
+      <Item>
+        <Text>— s. 177 enacting ss. 1 to 10, 12 to 16 and 61, ss. 62(1), (3) and (4) and s. 63 of the <XRefExternal reference-type="act">Retail Payment Activities Act</XRefExternal> in force on assent 29.06.2021, <Emphasis style="italic">see</Emphasis> s. 187(1)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 177 enacting ss. 11, 28 to 44, 49 and 51, ss. 62(2) and ss. 64 to 98 and 101 to 108 of the <XRefExternal reference-type="act">Retail Payment Activities Act</XRefExternal> in force 01.11.2024 <Emphasis style="italic">see</Emphasis> SI/2023-70, (a)(i)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 177 enacting s. 23 of the <XRefExternal reference-type="act">Retail Payment Activities Act</XRefExternal> in force 16.11.2024 <Emphasis style="italic">see</Emphasis> SI/2023-70, (b)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 177 enacting ss. 17 to 22, 24 to 27, 45 to 48, 50 and 52 to 60 of the <XRefExternal reference-type="act">Retail Payment Activities Act</XRefExternal> in force 08.09.2025 <Emphasis style="italic">see</Emphasis> SI/2023-70, (c)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 180 and 181 in force 01.11.2024 <Emphasis style="italic">see</Emphasis> SI/2023-70, (a)(ii)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 188 to 190 in force 24.05.2024 <Emphasis style="italic">see</Emphasis> SI/2024-24</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 204(2) and (3) and 206(1) come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 208 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 209 to 211 in force 21.10.2024 <Emphasis style="italic">see</Emphasis> SI/2024-21</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 212 to 217 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 218 — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 220 to 243 in force 05.12.2022 <Emphasis style="italic">see</Emphasis> SI/2022-59</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 245, 246 and 247 in force 29.12.2021 <Emphasis style="italic">see</Emphasis> s. 248</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 277(2) and 280 in force 01.07.2023 <Emphasis style="italic">see</Emphasis> SI/2023-20</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 289, 290, 291, 292, 293 and 294 deemed in force 19.06.2021 <Emphasis style="italic">see</Emphasis> s. 301</Text>
+      </Item>
+      <Item>
+        <Text>— s. 295 deemed in force 19.06.2021 <Emphasis style="italic">see</Emphasis> s. 301</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 302(1), 303(1) and (3), 304(1), 305, 306(1), 307(1) and (3), 308(1), 309(1), (3) and (5), 310(1), (3), (5), (7), (9), (11) and (13), 311(1), 312(1), 313(1), 314(1), 315(1), 316(1) and (3), 317(1), 318(1), 319 to 321, 322(1), 324, 325, 327, 329(1) and 330 in force 26.09.2021 <Emphasis style="italic">see</Emphasis> s. 339(1)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 302(2), 303(2) and (4), 304(2), 306(2), 307(4), 308(2), 309(2), (4) and (6), 310(2), (4), (6), (8), (10), (12) and (14), 311(2), 312(2) 313(2), 314(2), 315(2), 316(2) and (4), 317(2), 318(2), 322(2) and 329(2) in force 25.09.2022 <Emphasis style="italic">see</Emphasis> s. 339(2)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 307(2) and 323 and 336 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 339(3) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— s. 326 deemed in force 12.09.2021 <Emphasis style="italic">see</Emphasis> s. 339(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 328 in force 26.09.2021, <Emphasis style="italic">see</Emphasis> SI/2021-57</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 340 to 344 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 339(3) — Not in force</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2021, c. 26, ss. 26 to 28 in force on assent 17.12.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 10, ss. 412 and 413 in force on assent 23.06.2022</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 19, s. 102 in force on assent (15.12.2022)</Text>
+  </CIF>
+</Statute>
+</TOPS>

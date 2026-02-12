@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="1995, ch. 39">
+  <Title>Armes à feu, Loi sur les</Title>
+  <ChapterNumber>1995, ch. 39</ChapterNumber>
+  <OtherLangTitle>(Firearms Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de la Sécurité publique et de la Protection civile (2005, ch. 10, art. 29)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2000, ch. 12, art. 116; 2001, ch. 4, art. 85; 2003, ch. 8, art. 9; 2005, ch. 10, art. 29; 2015, ch. 27, art. 2; 2019, ch. 9, par. 1(1) et (2); 2023, ch. 32, art. 15; 2024, ch. 30, art. 13</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2012, ch. 6, art. 9; 2023, ch. 32, art. 15.1 et 5.2</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1995, ch. 39, al. 137a); 1996, ch. 19, art. 76.1; 2003, ch. 8, art. 10; 2015, ch. 27, art. 3; 2018, ch. 16, art. 182; 2019, ch. 9, art. 2; 2023, ch. 32, art. 15.3 et 15.4</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2003, ch. 8, art. 11; 2015, ch. 27, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2003, ch. 8, art. 12; 2015, ch. 27, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>abrogé, 2003, ch. 8, art. 13</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2000, ch. 12, art. 117; 2003, ch. 8, art. 14; 2019, ch. 9, art. 3; 2023, ch. 32, art. 65</Text>
+  </Section>
+  <Section>
+    <Label>12.1</Label>
+    <Text>ajouté, 2012, ch. 6, art. 10</Text>
+  </Section>
+  <Section>
+    <Label>12.2</Label>
+    <Text>ajouté, 2023, ch. 32, art. 17</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>2003, ch. 8, art. 15</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>abrogé, 2003, ch. 8, art. 15</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2003, ch. 8, art. 16; 2015, ch. 27, art. 6; 2019, ch. 9, art. 4; 2023, ch. 32, art. 18; 2023, ch. 32, art. 66</Text>
+  </Section>
+  <Section>
+    <Label>19.1</Label>
+    <Text>ajouté, 2023, ch. 32, art. 19</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2003, ch. 8, al. 56a); 2023, ch. 32, art. 20</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2003, ch. 8, art. 17; 2012, ch. 6, art. 11; 2015, ch. 27, art. 7; 2019, ch. 9, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>23.1</Label>
+    <Text>ajouté, 2012, ch. 6, art. 11; abrogé, 2019, ch. 9, art. 5</Text>
+  </Section>
+  <Section>
+    <Label>23.2</Label>
+    <Text>ajouté, 2012, ch. 6, art. 11; 2023, ch. 32, art. 23.2</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2003, ch. 8, art. 18</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2023, ch. 32, art. 21.1</Text>
+  </Section>
+  <Section>
+    <Label>25.1</Label>
+    <Text>ajouté, 2023, ch. 32, art. 21.2</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2003, ch. 8, art. 19; 2012, ch. 6, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2003, ch. 8, art. 20; 2012, ch. 6, art. 13; 2023, ch. 32, art. 22</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2003, ch. 8, art. 21; 2023, ch. 32, art. 23</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>2003, ch. 8, art. 22(F)</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2015, ch. 27, art. 36; 2023, ch. 32, art. 24</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2003, ch. 8, art. 23</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2003, ch. 8, art. 24; 2023, ch. 32, art. 25</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>2012, ch. 6, art. 14</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>2003, ch. 8, art. 25; 2012, ch. 6, art. 15</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>2003, ch. 8, art. 26; 2015, ch. 27, art. 4</Text>
+  </Section>
+  <Section>
+    <Label>35.1</Label>
+    <Text>ajouté, 2003, ch. 8, art. 27; abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>2003, ch. 8, art. 28; 2012, ch. 6, art. 16; 2015, ch. 27, art. 9</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2003, ch. 8, art. 29; abrogé, 2008, ch. 20, art. 3; ajouté, 2023, ch. 32, art. 26</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>2003, ch. 8, art. 29; 2012, ch. 6, art. 17; abrogé, 2008, ch. 20, art. 3; ajouté, 2023, ch. 32, art. 26</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2003, ch. 8, art. 30; abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>40.1 et 40.2</Label>
+    <Text>ajoutés, 2003, ch. 8, art. 31; abrogés, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>2003, ch. 8, art. 31; abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>42.1</Label>
+    <Text>ajouté, 2003, ch. 8, art. 32; 2005, ch. 38, al. 139c); abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>42.2</Label>
+    <Text>ajouté, 2015, ch. 27, art. 10</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>2012, ch. 6, art. 18; abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>45 et 46</Label>
+    <Text>abrogés, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>2003, ch. 8, art. 33; abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>2003, ch. 8, art. 34; abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>2003, ch. 8, art. 35; abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2003, ch. 8, art. 35; abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2005, ch. 38, al. 142f) et par. 145(2)j); abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2003, ch. 8, art. 36 et al. 56b); 2015, ch. 27, art. 11; 2019, ch. 9, art. 6; 2023, ch. 32 art. 27</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>2000, ch. 12, art. 118</Text>
+  </Section>
+  <Section>
+    <Label>55.1</Label>
+    <Text>ajouté, 2003, ch. 12, art. 37; abrogé, 2008, ch. 20, art. 3</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>2023, ch. 32, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>57.1</Label>
+    <Text>2023, ch. 32, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>2015, ch. 27, art. 12; 2023, ch. 32, art. 29</Text>
+  </Section>
+  <Section>
+    <Label>58.1</Label>
+    <Text>ajouté, 2019, ch. 9, art. 7</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>2012, ch. 6, art. 19</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2003, ch. 8, art. 38; 2015, ch. 27, art. 13; 2019, ch. 9, art. 8</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>2003, ch. 8, art. 39; 2023, ch. 32, art. 30</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>2003, ch. 8, art. 40; 2015, ch. 27, art. 14</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>2003, ch. 8, art. 41</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>2012, ch. 6, art. 20; 2023, ch. 32, art. 31</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>2003, ch. 8, art. 42 et al. 56c); 2023, ch. 32, art. 32</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>2023, ch. 32, art. 33</Text>
+  </Section>
+  <Section>
+    <Label>69.1 et 69.2</Label>
+    <Text>ajouté, 2023, ch. 32, art. 34</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>1995, ch. 39, al. 137b); 2003, ch. 8, art. 43(A); 2019, ch. 9, art. 9; 2023, ch. 32, art. 35</Text>
+  </Section>
+  <Section>
+    <Label>70.1</Label>
+    <Text>ajouté, 2023, ch. 32, art. 36</Text>
+  </Section>
+  <Section>
+    <Label>70.2</Label>
+    <Text>ajouté, 2023, ch. 32, art. 36</Text>
+  </Section>
+  <Section>
+    <Label>70.3</Label>
+    <Text>ajouté, 2023, ch. 32, art. 36</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>2003, ch. 8, art. 44j; 2012, ch. 6, art. 21</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>2003, ch. 8, art. 45; 2012, ch. 6, art. 22; 2023, ch. 32, art. 37</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>abrogé, 2003, ch. 8, art. 46</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>2003, ch. 8, art. 47</Text>
+  </Section>
+  <Section>
+    <Label>76.1</Label>
+    <Text>ajouté, 1999, ch. 3, art. 64</Text>
+  </Section>
+  <Section>
+    <Label>81.1</Label>
+    <Text>ajouté, 2003, ch. 8, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>81.2</Label>
+    <Text>ajouté, 2003, ch. 8, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>81.3</Label>
+    <Text>ajouté, 2003, ch. 8, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>81.4</Label>
+    <Text>ajouté, 2003, ch. 8, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>81.5</Label>
+    <Text>ajouté, 2003, ch. 8, art. 48</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>2003, ch. 8, art. 49</Text>
+  </Section>
+  <Section>
+    <Label>82.1</Label>
+    <Text>ajouté, 2003, ch. 8, art. 49</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>2012, ch. 6, art. 23; 2015, ch. 27, art. 15</Text>
+  </Section>
+  <Section>
+    <Label>85</Label>
+    <Text>2003, ch. 22, al. 224z.38)(A); 2019, ch. 9, art. 10(1) et (2)(F), (3) et (4)</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>2023, ch. 32, art. 38</Text>
+  </Section>
+  <Section>
+    <Label>88</Label>
+    <Text>2012, ch. 6, art. 24</Text>
+  </Section>
+  <Section>
+    <Label>88.1</Label>
+    <Text>ajouté, 2023, ch. 32, art. 39</Text>
+  </Section>
+  <Section>
+    <Label>89</Label>
+    <Text>2023, ch. 32, art. 40 (intertitre)</Text>
+  </Section>
+  <Section>
+    <Label>89</Label>
+    <Text>2023, ch. 32, art. 41</Text>
+  </Section>
+  <Section>
+    <Label>90.1</Label>
+    <Text>2012, ch. 6, art. 25; abrogé, 2019, ch. 9, art. 11</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>2003, ch. 8, art. 50; 2023, ch. 32, art. 42</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>2003, ch. 8, art. 50</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>2001, ch. 41, art. 96; 2003, ch. 8, art. 51</Text>
+  </Section>
+  <Section>
+    <Label>97.1</Label>
+    <Text>ajouté, 2023, ch. 32, art. 43</Text>
+  </Section>
+  <Section>
+    <Label>99</Label>
+    <Text>2003, ch. 8, art. 52</Text>
+  </Section>
+  <Section>
+    <Label>104</Label>
+    <Text>2003, ch. 8, art. 53(F)</Text>
+  </Section>
+  <Section>
+    <Label>105</Label>
+    <Text>2012, ch. 6, art. 26</Text>
+  </Section>
+  <Section>
+    <Label>109</Label>
+    <Text>2019, ch. 9, art. 12</Text>
+  </Section>
+  <Section>
+    <Label>112</Label>
+    <Text>abrogé, 2012, ch. 6, art. 27; 2023, ch. 32, art. 44</Text>
+  </Section>
+  <Section>
+    <Label>114</Label>
+    <Text>2012, ch. 6, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>115</Label>
+    <Text>2012, ch. 6, art. 28</Text>
+  </Section>
+  <Section>
+    <Label>117</Label>
+    <Text>2003, ch. 8, art. 54; 2003, ch. 22, al. 224z.38)(A); 2015, ch. 27, art. 16; 2019, ch. 9, art. 13; 2023, ch. 32, art. 45</Text>
+  </Section>
+  <Section>
+    <Label>120</Label>
+    <Text>2003, ch. 8, al. 56d)</Text>
+  </Section>
+  <Section>
+    <Label>121</Label>
+    <Text>2015, ch. 27, art. 17</Text>
+  </Section>
+  <Section>
+    <Label>126.1</Label>
+    <Text>ajouté, 2019, ch. 9, art. 14</Text>
+  </Section>
+  <Section>
+    <Label>135.1</Label>
+    <Text>ajouté, 2019, ch. 9, art. 15</Text>
+  </Section>
+  <Section>
+    <Label>169</Label>
+    <Text>abrogé, 2003, ch. 8, art. 55</Text>
+  </Section>
+  <Section>
+    <Label>190</Label>
+    <Text>1999, ch. 25, art. 31</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>disposition de coordination, 2005, ch. 38, par. 145(2)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>dispositions de coordination, 2012, ch. 6, art. 30</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>dispositions de coordination, 2023, ch. 32, art. 70 à 73</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>disposition générale, 2015, ch. 36, art. 231 (immunité pour tout acte ou omission commis relativement à tout registre)</Text>
+  </General>
+  <Transitional>
+    <Text>dispositions transitoires, 2012, ch. 6, art. 29 et 2015, ch. 36, art. 230</Text>
+  </Transitional>
+  <Transitional>
+    <Text>disposition transitoire, 2015, ch. 27, art. 37</Text>
+  </Transitional>
+  <Transitional>
+    <Text>dispositions transitoires, 2023, ch. 32, art. 46 à 48</Text>
+  </Transitional>
+  <ConditionalAmendment>
+    <Text>modification conditionnelle, 1995, ch. 39, art. 136</Text>
+  </ConditionalAmendment>
+  <CIF>
+    <Text>EEV, 1995, ch. 39, art. 136, 137 et 174 en vigueur à la sanction 05.12.95</Text>
+    <List>
+      <Item>
+        <Text>— art. 1, 2 et 117 en vigueur 25.02.98 <Emphasis style="italic">voir</Emphasis> TR/98‑35</Text>
+      </Item>
+      <Item>
+        <Text>— art. 3 et 4, par. 5(1) et (2), art. 6, par. 7(1) à (3), par. 7(4)</Text>
+      </Item>
+      <Item>
+        <Text>— à l’exception de l’al. 7(4)e), par. 7(5), art. 8 à 23, par. 24(1), par. 24(2)</Text>
+      </Item>
+      <Item>
+        <Text>— à l’exception des al. 24(2)c) et d), art. 25 à 28, par. 29(2) à (7), art. 30 et 31, art. 32</Text>
+      </Item>
+      <Item>
+        <Text>— à l’exception de l’al. 32b), art. 33 et 34, passage du par. 35(1) précédant l’al. a), passage de l’al. 35(1)a) de la version anglaise précédant le sous-al. (i), sous-al. 35(1)a)(i) et (iii) de la version anglaise, al. 35(1)a) et c) de la version française, art. 54 à 94, 96, 98 à 116, 120 à 135, 138, art. 139</Text>
+      </Item>
+      <Item>
+        <Text>— à l’exception de ce qui touche le remplacement des art. 85 et 97 du <XRefExternal reference-type="act">Code criminel</XRefExternal>, et art. 140, 151 à 168, 170 à 173 et 175 à 193</Text>
+      </Item>
+      <Item>
+        <Text>en vigueur 01.12.98 <Emphasis style="italic">voir</Emphasis> TR/98-93 et TR/98-95</Text>
+      </Item>
+      <Item>
+        <Text>— par. 5(3), al. 7(4)e), sous-al. 35(1)a)(ii) et al. 35(1)b) de la version anglaise, al. 35(1)b) et d) de la version française, par. 35(2) à (4) et art. 36 en vigueur 01.01.2001 <Emphasis style="italic">voir</Emphasis> TR/2001-4</Text>
+      </Item>
+      <Item>
+        <Text>— al. 24(2)c), tel qu’édicté par 2003, ch. 8, art. 18, en vigueur 10.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-27</Text>
+      </Item>
+      <Item>
+        <Text>— al. 24(2)d) abrogé avant son entrée en vigueur <Emphasis style="italic">voir</Emphasis> 2008, ch. 20, art. 3 de la <XRefExternal reference-type="act">Loi sur l’abrogation des lois</XRefExternal>, <Emphasis style="italic">voir aussi</Emphasis> la <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, Partie I, Vol. 148, n<Sup>o</Sup> 9, p. 542</Text>
+      </Item>
+      <Item>
+        <Text>— par. 29(1) en vigueur 01.01.2003 <Emphasis style="italic">voir</Emphasis> TR/2002-161</Text>
+      </Item>
+      <Item>
+        <Text>— al. 32b) et art. 169 abrogés avant leur entrée en vigueur par 2003, ch. 8, art. 24 et 55, respectivement</Text>
+      </Item>
+      <Item>
+        <Text>— art. 37 à 53 abrogés avant leur entrée en vigueur <Emphasis style="italic">voir</Emphasis> 2008, ch. 20, art. 3 de la <XRefExternal reference-type="act">Loi sur l’abrogation des lois</XRefExternal>, <Emphasis style="italic">voir aussi</Emphasis> la <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, Partie I, Vol. 149, n<Sup>o</Sup>6, pp. 181-182</Text>
+      </Item>
+      <Item>
+        <Text>— art. 95 en vigueur 18.12.97 <Emphasis style="italic">voir</Emphasis> TR/98‑2</Text>
+      </Item>
+      <Item>
+        <Text>— art. 97 en vigueur 03.12.98 <Emphasis style="italic">voir</Emphasis> TR/98-129</Text>
+      </Item>
+      <Item>
+        <Text>— art. 118 et 119 en vigueur 30.04.96 <Emphasis style="italic">voir</Emphasis> TR/96‑39</Text>
+      </Item>
+      <Item>
+        <Text>— art. 139 de la Loi, en ce qui touche le remplacement de l’art. 85 du <XRefExternal reference-type="act">Code criminel</XRefExternal>, dans sa version antérieure au 01.01.96, par l’art. 85 du <XRefExternal reference-type="act">Code criminel</XRefExternal>, édicté par l’art. 139 de la Loi, et les art. 141 à 150 en vigueur 01.01.96 <Emphasis style="italic">voir</Emphasis> TR/96‑2</Text>
+      </Item>
+      <Item>
+        <Text>— art. 97 du <XRefExternal reference-type="act">Code criminel</XRefExternal>, édicté par l’art. 139, abrogé avant son entrée en vigueur 31.12.2011 <Emphasis style="italic">voir</Emphasis> 2008, ch. 20, art. 3 de la <XRefExternal reference-type="act">Loi sur l’abrogation des lois</XRefExternal></Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1996, ch. 19, art. 76.1 en vigueur 14.05.97 <Emphasis style="italic">voir</Emphasis> TR/97‑47</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 3, art. 64 en vigueur 01.04.99 <Emphasis style="italic">voir</Emphasis> art. 92</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 1999, ch. 25, art. 31 en vigueur 01.12.99 <Emphasis style="italic">voir</Emphasis> TR/99‑135</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2000, ch. 12, art. 117 et 118 en vigueur 31.07.2000 <Emphasis style="italic">voir</Emphasis> TR/2000‑76; art. 116 en vigueur 01.01.2004 <Emphasis style="italic">voir</Emphasis> TR/2003-186 <Emphasis style="italic">voir aussi erratum</Emphasis> <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal> Partie II, Vol. 139, n<Sup>o</Sup> 9, p. 947</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 4, art. 85 en vigueur 01.06.2001 <Emphasis style="italic">voir</Emphasis> TR/2001‑71</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2001, ch. 41, art. 96 en vigueur 24.12.2001 <Emphasis style="italic">voir</Emphasis> TR/2002-16</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 8</Text>
+    <List>
+      <Item>
+        <Text>— par. 9(2) et art. 48 à 50 en vigueur 30.05.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-114</Text>
+      </Item>
+      <Item>
+        <Text>— art. 10 à 12, 22 et 24, par. 40(1) et art. 43, 52, 53 et 55 en vigueur 15.08.2003 <Emphasis style="italic">voir</Emphasis> TR/2003-144</Text>
+      </Item>
+      <Item>
+        <Text>— par. 9(1) et (3), art. 13 à 21, 25, 36, 38, 39 de la Loi, par. 64(3), (4) et (7) de la <XRefExternal reference-type="act">Loi sur les armes à feu</XRefExternal>, édictés par le par. 40(2), art. 41, 42, 44 à 47, 54 et 56 en vigueur 10.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-27</Text>
+      </Item>
+      <Item>
+        <Text>— art. 23 en vigueur 31.10.2016 <Emphasis style="italic">voir</Emphasis> TR/2016-53</Text>
+      </Item>
+      <Item>
+        <Text>— art. 26 à 35 et 37 abrogés avant leur entrée en vigueur 31.12.2014 <Emphasis style="italic">voir</Emphasis> 2008, ch. 20, art. 3 de la <XRefExternal reference-type="act">Loi sur l’abrogation des lois</XRefExternal>, <Emphasis style="italic">voir aussi</Emphasis> la <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, Partie I, Vol. 149, n<Sup>o</Sup>6, pp. 181-182</Text>
+      </Item>
+      <Item>
+        <Text>— par. 64(5) et (6) de la <XRefExternal reference-type="act">Loi sur les armes à feu</XRefExternal>, édictés par le par. 40(2), et art. 51 abrogés avant leur entrée en vigueur 31.12.2013 <Emphasis style="italic">voir</Emphasis> 2008, ch. 20, art. 3 de la <XRefExternal reference-type="act">Loi sur l’abrogation des lois</XRefExternal>, <Emphasis style="italic">voir aussi</Emphasis> la <XRefExternal reference-type="canada-gazette">Gazette du Canada</XRefExternal>, Partie I, Vol. 148, n<Sup>o</Sup> 9, p. 542</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2003, ch. 22, art. 224 en vigueur 01.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 10, art. 29 en vigueur 04.04.2005 <Emphasis style="italic">voir</Emphasis> TR/2005-29</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 38, al. 145(2)j) en vigueur à la sanction 03.11.2005; al. 139c) et 142f) en vigueur 12.12.2005 <Emphasis style="italic">voir</Emphasis> TR/2005‑119</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2008, ch. 20 (sanction : 18.06.2008), art. 3 en vigueur 18.06.2010 <Emphasis style="italic">voir</Emphasis> art. 6</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2012, ch. 6, art. 30 en vigueur à la sanction 05.04.2012; art. 9 à 29 en vigueur 05.04.2012 <Emphasis style="italic">voir</Emphasis> TR/2012-28; par. 30(3) modifié par 2015, ch. 27, art. 36</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 27, par. 2(2), art. 3, par. 4(1) à (3), (5), (6) et (9), art. 5, 7 à 9, 12, par. 13(2), art. 16, 17 et 36 en vigueur à la sanction 18.06.2015</Text>
+    <List>
+      <Item>
+        <Text>— par. 4(4), (7) et (8) et 37 en vigueur 02.09.2015 <Emphasis style="italic">voir</Emphasis> TR/2015-79</Text>
+      </Item>
+      <Item>
+        <Text>— par. 2(1), art. 6 et 11 et par. 13(1) en vigueur 02.09.2015 <Emphasis style="italic">voir</Emphasis> TR/2015-80</Text>
+      </Item>
+      <Item>
+        <Text>— art. 14 en vigueur 30.11.2017 <Emphasis style="italic">voir</Emphasis> TR/2017-70</Text>
+      </Item>
+      <Item>
+        <Text>— art. 10 et 15 entrent en vigueur à la date fixée par décret <Emphasis style="italic">voir</Emphasis> par. 38(3) — non en vigueur</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2015, ch. 36, art. 230 et 231 en vigueur à la sanction 23.06.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2018, ch. 16 (sanction : 21.06.2018), art. 182 en vigueur 17.10.2018, <Emphasis style="italic">voir</Emphasis> TR/2018-52</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2019, ch. 9, art. 3(1), 4(1), 12 et 13(2) en vigueur à la sanction 21.06.2019</Text>
+    <List>
+      <Item>
+        <Text>— art. 1 entre en vigueur à la date d’entrée en vigueur de l’article 64 de la Loi modifiant certaines lois et d’autres textes en conséquence (armes à feu) <Emphasis style="italic">voir</Emphasis> 2023, ch. 32, art. 64(1)</Text>
+      </Item>
+      <Item>
+        <Text>— art. 2, par. 4(3), art. 6, 8 et 15 en vigueur 07.07.2021, <Emphasis style="italic">voir</Emphasis> TR/2021-35</Text>
+      </Item>
+      <Item>
+        <Text>— par. 3(2) et 4(2) entrent en vigueur à la date fixée par décret, <Emphasis style="italic">voir</Emphasis> par. 22(1) — non en vigueur</Text>
+      </Item>
+      <Item>
+        <Text>— art. 5, 7, 9 à 11, par. 13(1) et 13(3) et art. 14 en vigueur 18.05.2022, <Emphasis style="italic">voir</Emphasis> TR/2022-24</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2023, ch. 32 en vigueur à la sanction 15.12.2023, <Emphasis style="italic">sauf</Emphasis></Text>
+    <List>
+      <Item>
+        <Text>— art. 15, par. 35(1), art. 37, par. 38(2), art. 40 et 41 entrent en vigueur à la date ou aux dates fixées par décret <Emphasis style="italic">voir</Emphasis> par. 73(1) — non en vigueur</Text>
+      </Item>
+      <Item>
+        <Text>— art. 16 et 36 en vigueur 04.04.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-26</Text>
+      </Item>
+      <Item>
+        <Text>— art. 34, par. 35(2) et 38(1) en vigueur 07.03.2025 <Emphasis style="italic">voir</Emphasis> TR/2025-23</Text>
+      </Item>
+      <Item>
+        <Text>— art. 21.2, 26 et 45 en vigueur 01.09.2024 <Emphasis style="italic">voir</Emphasis> TR/2024-28</Text>
+      </Item>
+      <Item>
+        <Text>— art. 20, 27 à 29, 32, 33 et par. 35(1) en vigueur 01.10.2024 <Emphasis style="italic">voir</Emphasis> TR/2024-42</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2024, ch. 30, art. 13 en vigueur à la sanction 27.11.2024</Text>
+  </CIF>
+</Statute>
+</TOPS>

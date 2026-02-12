@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="fr">
+<Statute FlicsAlpha="2003, ch. 14">
+  <Title>Indemnisation des militaires ayant subi des blessures, Loi d’</Title>
+  <ChapterNumber>2003, ch. 14</ChapterNumber>
+  <OtherLangTitle>(Injured Military Members Compensation Act)</OtherLangTitle>
+  <Minister>
+    <Text>Le ministre de la Défense nationale</Text>
+  </Minister>
+  <Section>
+    <Label>10</Label>
+    <Text>2003, ch. 14, art. 22</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2003, ch. 14, art. 21</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2003, ch. 14, art. 20; 2004, ch. 11, art. 33; 2005, ch. 21 art. 104</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>dispositions de coordination, 2003, ch. 14, art. 20 à 23</Text>
+  </CoordinatingAmendment>
+  <CIF>
+    <Text>EEV, 2003, ch. 14 en vigueur à la sanction 19.06.2003</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2004, ch. 11, art. 33 en vigueur 21.05.2004 <Emphasis style="italic">voir</Emphasis> TR/2004-58</Text>
+  </CIF>
+  <CIF>
+    <Text>EEV, 2005, ch. 21, art. 104 en vigueur 01.04.2006 <Emphasis style="italic">voir</Emphasis> TR/2006-54</Text>
+  </CIF>
+</Statute>
+</TOPS>

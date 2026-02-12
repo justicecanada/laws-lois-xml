@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="S-26">
+  <Title>Supreme Court Act</Title>
+  <ChapterNumber>R.S., 1985, c. S-26</ChapterNumber>
+  <OtherLangTitle>(Cour suprême, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Justice and Attorney General of Canada</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1993, c. 28, s. 78 (Sch. III, item 133); 2002, c. 7, s. 237(E)</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1993, c. 34, s. 115(F)</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>added, 2013, c. 40, s. 471</Text>
+  </Section>
+  <Section>
+    <Label>6.1</Label>
+    <Text>added, 2013, c. 40, s. 472</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1993, c. 34, s. 116(F)</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>R.S., c. 34 (3rd Supp.), s. 1</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>R.S., c. 34 (3rd Supp.), s. 2</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2002, c. 8, s. 175</Text>
+  </Section>
+  <Section>
+    <Label>35.1</Label>
+    <Text>added, 1990, c. 8, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>37.1</Label>
+    <Text>added, 1990, c. 8, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>1990, c. 8, s. 35; 2002, c. 8, par. 183(1)(t)</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>1990, c. 8, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>R.S., c. 34 (3rd Supp.), s. 3; 1990, c. 8, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>1993, c. 34, s. 117(F)</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>R.S., c. 34 (3rd Supp.), s. 4; 1990, c. 8, s. 38; 1994, c. 44, s. 98; 1997, c. 18, s. 138</Text>
+  </Section>
+  <Section>
+    <Label>46.1</Label>
+    <Text>added, 1994, c. 44, s. 99</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>R.S., c. 34 (3rd Supp.), s. 5; 1997, c. 18, s. 139</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>R.S., c. 34 (3rd Supp.), s. 6; 2000, c. 9, s. 572</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>1990, c. 8, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>2002, c. 8, s. 176</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>1994, c. 44, s. 100</Text>
+  </Section>
+  <Section>
+    <Label>65.1</Label>
+    <Text>added, 1990, c. 8, s. 40; 1994, c. 44, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>79</Label>
+    <Text>1990, c. 8, s. 41; 1993, c. 28, s. 78 (Sch. III, item 134), this amendment was repealed before it came into force by 1998, c. 15, s. 39; 1994, c. 44, s. 102</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>2019, c. 25, s. 391</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>R.S., c. 34 (3rd Supp.), s. 7</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, R.S., c. 34 (3rd Supp.), ss. 1 to 7 proclaimed in force 25.04.88 <Emphasis style="italic">see</Emphasis> SI/88‑87</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1990, c. 8 in force 01.02.92 <Emphasis style="italic">see</Emphasis> SI/92‑6</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 28, s. 78 (Sch. III, item 133) in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 34, ss. 115(F) to 117(F) in force on assent 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 44, ss. 98 to 102 in force 15.02.95 <Emphasis style="italic">see</Emphasis> SI/95‑20</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1997, c. 18, ss. 138 and 139 in force 14.05.97 <Emphasis style="italic">see</Emphasis> SI/97‑62</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 15, s. 39 in force on assent 11.06.98</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 9, s. 572 in force 01.09.2000 <Emphasis style="italic">see</Emphasis><XRefExternal reference-type="canada-gazette"> Canada Gazette</XRefExternal>, Part I, Extra Vol. 134, No. 6, 01.09.2000</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, s. 237 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, ss. 175, 176 and 183 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40, ss. 471 and 472 in force on assent 12.12.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 25 (assent: 21.06.2019), s. 391 in force 18.12.2019 <Emphasis style="italic">see</Emphasis> s. 407</Text>
+  </CIF>
+</Statute>
+</TOPS>

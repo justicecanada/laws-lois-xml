@@ -1,0 +1,1912 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1987, c. 3">
+  <Title>Canada-Newfoundland and Labrador Atlantic Accord Implementation Act</Title>
+  <ChapterNumber>1987, c. 3</ChapterNumber>
+  <OtherLangTitle>(Accord atlantique Canada — Terre-Neuve-et-Labrador, Loi de mise en oeuvre de l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Natural Resources</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>2014, c. 13, s. 2(F); 2024, c. 20, s. 1</Text>
+  </LongTitle>
+  <Section>
+    <Label>1</Label>
+    <Text>2014, c. 13, s. 3; 2024, c. 20, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>1994, c. 41, s. 37(1)(a); 2014, c. 13, s. 4; 2015, c. 4, ss. 37 and 117(2); 2024, c. 20, ss. 3 and 101</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>added, 2024, c. 20, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1992, c. 35, s. 44; 2005, c. 27, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2024, c. 20, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1993, c. 28, s. 78 (Sch. III, item 8.1); 1998, c. 15, s. 18; 2002, c. 7, s. 108(E); 2024, c. 20, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2014, c. 13, s. 2; 2014, c. 13, s. 5; 2015, c. 4, ss. 38 and 117(4); 2024, c. 20, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>7.1</Label>
+    <Text>added, 2024, c. 20, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>1992, c. 35, s. 45; 2024, c. 20, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1992, c. 35, s. 46; 1994, c. 24, s. 34(F); 2014, c. 13, s. 6; 2024, c. 20, ss. 10 and 101</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2014, c. 13, par. 52(2)(a)(E) and (3)(E); 2024, c. 20, ss. 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2003, c. 22, s. 117(E); 2017, c. 9, subpar. 55(1)(e)(i); 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2014, c. 13, s. 7, par. 52(1)(a)(E), (2)(b)(E); 2024, c. 20, ss. 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2014, c. 13, par. 52(2)(c)(E); 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2014, c. 13, par. 52(2)(d)(E); 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2014, c. 13, par. 52(2)(e)(E); 2024, c. 20, ss. 11 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2014, c. 13, par. 52(2)(f)(E); 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>17.1</Label>
+    <Text>added, 2024, c. 20, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2024, c. 20, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2014, c. 13, par. 52(2)(g)(E); 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2024, c. 20, ss. 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2024, c. 20, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2024, c. 20, ss. 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2014, c. 13, par. 52(2)(h)(E); 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2003, c. 22, s. 118 and par. 225(g)(E) and s. 231; 2014, c. 13, s. 8; 2017, c. 9, subpar. 55(1)(e)(ii); 2024, c. 20, ss. 15, 101 and 103(F)</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>26.1</Label>
+    <Text>added, 2014, c. 13, s. 9; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2024, c. 20, ss. 16, 101 and 103(F)</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>2014, c. 13, s. 10; 2024, c. 20, ss. 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>29.1</Label>
+    <Text>added, 2015, c. 4, s. 39; 2024, c. 20, ss. 17 and 101</Text>
+  </Section>
+  <Section>
+    <Label>29.2</Label>
+    <Text>added, 2015, c. 4, s. 39; 2017, c. 20, par. 454(1)(c)</Text>
+  </Section>
+  <Section>
+    <Label>29.3</Label>
+    <Text>added, 2015, c. 4, s. 39; 2018, c. 27, s. 176; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>2014, c. 13, par. 52(1)(b)(E)</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2014, c. 13, par. 52(1)(c)(E)</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>40.1</Label>
+    <Text>added, 2024, c. 20, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>40.2</Label>
+    <Text>added, 2024, c. 20, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>40.3</Label>
+    <Text>added, 2024, c. 20, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>2014, c. 13, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2014, c. 13, s. 12; 2024, c. 20, ss. 20 and 101</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>2014, c. 13, s. 13(E); 2015, c. 4, s. 40(E); 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>44.1</Label>
+    <Text>added, 2015, c. 4, s. 41; 2024, c. 20, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>44.2</Label>
+    <Text>added, 2015, c. 4, s. 41; 2024, c. 20, ss. 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>44.3</Label>
+    <Text>added, 2015, c. 4, s. 41; 2024, c. 20, ss. 22(E) and 101</Text>
+  </Section>
+  <Section>
+    <Label>44.4</Label>
+    <Text>added, 2015, c. 4, s. 41; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>1992, c. 35, s. 47; 2014, c. 13, s. 15; 2024, c. 20, ss. 23 and 101</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2014, c. 13, s. 16; 2024, c. 20, ss. 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>2024, c. 20, ss. 25, 102(E) and 103(F)</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>repealed, 2024, c. 30, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>1992, c. 1, s. 144 (Sch. VII, item 6)(F)</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2024, c. 20, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>2024, c. 20, ss. 27 and 101</Text>
+  </Section>
+  <Section>
+    <Label>56.1</Label>
+    <Text>added, 2024, c. 20, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>56.2</Label>
+    <Text>added, 2024, c. 20, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>56.3</Label>
+    <Text>added, 2024, c. 20, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>56.4</Label>
+    <Text>added, 2024, c. 20, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>56.5</Label>
+    <Text>added, 2024, c. 20, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>2024, c. 20, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>1994, c. 26, s. 11(F); 2024, c. 20, ss. 31 and 101</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>2024, c. 20, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>2024, c. 20, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2024, c. 20, ss. 34, 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>2024, c. 20, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>2015, c. 4, s. 42(F); 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>2024, c. 20, ss. 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>2024, c. 20, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>2015, c. 4, s. 43; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>77</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>78</Label>
+    <Text>1988, c. 28, s. 256; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>79</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>2024, c. 20, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>1993, c. 47, s. 6; 2024, c. 20, ss. 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>2024, c. 20, ss. 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>1993, c. 47, s. 7</Text>
+  </Section>
+  <Heading>
+    <Label>Part II, Division V</Label>
+    <Text>repealed, (ss. 88 to 96), 1993, c. 47, s. 8; added, 2024, c. 20, s. 38</Text>
+  </Heading>
+  <Section>
+    <Label>88</Label>
+    <Text>repealed, 1993, c. 47, s. 8; added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>89</Label>
+    <Text>repealed, 1993, c. 47, s. 8; added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>90</Label>
+    <Text>repealed, 1993, c. 47, s. 8; added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>repealed, 1993, c. 47, s. 8; added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>92</Label>
+    <Text>repealed, 1993, c. 47, s. 8; added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>repealed, 1993, c. 47, s. 8; added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>repealed, 1993, c. 47, s. 8; added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>repealed, 1993, c. 47, s. 8; added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>96</Label>
+    <Text>repealed, 1993, c. 47, s. 8; added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>96.1</Label>
+    <Text>added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>96.2</Label>
+    <Text>added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>96.3</Label>
+    <Text>added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>96.4</Label>
+    <Text>added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>96.5</Label>
+    <Text>added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>96.6</Label>
+    <Text>added, 2024, c. 20, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>1988, c. 28, s. 257(F); 2014, c. 13, s. 17; 2024, c. 20, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>97.1</Label>
+    <Text>added, 2024, c. 20, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>98</Label>
+    <Text>1988, c. 28, s. 258(F); 2014, c. 13, s. 18(F); 2024, c. 20, s. 42</Text>
+  </Section>
+  <Section>
+    <Label>99</Label>
+    <Text>2015, c. 4, s. 44(F); 2024, c. 20, s. 43</Text>
+  </Section>
+  <Section>
+    <Label>100</Label>
+    <Text>2024, c. 20, s. 43</Text>
+  </Section>
+  <Section>
+    <Label>101</Label>
+    <Text>2024, c. 20, ss. 44 and 101</Text>
+  </Section>
+  <Section>
+    <Label>102</Label>
+    <Text>1988, c. 28, s. 259; 1990, c. 41, s. 12; 1991, c. 46, s. 585; 2014, c. 13, s. 19; 2024, c. 20, ss. 45 and 101</Text>
+  </Section>
+  <Section>
+    <Label>103</Label>
+    <Text>2024, c. 20, s. 46</Text>
+  </Section>
+  <Section>
+    <Label>104</Label>
+    <Text>1990, c. 41, s. 13; repealed, 1993, c. 47, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>104.1</Label>
+    <Text>added, 1990, c. 41, s. 14; repealed, 1993, c. 47, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>107</Label>
+    <Text>1990, c. 41, s. 15; repealed, 1993, c. 47, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>112</Label>
+    <Text>1994, c. 26, s. 12(F)</Text>
+  </Section>
+  <Section>
+    <Label>116</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>118</Label>
+    <Text>2015, c. 4, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>119</Label>
+    <Text>1988, c. 28, s. 260; 1992, c. 35, s. 48; 1994, c. 26, s. 13(F); 2015, c. 4, s. 46; 2024, c. 20, ss. 47 and 101</Text>
+  </Section>
+  <Section>
+    <Label>119.1</Label>
+    <Text>added, 2015, c. 4, s. 47; 2024, c. 20, ss. 48, 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>120</Label>
+    <Text>repealed, 1992, c. 35, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>121</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>122</Label>
+    <Text>1992, c. 35, s. 50</Text>
+  </Section>
+  <Section>
+    <Label>123</Label>
+    <Text>2014, c. 13, s. 20; 2024, c. 20, ss. 49 and 101</Text>
+  </Section>
+  <Section>
+    <Label>124</Label>
+    <Text>2014, c. 13, s. 21; 2024, c. 20, ss. 50, 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>125</Label>
+    <Text>2024, c. 20, ss. 51 and 101</Text>
+  </Section>
+  <Section>
+    <Label>126</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>128</Label>
+    <Text>2024, c. 20, s. 52</Text>
+  </Section>
+  <Section>
+    <Label>130</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>131</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>132</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>133</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>134.1</Label>
+    <Text>added, 2024, c. 20, s. 53</Text>
+  </Section>
+  <Section>
+    <Label>135</Label>
+    <Text>1992, c. 35, s. 52</Text>
+  </Section>
+  <Section>
+    <Label>135.1</Label>
+    <Text>added, 1992, c. 35, s. 53; 2015, c. 4, s. 48; 2024, c. 20, s. 55</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>1992, c. 35, s. 54(F); 2024, c. 20, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>136.1</Label>
+    <Text>added, 1992, c. 35, s. 55</Text>
+  </Section>
+  <Section>
+    <Label>136.2</Label>
+    <Text>added, 1992, c. 35, s. 55</Text>
+  </Section>
+  <Section>
+    <Label>137</Label>
+    <Text>1992, c. 35, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>137.01</Label>
+    <Text>added, 2024, c. 20, s. 58</Text>
+  </Section>
+  <Section>
+    <Label>137.1</Label>
+    <Text>added, 1992, c. 35, s. 57; 2015, c. 4, s. 49; 2024, c. 20, s. 59</Text>
+  </Section>
+  <Section>
+    <Label>138</Label>
+    <Text>1992, c. 35, s. 58; 2014, c. 13, s. 22; 2015, c. 4, ss. 50 and 117; 2024, c. 20, ss. 61, 101, 102(E) and 103(F)</Text>
+  </Section>
+  <Section>
+    <Label>138.01</Label>
+    <Text>added, 2015, c. 4, s. 51; 2024, c. 20, s. 62</Text>
+  </Section>
+  <Section>
+    <Label>138.011</Label>
+    <Text>added, 2024, c. 20, s. 62.1</Text>
+  </Section>
+  <Section>
+    <Label>138.012</Label>
+    <Text>added, 2024, c. 20, s. 62.1</Text>
+  </Section>
+  <Section>
+    <Label>138.013</Label>
+    <Text>added, 2024, c. 20, s. 62.1</Text>
+  </Section>
+  <Section>
+    <Label>138.014</Label>
+    <Text>added, 2024, c. 20, s. 62.1</Text>
+  </Section>
+  <Section>
+    <Label>138.015</Label>
+    <Text>added, 2024, c. 20, s. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.016</Label>
+    <Text>added, 2024, c. 20, s. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.017</Label>
+    <Text>added, 2024, c. 20, s. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.018</Label>
+    <Text>added, 2024, c. 20, s. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.019</Label>
+    <Text>added, 2024, c. 20, s. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.02</Label>
+    <Text>added, 2015, c. 4, s. 51; 2024, c. 20, s. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.021</Label>
+    <Text>added, 2024, c. 20, s. 62.2</Text>
+  </Section>
+  <Section>
+    <Label>138.1</Label>
+    <Text>added, 1992, c. 35, s. 58; 2024, c. 20, s. 63</Text>
+  </Section>
+  <Section>
+    <Label>138.2</Label>
+    <Text>added, 1992, c. 35, s. 58; 2024, c. 20, s. 64</Text>
+  </Section>
+  <Section>
+    <Label>138.21</Label>
+    <Text>added, 2015, c. 4, s. 51; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>138.3</Label>
+    <Text>added, 1992, c. 35, s. 58; 2015, c. 4, s. 52; 2024, c. 20, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>139</Label>
+    <Text>1992, c. 35, s. 59; 2024, c. 20, ss. 66 and 101</Text>
+  </Section>
+  <Section>
+    <Label>139.1</Label>
+    <Text>added, 1992, c. 35, s. 60; 2014, c. 13, s. 23; 2024, c. 20, ss. 67 and 101</Text>
+  </Section>
+  <Section>
+    <Label>139.2</Label>
+    <Text>added, 1992, c. 35, s. 60; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>140</Label>
+    <Text>1992, c. 35, s. 61; 2014, c. 13, s. 24; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>140.1</Label>
+    <Text>added, 1992, c. 35, s. 61; 2014, c. 13, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>140.2</Label>
+    <Text>added, 1992, c. 35, s. 61; 2024, c. 20, s. 69(F)</Text>
+  </Section>
+  <Section>
+    <Label>141</Label>
+    <Text>2003, c. 22, s. 119(E); 2014, c. 13, par. 52(1)(d)(E); 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>142</Label>
+    <Text>2003, c. 22, s. 120; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>144</Label>
+    <Text>2003, c. 22, s. 121</Text>
+  </Section>
+  <Section>
+    <Label>147</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>148</Label>
+    <Text>2014, c. 13, s. 26; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>149</Label>
+    <Text>1992, c. 35, s. 63; 2015, c. 4, ss. 54 and 117(7); 2024, c. 20, s. 71 and 101</Text>
+  </Section>
+  <Section>
+    <Label>149.1</Label>
+    <Text>added, 2015, c. 4, s. 55</Text>
+  </Section>
+  <Section>
+    <Label>150</Label>
+    <Text>1994, c. 26, s. 14(F); repealed, 2024, c. 20, s. 72</Text>
+  </Section>
+  <Section>
+    <Label>151</Label>
+    <Text>1992, c. 35, s. 64; 2014, c. 13, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>151.1</Label>
+    <Text>2015, c. 4, s. 56; 2024, c. 20, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>151.1</Label>
+    <Text>1992, c. 35, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>152</Label>
+    <Text>1988, c. 28, s. 261; 1992, c. 35, s. 66; 1999, c. 31, s. 29; repealed, 2014, c. 13, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>153</Label>
+    <Text>1992, c. 35, s. 67</Text>
+  </Section>
+  <Section>
+    <Label>154</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>155</Label>
+    <Text>1992, c. 35, s. 68</Text>
+  </Section>
+  <Section>
+    <Label>156</Label>
+    <Text>1992, c. 35, s. 69(F); 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>157</Label>
+    <Text>1992, c. 35, s. 70(F)</Text>
+  </Section>
+  <Section>
+    <Label>158</Label>
+    <Text>1992, c. 35, s. 71(F)</Text>
+  </Section>
+  <Section>
+    <Label>160</Label>
+    <Text>1992, c. 35, s. 73; 2001, c. 6, s. 110, c. 26, s. 280 and s. 324(8); 2015, c. 4, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>161</Label>
+    <Text>1992, c. 35, s. 74; 2014, c. 13, s. 29; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>161.1</Label>
+    <Text>added, 2015, c. 4, s. 58</Text>
+  </Section>
+  <Section>
+    <Label>161.2</Label>
+    <Text>added, 2015, c. 4, s. 59</Text>
+  </Section>
+  <Section>
+    <Label>161.3</Label>
+    <Text>added, 2015, c. 4, s. 59</Text>
+  </Section>
+  <Section>
+    <Label>161.4</Label>
+    <Text>added, 2015, c. 4, s. 59; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>161.5</Label>
+    <Text>added, 2015, c. 4, s. 59</Text>
+  </Section>
+  <Section>
+    <Label>162</Label>
+    <Text>1992, c. 35, s. 75; 2015, c. 4, s. 60; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>162.1</Label>
+    <Text>added, 2015, c. 4, s. 61; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>163</Label>
+    <Text>1992, c. 35, s. 76; 2015, c. 4, s. 62; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>163.1</Label>
+    <Text>added, 2015, c. 4, s. 63; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>164</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>164.1</Label>
+    <Text>added, 2018, c. 27, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>164.2</Label>
+    <Text>added, 2018, c. 27, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>164.3</Label>
+    <Text>added, 2018, c. 27, s. 177; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>165</Label>
+    <Text>1992, c. 35, s. 77; 2024, c. 20, ss. 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>166</Label>
+    <Text>1992, c. 35, s. 78(F); 2024, c. 20, s. 75</Text>
+  </Section>
+  <Section>
+    <Label>167</Label>
+    <Text>1991, c. 50, s. 23; 2001, c. 4, s. 151; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>168</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>172</Label>
+    <Text>1991, c. 50, s. 24; 2001, c. 4, s. 152; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>174</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>176</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>177</Label>
+    <Text>1992, c. 35, s. 79(E)</Text>
+  </Section>
+  <Section>
+    <Label>179</Label>
+    <Text>1994, c. 26, s. 15(F)</Text>
+  </Section>
+  <Section>
+    <Label>183.01</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.02</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.03</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.04</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.05</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.06</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.07</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.08</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.09</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.1</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.11</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.12</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.13</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.14</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.15</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.16</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.17</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.18</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.19</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.2</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.21</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.22</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.23</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.24</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.25</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.26</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.27</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.28</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.29</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>183.3</Label>
+    <Text>added, 2024, c. 20, s. 76</Text>
+  </Section>
+  <Section>
+    <Label>185</Label>
+    <Text>2014, c. 13, s. 30; 2024, c. 20, s. 77</Text>
+  </Section>
+  <Section>
+    <Label>186</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>187</Label>
+    <Text>2014, c. 13, s. 31; 2024, c. 20, ss. 78 and 101</Text>
+  </Section>
+  <Section>
+    <Label>188</Label>
+    <Text>1992, c. 35, s. 80; 2014, c. 13, s. 33; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>189</Label>
+    <Text>1992, c. 35, s. 80; 2014, c. 13, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>189.1</Label>
+    <Text>added, 2014, c. 13, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>189.2</Label>
+    <Text>added, 2014, c. 13, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>190</Label>
+    <Text>1992, c. 35, s. 80; 2014, c. 13, s. 34(E); 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>191</Label>
+    <Text>1992, c. 35, s. 80; 2014, c. 13, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>192</Label>
+    <Text>1992, c. 35, s. 80; 2014, c. 13, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>192.1</Label>
+    <Text>added, 2014, c. 13, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>192.2</Label>
+    <Text>added, 2014, c. 13, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>193</Label>
+    <Text>1992, c. 35, s. 80; 2014, c. 13, s. 36(E); 2024, c. 20, s. 79</Text>
+  </Section>
+  <Section>
+    <Label>193.1</Label>
+    <Text>added, 1992, c. 35, s. 80; 2014, c. 13, s. 37(E)</Text>
+  </Section>
+  <Section>
+    <Label>193.2</Label>
+    <Text>added, 1992, c. 35, s. 80; 2014, c. 13, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>193.3</Label>
+    <Text>added, 2024, c. 20, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>194</Label>
+    <Text>1992, c. 35, s. 81; 2014, c. 13, s. 39; 2015, c. 4, ss. 64 and 117(13); 2024, c. 20, s. 82</Text>
+  </Section>
+  <Section>
+    <Label>195</Label>
+    <Text>repealed, 1992, c. 35, s. 82; added, 2014, c. 13, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>195.1</Label>
+    <Text>added, 2014, c. 13, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>195.2</Label>
+    <Text>added, 2014, c. 13, s. 40; repealed, 2015, c. 4, par. 117(14)(a)</Text>
+  </Section>
+  <Section>
+    <Label>195.3</Label>
+    <Text>added, 2014, c. 13, s. 40; repealed, 2015, c. 4, par. 117(14)(a)</Text>
+  </Section>
+  <Section>
+    <Label>195.4</Label>
+    <Text>added, 2014, c. 13, s. 40; repealed, 2015, c. 4, par. 117(14)(a)</Text>
+  </Section>
+  <Section>
+    <Label>195.5</Label>
+    <Text>added, 2014, c. 13, s. 40; repealed, 2015, c. 4, par. 117(14)(a)</Text>
+  </Section>
+  <Section>
+    <Label>196</Label>
+    <Text>2015, c. 4, s. 65 and par. 117(14)(b); 2024, c. 20, ss. 83 and 101</Text>
+  </Section>
+  <Section>
+    <Label>196.1</Label>
+    <Text>added, 2015, c. 4, s. 65; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>196.2</Label>
+    <Text>added, 2015, c. 4, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>196.3</Label>
+    <Text>added, 2015, c. 4, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>198</Label>
+    <Text>1988, c. 28, s. 262; repealed, 1992, c. 35, s. 83</Text>
+  </Section>
+  <Section>
+    <Label>199;</Label>
+    <Text>2014, c. 13, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>200</Label>
+    <Text>2014, c. 13, s. 42(F)</Text>
+  </Section>
+  <Section>
+    <Label>202</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>202.001</Label>
+    <Text>added, 2014, c. 13, s. 43; renumbered, 2015, c. 4, s. 117(15)</Text>
+  </Section>
+  <Section>
+    <Label>202.01</Label>
+    <Text>added, 2015, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.02</Label>
+    <Text>added, 2015, c. 4, s. 66; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>202.03</Label>
+    <Text>added, 2015, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.04</Label>
+    <Text>added, 2015, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.05</Label>
+    <Text>added, 2015, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.06</Label>
+    <Text>added, 2015, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.07</Label>
+    <Text>added, 2015, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.08</Label>
+    <Text>added, 2015, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.09</Label>
+    <Text>added, 2015, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.1</Label>
+    <Text>added, 2015, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.2</Label>
+    <Text>added, 2015, c. 4, s. 66; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>202.3</Label>
+    <Text>added, 2015, c. 4, s. 66; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>202.4</Label>
+    <Text>added, 2015, c. 4, s. 66; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>202.5</Label>
+    <Text>added, 2015, c. 4, s. 66; 2024, c. 20, ss. 84, 101 and 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>202.6</Label>
+    <Text>added, 2015, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.7</Label>
+    <Text>added, 2015, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.8</Label>
+    <Text>added, 2015, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.9</Label>
+    <Text>added, 2015, c. 4, s. 66; 2024, c. 20, s. 85</Text>
+  </Section>
+  <Section>
+    <Label>202.91</Label>
+    <Text>added, 2015, c. 4, s. 66; 2024, c. 20, ss. 86 and 101</Text>
+  </Section>
+  <Section>
+    <Label>202.92</Label>
+    <Text>added, 2015, c. 4, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>202.93</Label>
+    <Text>added, 2015, c. 4, s. 66; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>204</Label>
+    <Text>2014, c. 13, s. 44(F)</Text>
+  </Section>
+  <Section>
+    <Label>205</Label>
+    <Text>2024, c. 20, s. 101</Text>
+  </Section>
+  <Heading>
+    <Label>Part III.1</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Heading>
+  <Section>
+    <Label>205.001</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 87</Text>
+  </Section>
+  <Section>
+    <Label>205.002</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.003</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 88</Text>
+  </Section>
+  <Section>
+    <Label>205.004</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 89</Text>
+  </Section>
+  <Section>
+    <Label>205.005</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 89</Text>
+  </Section>
+  <Section>
+    <Label>205.006</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 89</Text>
+  </Section>
+  <Section>
+    <Label>205.007</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 90</Text>
+  </Section>
+  <Section>
+    <Label>205.008</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 91</Text>
+  </Section>
+  <Section>
+    <Label>205.009</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, ss. 101 and 103(E)</Text>
+  </Section>
+  <Section>
+    <Label>205.01</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.011</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.012</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.013</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, ss. 92 and 101</Text>
+  </Section>
+  <Section>
+    <Label>205.014</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.015</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.016</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.017</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.018</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.019</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, ss. 93 and 101</Text>
+  </Section>
+  <Section>
+    <Label>205.02</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.021</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.022</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.023</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.024</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.025</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.026</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.027</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.028</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.029</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.03</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.031</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.032</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.033</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.034</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.035</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.036</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.037</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.038</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.039</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.04</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.041 to 205.049</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.05</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.051 to 205.059</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.06</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 94</Text>
+  </Section>
+  <Section>
+    <Label>205.061</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.062</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.063</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 95</Text>
+  </Section>
+  <Section>
+    <Label>205.064</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.065</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.066</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.067</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.068</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, ss. 96 and 101</Text>
+  </Section>
+  <Section>
+    <Label>205.069</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.07</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.071</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.072</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.073</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.074</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.075</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.076</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.077</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.078</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.079</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.08</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.081</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.082</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.083</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.084</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.085</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.086</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.087</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.088</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.089</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.09</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, ss. 101 and 103(F)</Text>
+  </Section>
+  <Section>
+    <Label>205.091 to 205.099</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.1</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 97</Text>
+  </Section>
+  <Section>
+    <Label>205.101</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.102</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>205.103</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.104</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.105</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.106</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.107</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.108</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.109</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.11</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.111</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.112</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.113</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.114</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.115</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.116</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.117</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.118</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.119</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>205.12</Label>
+    <Text>added, 2014, c. 13, s. 45; 2024, c. 20, ss. 99 and 101</Text>
+  </Section>
+  <Section>
+    <Label>205.121</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.122</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.123</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.124</Label>
+    <Text>added, 2014, c. 13, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>205.125</Label>
+    <Text>added, 2014, c. 13, s. 45; repealed, 2024, c. 20, s. 100</Text>
+  </Section>
+  <Section>
+    <Label>206</Label>
+    <Text>2014, c. 13, s. 46</Text>
+  </Section>
+  <Section>
+    <Label>207</Label>
+    <Text>2014, c. 13, s. 46</Text>
+  </Section>
+  <Section>
+    <Label>208</Label>
+    <Text>2014, c. 13, s. 46</Text>
+  </Section>
+  <Section>
+    <Label>209</Label>
+    <Text>2014, c. 13, s. 47</Text>
+  </Section>
+  <Section>
+    <Label>210</Label>
+    <Text>2014, c. 13, s. 48</Text>
+  </Section>
+  <Section>
+    <Label>211</Label>
+    <Text>2014, c. 13, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>212</Label>
+    <Text>2015, c. 4, s. 67(F)</Text>
+  </Section>
+  <Section>
+    <Label>214</Label>
+    <Text>2014, c. 13, s. 50; 2024, c. 20, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>216</Label>
+    <Text>2014, c. 13, s. 51</Text>
+  </Section>
+  <Heading>
+    <Label>Part V</Label>
+    <Text>repealed, 2015, c. 4, s. 69</Text>
+  </Heading>
+  <Section>
+    <Label>218</Label>
+    <Text>1994, c. 41, s. 37(1)(a); 1993, c. 28, s. 78 (Sch. III, item 8.2); 1998, c. 15, s. 18; 2002, c. 7, s. 109(E); repealed, 2015, c. 4, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>219</Label>
+    <Text>1994, c. 41, s. 37(1)(a); repealed, 2015, c. 4, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>220</Label>
+    <Text>2004, c. 22, s. 6; 2007, c. 29, s. 78 (but s. 78 repealed by 2007, c. 35, s. 169 before coming into force), c. 35, ss. 172 and 174; repealed, 2015, c. 4, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>220.1</Label>
+    <Text>added, 2007, c. 29, s. 79; repealed, 2015, c. 4, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>221</Label>
+    <Text>repealed, 2015, c. 4, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>222</Label>
+    <Text>added, 2007, c. 29, s. 80; repealed, 2015, c. 4, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>223</Label>
+    <Text>1994, c. 41, s. 37(1)(a); repealed, 2015, c. 4, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>224 and 225</Label>
+    <Text>repealed, 2015, c. 4, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>226</Label>
+    <Text>1994, c. 41, s. 37(1)(a); repealed, 2015, c. 4, s. 69</Text>
+  </Section>
+  <Heading>
+    <Label>Part VI</Label>
+    <Text>repealed, 2015, c. 4, s. 69</Text>
+  </Heading>
+  <Section>
+    <Label>227</Label>
+    <Text>1994, c. 41, s. 37(1)(a); repealed, 2015, c. 4, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>228 to 232</Label>
+    <Text>repealed, 2015, c. 4, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>233</Label>
+    <Text>2015, c. 4, s. 68; repealed, 2015, c. 4, s. 69</Text>
+  </Section>
+  <Section>
+    <Label>239</Label>
+    <Text>1991, c. 49, s. 237</Text>
+  </Section>
+  <Schedule>
+    <Label>Schedule 1</Label>
+    <Text>added, 2015, c. 4, s. 70;</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 2</Label>
+    <Text>added, 2015, c. 4, s. 70; 2019, c. 14, s. 56; SOR/2022‑106</Text>
+  </Schedule>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2001, c. 26, s. 324(8)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2021, c. 10, s. 3</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2024, c. 20, ss. 220(9) and (11)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2024, c. 30, s. 38</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 1993, c. 47, s. 18</Text>
+  </General>
+  <General>
+    <Text>General, 1994, c. 41, s. 37(2)</Text>
+  </General>
+  <General>
+    <Text>General, 2014, c. 13, ss. 14(E) and 32(E); ss. 116 and 117 (regulations)</Text>
+  </General>
+  <General>
+    <Text>General, 2018, c. 27, s. 179 (regulations repealed)</Text>
+  </General>
+  <General>
+    <Text>General, added, 2024, c. 20, s. 18 (heading after s. 30)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 20, s. 24 (heading before s. 47)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 20, s. 29 (heading before s. 57)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 20, s. 39 (headings before s. 97)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 20, s. 54 (heading before s. 135)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 20, s. 56(F) (heading before s. 136)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 20, s. 60 (heading before s. 138)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 20, s. 68 (heading before s. 139.2)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 20, s. 70 (heading before s. 149)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 20, s. 74 (heading of Division II of Part III)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 20, s. 80 (heading before s. 193.2)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 20, s. 101 (heading before s. 9)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 20, s. 101 (heading before s. 17)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 20, s. 101, (heading before s. 205.066)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 30, s. 8(E) (heading before s. 47)</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2017, c. 9, s. 55</Text>
+  </Terminology>
+  <Transitional>
+    <Text>Transitional, 2007, c. 29, s. 83 (but s. 83 repealed by 2007, c. 35, s. 170)</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2007, c. 35, s. 174</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2014, c. 13, ss. 53 (s. 53(5) as amended by 2018, c. 27, s. 179) and 54</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional Provisions, 2024, c. 20, ss. 104 to 106</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1987, c. 3, s. 239(2) states that ss. 211, 234 &amp; 235 are applicable to taxation years commencing after a day to be fixed by proclamation); Act, <Emphasis style="italic">except</Emphasis> Division VIII of Part II and ss. 207 and 208, proclaimed in force 04.04.87 see SI/87‑88; Division VIII of Part II proclaimed in force 20.05.88 see SI/88‑102; ss. 207 and 208 in force 23.01.96 see SI/96‑20</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1988, c. 28, ss. 256 to 262 in force 22.12.89 <Emphasis style="italic">see</Emphasis> SI/90‑9</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1990, c. 41 in force 09.11.90 <Emphasis style="italic">see</Emphasis> SI/90‑169</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1991, c. 46 in force 01.06.92 <Emphasis style="italic">see</Emphasis> SI/92‑90</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1991, c. 49, ss. 237(1) deemed in force 27.03.87 <Emphasis style="italic">see</Emphasis> ss. 237(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1991, c. 50, ss. 23 and 24 in force 15.09.92 <Emphasis style="italic">see</Emphasis> SI/92‑151</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 1, s. 144 (Sch. VII, item 6)(F) in force on assent 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 35, ss. 44 to 83 in force 01.09.92 <Emphasis style="italic">see</Emphasis> SI/92‑154</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 47, ss. 6 to 10 in force 30.06.93 <Emphasis style="italic">see</Emphasis> SI/93‑149; s. 18 in force on assent 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 24, s. 34(2)(F) in force on assent 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 26, ss. 11(F) to 15(F) in force on assent 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 41, s. 37 in force 12.01.95 <Emphasis style="italic">see</Emphasis> SI/95‑10</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 15, s. 18 in force on assent 11.06.98</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 31, s. 29 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 4, ss. 151 and 152 in force 01.06.2001 <Emphasis style="italic">see</Emphasis> SI/2001‑71</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 6 (assent: 10.05.2001), s. 110 in force 08.08.2001 <Emphasis style="italic">see</Emphasis> s. 131.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 26, s. 324 in force on assent 01.11.2001; s. 280 in force 01.07.2007 <Emphasis style="italic">see</Emphasis> SI/2007-65</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, ss. 108 and 109 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, ss. 117 to 121 and 225 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24; s. 231 in force 31.12.2005 <Emphasis style="italic">see</Emphasis> SI/2005-122</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 22, s. 6 in force on assent 14.05.2004</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 27, s. 18 in force 01.12.2005 <Emphasis style="italic">see</Emphasis> SI/2005-117</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 29, s. 80 in force on assent 22.06.2007</Text>
+    <List>
+      <Item>
+        <Text>— s. 79 and 82 deemed to have come into force 01.04.2010 <Emphasis style="italic">see</Emphasis> s. 84 as amended by 2007, c. 35, s. 171 and <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal>, Part I, 14.01.2012, Vol. 146, No. 2, p. 26</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 35, ss. 169 to 171 and 174 in force on assent 14.12.2007;</Text>
+    <List>
+      <Item>
+        <Text>— s. 172 deemed to have come into force 01.04.2010 <Emphasis style="italic">see</Emphasis> s. 175 and <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal>, Part I, 14.01.2012, Vol. 146, No. 2, p. 26</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 13 (assent: 19.06.2014), ss. 2 to 44, 46 to 54, 116 and 117 in force 31.12.2014 <Emphasis style="italic">see</Emphasis> SI/2014-103; s. 45 in force 03.12.2014 <Emphasis style="italic">see</Emphasis> SI/2014-103.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 4, ss. 117 and 118 in force on assent 26.02.2015;</Text>
+    <List>
+      <Item>
+        <Text>— ss. 37, 52(1), 54(1) to (3) and (5), 55, 57, 58(1), 59, 69 and 70 in force 19.06.2015 <Emphasis style="italic">see</Emphasis> SI/2015-59;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 38 to 51, 53, 54(4), 56 and 60 to 68 in force 27.02.2016 <Emphasis style="italic">see</Emphasis> s. 119(1);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 52(2) and 58(2) to (4) in force 26.02.2020 or on any earlier day or days that may be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 119(2).</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 9, s. 55 in force on assent 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 20, s. 454 in force on assent 22.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 27, s. 179 in force on assent 13.12.2018; ss. 176 and 177 in force 01.01.2019 <Emphasis style="italic">see</Emphasis> SI/2019-25</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 14 (assent: 21.06.2019), s. 56 in force 28.08.2019 <Emphasis style="italic">see</Emphasis> SI/2019-80</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2021, c. 10, ss. 1 and 3 in force on assent 03.06.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2022-106, in force 30.07.2022, <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 20, ss. 1 to 106 come into force the day on which the definition “Regulator” is added to s. 2 of the <XRefExternal reference-type="act">Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act</XRefExternal>, c. C-2 of the Revised Statutes of Newfoundland and Labrador, 1990 <Emphasis style="italic">see</Emphasis> SI/2025-22 (02.06.2025)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 30, ss. 8 and 9 in force on assent 27.11.2024, <Emphasis style="italic">except</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>— s. 38 in force on assent 27.11.2024 (Coordinating amendment - condition deemed never to have met its effects)</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

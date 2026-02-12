@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="S.C., 2022, c. 5, s. 10">
+  <Title>Underused Housing Tax Act</Title>
+  <ChapterNumber>S.C., 2022, c. 5, s. 10</ChapterNumber>
+  <OtherLangTitle>(Taxe sur les logements sous-utilisés, Loi sur)</OtherLangTitle>
+  <Section>
+    <Label>2</Label>
+    <Text>2022, c. 19, s. 113; 2024, c. 17, s. 136</Text>
+  </Section>
+  <Section>
+    <Label>4.1</Label>
+    <Text>added, 2024, c. 17, s. 137</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2022, c. 19, s. 114; 2024, c. 17, s. 138</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2024, c. 17, s. 139</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2024, c. 17, s. 140</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>2022, c. 5, s. 10; 2024, c. 15, s. 122; 2024, c. 17, ss. 105 and 111(24)</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>2022, c. 19, s. 115; 2024, c. 17, s. 141</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>2024, c. 17, s. 142</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>2024, c. 17, s. 143</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>2024, c. 17, s. 144</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 2022, c. 5, s. 10 in force on assent 09.06.2022</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 19 (assent 15.12.2022)</Text>
+    <List>
+      <Item>
+        <Text>— ss. 113(1) and (2) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 112(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 114(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 114(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 115(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 115(2)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF 2024, c. 15, s. 122(1) in force 28.06.2024 <Emphasis style="italic">see</Emphasis> SI/2024-33</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 17 in force on assent 20.06.2024, <Emphasis style="italic">except</Emphasis></Text>
+    <List>
+      <Item>
+        <Text>— s. 111(24) in force 20.06.2024 (Coordinating amendment — conditions met 28.06.2024 <Emphasis style="italic">see</Emphasis> SI/2024-33)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 136(1), (4) and (5) deemed in force 01.01. 2023 <Emphasis style="italic">see</Emphasis> s. 136(6)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 136(2) and (3) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 136(7)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 137(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 137(2)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 138(2) deemed in force 01.01.2023 <Emphasis style="italic">see</Emphasis> s. 138(4)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 138(3) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 138(5)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 140(1) and (2) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 140(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 141(1) deemed in force 01.01.2022 <Emphasis style="italic">see</Emphasis> s. 141(3)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See also</Emphasis> the application provision s. 141(4)</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

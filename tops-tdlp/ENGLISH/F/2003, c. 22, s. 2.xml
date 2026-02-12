@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2003, c. 22, s. 2">
+  <Title>Federal Public Sector Labour Relations Act</Title>
+  <ChapterNumber>2003, c. 22, s. 2</ChapterNumber>
+  <TitleChanged>
+    <Text>(Formerly: Public Service Labour Relations Act)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Relations de travail dans le secteur public fédéral, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Leader of the Government in the House of Commons <Emphasis style="italic">see</Emphasis> SI/2025-51</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>2017, c. 9, s. 1</Text>
+  </LongTitle>
+  <Section>
+    <Label>1</Label>
+    <Text>2017, c. 9, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>2003, c. 22, s. 243; 2013, c. 40, s. 366; 2014, c. 20, s. 472 and par. 481(2)(d); 2017, c. 9, s. 3 and subpar. 56(1)(b)(i)</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2013, c. 40, s. 294; 2017, c. 9, s. 4; 2018, c. 24, s. 1</Text>
+  </Section>
+  <Section>
+    <Label>7.1</Label>
+    <Text>added, 2017, c. 9, s. 4.1</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2014, c. 20, par. 481(2)(e)</Text>
+  </Section>
+  <Heading>
+    <Label>Division 4</Label>
+    <Text>2017, c. 9, subpar. 57(1)(b)(i)</Text>
+  </Heading>
+  <Section>
+    <Label>12</Label>
+    <Text>2013, c. 40, s. 367</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2009, c. 2, s. 400; 2013, c. 40, ss. 295, 363(3), 367 and 469; 2017, c. 9, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2013, c. 40, s. 367 and 469</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2013, c. 40, s. 367</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>repealed, 2013, c. 40, s. 296 and s. 367</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>repealed, 2013, c. 40, s. 367</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2003, c. 22, s. 273; repealed, 2013, c. 40, s. 367, 2014, c. 2, s. 54</Text>
+  </Section>
+  <Section>
+    <Label>19 to 38</Label>
+    <Text>repealed, 2013, c. 40, s. 367</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2013, c. 40, ss. 297 and 368; 2017, c. 9, s. 6; 2018, c. 24, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>repealed, 2013, c. 40, s. 369</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>repealed, 2013, c. 40, s. 369</Text>
+  </Section>
+  <Section>
+    <Label>44 to 50</Label>
+    <Text>repealed, 2013, c. 40, s. 370</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2003, c. 22, s. 274; repealed, 2013, c. 40, s. 370</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>repealed, 2013, c. 40, s. 370</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>repealed, 2013, c. 40, s. 298, repealed, ss. 370 and 467(1)</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2017, c. 9, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>2017, c. 9, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>2003, c. 22, s. 275; 2017, c. 9, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>2018, c. 24, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>2014, c. 40, s. 9; 2017, c. 9, s. 10, c. 12, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>2014, c. 40, s. 10; 2017, c. 12, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>2013, c. 40, s. 299</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>2017, c. 9, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>79</Label>
+    <Text>2013, c. 40, s. 300; 2017, c. 9, s. 12; 2018, c. 24, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>2014, c. 40, s. 11; 2017, c. 12, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>2014, c. 40, s. 12; 2017, c. 12, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>96</Label>
+    <Text>2014, c. 40, s. 12; 2017, c. 12, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>100</Label>
+    <Text>2017, c. 9, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>101</Label>
+    <Text>2013, c. 40, s. 301; 2017, c. 9, s. 14; 2018, c. 24, s. 5</Text>
+  </Section>
+  <Heading>
+    <Label>Division 6</Label>
+    <Text>2018, c. 24, s. 6</Text>
+  </Heading>
+  <Section>
+    <Label>103</Label>
+    <Text>2013, c. 40, s. 302; 2018, c. 24, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>104</Label>
+    <Text>2013, c. 40, s. 302; 2018, c. 24, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>105</Label>
+    <Text>2013, c. 40, s. 303; 2018, c. 24, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>107</Label>
+    <Text>2013, c. 40, s. 304; 2018, c. 24, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>113</Label>
+    <Text>2017, c. 9, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>114</Label>
+    <Text>2017, c. 9, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>119</Label>
+    <Text>2013, c. 40, s. 305; 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>120</Label>
+    <Text>2013, c. 40, s. 305; 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>121</Label>
+    <Text>2013, c. 40, s. 305; 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>122</Label>
+    <Text>2013, c. 40, s. 305; 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>123</Label>
+    <Text>2013, c. 40, s. 305; 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>124</Label>
+    <Text>2013, c. 40, s. 305; 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>125</Label>
+    <Text>2013, c. 40, s. 305; 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>126</Label>
+    <Text>repealed, 2013, c. 40, s. 305; added, 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>127</Label>
+    <Text>repealed, 2013, c. 40, s. 305; added, 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>128</Label>
+    <Text>repealed, 2013, c. 40, s. 305; added, 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>129</Label>
+    <Text>repealed, 2013, c. 40, s. 305; added, 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>130</Label>
+    <Text>repealed, 2013, c. 40, s. 305; added, 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>131</Label>
+    <Text>repealed, 2013, c. 40, s. 305; added, 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>132</Label>
+    <Text>repealed, 2013, c. 40, s. 305; added, 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>133</Label>
+    <Text>repealed, 2013, c. 40, s. 305; added, 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>134</Label>
+    <Text>repealed, 2013, c. 40, s. 305; added, 2018, c. 24, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>135</Label>
+    <Text>2013, c. 40, s. 306(F)</Text>
+  </Section>
+  <Section>
+    <Label>144</Label>
+    <Text>2017, c. 9, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>147</Label>
+    <Text>2013, c. 40, s. 371; 2017, c. 9, subpar. 56(1)(b)(ii)</Text>
+  </Section>
+  <Section>
+    <Label>148</Label>
+    <Text>2013, c. 40, s. 307; 2018, c. 24, s. 10, c. 27, s. 435</Text>
+  </Section>
+  <Section>
+    <Label>149</Label>
+    <Text>2013, c. 40, s. 309; 2018, c. 24, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>150</Label>
+    <Text>2017, c. 9, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>154</Label>
+    <Text>2017, c. 9, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>158.1</Label>
+    <Text>added, 2013, c. 40, s. 310; 2017, c. 9, s. 20; repealed, 2018, c. 24, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>160</Label>
+    <Text>2013, c. 40, s. 311(F)</Text>
+  </Section>
+  <Section>
+    <Label>164</Label>
+    <Text>2013, c. 40, s. 312; 2018, c. 24, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>165</Label>
+    <Text>2013, c. 40, s. 313; 2018, c. 24, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>166</Label>
+    <Text>repealed, 2013, c. 40, s. 313; added, 2018, c. 24, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>167</Label>
+    <Text>2013, c. 40, s. 314; 2018, c. 24, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>170</Label>
+    <Text>2013, c. 40, s. 315; 2018, c. 24, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>174</Label>
+    <Text>2013, c. 40, s. 372; 2017, c. 9, subpar. 56(1)(b)(iii)</Text>
+  </Section>
+  <Section>
+    <Label>175</Label>
+    <Text>2013, c. 40, s. 316; 2018, c. 24, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>176</Label>
+    <Text>2013, c. 40, s. 317; 2018, c. 24, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>179</Label>
+    <Text>2013, c. 40, s. 318; 2018, c. 24, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>182</Label>
+    <Text>2013, c. 40, s. 319; 2018, c. 24, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>186</Label>
+    <Text>2017, c. 9, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>188</Label>
+    <Text>2017, c. 9, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>189</Label>
+    <Text>2017, c. 9, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>190</Label>
+    <Text>2013, c. 40, s. 320; 2018, c. 24, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>191</Label>
+    <Text>2017, c. 9, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>192</Label>
+    <Text>2013, c. 40, s. 321; 2017, c. 9, s. 25(E); 2018, c. 24, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>194</Label>
+    <Text>2013, c. 40, s. 322; 2018, c. 24, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>196</Label>
+    <Text>2013, c. 40, s. 323; 2018, c. 24, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>199</Label>
+    <Text>2013, c. 40, s. 324; 2018, c. 24, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>199.1</Label>
+    <Text>added, 2017, c. 9, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>202</Label>
+    <Text>2017, c. 9, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>203</Label>
+    <Text>2017, c. 9, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>206</Label>
+    <Text>2014, c. 20, par. 481(2)(f); 2017, c. 9, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>208</Label>
+    <Text>2009, c. 2, s. 401; 2013, c. 40, s. 325</Text>
+  </Section>
+  <Section>
+    <Label>209</Label>
+    <Text>2013, c. 40, s. 326; 2017, c. 9, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>209.1</Label>
+    <Text>added, 2019, c. 10, s. 184</Text>
+  </Section>
+  <Section>
+    <Label>210</Label>
+    <Text>repealed, 2013, c. 40, s. 327</Text>
+  </Section>
+  <Section>
+    <Label>210.1</Label>
+    <Text>added, 2019, c. 10, s. 185</Text>
+  </Section>
+  <Section>
+    <Label>211</Label>
+    <Text>2013, c. 40, s. 328; 2019, c. 10, s. 186</Text>
+  </Section>
+  <Section>
+    <Label>214</Label>
+    <Text>2017, c. 9, s. 31; 2019, c. 10, s. 187</Text>
+  </Section>
+  <Section>
+    <Label>215</Label>
+    <Text>2009, c. 2, s. 402; 2013, c. 40, s. 329</Text>
+  </Section>
+  <Section>
+    <Label>217.1</Label>
+    <Text>added, 2019, c. 10, s. 188</Text>
+  </Section>
+  <Section>
+    <Label>220</Label>
+    <Text>2009, c. 2, s. 403; 2013, c. 40, s. 331</Text>
+  </Section>
+  <Section>
+    <Label>222</Label>
+    <Text>repealed, 2013, c. 40, s. 332</Text>
+  </Section>
+  <Section>
+    <Label>222.1</Label>
+    <Text>added, 2019, c. 10, s. 189</Text>
+  </Section>
+  <Section>
+    <Label>223</Label>
+    <Text>2013, c. 40, s. 374</Text>
+  </Section>
+  <Section>
+    <Label>225</Label>
+    <Text>2013, c. 40, s. 375</Text>
+  </Section>
+  <Section>
+    <Label>226</Label>
+    <Text>2009, c. 2, s. 404; 2013, c. 40, ss. 333, 376, 467(3) and 469(6); 2014, c. 20, s. 308, c. 39, ss. 382 and 385; 2017, c. 9, subpar. 56(1)(b)(iv); 2019, c.10, s. 190(1) and (2)</Text>
+  </Section>
+  <Section>
+    <Label>227</Label>
+    <Text>repealed, 2013, c. 40, s. 376</Text>
+  </Section>
+  <Section>
+    <Label>228</Label>
+    <Text>2013, c. 40, s. 378</Text>
+  </Section>
+  <Section>
+    <Label>229</Label>
+    <Text>2013, c. 40, s. 379</Text>
+  </Section>
+  <Section>
+    <Label>230</Label>
+    <Text>2013, c. 40, s. 379</Text>
+  </Section>
+  <Section>
+    <Label>231</Label>
+    <Text>2013, c. 40, s. 380</Text>
+  </Section>
+  <Section>
+    <Label>232</Label>
+    <Text>2013, c. 40, ss. 334 and 381</Text>
+  </Section>
+  <Section>
+    <Label>233</Label>
+    <Text>2013, c. 40, s. 382; 2017, c. 9, subpar. 56(1)(b)(v)</Text>
+  </Section>
+  <Section>
+    <Label>234</Label>
+    <Text>2013, c. 40, s. 382; 2017, c. 9, subpar. 56(1)(b)(vi)</Text>
+  </Section>
+  <Section>
+    <Label>235</Label>
+    <Text>2013, c. 40, ss. 335 and 383</Text>
+  </Section>
+  <Section>
+    <Label>235.1</Label>
+    <Text>added, 2013, c. 40, s. 335</Text>
+  </Section>
+  <Section>
+    <Label>235.2</Label>
+    <Text>added, 2013, c. 40, s. 335</Text>
+  </Section>
+  <Section>
+    <Label>237</Label>
+    <Text>2013, c. 40, s. 336; 2017, c. 9, s. 32; 2019, c. 10, s. 191</Text>
+  </Section>
+  <Heading>
+    <Label>Part 2.1</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Heading>
+  <Section>
+    <Label>238.01</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.02</Label>
+    <Text>added, 2017, c. 9, s. 33; 2019, c. 10, s. 192</Text>
+  </Section>
+  <Section>
+    <Label>238.03</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.04</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.05</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Heading>
+    <Label>Division 1</Label>
+  </Heading>
+  <Section>
+    <Label>238.06</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.07</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.08</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.09</Label>
+    <Text>added, 2017, c. 9, s. 33; 2024, c. 16, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>238.1</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.11</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.12</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.13</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.14</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.15</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.16</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.17</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.18</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.19</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.2</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.21</Label>
+    <Text>added, 2017, c. 9, s. 33; 2018, c. 24, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>238.22</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.23</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Heading>
+    <Label>Division 2</Label>
+  </Heading>
+  <Section>
+    <Label>238.24</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.25</Label>
+    <Text>added, 2017, c. 9, s. 33; 2019, c. 10, s. 193</Text>
+  </Section>
+  <Section>
+    <Label>238.26</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.27</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.28</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.29</Label>
+    <Text>added, 2017, c. 9, s. 33; 2024, c. 16, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>238.3</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.31</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.32</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.33</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>238.34</Label>
+    <Text>added, 2017, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>240</Label>
+    <Text>2013, c. 40, s. 384; 2017, c. 9, s. 34 and subpar. 57(1)(b)(ii), c. 20, s. 396</Text>
+  </Section>
+  <Section>
+    <Label>243</Label>
+    <Text>2013, c. 40, s. 385</Text>
+  </Section>
+  <Section>
+    <Label>244</Label>
+    <Text>2013, c. 40, s. 386</Text>
+  </Section>
+  <Section>
+    <Label>245</Label>
+    <Text>2013, c. 40, s. 387</Text>
+  </Section>
+  <Section>
+    <Label>247</Label>
+    <Text>2013, c. 40, ss. 337 and 388</Text>
+  </Section>
+  <Section>
+    <Label>248</Label>
+    <Text>2013, c. 40, s. 389</Text>
+  </Section>
+  <Section>
+    <Label>249</Label>
+    <Text>2014, c. 20, par. 481(2)(g)</Text>
+  </Section>
+  <Section>
+    <Label>251</Label>
+    <Text>2009, c. 2, s. 405; repealed, 2013, c. 40, s. 390</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2003, c. 22, ss. 273 to 275</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2013, c. 40, ss. 363(3) and 467(1) to (9) and 469(1) to (7)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2014, c. 20, s. 481</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2017, c. 9, ss. 66, 69(5) and 70</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2013, c. 40, ss. 298, 302, 308, 373, 377 and 390</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2017, c. 9, ss. 55 to 60</Text>
+  </Terminology>
+  <Transitional>
+    <Text>Transitional, 2003, c. 22, ss. 36 to 66</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2009, c. 2, ss. 395 to 398</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2013, c. 40, ss. 338, 339, 391 to 402 and 440 as amended by 2014, c. 20, s. 309</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2014, c. 20, s. 309 (bargaining unit)</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2017, c. 9, ss. 61, 62, 63 and 64</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2017, c. 12, s. 16</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2018, c. 24, s. 27 (commencement day, words and expressions)</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2019, c. 28, ss. 11, 17, 19, 20, 22, 23, 28, 30 to 32</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 2,</Text>
+    <List>
+      <Item>
+        <Text>— Preamble, ss. 1 to 3 and Part 1 (ss. 4 to 205) of the <XRefExternal reference-type="act">Public Service Labour Relations Act</XRefExternal>, as enacted by s. 2, in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-22;</Text>
+      </Item>
+      <Item>
+        <Text>— Part 2 (ss. 206 to 238) other than subpar. 209(1)(c)(ii), par. 211(b) and s. 231 of the <XRefExternal reference-type="act">Public Service Labour Relations Act</XRefExternal>, as enacted by s. 2, in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-23; subpar. 209(1)(c)(ii), par. 211(b) and s. 231 of the <XRefExternal reference-type="act">Public Service Labour Relations Act</XRefExternal>, as enacted by s. 2 in force 31.12.2005 <Emphasis style="italic">see</Emphasis> SI/2005‑123;</Text>
+      </Item>
+      <Item>
+        <Text>— Part 3 (ss. 239 and 240) and 4 (ss. 241 to 252) of the <XRefExternal reference-type="act">Public Service Labour Relations Act</XRefExternal>, as enacted by s. 2, in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 273 to 275 of the <XRefExternal reference-type="act">Public Service Modernization Act</XRefExternal> in force on assent 07.11.2003; ss. 36 to 66 of the <XRefExternal reference-type="act">Public Service Modernization Act</XRefExternal> in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24; s. 243 of the <XRefExternal reference-type="act">Public Service Modernization Act</XRefExternal> in force 31.12.2005 <Emphasis style="italic">see</Emphasis> SI/2005-122.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 2</Text>
+    <List>
+      <Item>
+        <Text>— ss. 400 and 405 repealed before coming into force <Emphasis style="italic">see</Emphasis> 2013, c. 40, par. 269 (2)(a) and (9)(a)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 401 to 404 come into force on a day to be fixed by Order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 406 — Not in force; [<Emphasis style="italic">Note</Emphasis>: s. 404, amended before coming into force <Emphasis style="italic">see</Emphasis> 2013, c. 40, s. 496(6) — Not in force; ss. 401 to 404 repealed before coming into force <Emphasis style="italic">see</Emphasis> 2018, c. 27, s. 433 — Not in force]</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40, ss. 294 to 306, 307(1), 308 to 315, 316(1), 317 to 324, 337 to 339, 363, 467 and 469 in force on assent 12.12.2013 <Emphasis style="italic">but</Emphasis> s. 469(6) amended by 2014, c. 39, s. 385;</Text>
+    <List>
+      <Item>
+        <Text>— ss. 307(2) and 316(2) repealed before coming into force <Emphasis style="italic">see</Emphasis> 2018, c. 24, ss. 30 and 31; <Emphasis style="italic">see also</Emphasis> 2018, c. 27, ss. 435 and 436</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 325 to 332, 333(2), 334 to 336 and 342 to 359 repealed before coming into force <Emphasis style="italic">see</Emphasis> 2018, c. 24, ss. 32 and 33;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 339 and 360 repealed <Emphasis style="italic">see</Emphasis> 2018, c. 24, s. 33</Text>
+      </Item>
+      <Item>
+        <Text>— [<Emphasis style="italic">Note</Emphasis>: s. 333 amended before coming into force by s. 467(3) <Emphasis style="italic">but</Emphasis> s. 333(1) repealed before coming into force <Emphasis style="italic">see</Emphasis> 2014, c. 39, s. 382];</Text>
+      </Item>
+      <Item>
+        <Text>— [<Emphasis style="italic">Note</Emphasis>: ss. 338(4) to (7) and (9) amended by 2014, c. 20, s. 309(1) to (4) and (6)];</Text>
+      </Item>
+      <Item>
+        <Text>— [<Emphasis style="italic">Note</Emphasis>: s. 338(7.1) added by 2014, c. 20, s. 309(5)];</Text>
+      </Item>
+      <Item>
+        <Text>— [<Emphasis style="italic">Note</Emphasis>: s. 356, as amended by s. 467(11), s. 357, as amended by s. 467(14)];</Text>
+      </Item>
+      <Item>
+        <Text>[<Emphasis style="italic">Note</Emphasis>: par. 77(1)(a) and s. 78(1) both enacted by s. 351, amended before coming into force <Emphasis style="italic">see</Emphasis> 2014, c. 39, s. 383].</Text>
+      </Item>
+      <Item>
+        <Text>— s. 364(1) (coming into force provision) repealed, 2018, c. 27, s. 437</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 366 to 387, 389 to 402 and 440 in force 01.11.2014 <Emphasis style="italic">see</Emphasis> SI/2014-84 [<Emphasis style="italic">Note</Emphasis>: s. 15, as enacted by s. 367, repealed at its coming into force <Emphasis style="italic">see</Emphasis> 2014, c. 20, s. 481(3)];</Text>
+      </Item>
+      <Item>
+        <Text>— s. 388 repealed before coming into force <Emphasis style="italic">see</Emphasis> s. 467(9);</Text>
+      </Item>
+      <Item>
+        <Text>— s. 445 (transitional), repealed, 2018, c. 27, s. 438</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 2 (assent: 25.03.2014), s. 54 in force 01.04.2014 <Emphasis style="italic">see</Emphasis> SI/2014-34.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 20, ss. 472 and 481 in force on assent 19.06.2014; s. 309 deemed in force 12.12.2013 <Emphasis style="italic">see</Emphasis> s. 310(2); s. 308 repealed before coming into force <Emphasis style="italic">see</Emphasis> 2018, c. 24, s. 34; s. 310(1) repealed 2018, c. 24, s. 35.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 39, s. 382 in force on assent 16.12.2014; s. 385 deemed in force 12.12.2013 <Emphasis style="italic">see</Emphasis> 2014, c. 39, s. 386</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 40 (assent: 16.12.2014), ss. 9 to 12 in force 17.06.2015 <Emphasis style="italic">see</Emphasis> s. 13.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 9, ss.1 to 34 and 55 to 70 in force on assent 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 12 (assent: 19.06.2017), ss. 8 to 11 and 16 in force 22.06.2017 <Emphasis style="italic">see</Emphasis> s. 17.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 20 (assent: 22.06.2017), s. 396 in force 29.07.2019 <Emphasis style="italic">see</Emphasis> SI/2019-76</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 24, ss. 1 to 27 and 30 to 35 in force on assent 26.11.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 27, ss. 435 to 438 come into force on a day or days to be fixed by order of the Governor in Council see s. 440(3) — Not in force</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 10 (assent: 21.06.2019) ss. 184-193 in force 11.07.2019 <Emphasis style="italic">see</Emphasis> SI/2019-55</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 16, s. 57 in force on the 60th day after the day on which the <XRefExternal reference-type="act">Countering Foreign Interference Act</XRefExternal> receives royal assent <Emphasis style="italic">see</Emphasis> s. 75 (19.08.2024)</Text>
+  </CIF>
+</Statute>
+</TOPS>

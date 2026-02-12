@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2009, c. 24">
+  <Title>Human Pathogens and Toxins Act</Title>
+  <ChapterNumber>2009, c. 24</ChapterNumber>
+  <OtherLangTitle>(Agents pathogènes humains et les toxines, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Health (s. 3)</Text>
+  </Minister>
+  <Section>
+    <Label>4</Label>
+    <Text>2012, c. 19, s. 752</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2022, c. 17, s. 70</Text>
+  </Section>
+  <Section>
+    <Label>66.1</Label>
+    <Text>repealed, 2019, c. 29, s. 221</Text>
+  </Section>
+  <Section>
+    <Label>66.2</Label>
+    <Text>repealed, 2019, c. 29, s. 221</Text>
+  </Section>
+  <Schedule>
+    <Label>Schedule 1</Label>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 2</Label>
+    <Text>SOR/2017-282, ss. 1 to 11</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 3</Label>
+    <Text>SOR/2017-282, ss. 12 to 20</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 4</Label>
+    <Text>SOR/2017-282, ss. 21 to 26</Text>
+  </Schedule>
+  <Transitional>
+    <Text>Transitional, 2009, c. 24, ss. 70 and 71</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2009, c. 24, ss. 1 to 6, 8 to 10, 11(2) and (3), 12(2) to (4), 17, 37, 39 to 55, 57 to 71 and Schedules 1 to 5 in force on assent 23.06.2009; ss. 7, 11(1), 12(1), 13 to 16, 18 to 36, 38 and 56 in force 01.12.2015 <Emphasis style="italic">see</Emphasis> SI/2015-14</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 19, s. 752 in force on assent 29.06.2012</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-282, ss. 1 to 26 in force 27.12.2017 (date of publication in <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal>, Part II ) <Emphasis style="italic">see</Emphasis> s. 27</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), s. 221 in force on assent: 21.06.2019</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 17, (assent: 15.12.2022), s. 70 in force on the 30th day after the day on which the Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+</Statute>
+</TOPS>

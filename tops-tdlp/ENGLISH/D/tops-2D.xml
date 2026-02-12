@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="tops-2D">
+  <Title>Departments of Government, <Emphasis style="italic">see</Emphasis></Title>
+  <OtherLangTitle>(Ministères du gouvernement...)</OtherLangTitle>
+  <Convention>
+    <List>
+      <Item>
+        <Text>Department of Agriculture and Agri-Food Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Canadian Heritage Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Citizenship and Immigration Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Employment and Social Development Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Fisheries and Oceans Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Finance (<Emphasis style="italic">see</Emphasis><XRefExternal reference-type="act"> Financial Administration Act</XRefExternal>, s. 14)</Text>
+      </Item>
+      <Item>
+        <Text>Department of Foreign Affairs, Trade and Development Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Health Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Indian Affairs and Northern Development Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Industry Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Justice Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Natural Resources Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Public Safety and Emergency Preparedness Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Public Works and Government Services Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of the Environment Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Transport Act</Text>
+      </Item>
+      <Item>
+        <Text>Department of Veterans Affairs Act</Text>
+      </Item>
+    </List>
+  </Convention>
+</Statute>
+</TOPS>

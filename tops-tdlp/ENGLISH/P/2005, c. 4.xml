@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2005, c. 4">
+  <Title>Public Servants Disclosure Protection Act</Title>
+  <ChapterNumber>2005, c. 4</ChapterNumber>
+  <OtherLangTitle>(Protection des fonctionnaires divulgateurs d’actes répréhensibles, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>President of Treasury Board, in respect of sections 4, 5, 38.1 and 54 <Emphasis style="italic">see</Emphasis> 2006, c. 9, s. 194(2) and 2010, c. 12, s. 1682</Text>
+  </Minister>
+  <Heading>
+    <Label>Preamble</Label>
+    <Text>2005, c. 46, s. 59(3)(E)</Text>
+  </Heading>
+  <Section>
+    <Label>2</Label>
+    <Text>2005, c. 46, s. 59(2); 2006, c. 9, s. 194; 2010, c. 12, s. 1678</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>repealed, 2006, c. 9, s. 195</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2006, c. 9, s. 196</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2010, c. 12, par. 1682(a)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2010, c. 12, par. 1682(b)</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2006, c. 9, s. 197</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2006, c. 9, s. 198; 2010, c. 12, s. 1679; 2011, c. 24, s. 177</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2006, c. 9, s. 199</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2006, c. 9, s. 200</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>2024, c. 16, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>19.1</Label>
+    <Text>added, 2006, c. 9, s. 201; 2013, c. 18, s. 61</Text>
+  </Section>
+  <Section>
+    <Label>19.2</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>19.3</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>19.4</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>19.5</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>19.6</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>19.7</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>19.8</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>19.9</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>20.1</Label>
+    <Text>2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>20.2</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>20.3</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>20.4</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>20.5</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>20.6</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>20.7</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>20.8</Label>
+    <Text>added, 2006, c. 9, s. 201; 2014, c. 20, s. 468</Text>
+  </Section>
+  <Section>
+    <Label>20.9</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>21.1</Label>
+    <Text>2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>21.2</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>21.3</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>21.4</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>21.5</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>21.6</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>21.7</Label>
+    <Text>added, 2006, c. 9, s. 201; 2013, c. 18, s. 62</Text>
+  </Section>
+  <Section>
+    <Label>21.8</Label>
+    <Text>added, 2006, c. 9, s. 201; 2013, c. 18, s. 63</Text>
+  </Section>
+  <Section>
+    <Label>21.9</Label>
+    <Text>added, 2006, c. 9, s. 201</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2006, c. 9, s. 202</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2013, c. 18, s. 64</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2006, c. 9, ss. 203 and 226; 2013, c. 18, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2006, c. 9, s. 203</Text>
+  </Section>
+  <Section>
+    <Label>25.1</Label>
+    <Text>added, 2006, c. 9, s. 203</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2006, c. 9, s. 204</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2006, c. 9, s. 205(E)</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2006, c. 9, s. 206</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>2006, c. 9, s. 207</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>2006, c. 9, s. 208(E)</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2006, c. 9, s. 209</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>2006, c. 9, s. 210</Text>
+  </Section>
+  <Section>
+    <Label>38.1</Label>
+    <Text>added, 2006, c. 9, s. 211; 2010, c. 12, s. 1680 (as amended by 2011, c. 24, s. 178), and par. 1682(c); 2011, c. 24, s. 178</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2006, c. 9, s. 119; 2022, c. 10, s. 251</Text>
+  </Section>
+  <Section>
+    <Label>39.3</Label>
+    <Text>2006, c. 9, s. 212</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2006, c. 9, s. 214</Text>
+  </Section>
+  <Section>
+    <Label>42.1</Label>
+    <Text>added, 2006, c. 9, s. 215</Text>
+  </Section>
+  <Section>
+    <Label>42.2</Label>
+    <Text>added, 2006, c. 9, s. 215</Text>
+  </Section>
+  <Section>
+    <Label>42.3</Label>
+    <Text>added, 2006, c. 9, s. 215</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2006, c. 9, s. 216</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>2006, c. 9, s. 217; 2024, c. 16, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2006, c. 9, s. 218; 2017, c. 9, s. 49, c. 20, s. 397</Text>
+  </Section>
+  <Section>
+    <Label>51.1</Label>
+    <Text>added, 2006, c. 9, s. 219</Text>
+  </Section>
+  <Section>
+    <Label>51.2</Label>
+    <Text>added, 2006, c. 9, s. 219</Text>
+  </Section>
+  <Section>
+    <Label>51.3</Label>
+    <Text>added, 2006, c. 9, s. 219</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>2010, c. 12, par. 1682(d)</Text>
+  </Section>
+  <Section>
+    <Label>54.1</Label>
+    <Text>2006, c. 9, s. 220; repealed, 2010, c. 12, s. 1681</Text>
+  </Section>
+  <Section>
+    <Label>54.2</Label>
+    <Text>repealed, 2010, c. 12, s. 1681</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>2006, c. 9, s. 221</Text>
+  </Section>
+  <Section>
+    <Label>55.1</Label>
+    <Text>added, 2006, c. 9, s. 221</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>2006, c. 9, s. 222</Text>
+  </Section>
+  <Section>
+    <Label>56.1</Label>
+    <Text>added, 2006, c. 9, s. 222</Text>
+  </Section>
+  <Section>
+    <Label>56.2</Label>
+    <Text>added, 2006, c. 9, s. 222</Text>
+  </Section>
+  <Section>
+    <Label>56.3</Label>
+    <Text>added, 2006, c. 9, s. 222</Text>
+  </Section>
+  <Section>
+    <Label>56.4</Label>
+    <Text>added, 2006, c. 9, s. 222</Text>
+  </Section>
+  <Section>
+    <Label>56.5</Label>
+    <Text>added, 2006, c. 9, s. 222</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>2006, c. 9, s. 223</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>2006, c. 9, s. 224</Text>
+  </Section>
+  <Section>
+    <Label>58.1</Label>
+    <Text>2006, c. 9, s. 224</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch. 3</Label>
+    <Text>2014, c. 39, s. 248</Text>
+  </Schedule>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2005, c. 46, s. 59 <Emphasis style="italic">but</Emphasis> s. 59(1) was repealed by 2006, c. 9, s. 225</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2006, c. 9, s. 226</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2006, c. 9, s. 213</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 2006, c. 9, s. 120</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2005, c. 46,</Text>
+    <List>
+      <Item>
+        <Text>— the Act, other than s. 59 and the reference to the “Canada Pension Plan Investment Board” in Schedule 1, in force 15.04.2007 <Emphasis style="italic">see</Emphasis> SI/2007-43</Text>
+      </Item>
+      <Item>
+        <Text>— s. 59 in force on assent 25.11.2005;</Text>
+      </Item>
+      <Item>
+        <Text>— the reference to the “Canada Pension Plan Investment Board” in Schedule 1 repealed before coming into force 31.12.2015 <Emphasis style="italic">see</Emphasis> 2008, c. 20, s. 3 (<XRefExternal reference-type="act">Statutes Repeal Act</XRefExternal>). <Emphasis style="italic">See also Canada Gazette, Part I</Emphasis>, No. 11, 12.03.2016, p. 745.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2006, c. 9, ss. 119, 120 and 194 to 226 in force on assent 12.12.2006</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 20 (assent: 18.06.2008), s. 3 in force 18.06.2010.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 12 (assent: 12.07.2010), ss.1678 to 1682 in force 16.03.2012 <Emphasis style="italic">see</Emphasis> SI/2012-14</Text>
+  </CIF>
+  <General>
+    <Text>— <Emphasis style="italic">Note</Emphasis>: “Minister” is replaced with “President of the Treasury Board” in ss. 4, 5(3) and (4), 38.1(4) and 54 <Emphasis style="italic">see</Emphasis> s. 1682.</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 2011, c. 24, Part 16 (ss. 177 and 178) in force on assent 15.12.2011</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 18 (assent: 19.06.2013), ss. 61 to 65 in force 28.11.2014 <Emphasis style="italic">see</Emphasis> SI/2014-104.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 20 (assent: 19.06.2014), s. 468 in force 01.11.2014 <Emphasis style="italic">see</Emphasis> SI/2014-83.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 39 (assent: 16.12.2014), s. 248 in force 06.03.2018 <Emphasis style="italic">see</Emphasis> SI/2018-26.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 9, s. 49 in force on assent 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 20 (assent: 22.06.2017), s. 397 in force 29.07.2019 <Emphasis style="italic">see</Emphasis> SI/2019-76</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 10 (assent: 23.06.2022), s. 251 in force 26.07.2022 <Emphasis style="italic">see</Emphasis> SI/2022-35</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 16, s. 57 in force on the 60th day after the day on which the <XRefExternal reference-type="act">Countering Foreign Interference Act</XRefExternal> receives royal assent <Emphasis style="italic">see</Emphasis> s. 75 (19.08.2024)</Text>
+  </CIF>
+</Statute>
+</TOPS>

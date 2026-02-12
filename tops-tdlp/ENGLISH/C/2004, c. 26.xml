@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2004, c. 26">
+  <Title>Canada Education Savings Act</Title>
+  <ChapterNumber>2004, c. 26</ChapterNumber>
+  <OtherLangTitle>(Épargne-études, Loi canadienne sur l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Employment and Social Development (2013, c. 40, s. 220 and SI/2005-28)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2010, c. 12, s. 30; 2016, c. 12, s. 107; 2017, c. 20, s. 117; 2024, c. 17, s. 162</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2007, c. 29, s. 37; 2010, c. 12, s. 31; 2011, c. 24, s. 148; 2016, c. 12, s. 108; 2017, c. 20, s. 118</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2016, c. 12, s. 109; 2017, c. 20, s. 119; 2024, c. 17, s. 163</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2024, c. 17, s. 164</Text>
+  </Section>
+  <Section>
+    <Label>7.01</Label>
+    <Text>added, 2024, c. 17, s. 165</Text>
+  </Section>
+  <Section>
+    <Label>7.1</Label>
+    <Text>added, 2024, c. 17, s. 166</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2024, c. 17, s. 167</Text>
+  </Section>
+  <Section>
+    <Label>9.1</Label>
+    <Text>2016, c. 12, s. 110; 2017, c. 20, s. 120</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>repealed, 2005, c. 34, s. 83(2)</Text>
+  </Section>
+  <Section>
+    <Label>12.1</Label>
+    <Text>added, 2007, c. 35, s. 176</Text>
+  </Section>
+  <Section>
+    <Label>12.2</Label>
+    <Text>added, 2024, c. 17, s. 168</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2007, c. 35, s. 177; 2024, c. 17, s. 169</Text>
+  </Section>
+  <Section>
+    <Label>14.1</Label>
+    <Text>added, 2016, c. 12, s. 112</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2005, c. 34, s. 83(2)</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2016, c. 12, s. 111</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 2016, c. 12, s. 112</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2004, c. 26, ss. 4, 12, 17 and 20 to 22 in force on assent 15.12.2004; ss. 1 to 3.1, 5 to 11, 13 to 16, 18 and 19 in force 01.07.2005 <Emphasis style="italic">see</Emphasis> SI/2005-51</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 34, s. 83 in force on assent 20.07.2005</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 29, s. 37 in force on assent 22.06.2007</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 35, ss. 176 and 177 in force on assent 14.12.2007</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 12, ss. 30 and 31 in force on assent 12.07.2010, <Emphasis style="italic">see also</Emphasis> application provisions throughout</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2011, c. 24, s. 148 (Part 5) deemed to have come into force 01.07.2011 <Emphasis style="italic">see</Emphasis> s. 149</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2016, c. 12 (assent: 15.12.2016)</Text>
+    <List>
+      <Item>
+        <Text>— ss. 107(2) and (3), 109(1) and (3), 110(1), 111 and 112(1) deemed in force 01.07.2016 <Emphasis style="italic">see</Emphasis> s. 113(1)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 107(1) and (4) 108, 109(2) and (4), 110(2) and 112(2) in force 01.07.2017 <Emphasis style="italic">see</Emphasis> s. 113(2)</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">See also</Emphasis> the application provision s. 112</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 20, ss. 117 to 120 in force 01.01.2018 <Emphasis style="italic">see</Emphasis> s. 121(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 17</Text>
+    <List>
+      <Item>
+        <Text>— ss. 162, 163(2), 166 to 168 and 169(1) in force 27.06.2025 <Emphasis style="italic">see</Emphasis> SI/2025-88</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 163(1), (3) and (4), 164, 165, 169(2) come into force on a day to be fixed by order of the Governor in Council — Not in force<Emphasis style="italic"> see</Emphasis> s. 171(2) </Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>
