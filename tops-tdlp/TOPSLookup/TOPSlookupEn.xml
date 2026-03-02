@@ -865,8 +865,8 @@
 <ChapterNumber>R.S., 1985, c. W-9</ChapterNumber>
 <FlicsAlpha>W-9</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Canada Worker Lockdown Benefit Act,</Title>
+<Statute statuteid="1334513e">
+<Title>Canada Worker Lockdown Benefit Act</Title>
 <ChapterNumber>2021, c. 26, s. 5 </ChapterNumber>
 <FlicsAlpha>C-11.01</FlicsAlpha>
 </Statute>
@@ -1160,6 +1160,15 @@
 <ChapterNumber>1960, c. 26</ChapterNumber>
 <FlicsAlpha>1960, c. 26</FlicsAlpha>
 </Statute>
+</Letter>
+<Letter value="N">
+<Statute statuteid="364588e">
+<Title>Canadian Navigable Waters Act</Title>
+<ChapterNumber>2019, c. 28, s. 46</ChapterNumber>
+<FlicsAlpha>2019, c. 28, s. 46</FlicsAlpha>
+</Statute>
+</Letter>
+<Letter value="C">
 <Statute statuteid="1305588e">
 <Title>Canadian Net-Zero Emissions Accountability Act</Title>
 <ChapterNumber>2021, c. 22 </ChapterNumber>
@@ -4048,11 +4057,6 @@
 <FlicsAlpha>N-21</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Navigable Waters Act, Canadian</Title>
-<ChapterNumber>2019, c. 28, s. 46</ChapterNumber>
-<FlicsAlpha>2019, c. 28, s. 46</FlicsAlpha>
-</Statute>
-<Statute statuteid="">
 <Title>Navigable Waters Protection Act</Title>
 <ChapterNumber>Navigable Waters Protection Act</ChapterNumber>
 <FlicsAlpha>N-22</FlicsAlpha>
@@ -4661,9 +4665,9 @@
 <ChapterNumber>R.S., 1985, c. P-25</ChapterNumber>
 <FlicsAlpha>P-25</FlicsAlpha>
 </Statute>
-<Statute statuteid="">
-<Title>Prohibition on the Purchase of Residential Property by Non-Canadians Act, 2022, c. 10, s. 235</Title>
-<ChapterNumber>Prohibition on the Purchase of Residential Property by Non-Canadians Act</ChapterNumber>
+<Statute statuteid="1365503e">
+<Title>Prohibition on the Purchase of Residential Property by Non-Canadians Act</Title>
+<ChapterNumber>S.C. 2022, c. 10, s. 235</ChapterNumber>
 <FlicsAlpha>tops-9P</FlicsAlpha>
 </Statute>
 <Statute statuteid="400403e">
@@ -4702,7 +4706,7 @@
 <FlicsAlpha>2011, c. 15, s. 20</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
-<Title>Provide further support in response to COVID-19, An act to,</Title>
+<Title>Provide further support in response to COVID-19, An act to</Title>
 <ChapterNumber>2021, c. 26</ChapterNumber>
 <FlicsAlpha>2021, c. 26</FlicsAlpha>
 </Statute>
