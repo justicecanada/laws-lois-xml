@@ -1160,15 +1160,11 @@
 <ChapterNumber>1960, c. 26</ChapterNumber>
 <FlicsAlpha>1960, c. 26</FlicsAlpha>
 </Statute>
-</Letter>
-<Letter value="N">
 <Statute statuteid="364588e">
 <Title>Canadian Navigable Waters Act</Title>
 <ChapterNumber>2019, c. 28, s. 46</ChapterNumber>
 <FlicsAlpha>2019, c. 28, s. 46</FlicsAlpha>
 </Statute>
-</Letter>
-<Letter value="C">
 <Statute statuteid="1305588e">
 <Title>Canadian Net-Zero Emissions Accountability Act</Title>
 <ChapterNumber>2021, c. 22 </ChapterNumber>
@@ -3553,6 +3549,11 @@
 <Title>Major’s Hill Park, Sale to Grand Trunk Railway</Title>
 <ChapterNumber>1907-08, c. 44</ChapterNumber>
 <FlicsAlpha>1907-08, c. 44</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Making Life More Affordable for Canadians Act</Title>
+<ChapterNumber>2026, c. 2</ChapterNumber>
+<FlicsAlpha>2026, c. 2</FlicsAlpha>
 </Statute>
 <Statute statuteid="277493e">
 <Title>Mandatory reporting of Internet child pornography by persons who provide an Internet service, An Act respecting the</Title>
