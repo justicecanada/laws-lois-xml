@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
-<TOPS xml:lang="fr">
-<Statute FlicsAlpha="2025, ch. 2, art. 4">
-  <Title>Bâtir le Canada, Loi visant à</Title>
-  <ChapterNumber>2025, ch. 2, art. 4</ChapterNumber>
-  <OtherLangTitle>(Building Canada Act)</OtherLangTitle>
-  <Minister>
-    <Text>Président du Conseil privé du Roi pour le Canada (TR/2025‑89)</Text>
-  </Minister>
-  <ReviewReport>
-    <Text>Examen et rapport, art. 23.1 et 24</Text>
-  </ReviewReport>
-  <CIF>
-    <Text>EEV, 2025, ch. 2, art. 4, édictant art. 1 à 24 de la <XRefExternal reference-type="act">Loi visant à bâtir le Canada</XRefExternal> en vigueur à la sanction 26.06.2025</Text>
-  </CIF>
-</Statute>
-</TOPS>
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd"><TOPS xml:lang="fr" xmlns:atict="http://www.arbortext.com/namespace/atict"><Statute FlicsAlpha="2025, ch. 2, art. 4"><Title>Bâtir le Canada, Loi visant à</Title><ChapterNumber>2025, ch. 2, art. 4</ChapterNumber><OtherLangTitle>(Building Canada Act)</OtherLangTitle><Minister><Text>Président du Conseil privé du Roi pour le Canada (TR/2025‑89)</Text></Minister><Section><Label>5.1</Label><Text>2026, ch. 3, art. 592</Text></Section><ReviewReport><Text>Examen et rapport, art. 23.1 et 24</Text></ReviewReport><CIF><Text>EEV, 2025, ch. 2, art. 4, édictant art. 1 à 24 de la <XRefExternal reference-type="act">Loi visant à bâtir le Canada</XRefExternal> en vigueur à la sanction 26.06.2025</Text></CIF><CIF><Text>EEV, 2026, ch. 3, art. 592 en vigueur à la sanction 26.03.2026</Text></CIF></Statute><?Pub Caret -1?></TOPS><?Pub *0000001128?>

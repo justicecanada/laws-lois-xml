@@ -352,7 +352,7 @@
 <FlicsAlpha>2005, ch. 26</FlicsAlpha>
 </Statute>
 <Statute statuteid="216803f">
-<Title>Agence de la consommation en matière financière du Canada Loi sur l’</Title>
+<Title>Agence de la consommation en matière financière du Canada, Loi sur l’</Title>
 <ChapterNumber>2001, ch. 9</ChapterNumber>
 <FlicsAlpha>2001, ch. 9</FlicsAlpha>
 </Statute>
@@ -1690,6 +1690,11 @@
 <ChapterNumber>2023, ch. 26, art. 238</ChapterNumber>
 <FlicsAlpha>2023, ch. 26, art. 238</FlicsAlpha>
 </Statute>
+<Statute statuteid="1555051f">
+<Title>Corporation de développement des investissements du Canada, Loi sur la </Title>
+<ChapterNumber>2026, ch. 3, art. 386</ChapterNumber>
+<FlicsAlpha>2026, ch. 3, art. 386</FlicsAlpha>
+</Statute>
 <Statute statuteid="">
 <Title>Corporation de développement du Canada, voir Réorganisation de la Corporation du développement</Title>
 <ChapterNumber>Corporation de développement du Canada, voir Réor</ChapterNumber>
@@ -2508,6 +2513,11 @@
 <Title>Exécution du budget de 2024, Loi no 1 d’</Title>
 <ChapterNumber>2024, ch. 17</ChapterNumber>
 <FlicsAlpha>2024, ch. 17</FlicsAlpha>
+</Statute>
+<Statute statuteid="1549621f">
+<Title>Exécution du budget de 2025, Loi no 1 d'</Title>
+<ChapterNumber>2026, ch. 3</ChapterNumber>
+<FlicsAlpha>2026, ch. 3</FlicsAlpha>
 </Statute>
 <Statute statuteid="33875f">
 <Title>Exécution du budget et de l’énoncé économique de 2007, Loi d’</Title>
@@ -3627,6 +3637,11 @@
 <Title>Loi sur l’organisation du gouvernement (organismes fédéraux) voir Organisation du gouvernement...</Title>
 <ChapterNumber>Loi sur l’organisation du gouvernement (organisme</ChapterNumber>
 <FlicsAlpha>tops-25L</FlicsAlpha>
+</Statute>
+<Statute statuteid="1555254f">
+<Title>Loi sur les cryptomonnaies stables</Title>
+<ChapterNumber>2026, ch. 3, art. 600</ChapterNumber>
+<FlicsAlpha>2026, ch. 3, art. 600</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Loi visant à rendre la vie plus abordable pour les Canadiens</Title>
@@ -4786,6 +4801,11 @@
 <ChapterNumber>1996, ch. 15</ChapterNumber>
 <FlicsAlpha>1996, ch. 15</FlicsAlpha>
 </Statute>
+<Statute statuteid="1555181f">
+<Title>Programme national d’alimentation scolaire, Loi sur le </Title>
+<ChapterNumber>2026, ch. 3, art. 599</ChapterNumber>
+<FlicsAlpha>2026, ch. 3, art. 599</FlicsAlpha>
+</Statute>
 <Statute statuteid="8837f">
 <Title>Programmes de commercialisation agricole, Loi sur les</Title>
 <ChapterNumber>1997, ch. 20</ChapterNumber>
@@ -5265,6 +5285,11 @@
 <ChapterNumber>2018, ch. 25</ChapterNumber>
 <FlicsAlpha>2018, ch. 25</FlicsAlpha>
 </Statute>
+<Statute statuteid="1553626f">
+<Title>Réseau ferroviaire à grande vitesse, Loi sur le</Title>
+<ChapterNumber>2026, ch. 3, art. 191</ChapterNumber>
+<FlicsAlpha>2026, ch. 3, art. 191</FlicsAlpha>
+</Statute>
 <Statute statuteid="402038f">
 <Title>Réseaux de cartes de paiements, Loi sur les</Title>
 <ChapterNumber>2010, ch. 12, art. 1834</ChapterNumber>
@@ -5667,10 +5692,15 @@
 <ChapterNumber>Service public, Loi sur la mise au point des pens</ChapterNumber>
 <FlicsAlpha>tops-9S</FlicsAlpha>
 </Statute>
-<Statute statuteid="1466052f">
+<Statute statuteid="1553879f">
 <Title>Services bancaires axés sur les consommateurs, Loi sur les</Title>
 <ChapterNumber>2024, ch. 17, art. 198 </ChapterNumber>
 <FlicsAlpha>2024, ch. 17, art. 198 </FlicsAlpha>
+</Statute>
+<Statute statuteid="1553879f">
+<Title>Services bancaires axés sur les consommateurs, Loi sur les</Title>
+<ChapterNumber>2026, ch. 3, art. 224</ChapterNumber>
+<FlicsAlpha>2026, ch. 3, art. 224</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Services ferroviaires, Loi de 2007 sur le maintien des voir Maintien des services ferroviaires, Loi de 2007</Title>
