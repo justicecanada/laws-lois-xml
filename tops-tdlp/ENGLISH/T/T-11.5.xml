@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="T-11.5">
+  <Title>Tobacco and Vaping Products Act</Title>
+  <ChapterNumber>1997, c. 13</ChapterNumber>
+  <TitleChanged>
+    <Text>(Formerly: Tobacco Act)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Tabac et les produits de vapotage, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Mental Health and Addictions and Associate Minister of Health (<Emphasis style="italic">see</Emphasis> SI/2022-31)</Text>
+  </Minister>
+  <LongTitle>
+    <Label>Long title</Label>
+    <Text>2018, c. 9, s. 1</Text>
+  </LongTitle>
+  <Section>
+    <Label>1</Label>
+    <Text>2018, c. 9, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>2009, c. 27, s. 2; 2018, c. 9, ss. 3 and 79.1</Text>
+  </Section>
+  <Section>
+    <Label>2.1</Label>
+    <Text>added, 2009, c. 27, s. 3; 2018, c. 9, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2018, c. 9, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2018, c. 9, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>added, 2009, c. 27, s. 4; 2018, c. 9, ss. 7 and 70</Text>
+  </Section>
+  <Section>
+    <Label>5.2</Label>
+    <Text>added, 2009, c. 27, s. 5; 2018, c. 9, ss. 8 and 70</Text>
+  </Section>
+  <Section>
+    <Label>5.3</Label>
+    <Text>added, 2018, c. 9, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2009, c. 27, s. 6; 2018, c. 9, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>6.01</Label>
+    <Text>added, 2018, c. 9, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>6.1</Label>
+    <Text>added, 2009, c. 27, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>6.1</Label>
+    <Text>added, 2018, c. 9, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>6.2</Label>
+    <Text>added, 2018, c. 9, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>6.3</Label>
+    <Text>added, 2018, c. 9, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2009, c. 27, s. 8; 2018, c. 9, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>7.1</Label>
+    <Text>added, 2009, c. 27, s. 9; 2018, c. 9, s. 70</Text>
+  </Section>
+  <Heading>
+    <Label>Part I.1</Label>
+    <Text>added, 2018, c. 9, s. 12</Text>
+  </Heading>
+  <Section>
+    <Label>7.2</Label>
+    <Text>added, 2018, c. 9, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>7.21</Label>
+    <Text>added, 2018, c. 9, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>7.22</Label>
+    <Text>added, 2018, c. 9, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>7.23</Label>
+    <Text>added, 2018, c. 9, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>7.3</Label>
+    <Text>added, 2018, c. 9, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>7.4</Label>
+    <Text>added, 2018, c. 9, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>7.5</Label>
+    <Text>added, 2018, c. 9, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>7.6</Label>
+    <Text>added, 2018, c. 9, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>7.7</Label>
+    <Text>added, 2018, c. 9, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>7.8</Label>
+    <Text>added, 2018, c. 9, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2018, c. 9, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2018, c. 9, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>9.1</Label>
+    <Text>added, 2018, c. 9, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2009, c. 27, s. 10; 2018, c. 9, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2018, c. 9, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2018, c. 9, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2018, c. 9, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2018, c. 9, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>15.1</Label>
+    <Text>added, 2018, c. 9, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>15.2</Label>
+    <Text>added, 2018, c. 9, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2018, c. 9, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>2018, c. 9, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>2018, c. 9, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2018, c. 9, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2018, c. 9, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>20.1</Label>
+    <Text>added, 2018, c. 9, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2018, c. 9, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2009, c. 27, s. 11; 2018, c. 9, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2018, c. 9, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>23.1</Label>
+    <Text>added, 2009, c. 27, s. 12; 2018, c. 9, ss. 31 and 70</Text>
+  </Section>
+  <Section>
+    <Label>23.2</Label>
+    <Text>added, 2018, c. 9, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>23.3</Label>
+    <Text>added, 2018, c. 9, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>1998, c. 38, s. 1; 2018, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>1998, c. 38, s. 2; 2018, c. 9, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2009, c. 27, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2018, c. 9, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2018, c. 9, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>2018, c. 9, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2018, c. 9, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>30.1</Label>
+    <Text>added, 2018, c. 9, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>30.2</Label>
+    <Text>added, 2018, c. 9, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>30.21</Label>
+    <Text>added, 2018, c. 9, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>30.3</Label>
+    <Text>added, 2018, c. 9, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>30.4</Label>
+    <Text>added, 2018, c. 9, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>30.41</Label>
+    <Text>added, 2018, c. 9, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>30.42</Label>
+    <Text>added, 2018, c. 9, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>30.43</Label>
+    <Text>added, 2018, c. 9, ss. 38 and 39</Text>
+  </Section>
+  <Section>
+    <Label>30.44</Label>
+    <Text>added, 2018, c. 9, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>30.45</Label>
+    <Text>added, 2018, c. 9, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>30.46</Label>
+    <Text>added, 2018, c. 9, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>30.47</Label>
+    <Text>added, 2018, c. 9, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>30.48</Label>
+    <Text>added, 2018, c. 9, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>30.49</Label>
+    <Text>added, 2018, c. 9, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>30.5</Label>
+    <Text>added, 2018, c. 9, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>30.6</Label>
+    <Text>added, 2018, c. 9, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>30.7</Label>
+    <Text>added, 2018, c. 9, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>30.701</Label>
+    <Text>added, 2018, c. 9, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>30.71</Label>
+    <Text>added, 2018, c. 9, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>30.8</Label>
+    <Text>added, 2018, c. 9, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2018, c. 9, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2018, c. 9, s. 42</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>1998, c. 38, s. 3; 2018, c. 9, s. 44</Text>
+  </Section>
+  <Heading>
+    <Label>Part V</Label>
+  </Heading>
+  <Section>
+    <Label>34</Label>
+    <Text>2018, c. 9, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>2018, c. 9, s. 45</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>2018, c. 9, s. 45; 2022, c. 17, s. 67</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>2018, c. 9, s. 46</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2018, c. 9, s. 47</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2018, c. 9, s. 48</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>2018, c. 9, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>41.1</Label>
+    <Text>added, 2018, c. 9, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>41.2</Label>
+    <Text>added, 2018, c. 9, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2018, c. 9, s. 50</Text>
+  </Section>
+  <Heading>
+    <Label>Part V.1</Label>
+    <Text>2018, c. 9, s. 51</Text>
+  </Heading>
+  <Section>
+    <Label>42.1</Label>
+    <Text>2015, c. 3, s. 154(F); repealed, 2018, c. 9, s. 52; added, 2024, c. 15, s. 217</Text>
+  </Section>
+  <Section>
+    <Label>42.11</Label>
+    <Text>added, 2024, c. 15, s. 217</Text>
+  </Section>
+  <Section>
+    <Label>42.12</Label>
+    <Text>added, 2024, c. 15, s. 217</Text>
+  </Section>
+  <Section>
+    <Label>42.13</Label>
+    <Text>added, 2024, c. 15, s. 217</Text>
+  </Section>
+  <Section>
+    <Label>42.14</Label>
+    <Text>added, 2024, c. 15, s. 217</Text>
+  </Section>
+  <Section>
+    <Label>42.15</Label>
+    <Text>added, 2024, c. 15, s. 217</Text>
+  </Section>
+  <Section>
+    <Label>42.16</Label>
+    <Text>added, 2024, c. 15, s. 217</Text>
+  </Section>
+  <Heading>
+    <Label>Part VI</Label>
+  </Heading>
+  <Section>
+    <Label>42.2</Label>
+    <Text>added, 2018, c. 9, s. 53</Text>
+  </Section>
+  <Section>
+    <Label>42.3</Label>
+    <Text>added, 2018, c. 9, s. 53</Text>
+  </Section>
+  <Section>
+    <Label>42.31</Label>
+    <Text>added, 2018, c. 9, s. 54</Text>
+  </Section>
+  <Section>
+    <Label>42.4</Label>
+    <Text>added, 2018, c. 9, s. 53</Text>
+  </Section>
+  <Section>
+    <Label>42.5</Label>
+    <Text>added, 2018, c. 9, s. 53; 2024, c. 17, s. 335</Text>
+  </Section>
+  <Section>
+    <Label>42.6</Label>
+    <Text>added, 2024, c. 17, s. 334</Text>
+  </Section>
+  <Section>
+    <Label>42.7</Label>
+    <Text>added, 2024, c. 17, s. 334</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>2018, c. 9, s. 55</Text>
+  </Section>
+  <Section>
+    <Label>43.1</Label>
+    <Text>added, 2009, c. 27, s. 14; 2018, c. 9, ss. 55, 56 and 57</Text>
+  </Section>
+  <Section>
+    <Label>43.2</Label>
+    <Text>added, 2009, c. 27, s. 14; 2018, c. 9, ss. 55 and 57</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>2009, c. 27, s. 15; 2018, c. 9, ss. 55 and 58</Text>
+  </Section>
+  <Section>
+    <Label>44.1</Label>
+    <Text>added, 2009, c. 27, s. 16; 2018, c. 9, ss. 55 and 59</Text>
+  </Section>
+  <Section>
+    <Label>45, 2</Label>
+    <Text>018, c. 9, s. 60</Text>
+  </Section>
+  <Section>
+    <Label>46, 2</Label>
+    <Text>018, c. 9, ss. 61 and 62</Text>
+  </Section>
+  <Section>
+    <Label>46.1</Label>
+    <Text>added, 2024, c. 15, s. 218</Text>
+  </Section>
+  <Section>
+    <Label>47, 2</Label>
+    <Text>018, c. 9, ss. 61 and 63</Text>
+  </Section>
+  <Section>
+    <Label>48.1</Label>
+    <Text>added, 2018, c. 9, s. 64</Text>
+  </Section>
+  <Section>
+    <Label>57, 2</Label>
+    <Text>018, c. 9, s. 65</Text>
+  </Section>
+  <Section>
+    <Label>59, 2</Label>
+    <Text>018, c. 9, s. 66</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>2015, c. 3, s. 155; <Emphasis style="bold">2</Emphasis>018, c. 9, s. 67</Text>
+  </Section>
+  <Heading>
+    <Label>Part VII.1</Label>
+    <Text>added, <Emphasis style="bold"> 2</Emphasis>018, c. 9, s. 67.1</Text>
+  </Heading>
+  <Section>
+    <Label>60.1</Label>
+    <Text>added, <Emphasis style="bold">2</Emphasis>018, c. 9, s. 67.1</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>1998, c. 38, s. 4</Text>
+  </Section>
+  <Schedule>
+    <Label>Schedule I</Label>
+    <Text>added, 2009, c. 27, s. 17; renumbered, 2018, c. 9, s. 68</Text>
+  </Schedule>
+  <Heading>
+    <Label>Heading</Label>
+    <Text>2017, c. 26, s. 20(F)</Text>
+  </Heading>
+  <Schedule>
+    <Label>item 1</Label>
+    <Text> SOR/2015-126, s. 1; SOR/2017-45, s. 1; 2018, c. 9, s. 68 and 68(4) (in column 2); SOR/2023-98, s. 1</Text>
+  </Schedule>
+  <Schedule>
+    <Label>item 1.1</Label>
+    <Text>added, SOR/2015-126, s. 2; 2018, c. 9, s. 68(4) (in column 2)</Text>
+  </Schedule>
+  <Schedule>
+    <Label>item 1.2</Label>
+    <Text>added, 2018, c. 9, s. 68</Text>
+  </Schedule>
+  <Schedule>
+    <Label>items 2 and 3</Label>
+    <Text>SOR/2015-126, s. 3; 2018, c. 9, s. 68(4) (in column 2)</Text>
+  </Schedule>
+  <Schedule>
+    <Label>item 4</Label>
+    <Text>2018, c. 9, s. 68(4) (in column 2); SOR/2019-108, s.1; SOR/2023-98, s. 2 (in column 1)</Text>
+  </Schedule>
+  <Schedule>
+    <Label>item 4.1</Label>
+    <Text>SOR/2015-126, s. 4; 2018, c. 9, s. 68(4) (in column 2); SOR/2019-108, s. 1</Text>
+  </Schedule>
+  <Schedule>
+    <Label>item 4.2</Label>
+    <Text>SOR/2015-126, s. 4; 2018, c. 9, s. 68(4) (in column 2); SOR/2019-108, s. 2; SOR/2023-98, s. 4</Text>
+  </Schedule>
+  <Schedule>
+    <Label>item 4.3</Label>
+    <Text>added, SOR/2015-126, s. 4; 2018, c. 9, s. 68(4) (in column 2); SOR/2019-108, s. 3; SOR/2023-98, s. 3</Text>
+  </Schedule>
+  <Schedule>
+    <Label>item 4.4</Label>
+    <Text>added, SOR/2015-126, s. 4; 2018, c. 9, s. 68(4) (in column 2); SOR/2019-108, s. 4; SOR/2023-98, s. 4</Text>
+  </Schedule>
+  <Schedule>
+    <Label>item 4.5</Label>
+    <Text>added, SOR/2019-108, s. 5; SOR/2023-98, s. 4</Text>
+  </Schedule>
+  <Schedule>
+    <Label>item 4.6</Label>
+    <Text>added, SOR/2019-108, s. 5</Text>
+  </Schedule>
+  <Schedule>
+    <Label>item 4.7</Label>
+    <Text>added, SOR/2019-108, s. 5</Text>
+  </Schedule>
+  <Schedule>
+    <Label>items 5 to 9</Label>
+    <Text>SOR/2015-126, s. 5; 2018, c. 9, s. 68(4) (in column 2)</Text>
+  </Schedule>
+  <Schedule>
+    <Label>item 9,1</Label>
+    <Text>added, 2018, c. 9, s. 68</Text>
+  </Schedule>
+  <Schedule>
+    <Label>items 10 to 13</Label>
+    <Text>SOR/2015-126, s. 5; 2018, c. 9, s. 68(4) (in column 2)</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 2 (items 1 to 9)</Label>
+    <Text>added, 2018, c. 9, s. 69</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 3 (items 1 to 5)</Label>
+    <Text>added, 2018, c. 9, s. 69</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Notes 1 and 2</Label>
+    <Text>SOR/2015-126, ss. 6 and 7</Text>
+  </Schedule>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2018, c. 9, ss. 78 to 79.1</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2024, c. 17, s. 335</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2009, c. 27, s. 1</Text>
+  </General>
+  <General>
+    <Text>General, 2018, c. 9, s. 24 (Division Title); s. 43 (heading repealed)</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2018, c. 9, s. 77 (new short title in every regulations and acts)</Text>
+  </Terminology>
+  <CIF>
+    <Text>CIF, 1997, c. 13, ss. 1 to 24(1) and (4) and ss. 25 to 65 in force on assent 25.04.97; ss. 24(2) and (3) come into force on 01.10.98 or on such earlier day the Governor in Council may fix by order <Emphasis style="italic">see</Emphasis> s. 66</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 38, ss. 1 and 3 come into force on October 1, 2003 <Emphasis style="italic">see</Emphasis> s. 5(1); s. 66(2) of the Act, except par. (b), as enacted by s. 4, is deemed to have come into force on October 1, 1998 <Emphasis style="italic">see</Emphasis> s. 5(2); par. 66(2)(b) and s. 66(3) of the Act, as enacted by s. 4, come into force on October 1, 2000 <Emphasis style="italic">see</Emphasis> s. 5(3); s. 2 of the Act, s. 66(1) of the <XRefExternal reference-type="act">Tobacco Act</XRefExternal> as enacted by ss. 4(1) and (2) of the Act in force on assent 10.12.98</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 27, ss. 1, 6, 8, 11, 13 and 15 in force on assent 08.10.2009; ss. 2 to 4, 9, 10, 12(1), 14(1) and 17 in force 06.04.2010 <Emphasis style="italic">see</Emphasis> s. 18(1); ss. 5, 12(2) and 14(2) in force 05.07.2010 <Emphasis style="italic">see</Emphasis> s. 18(2); ss. 7 and 16 repealed before coming into force <Emphasis style="italic">see</Emphasis><Emphasis style="italic"> respectively</Emphasis> 2018, c. 9, ss. 73 and 74</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 3, ss. 154 and 155 in force on assent 26.02.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2015-126, ss. 1 to 7 in force 15.12.2015 <Emphasis style="italic">see</Emphasis> s. 8</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2017-45, s. 1 in force 05.10.2017 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 26, s. 20 in force on assent 12.12.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 9, ss.1 to 6, 7(1), 9, 11(1), (3), (4) and (6), 12, 14(1), 15(1), 16, 18, 19(2), 20(1) and (3), 21 to 24, 26, 29, 30, 33 to 36, 41 to 43, 44(1), 45 to 53, 55, 60, 61, 64 to 67.1 68(4), 73, 74 and 77 to 79.1 in force on assent 23.05.2018; [<Emphasis style="italic">Note</Emphasis>: s. 68(2) repealed before coming into force <Emphasis style="italic">see</Emphasis> 2017, c. 26, s. 74(3)]</Text>
+    <List>
+      <Item>
+        <Text>— ss. 13, 20(2), 27, 32, 37, 38, 40, 44(2) and (5), 56, 62, 63, 68(1) and (3), 69 and 70 in force 25.11.2018 <Emphasis style="italic">see</Emphasis> s. 80(3)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 7(2), 8, 11(2), 25, 28, 31 and 57 in force 09.11.2019 (200 days after the day on which SI/2019-21 is made) <Emphasis style="italic">see</Emphasis> SI/2019-21</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 10, 11(5) and 59 come into force on a day to be fixed by order of the Governor in Council, but that day must be after the day on which this Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 80(2) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 14(2), 15(2) and (3) and 19(1) come into force on a day to be fixed by order of the Governor in Council, but that day must be after the day on which this Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 80(4) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 17 and 19(3) come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 80(5) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 39 and 44(6) come into force on a day to be fixed by order of the Governor in Council, but that day must be after the 180<Sup>th</Sup> day after the day on which this Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 80(6) — Not in force</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 54 and 58 come into force on a day to be fixed by order of the Governor in Council, but that day must after the day on which this Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 80(7) — Not in force</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 17, (assent: 15.12.2022), s. 67 in force on the 30th day after the day on which the Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2023-98, ss. 1 to 4 in force 01.08. 2023, <Emphasis style="italic">see</Emphasis> s. 5</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF 2024, c. 15, ss. 217 and 218 in force on assent 20.06.2024</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 17 in force on assent 20.06.2024,</Text>
+    <List>
+      <Item>
+        <Text>— s. 335 in force on assent (Coordinating amendment - conditions met 20.06.2024 <Emphasis style="italic">see</Emphasis> s. 335)</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

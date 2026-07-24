@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="R.S., 1985, c. 24 (4th Supp.)">
+  <Title>Canadian Multiculturalism Act</Title>
+  <ChapterNumber>R.S., 1985, c. 24 (4th Supp.)</ChapterNumber>
+  <OtherLangTitle>(Multiculturalisme canadien, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Canadian Heritage <Emphasis style="italic">see</Emphasis> SI/2025-45</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1993, c. 28, s. 78 (Sch. III, item 16); 2002, c. 7, s. 129; 2014, c. 2, s. 38</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, R.S., c. 24 (4th Supp.) in force 21.07.88</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 28, s. 78 (Sch. III, item 16) in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, s. 129 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 2 (assent: 25.03.2014), s. 38 in force 01.04.2014 <Emphasis style="italic">see</Emphasis> SI/2014-34.</Text>
+  </CIF>
+</Statute>
+</TOPS>

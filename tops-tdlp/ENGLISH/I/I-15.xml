@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="I-15">
+  <Title>Interest Act</Title>
+  <ChapterNumber>R.S., 1985, c. I-15</ChapterNumber>
+  <OtherLangTitle>(Intérêt, Loi sur l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Finance</Text>
+  </Minister>
+  <Section>
+    <Label>4</Label>
+    <Text>1996, c. 17, s. 17; 2001, c. 4, s. 91</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1996, c. 17, s. 18; 2001, c. 4, s. 92</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2001, c. 4, s. 93(E)</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2001, c. 4, s. 94</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2001, c. 4, s. 95; 2008, c. 28, s. 155</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>repealed, 1992, c. 1, s. 146(1) (Sch. IX, item 26); 1993, c. 28, s. 78 (Sch. III, item 81), this amendment was repealed before it came into force by 1998, c. 15, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>repealed, 1992, c. 1, s. 146(1) (Sch. IX, item 26)</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>repealed, 1992, c. 1, s. 146(1) (Sch. IX, item 26)</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>repealed, 1992, c. 1, s. 146(1) (Sch. IX, item 26)</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2001, c. 4, ss. 175 and 176 (will never apply)</Text>
+  </CoordinatingAmendment>
+  <Transitional>
+    <Text>Transitional, 1992, c. 1, s. 146(3)</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1992, c. 1, s. 146 (Sch. IX, item 26)</Text>
+    <List>
+      <Item>
+        <Text>— <Emphasis style="italic">re</Emphasis> application to the Province of Saskatchewan, repealed 18.06.92 <Emphasis style="italic">see</Emphasis> SI/92‑120 and SI/92‑137</Text>
+      </Item>
+      <Item>
+        <Text>— <Emphasis style="italic">re</Emphasis> application to the Province of British Columbia, repealed 31.03.92 <Emphasis style="italic">see</Emphasis> s. 146(2)(b)</Text>
+      </Item>
+      <Item>
+        <Text>— <Emphasis style="italic">re</Emphasis> application to the Province of Alberta, repealed on the day preceding the day on which s. 6 of the <XRefExternal reference-type="act">Judgment Interest Act</XRefExternal> (Alberta) comes into force <Emphasis style="italic">see</Emphasis> s. 146(2)(c). S. 6 of the <XRefExternal reference-type="act">Judgment Interest Act</XRefExternal> (Alberta) in force 01.08.92 <Emphasis style="italic">see</Emphasis> The <Emphasis style="italic">Alberta Gazette</Emphasis> Vol. 88, No. 15, p. 2753</Text>
+      </Item>
+      <Item>
+        <Text>— <Emphasis style="italic">re</Emphasis> application to the Yukon Territory, repealed 30.09.93 <Emphasis style="italic">see</Emphasis> SI/93‑195</Text>
+      </Item>
+      <Item>
+        <Text>— <Emphasis style="italic">re</Emphasis> application to the Province of Manitoba, repealed 30.06.94 <Emphasis style="italic">see</Emphasis> SI/94‑75</Text>
+      </Item>
+      <Item>
+        <Text>— <Emphasis style="italic">re</Emphasis> application to the Northwest Territories, repealed, 31.12.95 <Emphasis style="italic">see</Emphasis> SI/95‑96</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 17, ss. 17 and 18 repealed before coming into force <Emphasis style="italic">see</Emphasis> 2017, c. 33, s. 228</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 15, s. 27 in force on assent 11.06.98</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 4 (assent: 10.05.2001), ss. 175 and 176 in force on assent <Emphasis style="italic">but see</Emphasis> conditions of application in ss. 175(2) and 176(2) [<Emphasis style="italic">Note</Emphasis>: 1996, c. 17, ss. 17 and 18 mentioned in ss. 175(2) and 176(2) repealed before their coming into force <Emphasis style="italic">see</Emphasis> 2017, c. 33, s. 228]; ss. 91 to 95 in force 01.06.2001 <Emphasis style="italic">see</Emphasis> SI/2001‑71</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 28, s. 155 in force on assent 18.06.2008</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 33 (assent: 14.12.2017), s. 228 deemed in force 01.07.2017 <Emphasis style="italic">see</Emphasis> s. 229</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1985, c. 51">
+  <Title>Financial Institutions Depositors Compensation Act</Title>
+  <ChapterNumber>1985, c. 51</ChapterNumber>
+  <OtherLangTitle>(Indemnité aux déposants de certaines institutions financières)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Finance</Text>
+  </Minister>
+  <CIF>
+    <Text>CIF, 1985, c. 51 in force on assent 20.12.85 with respect to Canadian Commercial Bank and Northland Bank, <Emphasis style="italic">except</Emphasis> with respect to the CCB Mortgage Investment Corporation;</Text>
+    <List>
+      <Item>
+        <Text>— the Act, with respect to the CCB Mortgage Investment Corporation, shall come into force on a day to be fixed by proclamation <Emphasis style="italic">see </Emphasis>s. 17 — Not in force.</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

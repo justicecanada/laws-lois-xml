@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2005, c. 1">
+  <Title>Tlicho Land Claims and Self-Government Act</Title>
+  <ChapterNumber>2005, c. 1</ChapterNumber>
+  <OtherLangTitle>(Revendications territoriales et l’autonomie gouvernementale du peuple tlicho, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Northern Affairs (SI/2018-107, S.C. 2019, c. 29, s. 341(2))</Text>
+  </Minister>
+  <Section>
+    <Label>4</Label>
+    <Text>2019, c. 29, ss. 371(2)(e) and 373(2)(f)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2014, c. 2, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2014, c. 2, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>repealed, 2014, c. 2, s. 240; repealed, 2019, c. 19, s. 81</Text>
+  </Section>
+  <Section>
+    <Label>100</Label>
+    <Text>repealed, 2005, c. 1, s. 110(1)</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2005, c. 1, s. 110</Text>
+  </CoordinatingAmendment>
+  <CIF>
+    <Text>CIF, 2005, c. 1, ss. 107 to 110 in force on assent 15.02.2005; the Act, other than ss. 107 to 110, in force 04.08.2005 <Emphasis style="italic">see</Emphasis> SI/2005-54</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 2 (assent: 25.03.2014)</Text>
+    <List>
+      <Item>
+        <Text>— ss. 56 and 57 in force 01.04.2014 <Emphasis style="italic">see</Emphasis> SI/2014-34</Text>
+      </Item>
+      <Item>
+        <Text>— s. 240 repealed before coming into force <Emphasis style="italic">see</Emphasis> 2019, c. 19, s. 77 in force on assent 21.06.2019</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), ss. 371 and 373 in force 15.07.2019</Text>
+  </CIF>
+</Statute>
+</TOPS>

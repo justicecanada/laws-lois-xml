@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2006, c. 9, s. 2">
+  <Title>Conflict of Interest Act</Title>
+  <ChapterNumber>2006, c. 9, s. 2</ChapterNumber>
+  <OtherLangTitle>(Conflits d’intérêts, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>President of the Treasury Board</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2013, c. 18, s. 66, c. 33, s. 192, c. 40, s. 288; 2014, c. 12, s. 145; 2017, c. 15, s. 48, c. 20, s. 187</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2011, c. 24, s. 168</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2017, c. 20, s. 188</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2006, c. 9, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2006, c. 9, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2024, c. 16, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>62.1</Label>
+    <Text>added, 2013, c. 40, s. 289</Text>
+  </Section>
+  <Section>
+    <Label>62.2</Label>
+    <Text>added, 2013, c. 40, s. 289</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>added, 2006, c. 9, s. 37</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2006, c. 9, ss. 35 to 37</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2006, c. 9, s. 108(2) <Emphasis style="italic">re</Emphasis> application</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 2006, c. 9, s. 2</Text>
+    <List>
+      <Item>
+        <Text>— ss. 35 to 38 in force on assent 12.12.2006;</Text>
+      </Item>
+      <Item>
+        <Text>— the provisions of the <XRefExternal reference-type="act">Conflict of Interest Act</XRefExternal>, as enacted by s. 2 in force 09.07.2007 <Emphasis style="italic">see</Emphasis> SI/2007-75.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2011, c. 24, Part 12 (s. 168) in force on assent 15.12.2011.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 18 (assent: 19.06.2013), s. 66 in force 28.11.2014 <Emphasis style="italic">see</Emphasis> SI/2014-104.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 33, s. 192 in force on assent 26.06.2013.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40, ss. 288 and 289 in force on assent 12.12.2013.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 12, s. 145 in force on assent 19.06.2014 <Emphasis style="italic">see</Emphasis> s. 158(1).</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 15 (assent: 22.06.2017), s. 48 in force 06.10.2017 <Emphasis style="italic">see</Emphasis> SI/2017-63.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 20 (assent: 22.06.2017), ss. 187 and 188 in force 21.09.2017 <Emphasis style="italic">see</Emphasis> SI/2017-53.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 16, s. 57 in force on the 60th day after the day on which the <XRefExternal reference-type="act">Countering Foreign Interference Act</XRefExternal> receives royal assent <Emphasis style="italic">see</Emphasis> s. 75 (19.08.2024)</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2007, c. 29">
+  <Title>Budget Implementation Act, 2007</Title>
+  <ChapterNumber>2007, c. 29</ChapterNumber>
+  <OtherLangTitle>(Exécution du budget de 2007, Loi d’)</OtherLangTitle>
+  <Section>
+    <Label>78</Label>
+    <Text>repealed, 2007, c. 35, s. 169</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>repealed, 2007, c. 35, s. 170</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>2007, c. 35, s. 171</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>2013, c. 33, par. 196(1)(b)</Text>
+  </Section>
+  <Section>
+    <Label>137</Label>
+    <Text>2013, c. 33, par. 196(1)(c)</Text>
+  </Section>
+  <Section>
+    <Label>143</Label>
+    <Text>2016, c. 7, s. 238</Text>
+  </Section>
+  <Section>
+    <Label>143.1</Label>
+    <Text>added, 2016, c. 7, s. 238</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2007, c. 29, ss. 39 to 42, 53, 122 and 150</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2007, c. 29, ss. 124 to 143 and 143.1 (payments)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 2007, c. 29 in force on assent 22.06.2007, <Emphasis style="italic">except</Emphasis>:</Text>
+    <List>
+      <Item>
+        <Text>— ss. 79 and 82 deemed to have come into force 01.04.2010 <Emphasis style="italic">see</Emphasis> s. 84, as amended by 2007, c. 35, s. 171; <Emphasis style="italic">see also </Emphasis><XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal>, Part I, Vol. 146, No. 2, p. 26</Text>
+      </Item>
+      <Item>
+        <Text>— s. 81 in force 01.04.2008 <Emphasis style="italic">see</Emphasis> s. 84(3) as amended by 2007, c. 35, s. 171</Text>
+      </Item>
+      <Item>
+        <Text>— Part 7 (ss. 85 to 89) in force 26.10.2007 <Emphasis style="italic">see</Emphasis> SI/2007-95</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 91(2), 104(2) and 113(2) in force 17.11.2007 <Emphasis style="italic">see</Emphasis> SI/2007-106</Text>
+      </Item>
+      <Item>
+        <Text>— s. 103(2) in force 17.11.2007 <Emphasis style="italic">see</Emphasis> SI/2007-105</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 144 to 149 repealed before coming into force <Emphasis style="italic">see</Emphasis> s. 150</Text>
+      </Item>
+      <Item>
+        <Text>
+          <Emphasis style="italic">see also</Emphasis> various deeming and application provisions throughout.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 35, ss. 169 to 171 in force on assent 14.12.2007</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 33, s. 196 in force on assent 26.06.2013.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2016, c. 7, s. 238 in force on assent 22.06.2016.</Text>
+  </CIF>
+</Statute>
+</TOPS>

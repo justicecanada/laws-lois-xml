@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="G-2">
+  <Title>Garnishment, Attachment and Pension Diversion Act</Title>
+  <ChapterNumber>R.S., 1985, c. G-2</ChapterNumber>
+  <OtherLangTitle>(Saisie-arrêt et la distraction de pensions, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>(a) Minister of Justice and Attorney General of Canada General (Part I) (SI/84‑5), and for the purposes of sections 46 and 47 of the Act, items 12 and 16 of the schedule to the Act and the other provisions of Part II of the Act as those provisions relate to the <XRefExternal reference-type="act">Judges Act</XRefExternal>; (SI/84‑6)</Text>
+  </Minister>
+  <Minister>
+    <Text>(b) the Minister of National Defence, for the purposes of the provisions, except sections 46 and 47, of Part II of the Act as those provisions relate to the <XRefExternal reference-type="act">Canadian Forces Superannuation Act</XRefExternal> and the <XRefExternal reference-type="act">Defence Services Pension Continuation Act</XRefExternal>; (SI/84‑6)</Text>
+  </Minister>
+  <Minister>
+    <Text>(c) the Minister of Finance, for the purposes of the provisions, except sections 46 and 47, of Part II of the Act as those provisions relate to the <XRefExternal reference-type="act">Members of Parliament Retiring Allowances Act</XRefExternal>; (SI/84‑6) and</Text>
+  </Minister>
+  <Minister>
+    <Text>(d) the Minister of Public Works and Government Services, for the purposes of the provisions, except sections 46 and 47, of Part II of the Act as those provisions relate to</Text>
+  </Minister>
+  <Convention>
+    <List>
+      <Item>
+        <Label>(i)</Label>
+        <Text> the <XRefExternal reference-type="act">Governor General’s Act</XRefExternal>,</Text>
+      </Item>
+      <Item>
+        <Label>(ii)</Label>
+        <Text> the <XRefExternal reference-type="act">Lieutenant Governor’s Superannuation Act</XRefExternal>,</Text>
+      </Item>
+      <Item>
+        <Label>(iii)</Label>
+        <Text> the <XRefExternal reference-type="act">Diplomatic Service (Special) Superannuation Act</XRefExternal>,</Text>
+      </Item>
+      <Item>
+        <Label>(iv)</Label>
+        <Text> the <XRefExternal reference-type="act">Public Service Superannuation Act</XRefExternal>,</Text>
+      </Item>
+      <Item>
+        <Label>(v)</Label>
+        <Text> the <XRefExternal reference-type="act">Civil Service Superannuation Act</XRefExternal>,</Text>
+      </Item>
+      <Item>
+        <Label>(vi)</Label>
+        <Text> the <XRefExternal reference-type="act">Royal Canadian Mounted Police Superannuation Act</XRefExternal>, Part I,</Text>
+      </Item>
+      <Item>
+        <Label>(vii)</Label>
+        <Text> the <XRefExternal reference-type="act">Royal Canadian Mounted Police Pension Continuation Act</XRefExternal>, Parts II and III,</Text>
+      </Item>
+      <Item>
+        <Label>(viii)</Label>
+        <Text> the <XRefExternal reference-type="act">Currency, Mint and Exchange Fund Act</XRefExternal>, s. 15(2) (R.S., 1952, c. 315)</Text>
+      </Item>
+      <Item>
+        <Label>(ix)</Label>
+        <Text> the <XRefExternal reference-type="act">War Veterans Allowance Act</XRefExternal>, s. 28(10),</Text>
+      </Item>
+      <Item>
+        <Label>(x)</Label>
+        <Text> Regulations made under Vote 181 of <XRefExternal reference-type="act">Appropriation Act No. 5</XRefExternal>, 1961, and</Text>
+      </Item>
+      <Item>
+        <Label>(xi)</Label>
+        <Text> the <XRefExternal reference-type="act">Tax Court of Canada Act</XRefExternal> (SI/84‑6)</Text>
+      </Item>
+    </List>
+  </Convention>
+  <Heading>
+    <Label>Long title</Label>
+    <Text>2019, c. 16, s. 81</Text>
+  </Heading>
+  <Section>
+    <Label>2</Label>
+    <Text>1997, c. 1, s. 24; 2019, c. 16, s. 82</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2019, c. 16, s. 83</Text>
+  </Section>
+  <Section>
+    <Label>3.1</Label>
+    <Text>added, 2019, c. 16, s. 83</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1992, c. 1, s. 141 (Sch. IV, item 1); 2014, c. 39, s. 331; 2019, c. 16, s. 84; 2022, c. 10, s. 371</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2014, c. 39, s. 332; 2022, c. 10, s. 371</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1997, c. 1, s. 25; 2019, c. 16, s. 85</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2019, c. 16, s. 86</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>1997, c. 1, s. 26; 2019, c. 16, s. 87</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>repealed, 1997, c. 1, s. 26</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1997, c. 1, s. 27; 2019, c. 16, s. 88(F)</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1997, c. 1, s. 28; 2019, c. 16, s. 89</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2019, c. 16, s. 90</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2019, c. 16, s. 91</Text>
+  </Section>
+  <Heading>
+    <Label>Part IV</Label>
+    <Text>2015, c. 36, s. 126</Text>
+  </Heading>
+  <Section>
+    <Label>16</Label>
+    <Text>2004, c. 7, s. 10; 2006, c. 9, s. 10; 2015, c. 36, s. 127; 2017, c. 20, s. 162; 2019, c. 16, s. 93</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>2004, c. 7, s. 11; 2006, c. 9, s. 11; 2015, c. 36, s. 128; 2017, c. 20, s. 163; 2019, c. 16, s. 94</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>1997, c. 1, s. 29; 2004, c. 7, s. 12; 2006, c. 9, s. 12; 2015, c. 36, s. 129; 2017, c. 20, s. 164; 2019, c. 16, s. 95</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2004, c. 7, s. 12; 2006, c. 9, s. 12; 2015, c. 36, s. 130; 2017, c. 20, s. 165; 2019, c. 16, s. 95</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>repealed, 1997, c. 1. s. 30</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>1997, c. 1, s. 30; 2004, c. 7, s. 13; 2006, c. 9, s. 13; 2015, c. 36, s. 131; 2017, c. 20, s. 166; 2019, c. 16, s. 96</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>1997, c. 1, s. 30; 2004, c. 7, s. 14; 2006, c. 9, s. 14; 2015, c. 36, s. 132; 2017, c. 20, s. 167; 2019, c. 16, s. 97</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>1997, c. 1, s. 31; 2004, c. 7, s. 15; 2006, c. 9, s. 15; 2015, c. 36, s. 133; 2017, c. 20, s. 168; 2019, c. 16, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2004, c. 7, s. 16; 2006, c. 9, s. 16; 2015, c. 36, s. 134; 2017, c. 20, s. 169; 2019, c. 16, s. 99</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2004, c. 7, s. 17; 2006, c. 9, s. 17; 2015, c. 36, s. 135; 2017, c. 20, s. 170; 2019, c. 16, s. 100</Text>
+  </Section>
+  <Section>
+    <Label>27.1</Label>
+    <Text>added, 2019, c. 16, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>27.2</Label>
+    <Text>added, 2019, c. 16, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2019, c. 16, s. 101</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2019, c. 16, s. 102(E)</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2019, c. 16, s. 104</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>R.S., c. 3 (2nd Supp.), s. 29; 1997, c. 1, s. 32; 2000, c. 12, s. 120; 2019, c. 16, s. 105</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>2000, c. 12, s. 121; 2019, c. 16, s. 106</Text>
+  </Section>
+  <Section>
+    <Label>35</Label>
+    <Text>1997, c. 1, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>35.1</Label>
+    <Text>added, 1997, c. 1, s. 33; 2003, c. 22, par. 225(z)(E); 2012, c. 31, s. 502; 2019, c.16, s. 107</Text>
+  </Section>
+  <Section>
+    <Label>35.2</Label>
+    <Text>added, 1997, c. 1, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>35.3</Label>
+    <Text>added, 1997, c. 1, s. 33; 2019, c. 16, s. 108</Text>
+  </Section>
+  <Section>
+    <Label>35.4</Label>
+    <Text>added, 1997, c. 1, s. 33; 2019, c. 16, s. 108</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>1997, c. 1, s. 34; 2019, c. 16, s. 109(E)</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2019, c. 16, s. 110(F)</Text>
+  </Section>
+  <Section>
+    <Label>38</Label>
+    <Text>1997, c. 1, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>1997, c. 1, s. 36; 2019, c. 16, s. 111</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>1997, c. 1, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>40.1</Label>
+    <Text>added, 1997, c. 1, s. 38; 2019, c. 16, s. 112</Text>
+  </Section>
+  <Section>
+    <Label>40.2</Label>
+    <Text>added, 2019, c. 16, s. 113</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>s. 2019, c. 16, s. 113</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2019, c. 16, s. 114</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>added, 1997, c. 1, s. 39; 2019, c. 16, s. 115</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>added, 2019, c. 16, s. 116</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>added, 2019, c. 16, s. 116</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>added, 2019, c. 16, s. 116</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>added, 2019, c. 16, s. 116</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch.</Label>
+    <Text>1997, c. 1, s. 40; 2019, c, 16, ss. 117 to 119</Text>
+  </Schedule>
+  <General>
+    <Text>General, R.S., c. 4 (2nd Supp.), s. 55</Text>
+  </General>
+  <General>
+    <Text>General, 2004, c. 7, s. 9</Text>
+  </General>
+  <General>
+    <Text>General, 2006, c. 9, s. 9</Text>
+  </General>
+  <General>
+    <Text>General, 2017, c. 20, s. 161</Text>
+  </General>
+  <General>
+    <Text>General, 2019, c. 16, ss. 83 (heading before s. 3), 92 (heading of Division IV of Part I) and 103(F) (heading of Part II)</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 2019, c. 16, s. 121</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 3 (2nd Supp.) proclaimed in force 01.06.86 <Emphasis style="italic">see</Emphasis> SI/86‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 4 (2nd Supp.), s. 55 proclaimed in force 02.05.88 <Emphasis style="italic">see</Emphasis> SI/88‑88</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 1, s. 141 (Sch. IV, item 1) in force on assent 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1997, c. 1, ss. 24 to 40 in force 01.05.97 <Emphasis style="italic">see</Emphasis> SI/97‑43</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 12, ss. 120 and 121 in force 31.07.2000 <Emphasis style="italic">see</Emphasis> SI/2000‑76 <Emphasis style="italic">see also</Emphasis> s. 340(4)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 225 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 7, ss. 9 to 17 in force 17.05.2004 <Emphasis style="italic">see</Emphasis> SI/2004-52</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2006, c. 9, ss. 9 to 17 in force 09.07.2007 <Emphasis style="italic">see</Emphasis> SI/2007‑75</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 31 (assent: 14.12.2012), s. 502 in force 01.01.2013 <Emphasis style="italic">see</Emphasis> s. 514(1)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 39, ss. 331 and 332 in force on assent 16.12.2014</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 36, ss. 126 to 135 in force on assent 23.06.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 20 (assent: 22.06.2017), ss. 161 to 170 in force 21.09.2017 <Emphasis style="italic">see</Emphasis> SI/2017-53</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 16 (assent: 21.06.2019), ss. 105(1), 106(2), 111(2) to (4) and 115(3) and (5) in force 23.12.2020 <Emphasis style="italic">see</Emphasis> s. 126(7) and SI/2020-75</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 10, (assent: 23.06.2022), s. 371 in force 23.09.2022, <Emphasis style="italic">see</Emphasis> SI/2022-46</Text>
+  </CIF>
+</Statute>
+</TOPS>

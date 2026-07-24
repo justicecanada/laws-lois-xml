@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2000, c. 32">
+  <Title>Canada National Parks Act</Title>
+  <ChapterNumber>2000, c. 32</ChapterNumber>
+  <OtherLangTitle>(Parcs nationaux du Canada, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of the Environment (2005, c. 2, s.7)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2002, c. 18, s. 30; 2005, c. 2, s. 7; 2015, c. 3, s. 18(F); 2024, c. 30, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2002, c. 18, s. 31; 2013, c. 28, s. 13(F)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2002, c. 18, s. 31.1</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2002, c. 18, s. 31.2</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2000, c. 32, s. 9; 2024, c. 21, s. 1</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2012, c. 19, s. 324</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2017, c. 26, s. 32(F)</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2009, c. 17, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2009, c. 14, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2002, c. 18, s. 31.3; 2003, c. 22, par. 224(q)(E)</Text>
+  </Section>
+  <Section>
+    <Label>19.1</Label>
+    <Text>added, 2009, c. 14, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>2009, c. 14, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>20.1</Label>
+    <Text>added, 2009, c. 14, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>20.2</Label>
+    <Text>added, 2009, c. 14, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2009, c. 14, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2002, c. 18, s. 31.4; 2003, c. 22, par. 224(q)(E); 2009, c. 14, s. 31(F)</Text>
+  </Section>
+  <Section>
+    <Label>23.1</Label>
+    <Text>added, 2009, c. 14, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2009, c. 14, s. 33, c. 17, ss. 3 and 12(2); 2014, c. 35, s. 2; 2019, c. 29, s. 328</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2009, c. 14, s. 34, c. 17, ss. 4 and 12(5)</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2009, c. 14, s. 35, c. 17, ss. 5, 12(6) and (7)</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2009, c. 14, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>27.1</Label>
+    <Text>added, 2009, c. 14, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>27.2</Label>
+    <Text>added, 2009, c. 14, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>27.3</Label>
+    <Text>added, 2009, c. 14, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>27.4</Label>
+    <Text>added, 2009, c. 14, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>27.5</Label>
+    <Text>added, 2009, c. 14, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>27.6</Label>
+    <Text>added, 2009, c. 14, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>27.7</Label>
+    <Text>added, 2009, c. 14, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>29.1</Label>
+    <Text>added, 2009, c. 14, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2009, c. 14, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2009, c. 14, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>31.01</Label>
+    <Text>added, 2009, c. 14, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>31.1</Label>
+    <Text>added, 2009, c. 14, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>31.2</Label>
+    <Text>added, 2009, c. 14, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>31.3</Label>
+    <Text>added, 2009, c. 14, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>31.4</Label>
+    <Text>added, 2009, c. 14, s. 40</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>2015, c. 3, s. 19(F); 2017, c. 26, s. 33(F)</Text>
+  </Section>
+  <Section>
+    <Label>35.1</Label>
+    <Text>added, 2024, c. 21, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2009, c. 17, s. 6; 2013, c. 28, s. 2; 2014, c. 35, s. 3; 2019, c. 29, s. 329</Text>
+  </Section>
+  <Section>
+    <Label>41.1</Label>
+    <Text>added, 2009, c. 17, s. 7; 2014, c. 2, s. 50, c. 35, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>41.2</Label>
+    <Text>added, 2013, c. 28, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>41.3</Label>
+    <Text>added, 2013, c. 28, s. 3; 2024, c. 20, ss. 216 and 217</Text>
+  </Section>
+  <Section>
+    <Label>41.4</Label>
+    <Text>added, 2014, c. 35, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>41.5</Label>
+    <Text>added, 2019, c. 29, s. 330</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>repealed, 2001, c. 34, s. 24</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch. 1:</Label>
+  </Schedule>
+  <Heading>
+    <Label>Part 1</Label>
+    <Text>2017, c. 26, s. 34(F)</Text>
+  </Heading>
+  <Heading>
+    <Label>Part 2</Label>
+    <Text>SOR/2004-300; SOR/2013-16; 2017, c. 10, ss. 5 and 6(F); 2017, c. 26, s. 35</Text>
+  </Heading>
+  <Heading>
+    <Label>Part 4</Label>
+    <Text>SOR/2003-345; 2004, c. 20, s. 1</Text>
+  </Heading>
+  <Heading>
+    <Label>Part 5</Label>
+    <Text>2013, c. 2, s. 1; 2017, c. 26, s. 36(F); SOR/2022-244</Text>
+  </Heading>
+  <Heading>
+    <Label>Part 10</Label>
+    <Text>2008, c. 2, s. 13; 2015, c. 3, s. 22</Text>
+  </Heading>
+  <Heading>
+    <Label>Part 11</Label>
+    <Text>2001, c. 34, s. 25(F); 2002, c. 7, s. 106</Text>
+  </Heading>
+  <Heading>
+    <Label>Part 13</Label>
+    <Text>SOR/2014-187, s. 1; 2015, c. 3, s. 20, c. 40, s. 2; 2017, c. 26, s. 37(F) and 38(F)</Text>
+  </Heading>
+  <Schedule>
+    <Label>Sch. 2</Label>
+    <Text>002, c. 7, s. 107(E); 2005, c. 27, s. 17; 2008, c. 2, s. 14; 2009, c. 17, ss. 8 and 9; SOR/2010-182, s. 1; 2013, c. 28, s. 4; 2014, c. 2, s. 51, c. 35, s. 6; 2015, c. 3, s. 21(F); 2017, c. 26, s. 39(F) and 40; 2019, c. 29, s. 331</Text>
+  </Schedule>
+  <Heading>
+    <Label>Part I</Label>
+    <Text>2004, c. 20, s. 2</Text>
+  </Heading>
+  <Schedule>
+    <Label>Sch. 4</Label>
+    <Text>SOR/2004-116; 2013, c. 28, s. 14</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Sch. 5</Label>
+    <Text>2013, c. 28, s. 15; 2019, c. 29, s. 332; modified SOR/2019-255</Text>
+  </Schedule>
+  <ConditionalAmendment>
+    <Text>Conditional amendment, 2000, c. 32, s. 70.1</Text>
+  </ConditionalAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2009, c. 17, s. 12</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2024, c. 30, s. 19(E) (heading before s. 2)</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2024, c. 20, ss. 216 and 217</Text>
+  </Terminology>
+  <Transitional>
+    <Text>Transitional, 2009, c. 17, ss. 10 and 11</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2000, c. 32,</Text>
+    <List>
+      <Item>
+        <Text>— ss. 68 to 70.1 in force on assent 20.10.2000;</Text>
+      </Item>
+      <Item>
+        <Text>— (a) ss. 1 to 16;</Text>
+      </Item>
+      <Item>
+        <Text> (b) s. 17, other than par. (1)(b) and (c);</Text>
+      </Item>
+      <Item>
+        <Text> (c) ss. 18 to 67;</Text>
+      </Item>
+      <Item>
+        <Text> (d) Schedule 1, including the description of Aulavik National Park of Canada in Part 12, but excluding</Text>
+        <List>
+          <Item>
+            <Text>(i) the description of Wapusk National Park of Canada in Part 4 of Schedule 1, and</Text>
+          </Item>
+          <Item>
+            <Text>(ii) the description of Gros Morne National Park of Canada in Part 10 of Schedule 1; and</Text>
+          </Item>
+        </List>
+      </Item>
+      <Item>
+        <Text> (e) Schedules 2 to 5</Text>
+      </Item>
+      <Item>
+        <Text>in force 19.02.2001 <Emphasis style="italic">see</Emphasis> SI/2001-29</Text>
+      </Item>
+      <Item>
+        <Text>— par. 17(1)(b) and the description of Wapusk National Park of Canada in Part 4 of Schedule 1 in force 26.03.2010 <Emphasis style="italic">see</Emphasis> SI/2010-30</Text>
+      </Item>
+      <Item>
+        <Text>— par. 17(1)(c) and the description of Gros Morne National Park of Canada in Part 10 of Schedule 1 in force 01.10.2005 <Emphasis style="italic">see</Emphasis> SI/2005-63</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 34, ss. 24 and 25 in force on assent 18.12.2001; s. 24(1) deemed in force 18.02.2001 <Emphasis style="italic">see</Emphasis> s. 24(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, ss. 106 and 107 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 18, ss. 30 to 31.4 in force on assent 13.06.2002</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 224 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 20 in force 01.06.2004 <Emphasis style="italic">see</Emphasis> SI/2004-56</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 2, s. 7 in force on assent 24.02.2005</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 27, s. 17 in force 01.12.2005 <Emphasis style="italic">see</Emphasis> SI/2005-117</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 2 (assent: 14.02.2008), ss. 13 and 14 in force 10.07.2008 <Emphasis style="italic">see</Emphasis> SI/2008-72</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 14 (assent: 18.06.2009), ss. 29 to 40 in force 10.12.2010 <Emphasis style="italic">see</Emphasis> SI/2010-91</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 17, ss. 2 to 6, 7(1) and 8 to 12 in force on assent 18.06.2009; s. 7(2) in force 18.06.2019 <Emphasis style="italic">see</Emphasis> s. 13</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 19, s. 324 in force on assent 29.06.2012</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 2, in force on assent 27.03.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 28, ss. 13 and 14 in force on assent 19.06.2013; ss. 2 to 4 and 15 in force 01.12.2013 <Emphasis style="italic">see</Emphasis> SI/2013-124</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 2 (assent: 25.03.2014), ss. 50 and 51 in force 01.04.2014 <Emphasis style="italic">see</Emphasis> SI/2014-34.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 35, ss.1 to 6 and the schedule in force on assent 16.12.2014.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 3, ss. 18 to 22 in force on assent 26.02.2015.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 40 (assent: 23.06.2015), ss. 1 and 2 in force 01.09.2015 <Emphasis style="italic">see</Emphasis> s. 3.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 10, ss. 5 and 6 in force on assent 19.06.2017.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 26, ss. 32 to 39 in force on assent 12.12.2017.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), ss. 328 to 331 in force 04.09.2019 <Emphasis style="italic">see</Emphasis> SI/2019-95</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2022-244, in force 25.11.2022</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 20, par. 216(1)(b) and 217(b) in force 31.01.2025 <Emphasis style="italic">see</Emphasis> SI/2025-5</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 21 in force on assent 03.10.2024</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 30, ss. 19 and 20 in force on assent 27.11.2024</Text>
+  </CIF>
+</Statute>
+</TOPS>

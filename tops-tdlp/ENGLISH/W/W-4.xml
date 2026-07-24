@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="W-4">
+  <Title>Water Power Act, Dominion</Title>
+  <ChapterNumber>R.S., 1985, c. W-4</ChapterNumber>
+  <OtherLangTitle>(Forces hydrauliques du Canada, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Indigenous ServiceMinister of Northern Affairs in relation to public lands in Nunavut (<Emphasis style="italic">see</Emphasis> s. 2)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2002, c. 7, s. 161; 2014, c. 2, s. 32; 2019, c. 29, s. 363</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>R.S., c. 28 (3rd Supp.), s. 359 (Sch., item 12); 1996, c. 10, s. 273; 2011, c. 21, s. 161</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2019, c. 29, s. 372(1)(g)</Text>
+  </Section>
+  <General>
+    <Text>General, with respect to s. 4 <Emphasis style="italic">see</Emphasis> R.S.C., 1985, Appendices, No. 26 — <XRefExternal reference-type="act">Constitution Act, 1930</XRefExternal> (U.K.)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, R.S., c. 28 (3rd Supp.), s. 359 and the schedule proclaimed in force 01.01.88 <Emphasis style="italic">see</Emphasis> SI/88‑26</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 10, s. 273 in force 01.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑53</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, s. 161 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2011, c. 21, s. 161 in force on assent 29.11.2011</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 2 (assent: 25.03.2014), s. 32 in force 01.04.2014 <Emphasis style="italic">see</Emphasis> SI/2014-34</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), ss. 363 and 372 in force 15.07.2019</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2001, c. 6">
+  <Title>Marine Liability Act</Title>
+  <ChapterNumber>2001, c. 6</ChapterNumber>
+  <OtherLangTitle>(Responsabilité en matière maritime, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Transport</Text>
+  </Minister>
+  <Section>
+    <Label>5</Label>
+    <Text>2002, c. 8, par. 182(1)(y)</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2002, c. 8, par. 182(1)(y)</Text>
+  </Section>
+  <Section>
+    <Label>24</Label>
+    <Text>2009, c. 21, s. 1; 2023, c. 26, ss. 308 (heading) and 309</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2001, c. 6, s. 25; 2023, c. 26, s. 310</Text>
+  </Section>
+  <Section>
+    <Label>26</Label>
+    <Text>2009, c. 21, s. 2; 2023, c. 26, s. 311</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2009, c. 21, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>29</Label>
+    <Text>2001, c. 26, s. 324(2); 2009, c. 21, s. 3; 2023, c. 26, s. 312</Text>
+  </Section>
+  <Section>
+    <Label>29.1</Label>
+    <Text>added, 2009, c. 21, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>30</Label>
+    <Text>2009, c. 21, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2009, c. 21, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>2001, c. 26, s. 33; 2023, c. 26, s. 313</Text>
+  </Section>
+  <Section>
+    <Label>33.1</Label>
+    <Text>added, 2023, c. 26, s. 314</Text>
+  </Section>
+  <Section>
+    <Label>34</Label>
+    <Text>2001, c. 26, s. 34; 2023, c. 26, s. 315</Text>
+  </Section>
+  <Section>
+    <Label>34.1</Label>
+    <Text>added, 2009, c. 21, s. 6; 2023, c. 26, s. 316</Text>
+  </Section>
+  <Section>
+    <Label>34.2 to 33.7</Label>
+    <Text>added, 2023, c. 26, s. 317</Text>
+  </Section>
+  <Section>
+    <Label>36</Label>
+    <Text>2001, c. 6, s. 36; 2009, c. 21, s. 7; 2023, c. 26, s. 318</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2009, c. 21, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>37.1</Label>
+    <Text>added, 2009, c. 21, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2009, c. 21, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2009, c. 21, s. 10</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>2001, c. 6, s. 41; 2023, c. 26, s. 319</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>2001, c. 26, s. 324(3)</Text>
+  </Section>
+  <Section>
+    <Label>43</Label>
+    <Text>2001, c. 6, s. 43; 2023, c. 26, s. 320</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>, repealed, 2023, c. 26, s. 321 (and heading)</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>repealed, 2008, c. 20, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2001, c. 6, s. 46; 2023, c. 26, s. 322</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>49</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>50</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2001, c. 6, s. 51, c. 26, s. 324; 2009, c. 21, s. 11; 2018, c. 27, s. 713; 2023, c. 26, s. 323</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>2001, c. 6, s. 53; 2009, c. 21, s. 11; 2023, c. 26, s. 324</Text>
+  </Section>
+  <Section>
+    <Label>54</Label>
+    <Text>SOR/2003-353; 2009, c. 21, s. 11; 2014, c. 29, s. 30(F); 2023, c. 26, s. 325</Text>
+  </Section>
+  <Section>
+    <Label>55</Label>
+    <Text>2009, c. 21, s. 11; 2023, c. 26, s. 326</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>57</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>60</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>63</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>64</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>67</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>68</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>68.1</Label>
+    <Text>added, 2023, c. 26, s. 327</Text>
+  </Section>
+  <Section>
+    <Label>69</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>70</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 714; 2023, c. 26, s. 328</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>2009, c. 21, s. 11; 2023, c. 26, s. 329</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>2009, c. 21, s. 11; 2023, c. 26, s. 330</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>74.01</Label>
+    <Text>added, 2014, c. 29, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>74.1</Label>
+    <Text>added, 2014, c. 29, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>74.2</Label>
+    <Text>added, 2014, c. 29, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>74.21</Label>
+    <Text>added, 2014, c. 29, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>74.22</Label>
+    <Text>added, 2014, c. 29, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>74.23</Label>
+    <Text>added, 2014, c. 29, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>74.24</Label>
+    <Text>added, 2014, c. 29, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>74.25</Label>
+    <Text>added, 2014, c. 29, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>74.26</Label>
+    <Text>added, 2014, c. 29, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>74.27</Label>
+    <Text>added, 2014, c. 29, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>74.28</Label>
+    <Text>added, 2014, c. 29, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>74.29</Label>
+    <Text>added, 2014, c. 29, s. 33</Text>
+  </Section>
+  <Section>
+    <Label>74.3</Label>
+    <Text>added, 2014, c. 29, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>74.31</Label>
+    <Text>added, 2014, c. 29, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>74.32</Label>
+    <Text>added, 2014, c. 29, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>74.4</Label>
+    <Text>added, 2014, c. 29, s. 36</Text>
+  </Section>
+  <Section>
+    <Label>75</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>76</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 37(E)</Text>
+  </Section>
+  <Section>
+    <Label>77</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 715; 2023, c. 26, s. 331</Text>
+  </Section>
+  <Section>
+    <Label>78</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>79</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 38</Text>
+  </Section>
+  <Section>
+    <Label>81</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>83</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>84</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>85</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>86</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>87</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>88</Label>
+    <Text>2001, c. 27, s. 273.1; 2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>89</Label>
+    <Text>2003, c. 22, par. 225(z.6)(E); 2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>90</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 40; 2018, c. 27, s. 716</Text>
+  </Section>
+  <Section>
+    <Label>92</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 717; 2023, c. 26, s. 332</Text>
+  </Section>
+  <Section>
+    <Label>93</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>93.1</Label>
+    <Text>added, 2018, c. 27, s. 718</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>95</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>96</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>97</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 719</Text>
+  </Section>
+  <Section>
+    <Label>98</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 719</Text>
+  </Section>
+  <Section>
+    <Label>99</Label>
+    <Text>1991, c. 24, s. 51 (Sch. III, item 14) <Emphasis style="italic">see</Emphasis> 2001, c. 6, s. 129; 2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>100</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>101</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 41; 2018, c. 27, s. 721</Text>
+  </Section>
+  <Section>
+    <Label>102</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 42; 2018, c. 27, s. 722</Text>
+  </Section>
+  <Section>
+    <Label>103</Label>
+    <Text>2001, c. 26, s. 324(6); 2009, c. 21, s. 11; 2014, c. 29, s. 43; 2018, c. 27, s. 723; 2023, c. 26, s. 333</Text>
+  </Section>
+  <Section>
+    <Label>104</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 44</Text>
+  </Section>
+  <Section>
+    <Label>105</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 724; 2023, c. 26, s. 334</Text>
+  </Section>
+  <Section>
+    <Label>106</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 45; 2023, c. 26, s. 335</Text>
+  </Section>
+  <Section>
+    <Label>106.01 to 106.5</Label>
+    <Text>added, 2023, c. 26, s. 336</Text>
+  </Section>
+  <Section>
+    <Label>106.1</Label>
+    <Text>added, 2018, c. 27, s. 725</Text>
+  </Section>
+  <Section>
+    <Label>106.2 to 106.9</Label>
+    <Text>added, 2018, c. 27, s. 725; 2023, c. 26, s. 337</Text>
+  </Section>
+  <Section>
+    <Label>107</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 726; repealed, 2023, c. 26, s. 338 (and heading)</Text>
+  </Section>
+  <Section>
+    <Label>108</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>109</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 46</Text>
+  </Section>
+  <Section>
+    <Label>110</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 727</Text>
+  </Section>
+  <Section>
+    <Label>111</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 727</Text>
+  </Section>
+  <Section>
+    <Label>111.1</Label>
+    <Text>added, 2018, c. 27, s. 727; 2023, c. 26, s. 339</Text>
+  </Section>
+  <Section>
+    <Label>111.2 to 111.3</Label>
+    <Text>added, 2018, c. 27, s. 727</Text>
+  </Section>
+  <Section>
+    <Label>112</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 48; 2018, c. 27, s. 728</Text>
+  </Section>
+  <Section>
+    <Label>113</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 729</Text>
+  </Section>
+  <Section>
+    <Label>114</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 730</Text>
+  </Section>
+  <Section>
+    <Label>114.1 and 114.2</Label>
+    <Text>added, 2018, c. 27, s. 731</Text>
+  </Section>
+  <Section>
+    <Label>115</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 732</Text>
+  </Section>
+  <Section>
+    <Label>116</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 49; 2023, c. 26, s. 340</Text>
+  </Section>
+  <Section>
+    <Label>117</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 50; 2018, c. 27, s. 733</Text>
+  </Section>
+  <Section>
+    <Label>117.1 to 117.3</Label>
+    <Text>added, 2018, c. 27, s. 734</Text>
+  </Section>
+  <Section>
+    <Label>118</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 735</Text>
+  </Section>
+  <Section>
+    <Label>118.1</Label>
+    <Text>added, 2018, c. 27, s. 736</Text>
+  </Section>
+  <Section>
+    <Label>119</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 737</Text>
+  </Section>
+  <Section>
+    <Label>120</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 738</Text>
+  </Section>
+  <Section>
+    <Label>121</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 739</Text>
+  </Section>
+  <Section>
+    <Label>122</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 740</Text>
+  </Section>
+  <Section>
+    <Label>123</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 741</Text>
+  </Section>
+  <Section>
+    <Label>124</Label>
+    <Text>2009, c. 21, s. 11; 2018, c. 27, s. 742</Text>
+  </Section>
+  <Section>
+    <Label>125</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 51; 2018, c. 27, s. 743</Text>
+  </Section>
+  <Section>
+    <Label>126</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>127</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>128</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>129</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 52</Text>
+  </Section>
+  <Section>
+    <Label>130</Label>
+    <Text>2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>130.01 to 130.09</Label>
+    <Text>added, 2018, c. 27, s. 744</Text>
+  </Section>
+  <Section>
+    <Label>130.1</Label>
+    <Text>added, 2018, c. 27, s. 744</Text>
+  </Section>
+  <Section>
+    <Label>130.11 to 130.19</Label>
+    <Text>added, 2018, c. 27, s. 744</Text>
+  </Section>
+  <Section>
+    <Label>131</Label>
+    <Text>2009, c. 21, s. 11; 2014, c. 29, s. 53; 2018, c. 27, s. 745</Text>
+  </Section>
+  <Section>
+    <Label>132</Label>
+    <Text>added, 2009, c. 21, s. 11; 2014, c. 29, s. 54; 2018, c. 27, s. 745</Text>
+  </Section>
+  <Section>
+    <Label>132.1</Label>
+    <Text>added, 2018, c. 27, s. 745</Text>
+  </Section>
+  <Section>
+    <Label>133</Label>
+    <Text>added, 2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>134</Label>
+    <Text>added, 2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>135</Label>
+    <Text>added, 2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>added, 2009, c. 21, s. 11; 2014, c. 29, s. 55</Text>
+  </Section>
+  <Section>
+    <Label>137</Label>
+    <Text>added, 2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>138</Label>
+    <Text>added, 2009, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>139</Label>
+    <Text>added, 2009, c. 21, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>140</Label>
+    <Text>added, 2009, c. 21, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>141</Label>
+    <Text>added, 2009, c. 21, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>142</Label>
+    <Text>added, 2009, c. 21, s. 13</Text>
+  </Section>
+  <Schedule>
+    <Label>Schedule 1</Label>
+  </Schedule>
+  <General>
+    <Text>s. 6, SOR/2015-98</Text>
+  </General>
+  <Heading>
+    <Label>Part 3</Label>
+    <Text>added, 2009, c. 21, s. 15</Text>
+  </Heading>
+  <Schedule>
+    <Label>Schedule 4</Label>
+    <Text>repealed, 2023, c. 26, s. 341</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 5</Label>
+    <Text>added, 2009, c. 21, s. 17</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 6</Label>
+    <Text>added, 2009, c. 21, s. 17</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 7</Label>
+    <Text>added, 2009, c. 21, s. 17</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 8</Label>
+    <Text>added, 2009, c. 21, s. 17</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Schedule 9</Label>
+    <Text>added, 2014, c. 29, s. 56</Text>
+  </Schedule>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2001, c. 26, s. 324(1) to (6)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2001, c. 27, s. 273.1(2)</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2018, c. 27, s. 746</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating Amendments, 2023, c. 26, ss. 348 and 349</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 2009, c. 21, ss. 14 and 16 (reference to Schedules 1 and 2)</Text>
+  </General>
+  <General>
+    <Text>General, 2014, c. 29, ss. 28 and 47</Text>
+  </General>
+  <General>
+    <Text>General, 2018, c. 27, s. 720 (heading)</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional provisions, 2009, c. 21, ss. 19 and 20</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional Provisions, 2023, c. 26, ss. 342 to 347</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1991, c. 24, s. 14 of Sch. III, as enacted by s. 51, repealed before coming into force 31.12.2011 <Emphasis style="italic">see</Emphasis> 2008, c. 20, s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 6 (assent: 10.05.2001)</Text>
+    <List>
+      <Item>
+        <Text>— the provisions of this Act, other than ss. 45 and 129, in force 08.08.2001 <Emphasis style="italic">see</Emphasis> s. 131</Text>
+      </Item>
+      <Item>
+        <Text>— the subsections of s. 45 repealed before coming into force 31.12.2020 <Emphasis style="italic">see</Emphasis> 2008, c. 20, s. 3 (<XRefExternal reference-type="act">Statutes Repeal Act</XRefExternal>)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 129 in force on assent 10.05.2001 <Emphasis style="italic">see also</Emphasis> 1991, c. 24, s. 51 (Sch. III, item 14)</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 26, s. 324 in force on assent 01.11.2001</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 27, s. 273.1 in force 28.06.2002 <Emphasis style="italic">see</Emphasis> SI/2002‑97</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, s. 182 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+    <List>
+      <Item>
+        <Text>SOR/2003-353 in force 01.11.2003 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 225 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 21 (assent: 23.06.2009),</Text>
+    <List>
+      <Item>
+        <Text>— ss. 1 to 10, 12 and 14 to 16 in force 21.09.2009 <Emphasis style="italic">see</Emphasis> s. 24(1)</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 11, 13, 17, 19 and 20 come into force the day that is the first day on which both of the following are in force in Canada which is 02.01.2010</Text>
+        <List>
+          <Item>
+            <Text>(a) the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001</Text>
+          </Item>
+          <Item>
+            <Text>(b) the Protocol of 2003 to the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992 in force 02.01.2010 <Emphasis style="italic">see</Emphasis> SI/2009-102</Text>
+          </Item>
+        </List>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 29</Text>
+    <List>
+      <Item>
+        <Text>— ss. 28, 29(1), 31, 33, 35, 37 to 39, 40(1), 41 to 49, 50(2) and (5), 52, 53, 55 and 56 (Sch. 9) in force on assent 09.12.2014 </Text>
+      </Item>
+      <Item>
+        <Text>— ss. 29(2) to (4), 30, 32, 34, 36, 40(2), 50(1), (3), (4), (6) and (7), 51 and 54 come into force on a day or days to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 57 — Not in force</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2015-98 s. 1 in force 08.06.2015 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <?Pub Caret 53?>
+  <CIF>
+    <Text>CIF, 2018, c. 27</Text>
+    <List>
+      <Item>
+        <Text>— ss. 713 to 730, 731(1), 732, 733, 734(1), 735(1) and (3), 736 to 742, 743(1), 744(1), 745(1) and 746 in force on assent 13.12.2018</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 731(2) to (6), 734(2) to (7), 735(2), 743(2) and (3), 744(2) and 745(2) and (3) in force 01.04.2021 <Emphasis style="italic">see</Emphasis> s. 747 and SI/2021-11</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2023, c. 26, ss. 308 to 349 in force on assent 22.06.2023</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="B-6">
+  <Title>Boards of Trade Act</Title>
+  <ChapterNumber>R.S., 1985, c. B-6</ChapterNumber>
+  <OtherLangTitle>(Chambres de commerce, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Industry</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2002, c. 7, s. 86; 2015, c. 3, par. 172(c)</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2002, c. 7, s. 87</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1992, c. 1, s. 145 (Sch. VIII, item 3)(F); 1995, c. 1, s. 62(1)(b)</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2011, c. 21, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>32</Label>
+    <Text>2011, c. 21, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>1992, c. 1, s. 145 (Sch. VIII, item 3)(F); 1995, c. 1, s. 62(1)(b)</Text>
+  </Section>
+  <Section>
+    <Label>42</Label>
+    <Text>1992, c. 1, s. 145 (Sch. VIII, item 3)(F); 1995, c. 1, s. 63(1)(a)</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>1992, c. 1, s. 145 (Sch. VIII, item 3)(F); 1995, c. 1, s. 62(1)(b)</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>1992, c. 1, s. 145 (Sch. VIII, item 3)(F); 1995, c. 1, s. 62(1)(b)</Text>
+  </Section>
+  <General>
+    <Text>General, 1995, c. 1, s. 62(3) and 63(3)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 1992, c. 1, s. 145 (Sch. VIII, item 3)(F) in force on assent 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 1, ss. 62 and 63 in force 29.03.95 <Emphasis style="italic">see</Emphasis> SI/95‑48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, ss. 86 and 87 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2011, c. 21, ss. 2 and 3 in force on assent 29.11.2011</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 3, par. 172(c) (<Emphasis style="italic">terminology</Emphasis>) in force on assent 26.02.2015.</Text>
+  </CIF>
+</Statute>
+</TOPS>

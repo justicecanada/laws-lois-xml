@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="tops-9B">
+  <Title>Bridges</Title>
+  <OtherLangTitle>(Ponts)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Public Works and Government Services (<Emphasis style="italic">except</Emphasis> Fort-Falls Bridge Authority, Blue Water Bridge Authority, and Buffalo and Fort Erie Public Bridge Company)</Text>
+  </Minister>
+  <General>
+    <Text>Boucherville Islands Bridge and Tunnel, 1963, c. 6</Text>
+  </General>
+  <General>
+    <Text>Buffalo and Fort Erie Public Bridge Company, 1934, c. 63</Text>
+  </General>
+  <Section>
+    <Label>3</Label>
+    <Text>1957-58, c. 10, s. 1; 1995, c. 14, s. 1</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1970-71-72, c. 5, s. 1; 1995, c. 14, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1957-58, c. 10, s. 2; 1995, c. 14, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1957-58, c. 10, s. 2; 1970-71-72, c. 5, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>1957-58, c. 10, s. 3; 1995, c. 14, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1957-58, c. 10, s. 3</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 1957-58, c. 10 in force 15.01.58 <Emphasis style="italic">see</Emphasis> SOR/58-52</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1970-71-72, c. 5 in force 15.02.71 <Emphasis style="italic">see</Emphasis> SOR/71‑75</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 14 in force on assent 15.06.95</Text>
+  </CIF>
+  <General>
+    <Text>Campobello-Lubec Bridge, 1958, c. 23</Text>
+  </General>
+  <Section>
+    <Label>6</Label>
+    <Text>repealed, 2012, c. 19, s. 443</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 2012, c. 19, s. 443 in force 01.01.2014 <Emphasis style="italic">see</Emphasis> SI/2013-121</Text>
+  </CIF>
+  <General>
+    <Text>Fort-Falls Bridge Authority, 1970-71-72, c. 51; 1974-75-76, c. 46</Text>
+  </General>
+  <Section>
+    <Label>4</Label>
+    <Text>1974-75-76, c. 46, s. 1</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>1974-75-76, c. 46, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>1974-75-76, c. 46, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>1974-75-76, c. 46, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>33</Label>
+    <Text>1974-75-76, c. 46, s. 5</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 1974-75-76, c. 46, in force 08.05.75</Text>
+    <List>
+      <Item>
+        <Text>LaSalle-Caughnawaga Bridge, 1960, c. 33</Text>
+      </Item>
+      <Item>
+        <Text>Milltown Bridge, 1966-67, c. 9</Text>
+      </Item>
+      <Item>
+        <Text>Pigeon River Bridge, 1959, c. 51</Text>
+      </Item>
+      <Item>
+        <Text>Quebec Bridge and Railway, 1907, c. 35; 1907-08, c. 59</Text>
+      </Item>
+      <Item>
+        <Text>Queenston Bridge, 1959, c. 53</Text>
+      </Item>
+      <Item>
+        <Text>Saint John Bridge and Railway Extension Company, 1952-53, c. 17</Text>
+      </Item>
+      <Item>
+        <Text>Ste-Foy-St-Nicolas Bridge, 1964-65, c. 16</Text>
+      </Item>
+      <Item>
+        <Text>Second Narrows Bridge, Burrard Inlet, B.C., 1931, c. 63; 1935, c. 47</Text>
+      </Item>
+      <Item>
+        <Text>Valleyfield, Bridge over St. Lawrence, 1951, c. 10</Text>
+      </Item>
+      <Item>
+        <Text>Van Buren Bridge Co. Agreement with H.M., 1918, c. 48</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

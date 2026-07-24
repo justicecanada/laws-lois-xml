@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2006, c. 4">
+  <Title>Budget Implementation Act, 2006</Title>
+  <ChapterNumber>2006, c. 4</ChapterNumber>
+  <OtherLangTitle>(Exécution du budget de 2006, Loi d’)</OtherLangTitle>
+  <Section>
+    <Label>192</Label>
+    <Text>repealed, 2011, c. 15, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>193</Label>
+    <Text>2008, c. 28, s. 148, repealed, 2011, c. 15, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>194 and 195</Label>
+    <Text>repealed, 2011, c. 15, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>196</Label>
+    <Text>repealed, 2006, c. 4, s. 198</Text>
+  </Section>
+  <Section>
+    <Label>197 and 198</Label>
+    <Text>repealed, 2011, c. 15, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>209</Label>
+    <Text>repealed, 2013, c. 40, s. 286</Text>
+  </Section>
+  <General>
+    <Text>General, 2006, c. 4, s. 209 (payments) (repealed)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 2006, c. 4, ss. 190 to 198 in force on assent 22.06.2006 (but ss. 192 to 198 repealed by 2011, c. 15, s. 21); s. 209 in force 10.11.2006 <Emphasis style="italic">see</Emphasis> SI/2006-132; <Emphasis style="italic">see also</Emphasis><XRefExternal reference-type="canada-gazette"> Canada Gazette</XRefExternal>, Part II, Vol. 140, No. 24, p. 1959, <Emphasis style="italic">erratum</Emphasis> <Emphasis style="italic">re</Emphasis> P.C. number; [<Emphasis style="italic">Note</Emphasis>: s. 209 repealed <Emphasis style="italic">see</Emphasis> 2013, c. 40, s. 286]</Text>
+    <List>
+      <Item>
+        <Text>
+          <Emphasis style="italic">see</Emphasis> various coming into force, deeming and application provisions throughout</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 28, s. 148 in force on assent 18.06.2008</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2011, c. 15 (assent: 26.06.2011), s. 21 in force 01.01.2013 <Emphasis style="italic">see</Emphasis> SI/2012-87</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40, s. 286 in force on assent 12.12.2013</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="G-3">
+  <Title>Geneva Conventions Act</Title>
+  <ChapterNumber>R.S., 1985, c. G-3</ChapterNumber>
+  <OtherLangTitle>(Genève, Loi sur les conventions de)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Foreign Affairs (1995, c. 5, s. 25(2))</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1990, c. 14, s. 1; 2007, c. 26, s. 1</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1990, c. 14, s. 2; 2007, c. 26, s. 2; 2019, c. 15, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1990, c. 14, s. 3; 2008, c. 29, s. 30</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>1995, c. 5, s. 25(1)(o)</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1990, c. 14, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1990, c. 14, s. 5; 1995, c. 5, s. 25(1)(o)</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch. V</Label>
+    <Text>added, 1990, c. 14, s. 6</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Sch. VI</Label>
+    <Text>added, 1990, c. 14, s. 6</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Sch. VII</Label>
+    <Text>added, 2007, c. 26, s. 3</Text>
+  </Schedule>
+  <General>
+    <Text>General, 1995, c. 5, s. 25(2)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 1990, c. 14 in force on assent 12.06.90</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 5, s. 25 in force 13.05.95 <Emphasis style="italic">see</Emphasis> SI/95‑65</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 26 (assent: 22.06.2007), ss. 1 to 3 in force 31.01.2008 <Emphasis style="italic">see</Emphasis> SI/2008-18</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 29 (assent: 18.06.2008), s. 30 in force 18.07.2008 <Emphasis style="italic">see</Emphasis> s. 32</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 15 (assent: 21.06.2019), s. 57 in force 20.06.2022 <Emphasis style="italic">see</Emphasis> SI/2022-20</Text>
+  </CIF>
+</Statute>
+</TOPS>

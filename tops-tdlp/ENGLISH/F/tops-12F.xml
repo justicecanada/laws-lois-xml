@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="tops-12F">
+  <Title>Federal Law</Title>
+  <ChapterNumber>Civil Law Harmonization Act</ChapterNumber>
+  <OtherLangTitle>(Harmonisation du droit fédéral avec le droit civil, Loi d’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Justice</Text>
+  </Minister>
+  <General>
+    <Text>
+      <Emphasis style="bold">No. 1 — 2001, c. 4</Emphasis>
+    </Text>
+  </General>
+  <General>
+    <Text>
+      <Emphasis style="bold">No. 2 — 2004, c. 25</Emphasis>
+    </Text>
+  </General>
+  <General>
+    <Text>
+      <Emphasis style="bold">No. 3 — 2011, c. 21</Emphasis>
+    </Text>
+  </General>
+  <Section>
+    <Label>207</Label>
+    <Text>repealed, 2012, c. 31, s. 404</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 2012, c. 31, s. 404 in force on assent 14.12.2012</Text>
+  </CIF>
+</Statute>
+</TOPS>

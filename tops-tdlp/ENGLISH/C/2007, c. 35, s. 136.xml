@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2007, c. 35, s. 136">
+  <Title>Canada Disability Savings Act</Title>
+  <ChapterNumber>2007, c. 35, s. 136</ChapterNumber>
+  <OtherLangTitle>(Épargne-invalidité, Loi canadienne sur l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Employment and Social Development (SI/2019-126)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2010, c. 12, s. 26, c. 25, s. 166; 2011, c. 15, s. 4; 2016, c. 12, s. 114</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2010, c. 12, s. 27, c. 25, s. 167; 2011, c. 15, s. 5; 2016, c. 12, par. 115(1)(a) and (2)(a)(F)</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2010, c. 12, s. 28, c. 25, s. 168; 2016, c. 12, par. 115(1)(b) and (2)(b)(F)</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2011, c. 15, s. 6</Text>
+  </Section>
+  <General>
+    <Text>General, 2009, c. 2, s. 81 <Emphasis style="italic">re</Emphasis> application</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 2010, c. 25, ss. 169 and 170</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2007, c. 35 (assent: 14.12.2007), s. 136 in force 01.12.2008 <Emphasis style="italic">see</Emphasis> SI/2008-63</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2009, c. 2, s. 81 in force on assent 12.03.2009</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 12, ss. 26 to 28 in force on assent 12.07.2010, <Emphasis style="italic">see also</Emphasis> application provisions throughout</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 25 (assent: 15.12.2010), ss. 166 to 170 in force 01.01.2011 <Emphasis style="italic">see</Emphasis> s. 171</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2011, c. 15, ss. 4 to 6 in force on assent 26.06.2011</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2016, c. 12 (assent: 15.12.2016), ss. 114 and 115 in force 01.01.2017 <Emphasis style="italic">see</Emphasis> s. 116</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2002, c. 8">
+  <Title>Courts Administration Service Act</Title>
+  <ChapterNumber>2002, c. 8</ChapterNumber>
+  <OtherLangTitle>(Service administratif des tribunaux judiciaires, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Justice Canada</Text>
+  </Minister>
+  <Section>
+    <Label>3</Label>
+    <Text>2003, c. 22, s. 156(E)</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2003, c. 22, s. 157(E)</Text>
+  </Section>
+  <Section>
+    <Label>119</Label>
+    <Text>repealed, 2001, c. 41, par. 141(3)(a)</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2001, c. 41, s. 141(3)</Text>
+  </CoordinatingAmendment>
+  <CIF>
+    <Text>CIF, 2001, c. 41, s. 141 in force on assent 18.12.2001</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, ss. 193 to 198 in force on assent 27.03.2002; ss. 1 to 192 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, ss. 156 and 157 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+</Statute>
+</TOPS>

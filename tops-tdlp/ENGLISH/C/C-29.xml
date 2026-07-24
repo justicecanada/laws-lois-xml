@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="C-29">
+  <Title>Citizenship Act</Title>
+  <ChapterNumber>R.S., 1985, c. C-29</ChapterNumber>
+  <OtherLangTitle>(Citoyenneté, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Citizenship and Immigration (SI/94‑86)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>R.S., c. 28 (4th Supp.), s. 36(2) (Sch., item 2); 1992, c. 21, s. 6; 2000, c. 12, s. 74; 2001, c. 26, s. 286, c. 27, s. 227.1; 2002, c. 8, par. 183(1)(d); 2008, c. 14, s. 1</Text>
+  </Section>
+  <Section>
+    <Label>2.1 to 2.4</Label>
+    <Text>added, 2023, c. 26, s. 300</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1995, c. 5, s. 25(1)(e); 2007, c. 24, s. 1; 2008, c. 14, ss. 2 and 13(2); 2014, c. 22, s. 2; 2025, c. 5, s. 1</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2008, c. 14, s. 3; 2025, c. 5, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>R.S., c. 44 (3rd Supp.), s. 1; 1992, c. 21, s. 7; 2000, c. 12, s. 75; 2001, c. 27, s. 228; 2003, c. 22, s. 149(E); 2008, c. 14, s. 4; 2014, c. 22, s. 3; 2017, c. 14, s. 1; 2024, c. 16, s. 57; 2025, c. 5, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>5.1</Label>
+    <Text>added, 2007, c. 24, s. 2; 2008, c. 14, s. 13(3); 2014, c. 22, s. 4; 2025, c. 5, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>5.2</Label>
+    <Text>added, 2014, c. 22, s. 5; 2025, c. 5, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>2008, c. 14, s. 5; 2014, c. 22, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>repealed, 2008, c. 14, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1992, c. 21, s. 8; 2014, c. 22, s. 7; 2017, c. 14, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2014, c. 22, s. 8; 2017, c. 14, s. 3; 2023, c. 19, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>10.1</Label>
+    <Text>added, 2014, c. 22, s. 8; 2017, c. 14, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>10.2</Label>
+    <Text>added, 2014, c. 22, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>10.3</Label>
+    <Text>added, 2014, c. 22, s. 8; repealed, 2017, c. 14, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>10.4</Label>
+    <Text>added, 2014, c. 22, s. 8; repealed, 2017, c. 14, s. 5</Text>
+  </Section>
+  <Section>
+    <Label>10.5</Label>
+    <Text>added, 2014, c. 22, s. 8; 2017, c. 14, s. 5.1</Text>
+  </Section>
+  <Section>
+    <Label>10.6</Label>
+    <Text>added, 2014, c. 22, s. 8; 2017, c. 14, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>10.7</Label>
+    <Text>added, 2014, c. 22, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>2001, c. 27, s. 229; 2005, c. 17, s. 1; 2008, c. 14, s. 7; 2014, c. 22, s. 9; 2017, c. 14, s. 7</Text>
+  </Section>
+  <Heading>
+    <Label>Part IV</Label>
+    <Text>2014, c. 22, s. 10</Text>
+  </Heading>
+  <Section>
+    <Label>12</Label>
+    <Text>2008, c. 14, ss. 8 and 13(4); 2014, c. 22, s. 10; 2023, c. 26, s. 301</Text>
+  </Section>
+  <Heading>
+    <Label>Part V</Label>
+  </Heading>
+  <Section>
+    <Label>13</Label>
+    <Text>2008, c. 14, s. 9; 2014, c. 22, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>13.1</Label>
+    <Text>added, 2014, c. 22, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>13.2</Label>
+    <Text>added, 2014, c. 22, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1995, c. 15, s. 23; 2001, c. 27, s. 230; 2008, c. 14, s. 10; 2014, c. 22, s. 12; 2017, c. 14, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>15</Label>
+    <Text>2014, c. 22, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2002, c. 8, par. 182(1)(j); repealed, 2014, c. 22, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>repealed, 2014, c. 22, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>18</Label>
+    <Text>repealed, 2014, c. 22, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>1992, c. 1, s. 144 (Sch. VII, item 22)(F); 1997, c. 22, s. 1; 2014, c. 22, s. 15; 2019, c. 13, s. 24 and 25(a)</Text>
+  </Section>
+  <Section>
+    <Label>19.1</Label>
+    <Text>added, 1997, c. 22, s. 2; 2019, c. 13, s. 25(b)</Text>
+  </Section>
+  <Section>
+    <Label>19.2</Label>
+    <Text>added, 1997, c. 22, s. 2; 2019, c. 13, s. 25(c)</Text>
+  </Section>
+  <Section>
+    <Label>19.3</Label>
+    <Text>added, 1997, c. 22, s. 2; 2005, c. 10, s. 14</Text>
+  </Section>
+  <Section>
+    <Label>20</Label>
+    <Text>1997, c. 22, s. 3; 2014, c. 22, s. 16; 2019, c. 13, s. 25(d)</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2014, c. 22, s. 17; 2017, c. 14, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>21.1</Label>
+    <Text>added, 2014, c. 22, s. 18; 2019, c. 29, s. 293</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>R.S., c. 30 (3rd Supp.), s. 11; 1992, c. 47, s. 67, c. 49, s. 124; 1999, c. 31, s. 42; 2000, c. 24, s. 33; 2001, c. 27, s. 231; 2008, c. 14, s. 11; 2014, c. 22, s. 19; 2017, c. 14, s. 10; 2024, c. 16, s. 57</Text>
+  </Section>
+  <Heading>
+    <Label>Part V.1</Label>
+    <Text>added, 2014, c. 22, s. 20</Text>
+  </Heading>
+  <Section>
+    <Label>22.1</Label>
+    <Text>added, 2014, c. 22, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>22.2</Label>
+    <Text>added, 2014, c. 22, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>22.3</Label>
+    <Text>added, 2014, c. 22, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>22.4</Label>
+    <Text>added, 2014, c. 22, s. 20</Text>
+  </Section>
+  <Heading>
+    <Label>Part VI</Label>
+  </Heading>
+  <Section>
+    <Label>23</Label>
+    <Text>2014, c. 22, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>23.1</Label>
+    <Text>added, 2014, c. 22, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>23.2</Label>
+    <Text>added, 2017, c. 14, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2014, c. 22, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2007, c. 24, s. 3; 2008, c. 14, s. 12; 2013, c. 33, s. 170; 2014, c. 22, s. 24; 2015, c. 9, s. 10; 2017, c. 14, s. 12; 2019, c. 29, s. 294; 2023, c. 26, s. 298; 2023, c. 26, s. 302; 2025, c. 5, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>27.1</Label>
+    <Text>added, 2007, c. 24, s. 3.1; 2014, c. 22, s. 25</Text>
+  </Section>
+  <Section>
+    <Label>27.2</Label>
+    <Text>added, 2014, c. 22, s. 26; 2017, c. 14, s. 13, c. 20, par. 454(1)(a); 2023, c. 26, s. 303</Text>
+  </Section>
+  <Section>
+    <Label>27.21</Label>
+    <Text>added, 2023, c. 26, s. 304</Text>
+  </Section>
+  <Section>
+    <Label>27.3</Label>
+    <Text>(formerly s. 27.2), added, 2013, c. 33, s. 171, renumbered, c. 22, s. 44(4)</Text>
+  </Section>
+  <Section>
+    <Label>28.1</Label>
+    <Text>added, 2014, c. 22, s. 27</Text>
+  </Section>
+  <Section>
+    <Label>28.2 to 28.4</Label>
+    <Text>added, 2023, c. 26, s. 305</Text>
+  </Section>
+  <Heading>
+    <Label>Part VII</Label>
+  </Heading>
+  <Section>
+    <Label>29</Label>
+    <Text>2014, c. 22, s. 28</Text>
+  </Section>
+  <Section>
+    <Label>29.1</Label>
+    <Text>added, 2014, c. 22, s. 29; 2019, c. 29, s. 295</Text>
+  </Section>
+  <Section>
+    <Label>29.2</Label>
+    <Text>added, 2014, c. 22, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2014, c. 22, s. 30</Text>
+  </Section>
+  <Heading>
+    <Label>Part VIII</Label>
+  </Heading>
+  <Section>
+    <Label>35</Label>
+    <Text>R.S., c. 28 (1st Supp.), s. 49; 2001, c. 27, s. 232</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>1993, c. 28, s. 78 (Sch. III, item 18); 2002, c. 7, s. 131; 2015, c. 3, par. 172(e)</Text>
+  </Section>
+  <Schedule>
+    <Label>Schedule</Label>
+    <Text>2021, c. 13, s. 1</Text>
+  </Schedule>
+  <ConditionalAmendment>
+    <Text>Conditional amendments, 2000, c. 12, ss. 76, 77</Text>
+  </ConditionalAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2008, c. 14, s. 13</Text>
+  </CoordinatingAmendment>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendments, 2014, c. 22, ss. 44 and 45</Text>
+  </CoordinatingAmendment>
+  <General>
+    <Text>General, 1995, c. 5, s. 25(2)</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 1997, c. 22, s. 10</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 2014, c. 22, ss. 31 to 40 and 2015, c. 9, s. 11</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitionals, 2017, c. 14, ss. 14 to 17, 17.1, 18, 19, 19.1, 20, 20.1 and 21 to 24 (application)</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 28 (1st Supp.), s. 49 proclaimed in force 30.06.85 <Emphasis style="italic">see</Emphasis> SI/85‑128</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 30 (3rd Supp.), s. 11 proclaimed in force 30.10.87 <Emphasis style="italic">see</Emphasis> SI/87‑251</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 44 (3rd Supp.), s. 1 proclaimed in force 15.02.88 <Emphasis style="italic">see</Emphasis> SI/88‑32</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 28 (4th Supp.), s. 36(2) proclaimed in force 01.01.89 <Emphasis style="italic">see</Emphasis> SI/88‑231</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 1, s. 144 (Sch. VII, item 22)(F) in force on assent 28.02.92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 21, ss. 6 to 8 in force 30.06.92 <Emphasis style="italic">see</Emphasis> SI/92‑126</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 47, s. 67 in force 01.08.96 <Emphasis style="italic">see</Emphasis> SI/96‑56</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1992, c. 49, s. 124 in force 01.02.93 <Emphasis style="italic">see</Emphasis> SI/93‑16</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 28, s. 78 (Sch. III, item 18) in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 5, s. 25 in force 13.05.95 <Emphasis style="italic">see</Emphasis> SI/95‑65</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 15, s. 23 in force 10.07.95 <Emphasis style="italic">see</Emphasis> SI/95‑76</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1997, c. 22, ss. 1 to 3 and 10 in force 20.05.97 <Emphasis style="italic">see</Emphasis> SI/97‑64</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 31, s. 42 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 12, ss. 76 and 77 in force on assent 29.06.2000; ss. 74 and 75 in force 01.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-118</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 24, s. 33 in force 23.10.2000 <Emphasis style="italic">see</Emphasis> SI/2000-95</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 26, s. 286 in force 01.07.2007 <Emphasis style="italic">see</Emphasis> SI/2007-65</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 27, ss. 227.1 to 232 in force 28.06.2002 <Emphasis style="italic">see</Emphasis> SI/2002-97</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, s. 131 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, ss. 182 and 183 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, s. 149 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 10, s. 14 in force 04.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-29</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 17 in force on assent 05.05.2005</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2007, c. 24 (assent: 22.06.2007), ss. 1 to 3.1 in force 22.12.2007 <Emphasis style="italic">see</Emphasis> s. 4</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 14, s. 13 in force on assent 17.04.2008; ss. 1 to 12 in force 17.04.2009 <Emphasis style="italic">see</Emphasis> s. 14</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 33 (assent: 26.06.2013), ss. 170 and 171 in force 06.02.2014 <Emphasis style="italic">see</Emphasis> SI/2014-8.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 22, ss. 2(1) and (13), 3(3) and (7), 5, 9(3), 31 to 40, 44 and 45 in force on assent 19.06.2014 [<Emphasis style="italic">Note</Emphasis>: s. 31, as amended by 2015, c. 9, s. 11]</Text>
+    <List>
+      <Item>
+        <Text>— ss. 2(2), (3), (5), (6), (8), (11), (15) and (17) to (19), 3(1), (2), (4) to (6) and (8), 4(2), (3), (5), (6), (8), (10) and (11), 6, 9(2) and (4), 10, 12(2), 15, 16(1) and (3), 17, 18, 19(1) and (3), 23, 24(1) to (5), (5.2) and (6), 25, 26 and 28 to 30 in force 11.06.2015 <Emphasis style="italic">see</Emphasis> SI/2015-46;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 2(4), (7), (9), (10), (12), (14) and (16) and 4(1), (4), (7) and (9) deemed to have come into force 17.04.2009 <Emphasis style="italic">see</Emphasis> s. 46(4);</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 7(1) and (2), 8, 9(1), 14, 19(2), 21 and 24(5.1) in force 28.05.2015 <Emphasis style="italic">see</Emphasis> SI/2015-42;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 7(3), 11, 12(1) and (3), 13, 16(2), 20, 22 and 27 in force 01.08.2014 <Emphasis style="italic">see</Emphasis> SI/2014-71;</Text>
+      </Item>
+      <Item>
+        <Text>— s. 24(2) repealed before coming into force <Emphasis style="italic">see</Emphasis> s. 44(2);</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 3, par. 172(e) (<Emphasis style="italic">terminology</Emphasis>) in force on assent 26.02.2015</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 9, ss. 10 to 12 in force on assent 23.04.2015.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 14, ss. 1(0.1), (5), (7.1), (8), (11), (11.1), (11.2) and (12) to (14), 2, 3(1), 4(2), 5, 6, 7, 9, 10 and 14 to 24 in force on assent 19.06.2017;</Text>
+    <List>
+      <Item>
+        <Text>— ss. 1(1) to (4), (6), (7), (9) and (10) and 8 and 13 in force 11.10.2017 <Emphasis style="italic">see</Emphasis> SI/2017-57;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 3(2) and (3), 4(1) and (3) and 5.1 in force 24.01.2018 <Emphasis style="italic">see</Emphasis> SI/2018-9;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 11 and 12 in force 05.12.2018 <Emphasis style="italic">see</Emphasis> SI/2018-109</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 20, s. 454 in force on assent 22.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 13 (assent 21.06.2019) ss. 24 and 25 in force 12.07.2019 <Emphasis style="italic">see</Emphasis> SI/2019-67</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019),</Text>
+    <List>
+      <Item>
+        <Text>— s. 293 in force 23.11.2021, <Emphasis style="italic">see </Emphasis><XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal> Part I, Vol. 155, No 33, page 4504</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2021, c. 13 (assent: 21.06.2021), this Act comes into force the day after the day on which it receives royal assent, 22.06.2021 <Emphasis style="italic">see</Emphasis> s.1</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2023, c. 26 in force on assent: 22.06.2023, <Emphasis style="italic">except</Emphasis>, </Text>
+    <List>
+      <Item>
+        <Text>— ss. 300, 302(1) and (2) and s. 303 come into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 306 — Not in force</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 16, s. 57 in force on the 60th day after the day on which the <XRefExternal reference-type="act">Countering Foreign Interference Act</XRefExternal> receives royal assent <Emphasis style="italic">see</Emphasis> s. 75 (19.08.2024)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2025, c. 5 in force 15.12.2025 <Emphasis style="italic">see</Emphasis> SI/2025-129</Text>
+  </CIF>
+</Statute>
+</TOPS>

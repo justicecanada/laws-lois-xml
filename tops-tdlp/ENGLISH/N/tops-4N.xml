@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="tops-4N">
+  <Title>Newfoundland Act (<Emphasis style="italic">see</Emphasis> Constitution Act, 1982, Schedule, Item 21)</Title>
+  <TitleChanged>
+    <Text>(Formerly: Newfoundland, Terms of Union with Canada)</Text>
+  </TitleChanged>
+  <OtherLangTitle>(Terre-Neuve, Loi sur)</OtherLangTitle>
+  <Section>
+    <Label>3</Label>
+    <Text>
+      <XRefExternal reference-type="act">Constitution Amendment, 1987 (Newfoundland Act</XRefExternal>) <Emphasis style="italic">see</Emphasis> SI/88‑11</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch. (throughout schedule)</Label>
+    <Text>
+      <Emphasis style="italic">Constitution Amendment, 2001 (Newfoundland and Labrador) </Emphasis>
+      <Emphasis style="italic">see</Emphasis> SI/2001-117, s. 1 <Emphasis style="italic">re</Emphasis> word substitution</Text>
+  </Schedule>
+  <General>
+    <Text>
+      <Emphasis style="bold">Term 17,</Emphasis>
+    </Text>
+    <Text>
+      <XRefExternal reference-type="act">Constitution Amendment, 1987 (Newfoundland Act)</XRefExternal> <Emphasis style="italic">see</Emphasis> SI/88‑11</Text>
+    <Text>
+      <XRefExternal reference-type="act">Constitution Amendment, 1997 (Newfoundland Act)</XRefExternal>
+      <Emphasis style="italic"> see</Emphasis> SI/97-55</Text>
+    <Text>
+      <XRefExternal reference-type="act">Constitution Amendment, 1998 (Newfoundland Act)</XRefExternal> <Emphasis style="italic">see</Emphasis> SI/98-25</Text>
+    <Text>
+      <Emphasis style="italic">Constitution Amendment, 2001 (Newfoundland and Labrador) see</Emphasis> SI/2001-117, s. 1 <Emphasis style="italic">re</Emphasis> word substitution</Text>
+  </General>
+  <General>
+    <Text>
+      <Emphasis style="bold">Term 33, </Emphasis>
+    </Text>
+    <Text>
+      <Emphasis style="italic">Constitution Amendment, 2001 (Newfoundland and Labrador)</Emphasis>
+      <Emphasis style="italic"> see</Emphasis> SI/2001-117, s. 2 <Emphasis style="italic">re</Emphasis> word substitution</Text>
+  </General>
+  <General>
+    <Text>
+      <Emphasis style="bold">Term 38, </Emphasis>
+      <Emphasis style="italic">Constitution Amendment, 2001 (Newfoundland and Labrador) </Emphasis>
+      <Emphasis style="italic">see</Emphasis> SI/2001-117, s. 3 <Emphasis style="italic">re</Emphasis> word substitution</Text>
+  </General>
+  <General>
+    <Text>
+      <Emphasis style="bold">Term 42, </Emphasis>
+      <Emphasis style="italic">Constitution Amendment, 2001 (Newfoundland and Labrador)</Emphasis>
+      <Emphasis style="italic"> see</Emphasis> SI/2001-117, s. 4 <Emphasis style="italic">re</Emphasis> word substitution</Text>
+  </General>
+  <General>
+    <Text>
+      <Emphasis style="bold">Term 46,</Emphasis> <Emphasis style="italic">Constitution Amendment, 2001 (Newfoundland and Labrador)</Emphasis><Emphasis style="italic"> see</Emphasis> SI/2001-117, s. 5 <Emphasis style="italic">re</Emphasis> word substitution</Text>
+  </General>
+</Statute>
+</TOPS>

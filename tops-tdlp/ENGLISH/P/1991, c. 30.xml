@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1991, c. 30">
+  <Title>Public Sector Compensation Act</Title>
+  <ChapterNumber>1991, c. 30</ChapterNumber>
+  <OtherLangTitle>(Rémunération du secteur public, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>President of the Treasury Board</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1993, c. 13, s. 2; 1994, c. 18, s. 2; 1996, c. 18, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1993, c. 13, s. 3; 2015, c. 36, s. 150; 2017, c. 20, s. 185</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>1993, c. 13, s. 4; 1994, c. 18, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1993, c. 13, s. 5; 1994, c. 18, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>7.1</Label>
+    <Text>added, 1994, c. 18, s. 5; 1995, c. 17, s. 2; 2019, c. 13, s. 85(F)</Text>
+  </Section>
+  <Section>
+    <Label>7.2</Label>
+    <Text>added, 1995, c. 17, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>7.3</Label>
+    <Text>added, 1995, c. 17, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>7.4</Label>
+    <Text>added, 1995, c. 17, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>1993, c. 13, s. 6; 1995, c. 17, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>8.1</Label>
+    <Text>added, 1996, c. 18, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>8.2</Label>
+    <Text>added, 1996, c. 18, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1993, c. 13, s. 7; 1994, c. 18, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>11</Label>
+    <Text>1993, c. 13, s. 8; 1994, c. 18, s. 7</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch. I</Label>
+    <Text>SOR/93‑307; 1994, c. 31, s. 21, c. 38, ss. 23 and 24, c. 41, ss. 31 and 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22 and 23, c. 11, ss. 33 and 34, c. 18, ss. 91 and 92, c. 29, s. 32; 1996, c. 8, ss. 29 and 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49 and 50, SOR/96‑541; 1997, c. 9, ss. 114 and 115; 1998, c. 9, ss. 46 and 47, c. 26, ss. 79 and 80; 1999, c. 31, s. 179; 2000, c. 34, par. 93(a)(F); 2001, c. 29, ss. 60 and 61; 2002, c. 8, ss. 162 and 163; 2004, c. 11, ss. 43 and 44; 2005, c. 10, ss. 32 and 33; 2005, c. 34, ss. 75 and 76, c. 35, s. 64; 2012, c. 1, par. 160(k), c. 19, ss. 279, 280, 592 and 693, c. 31, s. 295; 2013, c. 18, ss. 57 and 58, c. 33, ss. 188 to 190, c. 40, ss. 232, 233, 464 and 465; 2014, c. 20, s. 459; 2015, c. 3, s. 149; 2017, c. 9, par. 57(2)(b); 2018, c. 27, ss. 673 and 674; 2019, c. 13, s. 44, 45, 86 and 87; 2019, c. 28, ss. 160 and 161; 2019, c. 29, ss. 364 and 365; 2024, c. 15, s. 337; 2024, c. 25, ss. 130 and 131</Text>
+  </Schedule>
+  <Schedule>
+    <Label>Sch. II</Label>
+    <Text>2001, c. 34, par. 16(g); 2008, c. 9, s. 12; 2010, c. 7, s. 11; 2013, c. 38, ss. 21 and 22; 2014, c. 20, s. 191</Text>
+  </Schedule>
+  <General>
+    <Text>General, 1995, c. 17, s. 6 <Emphasis style="italic">re</Emphasis> expiration</Text>
+  </General>
+  <Terminology>
+    <Text>Terminology, 2017, c. 9, par. 57(2)(b)</Text>
+  </Terminology>
+  <Transitional>
+    <Text>Transitional, 1993, c. 13, s. 26</Text>
+  </Transitional>
+  <Transitional>
+    <Text>Transitional, 1995, c. 17, s. 5</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1991, c. 30 in force 03.10.91 <Emphasis style="italic">see</Emphasis> s. 25</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 13, ss. 2 and 26 deemed in force 01.04.92 <Emphasis style="italic">see</Emphasis> s. 29(1); ss. 3 to 8 deemed in force 10.12.92 <Emphasis style="italic">see</Emphasis> s. 29(2)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 18, ss. 2 to 7 in force on assent 15.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 31, s. 21 in force on assent 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 38, ss. 23 and 24 in force 12.01.95 <Emphasis style="italic">see</Emphasis> SI/95‑9</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 41, ss. 31 and 32 in force 12.01.95 <Emphasis style="italic">see</Emphasis> SI/95‑10</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 1, ss. 57 to 59 in force 29.03.95 <Emphasis style="italic">see</Emphasis> SI/95‑48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 5, ss. 22 and 23 in force 13.05.95 <Emphasis style="italic">see</Emphasis> SI/95‑65</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 11, ss. 33 and 34 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑68</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 17, ss. 2 to 6 in force on assent 22.06.95. The provisions of the <XRefExternal reference-type="act">Public Sector Compensation Act</XRefExternal>, as enacted by ss. 2 to 6 cease to be in force on the expiration of three years after the coming into force of s. 6 <Emphasis style="italic">see</Emphasis> s. 6. Cease to be in force 22.06.98</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 18, ss. 91 and 92 in force 15.09.95 <Emphasis style="italic">see</Emphasis> SI/95‑108</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 29, s. 32 in force 01.04.96 <Emphasis style="italic">see</Emphasis> SI/95‑115</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 8, ss. 29 and 30 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑69</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 9, s. 29 in force 21.04.97 <Emphasis style="italic">see</Emphasis> SI/97‑46</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 11, s. 81 to 83 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑70</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 16, ss. 49 and 50 in force 12.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑67</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 18, ss. 12 and 13 in force on assent 20.06.96</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1997, c. 9, ss. 114 and 115 in force 31.05.2000 <Emphasis style="italic">see</Emphasis> SI/2000‑42</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 9, ss. 46 and 47 in force 30.06.98 <Emphasis style="italic">see</Emphasis> SI/98‑79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 26, ss. 79 and 80 in force 01.01.99 <Emphasis style="italic">see</Emphasis> SI/99-2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 31, s. 179 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2000, c. 34, s. 93 in force 27.10.2000 <Emphasis style="italic">see</Emphasis> SI/2000-105</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 29, ss. 60 and 61 in force 30.06.2003 <Emphasis style="italic">see</Emphasis> SI/2003-128</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 34, s. 16 in force on assent 18.12.2001</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, ss. 162 and 163 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2004, c. 11, ss. 43 and 44 in force 21.05.2004 <Emphasis style="italic">see</Emphasis> SI/2004-58</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 10, ss. 32 and 33 in force 04.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-29</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 34, ss. 75 and 76 in force 05.10.2005 <Emphasis style="italic">see</Emphasis> SI/2005-99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2005, c. 35, s. 64 in force 05.10.2005 <Emphasis style="italic">see</Emphasis> SI/2005-97</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 9 (assent: 13.03.2008), s. 12 in force 10.08.2008 <Emphasis style="italic">see</Emphasis> SI/2008-92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 7 (assent: 29.06.2010), s. l1 in force 25.11.2010 <Emphasis style="italic">see</Emphasis> SI/2010-87</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 1 (assent: 13.03.2012), par. 160(k) in force 28.02.2013 <Emphasis style="italic">see</Emphasis> SI/2013-13</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 19, s. 280 in force on assent 29.06.2012; s. 279 in force 01.04.2013 <Emphasis style="italic">see</Emphasis> s. 281(1); s. 592 in force 01.04.2013 <Emphasis style="italic">see</Emphasis> SI/2013-36; s. 693 in force 01.03.2013 <Emphasis style="italic">see</Emphasis> SI/2013-17.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 31 (assent: 14.12.2012), s. 295 in force 01.04.2013 <Emphasis style="italic">see</Emphasis> SI/2013-39</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 18 (assent: 19.06.2013), ss. 57 and 58 in force 28.11.2014 <Emphasis style="italic">see</Emphasis> SI/2014-104.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 33, ss. 188 to 190 in force on assent 26.06.2013.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 38, ss. 21 and 22 in force on assent 12.12.2013.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40, ss. 232 and 233 in force on assent 12.12.2013, ss. 464 and 465 in force 01.11.2014 <Emphasis style="italic">see</Emphasis> SI/2014-84.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 20, s. 191 in force on assent 19.06.2014; s. 459 in force 01.11.2014 <Emphasis style="italic">see</Emphasis> SI/2014-83.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 3, s. 149 in force on assent 26.02.2015.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 36, s. 150 in force on assent 23.06.2015.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 9, par. 57(2)(b) in force on assent 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 20 (assent: 22.06.2017), s. 185 in force 21.09.2017 <Emphasis style="italic">see</Emphasis> SI/2017-53.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 27, ss. 673 and 674 in force on assent 13.12.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 13 (assent 21.06.2019)</Text>
+    <List>
+      <Item>
+        <Text>— ss. 44 and 45 in force 12.07.2019 <Emphasis style="italic">see</Emphasis> SI/2019-67</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 85 to 87 in force 01.08.2019 <Emphasis style="italic">see</Emphasis> SI/2019-70</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 28 (assent: 21.06.2019), ss. 160 and 161 in force 28.08.2019 <Emphasis style="italic">see</Emphasis> SI/2019-86</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 29 (assent: 21.06.2019), ss. 364 and 365 in force 15.07.2019 <Emphasis style="italic">see</Emphasis> s. 383</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF 2024, c. 15, s. 337 in force on assent 20.06.2024</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 25, ss. 130 and 131 come into force on a day or days to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 146 — Not in force</Text>
+  </CIF>
+</Statute>
+</TOPS>

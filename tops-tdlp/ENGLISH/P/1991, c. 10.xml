@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1991, c. 10">
+  <Title>Petro-Canada Public Participation Act</Title>
+  <ChapterNumber>1991, c. 10</ChapterNumber>
+  <OtherLangTitle>(Participation publique au capital de Petro-Canada, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Finance (SI/93‑174); Minister of Finance (ss. 14(2) and 21(1)) (SI/91‑112)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1994, c. 24, s. 34(1)(n)(F)</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>1994, c. 24, s. 34(1)(n)(F)</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>1994, c. 24, s. 34(1)(n)(F)</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>1993, c. 34, s. 101; 1994, c. 47, s. 220 (Sch. IV, item 2); 2001, c. 18, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>1994, c. 41, s. 37(1)(u)</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>1994, c. 41, s. 37(1)(u)</Text>
+  </Section>
+  <General>
+    <Text>General, 1994, c. 24, s. 34(2)(F)</Text>
+  </General>
+  <General>
+    <Text>General, 1994, c. 41, s. 37(2)</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional, 1991, c. 10, ss. 16 and 17</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1991, c. 10 in force on assent 01.02.91 except ss. 14(1), 15, 17 and 20</Text>
+    <List>
+      <Item>
+        <Text>— s. 17 in force 29.11.91 <Emphasis style="italic">see</Emphasis> SI/91‑162</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 14(1), 15 and 20, in relation to all items of the schedule other than item 4, in force 05.02.2001 <Emphasis style="italic">see</Emphasis> SI/2001‑17</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 18(1) and item 4 of the schedule, as enacted by s. 20, repealed before coming into force 31.12.2011 <Emphasis style="italic">see</Emphasis> 2008, c. 20, s. 3</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1993, c. 34, s. 101 in force on assent 23.06.93</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 24, s. 34 in force on assent 23.06.94</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 41, s. 37 in force 12.01.95 <Emphasis style="italic">see</Emphasis> SI/95‑10</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1994, c. 47, s. 220 (Sch. IV, item 2) in force 01.01.95 <Emphasis style="italic">see</Emphasis> SI/95‑5</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 18, s. 2 in force on assent 14.06.2001</Text>
+  </CIF>
+</Statute>
+</TOPS>

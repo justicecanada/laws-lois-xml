@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1998, c. 10">
+  <Title>Canada Marine Act</Title>
+  <ChapterNumber>1998, c. 10</ChapterNumber>
+  <OtherLangTitle>(Loi maritime du Canada)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Transport</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2001, c. 4, s. 133; 2008, c. 21, s. 1</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>repealed, 2024, c. 30, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2008, c. 21, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2001, c. 4, s. 134</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>2008, c. 21, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>2001, c. 4, s. 135; 2008, c. 21, s. 5; 2012, c. 19, s. 626</Text>
+  </Section>
+  <Section>
+    <Label>9</Label>
+    <Text>2008, c. 21, s. 6</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>2001, c. 4, 136; 2008, c. 21, s. 7</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2001, c. 4, s. 137; 2008, c. 21, s. 8</Text>
+  </Section>
+  <Section>
+    <Label>13.1</Label>
+    <Text>added, 2008, c. 21, s. 9</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2008, c. 21, s. 10; 2014, c. 29, s. 27; 2015, c. 3, s. 16(E)</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2003, c. 22, s. 113(E); 2008, c. 21, s. 11</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>2008, c. 21, s. 12</Text>
+  </Section>
+  <Section>
+    <Label>21.1</Label>
+    <Text>added, 2008, c. 21, s. 13</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2008, c. 21, s. 14; 2018, c. 10, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>25.1</Label>
+    <Text>added, 2008, c. 21, s. 15</Text>
+  </Section>
+  <Section>
+    <Label>25.2</Label>
+    <Text>added, 2016, c. 7, s. 232</Text>
+  </Section>
+  <Section>
+    <Label>26.1</Label>
+    <Text>added, 2018, c. 10, s. 74</Text>
+  </Section>
+  <Section>
+    <Label>27</Label>
+    <Text>2008, c. 21, s. 16</Text>
+  </Section>
+  <Section>
+    <Label>28</Label>
+    <Text>2001, c. 4, s. 138; 2008, c. 21, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>30.1</Label>
+    <Text>added, 2008, c. 21, s. 18</Text>
+  </Section>
+  <Section>
+    <Label>31</Label>
+    <Text>2001, c. 4, s. 139; 2008, c. 21, s. 19</Text>
+  </Section>
+  <Section>
+    <Label>37</Label>
+    <Text>2008, c. 21, s. 20</Text>
+  </Section>
+  <Section>
+    <Label>39</Label>
+    <Text>2008, c. 21, s. 21</Text>
+  </Section>
+  <Section>
+    <Label>44</Label>
+    <Text>2001, c. 4, s. 140; 2008, c. 21, s. 22</Text>
+  </Section>
+  <Section>
+    <Label>45</Label>
+    <Text>2001, c. 4, s. 141; 2008, c. 21, s. 23</Text>
+  </Section>
+  <Section>
+    <Label>45.1</Label>
+    <Text>added, 2008, c. 21, s. 24</Text>
+  </Section>
+  <Section>
+    <Label>46</Label>
+    <Text>2001, c. 4, s. 141; 2008, c. 21, s. 25; 2014, c. 39, s. 228</Text>
+  </Section>
+  <Section>
+    <Label>47</Label>
+    <Text>2008, c. 21, s. 26; 2012, c. 31, s. 342; 2019, c. 28, s. 186(d)</Text>
+  </Section>
+  <Section>
+    <Label>48</Label>
+    <Text>2001, c. 4, s. 142; 2014, c. 39, s. 229</Text>
+  </Section>
+  <Section>
+    <Label>51</Label>
+    <Text>2008, c. 21, s. 27 (F)</Text>
+  </Section>
+  <Section>
+    <Label>52</Label>
+    <Text>2008, c. 21, s. 28 (F)</Text>
+  </Section>
+  <Section>
+    <Label>53</Label>
+    <Text>2008, c. 21, s. 29</Text>
+  </Section>
+  <Section>
+    <Label>56</Label>
+    <Text>2001, c. 26, s. 276; 2008, c. 21, s. 30 (F)</Text>
+  </Section>
+  <Section>
+    <Label>58</Label>
+    <Text>2001, c. 26, s. 277; 2008, c. 21, s. 31</Text>
+  </Section>
+  <Section>
+    <Label>59</Label>
+    <Text>2008, c. 21, s. 32</Text>
+  </Section>
+  <Section>
+    <Label>61</Label>
+    <Text>2008, c. 21, s. 33; 2014, c. 39, s. 230</Text>
+  </Section>
+  <Section>
+    <Label>62</Label>
+    <Text>2001, c. 4, s. 143; 2008, c. 21, s. 34</Text>
+  </Section>
+  <Section>
+    <Label>64.1</Label>
+    <Text>added, 2014, c. 39, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>64.2</Label>
+    <Text>added, 2014, c. 39, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>64.3</Label>
+    <Text>added, 2014, c. 39, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>64.4</Label>
+    <Text>added, 2014, c. 39, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>64.5</Label>
+    <Text>added, 2014, c. 39, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>64.6</Label>
+    <Text>added, 2014, c. 39, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>64.7</Label>
+    <Text>added, 2014, c. 39, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>64.8</Label>
+    <Text>added, 2014, c. 39, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>64.9</Label>
+    <Text>added, 2014, c. 39, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>64.91</Label>
+    <Text>added, 2014, c. 39, s. 231; 2017, c. 20, par. 454(1)(e)</Text>
+  </Section>
+  <Section>
+    <Label>64.92</Label>
+    <Text>added, 2014, c. 39, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>64.93</Label>
+    <Text>added, 2014, c. 39, s. 231</Text>
+  </Section>
+  <Section>
+    <Label>65</Label>
+    <Text>2008, c. 21, s. 35</Text>
+  </Section>
+  <Section>
+    <Label>66</Label>
+    <Text>2001, c. 4, s. 144; 2008, c. 21, s. 36 (F)</Text>
+  </Section>
+  <Section>
+    <Label>69</Label>
+    <Text>2008, c. 21, s. 37</Text>
+  </Section>
+  <Section>
+    <Label>71</Label>
+    <Text>2001, c. 4, s. 145; 2008, c. 21, s. 38 (F)</Text>
+  </Section>
+  <Section>
+    <Label>72</Label>
+    <Text>2001, c. 4, s. 146; 2008, c. 21, s. 39</Text>
+  </Section>
+  <Section>
+    <Label>73</Label>
+    <Text>2008, c. 21, s. 40; 2012, c. 31, s. 343; 2019, c. 28, s. 186(d)</Text>
+  </Section>
+  <Section>
+    <Label>74</Label>
+    <Text>2008, c. 21, s. 41</Text>
+  </Section>
+  <Section>
+    <Label>80</Label>
+    <Text>2001, c. 4, s. 147</Text>
+  </Section>
+  <Section>
+    <Label>82</Label>
+    <Text>2008, c. 21, s. 42</Text>
+  </Section>
+  <Section>
+    <Label>90</Label>
+    <Text>2001, c. 4, s. 148; 2008, c. 21, s. 43 (F)</Text>
+  </Section>
+  <Section>
+    <Label>91</Label>
+    <Text>2001, c. 4, s. 149; 2008, c. 21, s. 44 (F)</Text>
+  </Section>
+  <Section>
+    <Label>94</Label>
+    <Text>2008, c. 21, s. 45 (F)</Text>
+  </Section>
+  <Section>
+    <Label>98</Label>
+    <Text>2001, c. 4, s. 150(F); 2008, c. 21, s. 46</Text>
+  </Section>
+  <Section>
+    <Label>101</Label>
+    <Text>2008, c. 21, s. 47; 2012, c. 31, s. 344; 2019, c. 28, s. 186(d)</Text>
+  </Section>
+  <Section>
+    <Label>103</Label>
+    <Text>1999, c. 3, s. 18; 2002, c. 7, s. 105(E), c. 8, par. 183(1)(c); 2015, c. 3, s. 17</Text>
+  </Section>
+  <Section>
+    <Label>107</Label>
+    <Text>2008, c. 21, s. 48 (F)</Text>
+  </Section>
+  <Section>
+    <Label>115</Label>
+    <Text>2008, c. 21, s. 49</Text>
+  </Section>
+  <Section>
+    <Label>116</Label>
+    <Text>2008, c. 21, s. 50</Text>
+  </Section>
+  <Section>
+    <Label>117</Label>
+    <Text>2008, c. 21, s. 51</Text>
+  </Section>
+  <Section>
+    <Label>120</Label>
+    <Text>2001, c. 26, s. 278</Text>
+  </Section>
+  <Section>
+    <Label>121</Label>
+    <Text>2008, c. 21, s. 52 (F)</Text>
+  </Section>
+  <Section>
+    <Label>122</Label>
+    <Text>2001, c. 26, s. 279; 2008, c. 21, s. 53 (F)</Text>
+  </Section>
+  <Section>
+    <Label>127</Label>
+    <Text>2008, c. 21, s. 54</Text>
+  </Section>
+  <Section>
+    <Label>128</Label>
+    <Text>2008, c. 21, s. 55 (E)</Text>
+  </Section>
+  <Section>
+    <Label>129</Label>
+    <Text>2008, c. 21, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>129.01</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.02</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.03</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.04</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.05</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.06</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.07</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.08</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.09</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.1</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.11</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.12</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.13</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.14</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.15</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.16</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.17</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.18</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>129.19</Label>
+    <Text>added, 2008, c. 21, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>133</Label>
+    <Text>2008, c. 21, s. 58</Text>
+  </Section>
+  <Section>
+    <Label>136</Label>
+    <Text>2003, c. 22, s. 114</Text>
+  </Section>
+  <Section>
+    <Label>138</Label>
+    <Text>2003, c. 22, par. 223(b)(E); 2017, c. 9, par. 55(1)(k)</Text>
+  </Section>
+  <Section>
+    <Label>142</Label>
+    <Text>repealed, 2013, c. 40, s. 262</Text>
+  </Section>
+  <Section>
+    <Label>143</Label>
+    <Text>repealed, 2013, c. 33, s. 211</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch., Part 1</Label>
+    <Text>2008, c. 21, s. 59</Text>
+    <List>
+      <Item>
+        <Text>item 1, repealed, SOR/2017-68, s. 1</Text>
+      </Item>
+      <Item>
+        <Text>item 3, repealed, SOR/2020-192, s. 1</Text>
+      </Item>
+      <Item>
+        <Text>item 6, repealed, SOR/2017-68, s. 2</Text>
+      </Item>
+      <Item>
+        <Text>item 17, repealed, SOR/2017-68, s. 3</Text>
+      </Item>
+    </List>
+  </Schedule>
+  <Schedule>
+    <Label>Sch., Part 2</Label>
+    <Text>SOR/2000-125; 2008, c. 21, s. 60 (F); SOR/2013-29</Text>
+    <List>
+      <Item>
+        <Text>item 2, SOR/2020-192, s. 2</Text>
+      </Item>
+      <Item>
+        <Text>item 3, added, SOR/2017-68, s. 4</Text>
+      </Item>
+    </List>
+  </Schedule>
+  <ConditionalAmendment>
+    <Text>Conditional amendment, 1998, c. 15, par. 50(a); repealed, 1999, c. 3, s. 81</Text>
+  </ConditionalAmendment>
+  <Terminology>
+    <Text>Terminology, 2017, c. 9, par. 55(1)(k)</Text>
+  </Terminology>
+  <Transitional>
+    <Text>Transitional, 2008, c. 21, s. 63</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 1998, c. 10,</Text>
+    <List>
+      <Item>
+        <Text>— Part 2 of the schedule in force on assent 10.06.1998;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 1 to 4, Part 3 other than ss. 81, 83 to 89, 92 to 95 and 99, ss. 130, 131, 138.2 to 138.4, 141 and 142 in force 26.08.98 <Emphasis style="italic">see</Emphasis> SI/98-88;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 56 to 59, 81, 83 to 89, 92 to 95, 99, Part 4 (103 to 129), 145, 146, 146.1 to 157, 158, 159(2), 161, 170, 172, 174, 176, 188, 191 and 193 in force 01.10.98 <Emphasis style="italic">see</Emphasis> SI/98‑88;</Text>
+      </Item>
+      <Item>
+        <Text>— s. 140 repealed before coming into force 31.12.2016 <Emphasis style="italic">see</Emphasis> 2008, c. 20, s. 3 (<XRefExternal reference-type="act">Statutes Repeal Act</XRefExternal>), <Emphasis style="italic">see also </Emphasis> <XRefExternal reference-type="canada-gazette">Canada Gazette</XRefExternal><Emphasis style="italic">, Part I</Emphasis>, Vol. 151, No. 9, 04.03.2017, pp. 875-876;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 160, 164 to 166, 171, 175, 187, and 192 in force 01.12.98 <Emphasis style="italic">see</Emphasis> SI/98-117;</Text>
+      </Item>
+      <Item>
+        <Text>— s. 203 in force 01.12.98 <Emphasis style="italic">see</Emphasis> SI/98-118;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 5 to 55, 60 to 64, 65(1), (2) and (4) to (7), 66 to 76, 132, 138.1, 138.5, 144,</Text>
+      </Item>
+      <Item>
+        <Text>the portion of s. 162 before the reference to the Fraser River Port Authority, and the references to the Halifax Port Authority, the Montreal Port Authority and the Vancouver Port Authority,</Text>
+      </Item>
+      <Item>
+        <Text>ss. 163, 167 and 168,</Text>
+      </Item>
+      <Item>
+        <Text>the portion of s. 169 before the reference to the Canada Ports Corporation, and the references to the Halifax Port Corporation, the Montreal Port Corporation and the Vancouver Port Corporation,</Text>
+      </Item>
+      <Item>
+        <Text>the portion of s. 180 before the reference to the Canada Ports Corporation, and the references to the Halifax Port Corporation, the Montreal Port Corporation and the Vancouver Port Corporation,</Text>
+      </Item>
+      <Item>
+        <Text>s. 181,</Text>
+      </Item>
+      <Item>
+        <Text>the portion of s. 184 before the reference to the Fraser River Port Authority, and the references to the Halifax Port Authority, the Montreal Port Authority and the Vancouver Port Authority,</Text>
+      </Item>
+      <Item>
+        <Text>s. 189,</Text>
+      </Item>
+      <Item>
+        <Text>the portion of s. 194 before the reference to the Fraser River Port Authority, and the references to the Halifax Port Authority, the Montreal Port Authority and the Vancouver Port Authority,</Text>
+      </Item>
+      <Item>
+        <Text>s. 202, items 2, 4 and 17 of Part 1 of the schedule in force 01.03.99 <Emphasis style="italic">see</Emphasis> SI/99-15;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 133 to 138, 138.6 and 139, in s. 162, the references to</Text>
+        <List>
+          <Item>
+            <Text>the Fraser River Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Prince Rupert Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Quebec Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Saguenay Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Saint John Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Sept-Îles Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the St. John’s Port Authority, and</Text>
+          </Item>
+          <Item>
+            <Text>the Trois-Rivières Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>in s. 169, the references to</Text>
+          </Item>
+          <Item>
+            <Text>the Port of Quebec Corporation, and</Text>
+          </Item>
+          <Item>
+            <Text>the Prince Rupert Port Corporation;</Text>
+          </Item>
+          <Item>
+            <Text>in s. 180, the references to</Text>
+          </Item>
+          <Item>
+            <Text>the Port of Quebec Corporation,</Text>
+          </Item>
+          <Item>
+            <Text>the Prince Rupert Port Corporation,</Text>
+          </Item>
+          <Item>
+            <Text>the Saint John Port Corporation, and</Text>
+          </Item>
+          <Item>
+            <Text>the St. John’s Port Corporation,</Text>
+          </Item>
+          <Item>
+            <Text>ss. 182 and 182.1, in s. 184, the references to the</Text>
+          </Item>
+          <Item>
+            <Text>Fraser River Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Prince Rupert Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Quebec Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Saguenay Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Saint John Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Sept-Îles Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the St. John’s Port Authority and</Text>
+          </Item>
+          <Item>
+            <Text>the Trois-Rivières Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>in s. 194, the references to</Text>
+          </Item>
+          <Item>
+            <Text>the Fraser River Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Prince Rupert Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Quebec Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Saguenay Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Saint John Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Sept-Îles Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the St. John’s Port Authority and</Text>
+          </Item>
+          <Item>
+            <Text>the Trois-Rivières Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>items 1, 8 to 13 and 16 of Part 1 of the schedule,</Text>
+          </Item>
+          <Item>
+            <Text>in force 01.05.99 <Emphasis style="italic">see</Emphasis> SI/99-39;</Text>
+          </Item>
+        </List>
+      </Item>
+      <Item>
+        <Text>— in s. 162, the reference to the Toronto Port Authority, in s. 184, the reference to the Toronto Port Authority, in s. 194, the reference to the Toronto Port Authority, ss. 204, 204.1 and item 15 of Part 1 of the schedule in force 08.06.99 <Emphasis style="italic">see</Emphasis> SI/99‑55;</Text>
+      </Item>
+      <Item>
+        <Text>— in s. 162, the references to</Text>
+        <List>
+          <Item>
+            <Text>the Nanaimo Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the North Fraser Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Port Alberni Port Authority, and</Text>
+          </Item>
+          <Item>
+            <Text>the Thunder Bay Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>in s. 184, the references to</Text>
+          </Item>
+          <Item>
+            <Text>the Nanaimo Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the North Fraser Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Port Alberni Port Authority, and</Text>
+          </Item>
+          <Item>
+            <Text>the Thunder Bay Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>in s. 194, the references to</Text>
+          </Item>
+          <Item>
+            <Text>the Nanaimo Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the North Fraser Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>the Port Alberni Port Authority, and</Text>
+          </Item>
+          <Item>
+            <Text>the Thunder Bay Port Authority,</Text>
+          </Item>
+          <Item>
+            <Text>items 5 to 7 and 14 of Part 1 of the schedule</Text>
+          </Item>
+          <Item>
+            <Text>in force 01.07.99 <Emphasis style="italic">see</Emphasis> SI/99-62</Text>
+          </Item>
+        </List>
+      </Item>
+      <Item>
+        <Text>— in s. 162, the reference to the Windsor Port Authority, in s. 184, the reference to the Windsor Port Authority, in s. 194, the reference to the Windsor Port Authority, and item 18 of Part 1 of the schedule in force 01.07.99 <Emphasis style="italic">see</Emphasis> SI/99-63</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 65(3), 143, 159(1), in s. 169, the reference to the Canada Ports Corporation, ss. 173, 177, in s. 180, the reference to the Canada Ports Corporation, ss. 183, 190 and 197 in force 01.11.2000 <Emphasis style="italic">see</Emphasis> SI/2000-93</Text>
+      </Item>
+      <Item>
+        <Text>— in s. 162, the reference to the Hamilton Port Authority, in s. 184, the reference to the Hamilton Port Authority, in s. 194, the reference to the Hamilton Port Authority, ss. 198 to 200, and item 3 of Part 1 of the schedule in force 01.05.2001 <Emphasis style="italic">see</Emphasis> SI/2001-55;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 179, 186, 195, 195.1 and 196 repealed before coming into force 31.12.2011 <Emphasis style="italic">see</Emphasis> 2008, c. 20, s. 3;</Text>
+      </Item>
+      <Item>
+        <Text>— s. 201 in force 09.10.2013 <Emphasis style="italic">see</Emphasis> SI/2013-107;</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 178 and 185 in force 13.02.2014 see SI/2014-12;</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 15, par. 50(a) to come into force conditionally in accordance with the terms of that provision [par. 50(a) repealed by 1999, c. 3, s. 81]</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 3, ss. 18 and 81 in force 01.04.99 <Emphasis style="italic">see</Emphasis> s. 92</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2000-125, s. 1 in force 29.03.2000</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 4, ss. 133 to 150 in force 01.06.2001 <Emphasis style="italic">see</Emphasis> SI/2001‑71</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 26, ss. 276 to 279 in force 01.07.2007 <Emphasis style="italic">see</Emphasis> SI/2007-65</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, s. 105 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 8, s. 183 in force 02.07.2003 <Emphasis style="italic">see</Emphasis> SI/2003-109</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2003, c. 22, ss. 113, 114 and 223 in force 01.04.2005 <Emphasis style="italic">see</Emphasis> SI/2005-24</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2008, c. 21 (assent: 18.06.2008), ss. 1 to 60 and 63 in force 01.08.2008 <Emphasis style="italic">see</Emphasis> SI/2008-83</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 19, s. 626 in force on assent 29.06.2012</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2012, c. 31 (assent: 14.12.2012), ss. 342 to 344 in force 01.04.2014 <Emphasis style="italic">see</Emphasis> SI/2014-33.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 33 (assent: 26.06.2013), s. 211 in force 10.06.2020 <Emphasis style="italic">see</Emphasis> SI/2020-43.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 40 (assent: 12.12.2013), s. 262 repealed before coming into force 31.12.2023 <Emphasis style="italic">see</Emphasis> 2008, c. 20, s. 3</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 29, s. 27 in force on assent 09.12.2014.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 39, ss. 228 to 231 in force on assent 16.12.2014.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2015, c. 3, ss. 16 and 17 in force on assent 26.02.2015.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2016, c. 7, s. 232 in force on assent 22.06.2016.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 9, s. 55 in force on assent 19.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2017, c. 20, s. 454 in force on assent 22.06.2017</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 10, ss. 73 and 74 in force on assent 23.05.2018 <Emphasis style="italic">see</Emphasis> s. 98(6).</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 28 (assent: 21.06.2019), s. 186 in force 28.08.2019 <Emphasis style="italic">see</Emphasis> SI/2019-86</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 30, s. 16 in force on assent 27.11.2024</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="T-18">
+  <Title>Department of Transport Act</Title>
+  <ChapterNumber>R.S., 1985, c. T-18</ChapterNumber>
+  <OtherLangTitle>(Ministère des Transports, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Transport</Text>
+  </Minister>
+  <Section>
+    <Label>7</Label>
+    <Text>1996, c. 10, s. 271.1</Text>
+  </Section>
+  <Section>
+    <Label>7.1</Label>
+    <Text>added, R.S., c. 28 (3rd Supp.), s. 353; 1996, c. 10, s. 272</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>1991, c. 50, s. 46; 2001, c. 4, s. 171</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, R.S., c. 28 (3rd Supp.), s. 353 proclaimed in force 01.01.88 <Emphasis style="italic">see</Emphasis> SI/88‑26</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1991, c. 50, s. 46 in force 15.09.92 <Emphasis style="italic">see</Emphasis> SI/92‑151</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 10, ss. 271.1 and 272 in force 01.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑53</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 4, s. 171 in force 01.06.2001 <Emphasis style="italic">see</Emphasis> SI/2001‑71</Text>
+  </CIF>
+</Statute>
+</TOPS>

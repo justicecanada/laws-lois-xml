@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2021, c. 14">
+  <Title>United Nations Declaration on the Rights of Indigenous Peoples Act</Title>
+  <ChapterNumber>2021, c. 14</ChapterNumber>
+  <OtherLangTitle>(Déclaration des Nations Unies sur les droits des peuples autochtones, Loi concernant la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Justice</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2024, c. 30, s. 35</Text>
+  </Section>
+  <?Pub Caret -2?>
+  <CIF>
+    <Text>CIF, 2021, c. 14, in force on assent 21.06.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 30, s. 35 in force on assent 27.11.2024</Text>
+  </CIF>
+</Statute>
+</TOPS>

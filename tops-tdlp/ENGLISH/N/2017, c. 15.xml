@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2017, c. 15">
+  <Title>National Security and Intelligence Committee of Parliamentarians Act</Title>
+  <ChapterNumber>2017, c. 15</ChapterNumber>
+  <OtherLangTitle>(Comité des parlementaires sur la sécurité nationale et le renseignement, Loi sur le)</OtherLangTitle>
+  <Minister>
+    <Text>Leader of the Government in the House of Commons (SI/2017-64)</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2019, c. 13, ss. 49(3)(a) and (e) and 75(2); 2024, c. 16, s. 115; 2024, c. 25, s. 132</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2024, c. 16, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>13</Label>
+    <Text>2019, c. 13, s. 49(3)(b)</Text>
+  </Section>
+  <Section>
+    <Label>16</Label>
+    <Text>2019, c. 13, par. 49(3)(c); 2024, c. 16, s. 57; 2024, c. 25, s. 133</Text>
+  </Section>
+  <Section>
+    <Label>22</Label>
+    <Text>2024, c. 25, s. 134</Text>
+  </Section>
+  <Section>
+    <Label>23</Label>
+    <Text>2019, c. 13, s. 49(3)(d); 2024, c. 25, s. 135</Text>
+  </Section>
+  <CoordinatingAmendment>
+    <Text>Coordinating amendment, 2019, c. 13, ss. 49 and 75</Text>
+  </CoordinatingAmendment>
+  <CIF>
+    <Text>CIF, 2017, c. 15 (assent: 22.06.2017) the Act and its schedule in force 06.10.2017 <Emphasis style="italic">see</Emphasis> SI/2017-63.</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 16,</Text>
+    <List>
+      <Item>
+        <Text>— s. 57 in force on the 60th day after the day on which the <XRefExternal reference-type="act">Countering Foreign Interference Act</XRefExternal> receives royal assent <Emphasis style="italic">see</Emphasis> s. 75 (19.08.2024)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 115 comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 117 — Not in force</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 25, ss. 132 to 135 come into force on a day or days to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 146 — Not in force</Text>
+  </CIF>
+</Statute>
+</TOPS>

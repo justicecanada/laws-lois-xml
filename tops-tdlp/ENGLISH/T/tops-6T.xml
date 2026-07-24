@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="tops-6T">
+  <Title>Treaties of Peace:</Title>
+  <OtherLangTitle>(Traités de paix :)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Foreign Affairs (1995, c. 5, s. 25(2))</Text>
+  </Minister>
+  <Convention>
+    <Text>Austria, Germany, 1919 (2nd Sess.), c. 30</Text>
+  </Convention>
+  <Convention>
+    <Text>Bulgaria, 1920, c. 4</Text>
+  </Convention>
+  <Convention>
+    <Text>Hungary, 1922, c. 49; 1948, c. 71; 1950, c. 50, s. 10</Text>
+  </Convention>
+  <Convention>
+    <Text>Italy, Romania, Finland, 1948, c. 71; 1950, c. 50, s. 10</Text>
+  </Convention>
+  <Convention>
+    <Text>Japan, 1952, c. 50</Text>
+  </Convention>
+  <Convention>
+    <Text>Turkey, 1922, c. 49</Text>
+  </Convention>
+</Statute>
+</TOPS>

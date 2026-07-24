@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2017, c. 32">
+  <Title>Anishinabek Nation Education Agreement Act</Title>
+  <ChapterNumber>2017, c. 32</ChapterNumber>
+  <OtherLangTitle>(Accord en matière d’éducation conclu avec la Nation des Anishinabes, Loi sur l’)</OtherLangTitle>
+  <Minister>
+    <Text>Introduced by Minister of Crown-Indigenous Relations and Northern Affairs</Text>
+  </Minister>
+  <Section>
+    <Label>3</Label>
+    <Text>2022, c. 9, s. 2</Text>
+  </Section>
+  <Schedule>
+    <Label>Schedule</Label>
+    <Text>2017, c. 32, s. 16; SOR/2024-278, ss. 1 and 2</Text>
+  </Schedule>
+  <General>
+    <Text>General, 2017, c. 32, s. 2 (definition of Agreement), s. 6 (not a treaty) and s. 12 (ss. 114(1) and 115 to 117 of <XRefExternal reference-type="act">Indian Act</XRefExternal> cease to apply)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 2017, c. 32, s. 19 in force on assent 14.12.2017; ss. 1 to 16 and its schedule in force 01.04.2018</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 9, s. 2 in force 01.10.2022 <Emphasis style="italic">see</Emphasis> SI/2022-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2024-278 in force 16.12.2024 <Emphasis style="italic">see</Emphasis> s. 3</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2008, c. 17">
+  <Title>Official Development Assistance Accountability Act</Title>
+  <ChapterNumber>2008, c. 17</ChapterNumber>
+  <OtherLangTitle>(Responsabilité en matière d’aide au développement officielle, Loi sur la) </OtherLangTitle>
+  <Minister>
+    <Text>Minister of International Cooperation</Text>
+  </Minister>
+  <Section>
+    <Label>3</Label>
+    <Text>2013, c. 33, par. 196(1)(d); 2018, c. 27, s. 656</Text>
+  </Section>
+  <Section>
+    <Label>3.1</Label>
+    <Text>added, 2018, c. 27, s. 657</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2013, c. 33, s. 193; 2018, c. 27, s. 658</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 2008, c. 17 (assent: 29.05.2008) in force 28.06.2008 <Emphasis style="italic">see</Emphasis> s. 6</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 33, ss. 193 and 196 in force on assent 26.06.2013</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 27 (assent: 13.12.2018)</Text>
+    <List>
+      <Item>
+        <Text>— ss. 656 and 657 in force 01.04.2022 <Emphasis style="italic">see</Emphasis> SI/2021-29</Text>
+      </Item>
+      <Item>
+        <Text>— s. 658 in force 23.06.2019 <Emphasis style="italic">see</Emphasis> s. 660 and SI/2019-49</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1997, c. 11">
+  <Title>Manganese-based Fuel Additives Act</Title>
+  <ChapterNumber>1997, c. 11</ChapterNumber>
+  <OtherLangTitle>(Additifs à base de manganèse, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of the Environment (SI/97‑85)</Text>
+  </Minister>
+  <Section>
+    <Label>13</Label>
+    <Text>1999, c. 33, s. 348</Text>
+  </Section>
+  <Section>
+    <Label>19</Label>
+    <Text>1999, c. 33, s. 349</Text>
+  </Section>
+  <Schedule>
+    <Label>Sch.</Label>
+    <Text>SOR/98-393</Text>
+  </Schedule>
+  <CIF>
+    <Text>CIF, 1997, c. 11 (assent: 25.04.97), in force 24.06.97 <Emphasis style="italic">see</Emphasis> s. 21</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 33, ss. 348 and 349 in force 31.03.2000 <Emphasis style="italic">see</Emphasis> SI/2000‑15</Text>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1998, c. 34">
+  <Title>Corruption of Foreign Public Officials Act</Title>
+  <ChapterNumber>1998, c. 34</ChapterNumber>
+  <OtherLangTitle>(Corruption d’agents publics étrangers, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Foreign Affairs</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2013, c. 26, s. 2</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2013, c. 26, s. 3</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>repealed, 2001, c. 32, s. 58; added, 2013, c. 26, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>repealed, 2001, c. 32, s. 58; added, 2013, c. 26, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>6</Label>
+    <Text>repealed, 2001, c. 32, s. 58; added, 2013, c. 26, s. 4</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>repealed, 2001, c. 32, s. 58</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 1998, c. 34 in force 14.02.99 <Emphasis style="italic">see</Emphasis> SI/99-13</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 32, s. 58 in force 01.02.2002 <Emphasis style="italic">see</Emphasis> SI/2002-17</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2013, c. 26, ss. 2, 3(1) and 4 in force on assent 19.06.2013; s. 3(2) in force 31.10.2017 <Emphasis style="italic">see</Emphasis> SI/2017-69</Text>
+  </CIF>
+</Statute>
+</TOPS>

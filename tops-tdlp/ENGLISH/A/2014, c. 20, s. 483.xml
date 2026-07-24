@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2014, c. 20, s. 483">
+  <Title>Apprentice Loans Act</Title>
+  <ChapterNumber>2014, c. 20, s. 483</ChapterNumber>
+  <OtherLangTitle>(Prêts aux apprentis, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Employment and Social Development (s. 2)</Text>
+  </Minister>
+  <Section>
+    <Label>8</Label>
+    <Text>2022, c. 19, s. 164</Text>
+  </Section>
+  <Section>
+    <Label>8.1</Label>
+    <Text>added, 2020, c. 5, s. 56</Text>
+  </Section>
+  <Section>
+    <Label>8.2</Label>
+    <Text>added, 2021, c. 7, s. 8; 2021, c. 23, s. 266</Text>
+  </Section>
+  <Section>
+    <Label>8.3</Label>
+    <Text>added, 2022, c. 19, s. 165</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2022, c. 19, s. 166</Text>
+  </Section>
+  <General>
+    <Text>General, 2022, c. 19, s. 163 (heading before s. 8)</Text>
+  </General>
+  <General>
+    <Text>General, 2024, c. 17, s. 154 (program)</Text>
+  </General>
+  <Transitional>
+    <Text>Transitional Provision, 2022, c. 19, s. 167</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, 2014, c. 20, s. 483 (assent: 19.06.2014), ss. 1 to 22 in force 02.01.2015 <Emphasis style="italic">see</Emphasis> SI/2014-100</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF 2020, c. 5, s. 56 in force on assent 25.03.2020</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2021, c. 7, s. 8 in force on assent 06.05.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2021, c. 23, s. 266 in force on assent 29.06.2021</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 19 in force on assent 15.12.2022, <Emphasis style="italic">except</Emphasis>,</Text>
+    <List>
+      <Item>
+        <Text>— ss. 163 and 164 in force 01.04.2023 <Emphasis style="italic">see</Emphasis> s. 168(1)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 165 deemed in force 01.04.2021 <Emphasis style="italic">see</Emphasis> s. 168(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 166 in force 09.12.2023 <Emphasis style="italic">see</Emphasis> SI/2023-78</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

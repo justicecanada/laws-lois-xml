@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="F-28">
+  <Title>Foreign Enlistment Act</Title>
+  <ChapterNumber>R.S., 1985, c. F-28</ChapterNumber>
+  <OtherLangTitle>(Enrôlement à l’étranger, Loi sur l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Justice and Attorney General of Canada</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>R.S., c. 1 (2nd Supp.), s. 213(1) (Sch. I, item 6); 1996, c. 31, s. 85</Text>
+  </Section>
+  <Section>
+    <Label>7</Label>
+    <Text>1995, c. 5, s. 25(1)(l)</Text>
+  </Section>
+  <General>
+    <Text>General, 1995, c. 5, s. 25(2)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, R.S., c. 1 (2nd Supp.), s. 213 proclaimed in force 10.11.86 <Emphasis style="italic">see</Emphasis> SI/86‑206</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1995, c. 5, s. 25 in force 13.05.95 <Emphasis style="italic">see</Emphasis> SI/95‑65</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 31, s. 85 in force 31.01.97 <Emphasis style="italic">see</Emphasis> SI/97‑21</Text>
+  </CIF>
+</Statute>
+</TOPS>

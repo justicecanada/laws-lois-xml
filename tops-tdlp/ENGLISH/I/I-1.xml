@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="I-1">
+  <Title>Identification of Criminals Act</Title>
+  <ChapterNumber>R.S., 1985, c. I-1</ChapterNumber>
+  <OtherLangTitle>(Identification des criminels, Loi sur l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Justice and Attorney General of Canada</Text>
+  </Minister>
+  <Section>
+    <Label>1.1</Label>
+    <Text>added, 1992, c. 47, s. 73</Text>
+  </Section>
+  <Section>
+    <Label>2</Label>
+    <Text>1992, c. 47, s. 74 (<Emphasis style="italic">Note:</Emphasis> 1992, c. 47, s. 74 amended by 1996, c. 7, s. 39); 1999, c. 18, s. 88; 2001, c. 41, ss. 23.1 and 35; 2018, c. 16, s. 166; 2019, c. 25, s. 388; 2022, c. 17, s. 62; 2024, c. 16, s. 57</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>1992, c. 47, s. 75</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>added, 1992, c. 47, s. 76 (<Emphasis style="italic">Note:</Emphasis> 1992, c. 47, s. 76 amended by 1996, c. 7, s. 40)</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>added, 2018, c. 16, s. 167</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 1992, c. 47, s. 73 to 76 in force 01.08.96 <Emphasis style="italic">see</Emphasis> SI/96‑56 <Emphasis style="italic">see also</Emphasis> 1996, c. 7, ss. 39, 40 and 42</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1996, c. 7, ss. 39, 40 and 42 in force 31.07.96 <Emphasis style="italic">see</Emphasis> SI/96‑57</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 18, s. 88 in force on assent 17.06.99</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2001, c. 41, ss. 23.1 and 35 in force 24.12.2001 <Emphasis style="italic">see</Emphasis> SI/2002-16</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 16 (assent: 21.06.2018), ss. 166 and 167 in force 17.10.2018 <Emphasis style="italic">see</Emphasis> SI/2018-52</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2019, c. 25 (assent: 21.06.2019),</Text>
+    <List>
+      <Item>
+        <Text>— s. 388(1) in force 19.09.2019 <Emphasis style="italic">see</Emphasis> s. 406</Text>
+      </Item>
+      <Item>
+        <Text>— s. 388(2) in force 18.12.2019 <Emphasis style="italic">see</Emphasis> s. 407</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2022, c. 17, (assent: 15.12.2022), s. 62 in force on the 30th day after the day on which the Act receives royal assent <Emphasis style="italic">see</Emphasis> s. 79</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2024, c. 16, s. 57 in force on the 60th day after the day on which the <XRefExternal reference-type="act">Countering Foreign Interference Act</XRefExternal> receives royal assent <Emphasis style="italic">see</Emphasis> s. 75 (19.08.2024)</Text>
+  </CIF>
+</Statute>
+</TOPS>

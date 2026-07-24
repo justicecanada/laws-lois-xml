@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1993, c. 41">
+  <Title>Land Titles Repeal Act</Title>
+  <ChapterNumber>1993, c. 41</ChapterNumber>
+  <OtherLangTitle>(Abrogation de la Loi sur les titres de biens-fonds, Loi d’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Indian Affairs and Northern Development</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>2002, c. 7, s. 196</Text>
+  </Section>
+  <Section>
+    <Label>3</Label>
+    <Text>2002, c. 7, s. 197</Text>
+  </Section>
+  <Section>
+    <Label>4</Label>
+    <Text>2002, c. 7, s. 198; 2014, c. 2, s. 44</Text>
+  </Section>
+  <Section>
+    <Label>5</Label>
+    <Text>2002, c. 7, s. 199; 2014, c. 2, s. 45</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 1993, c. 41 in force on assent 23.06.93 <Emphasis style="italic">see also</Emphasis> SI/93‑151</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7, ss. 196 to 199 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 2 (assent: 25.03.2014), ss. 44 and 45 in force 01.04.2014 <Emphasis style="italic">see</Emphasis> SI/2014-34</Text>
+  </CIF>
+</Statute>
+</TOPS>

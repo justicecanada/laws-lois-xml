@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2011, c. 15">
+  <Title>Supporting Vulnerable Seniors and Strengthening Canada’s Economy Act</Title>
+  <ChapterNumber>2011, c. 15</ChapterNumber>
+  <OtherLangTitle>(Soutien aux aînés vulnérables et le renforcement de l’économie canadienne, Loi visant le)</OtherLangTitle>
+  <General>
+    <Text>General, 2011, c. 15, ss. 15 and 16 (payments)</Text>
+  </General>
+  <CIF>
+    <Text>CIF, 2011, c. 15, in force on assent 26.06.2011 except</Text>
+    <List>
+      <Item>
+        <Text>— s. 18 in force 01.01.2012 <Emphasis style="italic">see</Emphasis> SI/2011-112</Text>
+      </Item>
+      <Item>
+        <Text>— Part 7 (other than ss. 22 to 24): s. 20, enacting the <XRefExternal reference-type="act">Protection of Residential Mortgage or Hypothecary Insurance Act</XRefExternal>, ss. 21 and 25 in force 01.01.2013 <Emphasis style="italic">see</Emphasis> SI/2012-87</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 22 to 24 in force 29.06.2012 <Emphasis style="italic">see</Emphasis> 2012, c. 19, s. 359</Text>
+      </Item>
+      <Item>
+        <Text>— s. 35 is deemed to have come into force on 01.06.2011 <Emphasis style="italic">see</Emphasis> s. 36</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="R.S., 1985, c. 11 (4th Supp.)">
+  <Title>Western Economic Diversification Act</Title>
+  <ChapterNumber>R.S., 1985, c. 11 (4th Supp.)</ChapterNumber>
+  <OtherLangTitle>(Diversification de l’économie de l’Ouest canadien, Loi sur la)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Western Economic Diversification</Text>
+  </Minister>
+  <Section>
+    <Label>6</Label>
+    <Text>2018, c. 12, s. 359</Text>
+  </Section>
+  <Transitional>
+    <Text>Transitional, R.S., c. 11 (4th Supp.), ss. 10 to 12</Text>
+  </Transitional>
+  <CIF>
+    <Text>CIF, R.S., c. 11 (4th Supp.) in force 28.06.88 <Emphasis style="italic">see</Emphasis> SI/88‑119</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2018, c. 12, s. 359 in force on assent 21.06.2018</Text>
+  </CIF>
+</Statute>
+</TOPS>

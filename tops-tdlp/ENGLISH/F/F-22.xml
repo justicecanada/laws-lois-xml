@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="F-22">
+  <Title>Fisheries Improvement Loans Act</Title>
+  <ChapterNumber>R.S., 1985, c. F-22</ChapterNumber>
+  <OtherLangTitle>(Prêts aux entreprises de pêche, Loi sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Fisheries and Oceans</Text>
+  </Minister>
+  <Section>
+    <Label>2</Label>
+    <Text>1999, c. 28, s. 165</Text>
+  </Section>
+  <Section>
+    <Label>8</Label>
+    <Text>R.S., c. 37 (1st Supp.), s. 1; R.S., c. 41 (2nd Supp.), s. 1</Text>
+  </Section>
+  <Section>
+    <Label>10</Label>
+    <Text>1999, c. 28, s. 166</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, R.S., c. 37 (1st Supp.) in force 28.06.85</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, R.S., c. 41 (2nd Supp.) in force 19.12.86</Text>
+    <List>
+      <Item>
+        <Text>
+          <Emphasis style="italic">Note:</Emphasis> Act does not apply in respect of loans made after 30.06.87 (<Emphasis style="italic">see</Emphasis> s. 6). <Emphasis style="italic">See</Emphasis> now the <XRefExternal reference-type="act">Small Business Loans Act</XRefExternal>.</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1999, c. 28, ss. 165 and 166 in force 28.06.99 <Emphasis style="italic">see</Emphasis> SI/99‑70</Text>
+  </CIF>
+</Statute>
+</TOPS>

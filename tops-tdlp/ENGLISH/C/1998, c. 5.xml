@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="1998, c. 5">
+  <Title>Canada-Yukon Oil and Gas Accord Implementation Act</Title>
+  <ChapterNumber>1998, c. 5</ChapterNumber>
+  <OtherLangTitle>(Accord Canada — Yukon sur le pétrole et le gaz, Loi de mise en oeuvre de l’)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Indian Affairs and Northern Development</Text>
+  </Minister>
+  <Section>
+    <Label>19</Label>
+    <Text>2002, c. 7, s. 116</Text>
+  </Section>
+  <Section>
+    <Label>21</Label>
+    <Text>2002, c. 7, s. 117(1)(E), repealed, s. 117(2)</Text>
+  </Section>
+  <Section>
+    <Label>25</Label>
+    <Text>2002, c. 7, s. 118(E)</Text>
+  </Section>
+  <Section>
+    <Label>27.1</Label>
+    <Text>added, 2002, c. 7, s. 119</Text>
+  </Section>
+  <ConditionalAmendment>
+    <Text>Conditional amendments, 1998, c. 15, s. 49</Text>
+  </ConditionalAmendment>
+  <CIF>
+    <Text>CIF, 1998, c. 5, ss. 1 to 10, 14, 15, 17 and 19 to 27 in force on assent 12.05.98; ss. 11, 12, 13, 16 and 18 come into force on the transfer date <Emphasis style="italic">see</Emphasis> s. 28 (transfer date 19.11.98 <Emphasis style="italic">see</Emphasis> P.C. 1998-2022)</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 1998, c. 15, s. 49 to come into force conditionally in accordance with the terms of that provision</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2002, c. 7,</Text>
+    <List>
+      <Item>
+        <Text>— s. 116, s. 117(1) and ss. 118 and 119 in force 01.04.2003 <Emphasis style="italic">see</Emphasis> SI/2003-48</Text>
+      </Item>
+      <Item>
+        <Text>— s. 117(2) comes into force on a day to be fixed by order of the Governor in Council <Emphasis style="italic">see</Emphasis> s. 285(3) — Not in force</Text>
+      </Item>
+    </List>
+  </CIF>
+</Statute>
+</TOPS>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="tops-2A">
+  <Title>Alberta Natural Resources Act (<Emphasis style="italic">see also</Emphasis> Natural Resources Transfer)</Title>
+  <OtherLangTitle>(Alberta, Ressources naturelles)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of Indian Affairs and Northern Development</Text>
+  </Minister>
+  <?Pub Caret -1?>
+  <CIF>
+    <Text>1930, c. 3; 1931, c. 15; 1938, c. 36; 1940-41, c. 22; 1945, c. 10; 1951, c. 37</Text>
+  </CIF>
+</Statute>
+</TOPS>

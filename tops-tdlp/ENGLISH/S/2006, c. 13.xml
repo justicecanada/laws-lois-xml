@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Arbortext, Inc., 1988-2010, v.4002--><!DOCTYPE TOPS PUBLIC "-//Justice Canada//DTD TOPS//EN" "TOPS.dtd">
+<TOPS xml:lang="en">
+<Statute FlicsAlpha="2006, c. 13">
+  <Title>Softwood Lumber Products Export Charge Act, 2006</Title>
+  <ChapterNumber>2006, c. 13</ChapterNumber>
+  <OtherLangTitle>(Droits d’exportation de produits de bois d’oeuvre, Loi de 2006 sur les)</OtherLangTitle>
+  <Minister>
+    <Text>Minister of National Revenue</Text>
+  </Minister>
+  <Section>
+    <Label>4</Label>
+    <Text>2010, c.12, s. 98</Text>
+  </Section>
+  <Section>
+    <Label>12</Label>
+    <Text>2010, c.12, s. 99; 2011, c. 24, s. 104</Text>
+  </Section>
+  <Section>
+    <Label>12.1</Label>
+    <Text>added, 2010, c.12, s. 100 [<Emphasis style="italic">Note</Emphasis>: s. 12.1 ceased to be in force 01.07.2011 <Emphasis style="italic">see</Emphasis> SOR/2011-130]</Text>
+  </Section>
+  <Section>
+    <Label>12.2</Label>
+    <Text>added, 2011, c. 24, s. 105 [<Emphasis style="italic">Note</Emphasis>: s. 12.2 ceased to be in force 12.10.2013 <Emphasis style="italic">see</Emphasis> SOR/2014-121]</Text>
+  </Section>
+  <Section>
+    <Label>14</Label>
+    <Text>2010, c.12, s. 101; 2011, c. 24, s. 106</Text>
+  </Section>
+  <Section>
+    <Label>17</Label>
+    <Text>2011, c. 24, s. 107</Text>
+  </Section>
+  <Section>
+    <Label>40</Label>
+    <Text>2010, c.12, s. 102; 2011, c. 24, s. 108</Text>
+  </Section>
+  <Section>
+    <Label>41</Label>
+    <Text>2011, c. 24, s. 109</Text>
+  </Section>
+  <Section>
+    <Label>99</Label>
+    <Text>2014, c. 20, s. 311</Text>
+  </Section>
+  <Section>
+    <Label>100</Label>
+    <Text>2014, c. 20, s. 312</Text>
+  </Section>
+  <CIF>
+    <Text>CIF, 2006, c. 13</Text>
+    <List>
+      <Item>
+        <Text>— ss. 1 to 11, 12(1) and (2), 13 to 63, 65, 66 and 77 to 124 deemed in force 12.10.2006 <Emphasis style="italic">see</Emphasis> s. 126</Text>
+      </Item>
+      <Item>
+        <Text>— ss. 67 to 76 and 125 in force on assent 14.12.2006</Text>
+      </Item>
+      <Item>
+        <Text>— s. 64 in force 01.04.2007 <Emphasis style="italic">see</Emphasis> s. 126(3)</Text>
+      </Item>
+      <Item>
+        <Text>— s. 12(3) in force 01.01.2007 <Emphasis style="italic">see</Emphasis> SI/2007-1</Text>
+      </Item>
+    </List>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2010, c. 12 (assent: 12.07.2010), s. 98 deemed in force 01.01.2010 <Emphasis style="italic">see</Emphasis> s. 103(2); ss. 99 to 102 in force 01.09.2010 <Emphasis style="italic">see</Emphasis> SI/2010-55</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2011, c. 24 (assent: 15.12.2011), Part 2 (ss. 104 to 109) deemed to have come into force 01.03.2011 <Emphasis style="italic">see</Emphasis> s. 110</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, SOR/2014-121 deemed in force 13.10.2013 <Emphasis style="italic">see</Emphasis> s. 2</Text>
+  </CIF>
+  <CIF>
+    <Text>CIF, 2014, c. 20, ss. 311 and 312 in force on assent 19.06.2014</Text>
+  </CIF>
+</Statute>
+</TOPS>
