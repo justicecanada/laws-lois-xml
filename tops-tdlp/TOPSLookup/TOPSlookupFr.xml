@@ -53,7 +53,7 @@
 </Statute>
 <Statute statuteid="">
 <Title>Accord Canada — États Unis — Mexique, Loi de mise en œuvre de l’</Title>
-<ChapterNumber>L.C. 2020, chapitre 1</ChapterNumber>
+<ChapterNumber>2020, chapitre 1</ChapterNumber>
 <FlicsAlpha>L.C. 2020, chapitre 1</FlicsAlpha>
 </Statute>
 <Statute statuteid="57059f">
@@ -150,6 +150,11 @@
 <Title>Accord de libre-échange nord-américain, Loi portant mise en oeuvre de l’</Title>
 <ChapterNumber>1993, ch. 44</ChapterNumber>
 <FlicsAlpha>1993, ch. 44</FlicsAlpha>
+</Statute>
+<Statute statuteid="1562744f">
+<Title>Accord de partenariat économique global entre le Canada et l’Indonésie, Loi de mise en oeuvre de l’</Title>
+<ChapterNumber>2026, ch. 8</ChapterNumber>
+<FlicsAlpha>2026, ch. 8</FlicsAlpha>
 </Statute>
 <Statute statuteid="88393f">
 <Title>Accord de partenariat transpacifique global et progressiste, Loi de mise en oeuvre de l’</Title>
@@ -1828,7 +1833,7 @@
 <FlicsAlpha>2021, ch. 14</FlicsAlpha>
 </Statute>
 <Statute statuteid="270772f">
-<Title>Déclaration obligatoire de la pornographie juvénile sur Internet par les personnes qui fournissent des services Internet, Loi concernant la</Title>
+<Title>Déclaration obligatoire de matériel d’abus et d’exploitation pédosexuels sur Internet par les personnes qui fournissent des services Internet, Loi concernant la</Title>
 <ChapterNumber>2011, ch. 4</ChapterNumber>
 <FlicsAlpha>2011, ch. 4</FlicsAlpha>
 </Statute>
@@ -2260,7 +2265,7 @@
 <FlicsAlpha>2007, ch. 35, art. 136</FlicsAlpha>
 </Statute>
 <Statute statuteid="1100962f">
-<Title>Épaves et les bâtiments abondonnés ou dangereux, Loi sur les</Title>
+<Title>Épaves et les bâtiments abandonnés ou dangereux, Loi sur les</Title>
 <ChapterNumber>2019, ch. 1</ChapterNumber>
 <FlicsAlpha>2019, ch. 1</FlicsAlpha>
 </Statute>
@@ -2363,6 +2368,11 @@
 <Title>Exécution de l’énoncé économique de l’automne 2023</Title>
 <ChapterNumber>2024, ch. 15</ChapterNumber>
 <FlicsAlpha>2024, ch. 15</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Exécution de la mise à jour économique du printemps 2026, Loi d’</Title>
+<ChapterNumber>2026, ch. 22</ChapterNumber>
+<FlicsAlpha>FlicsAlphaID</FlicsAlpha>
 </Statute>
 <Statute statuteid="1339558f">
 <Title>Exécution de la mise à jour économique et budgétaire de 2021, Loi d’</Title>
@@ -3573,6 +3583,11 @@
 <ChapterNumber>Loi de 2018 sur la convention fiscale Canada — Ma</ChapterNumber>
 <FlicsAlpha>tops-21L</FlicsAlpha>
 </Statute>
+<Statute statuteid="1575738f">
+<Title>Loi de 2026 visant à changer le nom de certaines circonscriptions électorales</Title>
+<ChapterNumber>2026, ch. 20, art. 88</ChapterNumber>
+<FlicsAlpha>N-0.5</FlicsAlpha>
+</Statute>
 <Statute statuteid="">
 <Title>Loi de crédits, voir Crédits ...</Title>
 <ChapterNumber>Loi de crédits, voir Crédits ...</ChapterNumber>
@@ -3680,6 +3695,11 @@
 <ChapterNumber>S.R.C. 1952, ch. 163</ChapterNumber>
 <FlicsAlpha>S.R.C. 1952, ch. 163</FlicsAlpha>
 </Statute>
+<Statute statuteid="1574364f">
+<Title>Maisons Canada, Loi sur</Title>
+<ChapterNumber>2026, ch. 18</ChapterNumber>
+<FlicsAlpha>B-9.87</FlicsAlpha>
+</Statute>
 <Statute statuteid="232754f">
 <Title>Maladie de Lyme, Loi sur le cadre fédéral relatif à la</Title>
 <ChapterNumber>2014, ch. 37</ChapterNumber>
@@ -3774,6 +3794,11 @@
 <Title>Mesures d’urgence, Loi sur les</Title>
 <ChapterNumber>L.R. (1985), ch. 22 (4e suppl.)</ChapterNumber>
 <FlicsAlpha>L.R. (1985), ch. 22 (4e suppl.)</FlicsAlpha>
+</Statute>
+<Statute statuteid="1571224f">
+<Title>Mesures de réforme concernant la mise en liberté sous caution et la détermination de la peine, Loi sur des</Title>
+<ChapterNumber>2026, ch. 11</ChapterNumber>
+<FlicsAlpha>B-0.5</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Mesures de réformes équitables concernant les réfugiés, Loi sur des</Title>
@@ -3984,6 +4009,11 @@
 <Title>Modification législative (Charte canadienne des droits et libertés), Loi de</Title>
 <ChapterNumber>L.R. (1985), ch. 31 (1er suppl.)</ChapterNumber>
 <FlicsAlpha>L.R. (1985), ch. 31 (1er suppl.)</FlicsAlpha>
+</Statute>
+<Statute statuteid="1575358f">
+<Title>Mois du patrimoine arabe, Loi sur le</Title>
+<ChapterNumber>2026, ch. 17</ChapterNumber>
+<FlicsAlpha>A-11.91</FlicsAlpha>
 </Statute>
 <Statute statuteid="71356f">
 <Title>Mois du patrimoine juif canadien, Loi sur le</Title>
@@ -4315,6 +4345,11 @@
 <Title>Paiements provisoires relatifs au grain des Prairies, Loi sur les</Title>
 <ChapterNumber>Paiements provisoires relatifs au grain des Prair</ChapterNumber>
 <FlicsAlpha>tops-2P</FlicsAlpha>
+</Statute>
+<Statute statuteid="1575386f">
+<Title>Paiements sur le Trésor pour améliorer l’offre de logements, Loi autorisant certains</Title>
+<ChapterNumber>2026, ch. 21</ChapterNumber>
+<FlicsAlpha>P-4.7</FlicsAlpha>
 </Statute>
 <Statute statuteid="346338f">
 <Title>Paiements versés en remplacement d’impôts, Loi sur les</Title>
@@ -4850,6 +4885,11 @@
 <Title>Protection des collectivités et des personnes victimes d’exploitation, Loi sur la voir Code criminal et d’autres lois — 2014, ch. 25</Title>
 <ChapterNumber>2014, ch. 25</ChapterNumber>
 <FlicsAlpha>2014, ch. 25</FlicsAlpha>
+</Statute>
+<Statute statuteid="1569324f">
+<Title>Protection des cybersystèmes essentiels, Loi sur la</Title>
+<ChapterNumber>2026, ch. 9, art. 11</ChapterNumber>
+<FlicsAlpha>C-47.4</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Protection des eaux navigables, Loi sur la</Title>

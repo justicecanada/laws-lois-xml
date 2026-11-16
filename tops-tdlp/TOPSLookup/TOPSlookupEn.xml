@@ -121,6 +121,11 @@
 <ChapterNumber>2004, c. 16</ChapterNumber>
 <FlicsAlpha>2004, c. 16</FlicsAlpha>
 </Statute>
+<Statute statuteid="1587656e">
+<Title>An Act to change the names of certain electoral districts, 2026</Title>
+<ChapterNumber>2026, c. 20, s. 88</ChapterNumber>
+<FlicsAlpha>N-0.5</FlicsAlpha>
+</Statute>
 <Statute statuteid="2828e">
 <Title>Animal Pedigree Act</Title>
 <ChapterNumber>R.S., 1985, c. 8 (4th Supp.)</ChapterNumber>
@@ -165,6 +170,11 @@
 <Title>Appropriation Acts</Title>
 <ChapterNumber></ChapterNumber>
 <FlicsAlpha>tops-4A</FlicsAlpha>
+</Statute>
+<Statute statuteid="1587271e">
+<Title>Arab Heritage Month Act</Title>
+<ChapterNumber>2026, c. 17</ChapterNumber>
+<FlicsAlpha>A-11.91</FlicsAlpha>
 </Statute>
 <Statute statuteid="5646e">
 <Title>Arctic Waters Pollution Prevention Act</Title>
@@ -223,6 +233,11 @@
 </Statute>
 </Letter>
 <Letter value="B">
+<Statute statuteid="1583970e">
+<Title>Bail and Sentencing Reform Act</Title>
+<ChapterNumber>2026, c. 11</ChapterNumber>
+<FlicsAlpha>B-0.5</FlicsAlpha>
+</Statute>
 <Statute statuteid="">
 <Title>Balanced Refugee Reform Act</Title>
 <ChapterNumber>2010, c. 8 see Immigration and Refugee Protection Act</ChapterNumber>
@@ -552,6 +567,11 @@
 <Title>Buffalo and Fort Erie Public Bridge Company Act (see Bridges)</Title>
 <ChapterNumber>Buffalo and Fort Erie Public Bridge Company Act</ChapterNumber>
 <FlicsAlpha>tops-13B</FlicsAlpha>
+</Statute>
+<Statute statuteid="1586272e">
+<Title>Build Canada Homes Act</Title>
+<ChapterNumber>2026, c. 18</ChapterNumber>
+<FlicsAlpha>B-9.87</FlicsAlpha>
 </Statute>
 <Statute statuteid="1383174e">
 <Title>Building a Green Prairie Act</Title>
@@ -984,6 +1004,11 @@
 <Title>Canadair Limited Divestiture Authorization Act</Title>
 <ChapterNumber>1986, c. 57</ChapterNumber>
 <FlicsAlpha>1986, c. 57</FlicsAlpha>
+</Statute>
+<Statute statuteid="1574308e">
+<Title>Canada–Indonesia Comprehensive Economic Partnership Agreement Implementation Act</Title>
+<ChapterNumber>2026, c. 8</ChapterNumber>
+<FlicsAlpha>2026, c. 8</FlicsAlpha>
 </Statute>
 <Statute statuteid="232939e">
 <Title>Canadian Agricultural Loans Act</Title>
@@ -1760,6 +1785,11 @@
 <ChapterNumber>R.S., 1985, c. C-47</ChapterNumber>
 <FlicsAlpha>C-47</FlicsAlpha>
 </Statute>
+<Statute statuteid="1581010e">
+<Title>Critical Cyber Systems Protection Act</Title>
+<ChapterNumber>2026, c. 9, s. 11</ChapterNumber>
+<FlicsAlpha>C-47.4</FlicsAlpha>
+</Statute>
 <Statute statuteid="">
 <Title>Crown Corporations Dissolution Authorization Act</Title>
 <ChapterNumber>1985, c. 41</ChapterNumber>
@@ -2533,8 +2563,8 @@
 </Statute>
 <Statute statuteid="227958e">
 <Title>Financial Administration Act</Title>
-<ChapterNumber>R.S., 1985, c. F-11 </ChapterNumber>
-<FlicsAlpha>F-11 </FlicsAlpha>
+<ChapterNumber>R.S., 1985, c. F-11</ChapterNumber>
+<FlicsAlpha>F-11</FlicsAlpha>
 </Statute>
 <Statute statuteid="222419e">
 <Title>Financial Consumer Agency of Canada Act</Title>
@@ -3576,7 +3606,7 @@
 <FlicsAlpha>2026, c. 2</FlicsAlpha>
 </Statute>
 <Statute statuteid="277493e">
-<Title>Mandatory reporting of Internet child pornography by persons who provide an Internet service, An Act respecting the</Title>
+<Title>Mandatory reporting of Internet child sexual abuse and exploitation material by persons who provide an Internet service, An Act respecting the</Title>
 <ChapterNumber>2011, c. 4</ChapterNumber>
 <FlicsAlpha>2011, c. 4</FlicsAlpha>
 </Statute>
@@ -4465,6 +4495,11 @@
 <Title>Payments to a Trust Established to Provide Provinces and Territories with Funding for Community Development, An Act respecting</Title>
 <ChapterNumber>2008, c. 1</ChapterNumber>
 <FlicsAlpha>2008, c. 1</FlicsAlpha>
+</Statute>
+<Statute statuteid="1587298e">
+<Title>Payments to be made out of the Consolidated Revenue Fund for the purpose of improving housing supply, An Act to authorize certain</Title>
+<ChapterNumber>2026, c. 21</ChapterNumber>
+<FlicsAlpha>P-4.7</FlicsAlpha>
 </Statute>
 <Statute statuteid="">
 <Title>Payments, An Act to authorize the Minister of Finance to make certain</Title>
@@ -5491,6 +5526,11 @@
 <Title>Sports Pool and Loto Canada Winding-Up Act</Title>
 <ChapterNumber>1985, c. 22</ChapterNumber>
 <FlicsAlpha>1985, c. 22</FlicsAlpha>
+</Statute>
+<Statute statuteid="">
+<Title>Spring Economic Update 2026 Implementation Act</Title>
+<ChapterNumber>2026, c. 22</ChapterNumber>
+<FlicsAlpha>FlicsAlphaID</FlicsAlpha>
 </Statute>
 <Statute statuteid="441209e">
 <Title>St. Peter’s Indian Reserve Act</Title>
